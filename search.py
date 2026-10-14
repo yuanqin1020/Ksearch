@@ -148,6 +148,3 @@ with open(f"output/{args.data_name}_{args.method}_{args.topk}_{args.words}_{args
         f.write(f"Tree {i+1}: {[{i: vertex_index[i]} for i in list(tree)]}, {[i for i in list(words)]}, dist: {dist}\n")
         print(f"Tree {i+1}: {[{i: vertex_index[i]} for i in list(tree)]}, {[i for i in list(words)]}, dist: {dist}\n")
         cross += 1 if check_is_cross(list(tree), len(left_vertex_index), args.data_name) else 0
-    f.write(f"=========boundary: {len(left_vertex_index)}, cross rate {cross}/{len(trees)}")
-
-print(f"{datetime.now()}, online ({args.method}) search has candidates: {cand}, cross rate: {cross}/{len(trees)}")
