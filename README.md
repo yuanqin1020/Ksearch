@@ -47,19 +47,23 @@ conda activate search
 
 ### Prepare Datasets
 Six datasets are obtained from four benchmarks. The detailed instructions for downloading are shown below. Please follow it before running or developing algorithms.
-- [Machamp](https://dl.acm.org/doi/abs/10.1145/3459637.3482008): Three real-world benchmark datasets Rel-Heter, SemiHeter, and Semi-Homo with different structures are used, each of which consists of the left and right sources with different formats (i.e., relational (Rel) format, semi-structured (Semi) format). They have either a homogeneous (Homo) or heterogeneous (Heter) schema. 
+- [Machamp](https://dl.acm.org/doi/abs/10.1145/3459637.3482008): Three real-world benchmark datasets Rel-Heter, SemiHeter, and Semi-Homo with different structures are used. 
 - [Geo-Heter](https://dl.acm.org/doi/abs/10.1145/3485447.3512026): It is a geospatial dataset collected from three real-world location-based services: Yelp, Foursquare, and OpenStreetMap. 
-- [Unibench](): It is a multi-source benchmark in a social commerce scenario. The customer and product information are modeled
-as two relational tables. Order information and transaction relationships are represented by a Json document and a graph, respectively. 
+- [Unibench](): It is a multi-source benchmark in a social commerce scenario, including Customer table, Product table, Order Json document and transaction graph. 
 - [DrugBank](https://drugcentral.org/download): This is extracted from DrugBank Central and ChEMBL database. The relational model includes eight tables to present drug, target, ChEMBL information, and so on. The interaction data of drugs and targets are modeled as a graph.
 
 ### Prepare the pretrained models
 - We use bert-base-uncased as the pretrained language model in all experiments. You can download the pre-trained checkpoint from [Google-BERT](https://huggingface.co/google-bert/bert-base-uncased) manually.
-- We set the default matching model as [PeomptEM](https://github.com/ZJU-DAILY/PromptEM) for all datasets. You can set it up  
+- We set the default matching model as [PeomptEM](https://github.com/ZJU-DAILY/PromptEM) for all datasets. You can set it up to create generalized entity matching sets.
 
-
+### Keyword search
+To perform keyword search with DistSea.
 ```
-python search.py -d=semi-homo -w=2
+python main.py [<args>] [-h | --help]
+```
+e.g.
+```
+python search.py -d=rel-heter -w=2
 ```
 
 ## Citation
@@ -98,4 +102,3 @@ If you find our work useful, please kindly cite the following papers:
 <br>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=yuanqin1020.Ksearch&label=Visitors&countColor=%23263759&v=1)
-
