@@ -1,0 +1,73 @@
+object left	has	l 1046
+object left	has	l 393
+l 2241	title	The Data Warehouse Lifecycle Toolkit by Kimball, Ralph Published by Wiley 2nd   edition   Paperback
+object left	has	l 2095
+object left	has	l 948
+l 3315	Series	The Wiley Finance Series (Book 1)
+l 1748	Title	Wireless Internet Enterprise Applications: A Wiley Tech Brief
+l 530	title	The Data WarehouseETL Toolkit: Practical Techniques for Extracting, Cleaning, Conforming, and Delivering Data by Ralph Kimball Published by Wiley 1st   edition   Paperback
+l bn_2294	Publisher	Wiley
+l 2633	title	Data Webhouse Toolkit w/WS: Building the Web-enabled Data Warehouse by Kimball, Ralph, Merz, Richard published by John Wiley & Sons  
+l 1569	title	The Data Model Resource Book: v. 1: A Library of Universal Data Models for All Enterprises: Vol 1 Revised , Vol Edition by Silverston, Len published by John Wiley & Sons  
+object left	has	l 530
+l 1749	Series	The Wiley Series on Net-Enhanced Organizations
+object left	has	l bn_488
+object left	has	l 1052
+l 3333	Series	Wiley and SAS Business Series
+object left	has	l 2241
+object left	has	l 1243
+l 3381	publisher	Wiley Publishing
+l 1243	title	Data Warehouse Design Solutions by Venerable, Michael, Adamson, Christopher published by Wiley  
+object left	has	l 1660
+object left	has	l 1906
+object left	has	l 3013
+l 1712	Series	Wiley Series in Surveying and
+l 1736	Title	PKI : A Wiley Tech Brief
+l 2367	Author	Tony Bove# Inc.  Wiley Publishing# Cheryl Rhodes# Inc.  Wiley Publishing
+object left	has	l 1755
+l 3013	title	Access Solutions: Tips, Tricks, and Secrets from Microsoft Access MVPs by Meyer, Arvin, Steele, Douglas J. published by Wiley  
+object left	has	l 3381
+object left	has	l 2161
+object left	has	l 2658
+l 1773	Series	Wiley Series in Engineering and Technology Management (Book 22)
+object left	has	l 1749
+object left	has	l 6882
+object left	has	l 295
+l 7074	Author	Jack Davies# Sarah Wiley
+l 2658	title	The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling by Kimball, Ralph Published by Wiley 2nd   edition   Paperback
+l 948	title	The Data Warehouse Toolkit Publisher: John Wiley & Sons
+object left	has	l 2633
+l 1702	Publisher_dummy	John Wiley & Sons Inc 
+object left	has	l 3333
+l 295	publisher	Wiley Law Pubns
+object left	has	l 81
+l 2161	publisher	Wiley India
+object left	has	l 1569
+object left	has	l 1698
+l 1698	Series	Wiley Series in Telecommunications and Signal Processing (Book 20)
+l 1906	title	The Data Warehouse Lifecycle Toolkit : Expert Methods for Designing, Developing, and Deploying Data Warehouses by Kimball, Ralph, Reeves, Laura, Ross, Margy, Thornthwaite, Wa published by Wiley  
+l 1990	publisher	John Wiley & Sons Inc (Computers)
+l 393	title	Data Warehousing Fundamentals for IT Professionals 2nd   Edition by Ponniah, Paulraj published by Wiley  
+l 1046	title	Data Warehouse Design Solutions Pap/Cdr Edition by Adamson, Christopher, Venerable, Michael published by John Wiley & Sons  
+object left	has	l 7074
+object left	has	l 1702
+object left	has	l bn_1743
+l 1712	title	Wiley Pathways Introduction to Database Management
+object left	has	l 1748
+object left	has	l 1712
+object left	has	l 3502
+l 1660	Series	Wiley Finance
+l 6882	Publisher_dummy	Wiley 
+object left	has	l 1773
+object left	has	l 1862
+l 1755	Title	Cryptography and E-Commerce: A Wiley Tech Brief
+object left	has	l 3315
+object left	has	l bn_1714
+l bn_1714	Title	Q and A 4 Wiley Command Reference
+object left	has	l 1736
+l 2095	title	Wiley Pathways Introduction to Database Management Project Manual
+l bn_488	Author	Henry Gaylord,  Wiley and Sons,  Inc. Staff
+l 81	publisher	John Wiley & Sons
+object left	has	l 2367
+l 3502	title	The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling by Kimball, Ralph Published by Wiley 3rd   edition   Paperback
+l bn_1743	Author	Julia Kelly,  Wiley

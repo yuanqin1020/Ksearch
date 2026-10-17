@@ -1,0 +1,34 @@
+table data/geo-heter/left	has	l 1039
+table data/geo-heter/left	has	l 485
+l 503	name	57th Street Motors
+table data/geo-heter/left	has	l 1115
+table data/geo-heter/left	has	l 1202
+l 204	name	Smallman Street Deli
+table data/geo-heter/left	has	l 672
+l 485	name	East Street Distributing Co.
+table data/geo-heter/left	has	l 649
+table data/geo-heter/left	has	l 1580
+table data/geo-heter/left	has	l 1691
+l 1823	name	Wood Street Commons
+l 1115	name	Easy Street
+l 1281	name	iberty Ave at 7th Street
+l 29	name	Darragh Street Apartments
+l 1744	name	Grant Street Tavern
+l 1296	name	40th Street Bridge
+table data/geo-heter/left	has	l 29
+l 672	name	Mercy Behavioral Health Center Reedsdale Street
+table data/geo-heter/left	has	l 1744
+l 1691	name	31st Street Bridge Ramp at 31st St Bridge
+table data/geo-heter/left	has	l 1048
+l 1202	name	Wood Street
+l 1039	name	Braddock Avenue at Library Street
+l 2418	name	Butler Street News & More
+table data/geo-heter/left	has	l 503
+l 649	name	Wood Street Galleries
+table data/geo-heter/left	has	l 1602
+table data/geo-heter/left	has	l 1823
+table data/geo-heter/left	has	l 2418
+l 2108	name	21st Street Coffee and Tea
+table data/geo-heter/left	has	l 204
+table data/geo-heter/left	has	l 1281
+l 1580	name	Eleanor Street Park

@@ -1,0 +1,30 @@
+table data/rel-heter/right	has	r 104
+r 270	type	russian
+table data/rel-heter/right	has	r 282
+table data/rel-heter/right	has	r 145
+r 325	type	japanese
+table data/rel-heter/right	has	r 213
+r 301	type	indian
+r 329	type	italian
+r 213	type	french
+r 215	type	vietnamese
+r 282	type	greek
+table data/rel-heter/right	has	r 15
+table data/rel-heter/right	has	r 109
+table data/rel-heter/right	has	r 237
+r 22	type	indonesian
+table data/rel-heter/right	has	r 122
+table data/rel-heter/right	has	r 113
+r 285	type	chinese
+table data/rel-heter/right	has	r 195
+table data/rel-heter/right	has	r 10
+table data/rel-heter/right	has	r 22
+table data/rel-heter/right	has	r 167
+r 113	type	polish
+r 167	type	spanish
+table data/rel-heter/right	has	r 131
+r 319	type	` french bistro '
+r 328	type	` french ( new ) '
+r 309	type	` french ( classic ) '
+r 237	type	` nuova cucina italian '
+table data/rel-heter/right	has	r 105

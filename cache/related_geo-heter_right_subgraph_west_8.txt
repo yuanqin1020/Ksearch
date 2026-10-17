@@ -1,0 +1,70 @@
+table data/geo-heter/right	has	r 1350
+table data/geo-heter/right	has	r 117
+table data/geo-heter/right	has	r 1705
+r 1702	name	West End Circle
+r 2106	name	West Mifflin District Court
+table data/geo-heter/right	has	r 1293
+table data/geo-heter/right	has	r 2081
+table data/geo-heter/right	has	r 1735
+r 1504	address	West General Robinson St; Mazeroski Way
+r 841	name	West End Overlook
+r 2240	address	West Busway
+r 805	address	574 West General Robinson Street; at Tony Dorsett Dr
+r 609	name	West Wing Lounge
+r 1132	name	West Homestead PA
+r 1735	name	West end tower
+table data/geo-heter/right	has	r 1702
+table data/geo-heter/right	has	r 2240
+r 117	address	Station Square E; West Carson
+r 1712	name	West Mifflin Social Club
+table data/geo-heter/right	has	r 2106
+r 2554	name	West North Avenue
+r 2081	name	West End Children's Center
+r 486	address	West Wing House; at Carnegie Mellon University
+r 1702	address	West End; Rt 837
+table data/geo-heter/right	has	r 1888
+r 1270	name	West End Bridge
+r 2391	name	West Penn Laco
+table data/geo-heter/right	has	r 2554
+r 1255	name	Sutherland West
+table data/geo-heter/right	has	r 609
+r 1514	address	116 W 8th Ave; West Street
+r 2084	name	West End Cafe
+table data/geo-heter/right	has	r 1272
+table data/geo-heter/right	has	r 1270
+table data/geo-heter/right	has	r 2391
+table data/geo-heter/right	has	r 1132
+table data/geo-heter/right	has	r 841
+table data/geo-heter/right	has	r 1985
+r 1426	name	376 Parkway West
+table data/geo-heter/right	has	r 23
+table data/geo-heter/right	has	r 1944
+r 1463	name	West End Playground
+table data/geo-heter/right	has	r 1805
+table data/geo-heter/right	has	r 1514
+r 1293	name	West Wing Tv Room
+r 486	name	West Wing Computer Cluster
+table data/geo-heter/right	has	r 1255
+r 1888	name	8th Avenue - West Homestead
+table data/geo-heter/right	has	r 269
+table data/geo-heter/right	has	r 2084
+table data/geo-heter/right	has	r 1554
+table data/geo-heter/right	has	r 1504
+r 1705	address	West Liberty; Pioneer Ave
+r 269	name	Homewood West
+r 1805	address	600 West Station Square Dr; at Carson St
+r 23	name	West Park American Hardware
+table data/geo-heter/right	has	r 660
+table data/geo-heter/right	has	r 805
+table data/geo-heter/right	has	r 863
+table data/geo-heter/right	has	r 486
+r 1350	name	West End Dump
+r 1944	address	West busway
+r 1272	name	West Wing House
+r 660	name	West Penn Field
+r 1985	address	909 West St; Penn ave
+table data/geo-heter/right	has	r 1426
+table data/geo-heter/right	has	r 1463
+r 863	name	West Oakland
+r 1554	name	West Liberty Dentistry
+table data/geo-heter/right	has	r 1712

@@ -1,0 +1,430 @@
+l 4843	actors	Steve Guttenberg; Nia Peeples; Patrick Renna
+l 581	actors	Steve Carell; Jason Segel; Russell Brand
+l 1161	actors	Billy Crystal; John Goodman; Steve Buscemi
+l 6301	actors	Steve Martin; Goldie Hawn; Dana Delany
+table data/semi-rel/left	has	l 2998
+table data/semi-rel/left	has	l 3388
+table data/semi-rel/left	has	l 6542
+l 9632	director	Steve Goltz
+table data/semi-rel/left	has	l 6351
+l 1874	actors	Steve Martin; Bonnie Hunt; Hilary Duff
+table data/semi-rel/left	has	l 1409
+l tt2400016	director	Steve Altman
+table data/semi-rel/left	has	l 3061
+table data/semi-rel/left	has	l 10006
+table data/semi-rel/left	has	l 5107
+table data/semi-rel/left	has	l 380
+l 9981	director	Savage Steve Holland
+table data/semi-rel/left	has	l 7726
+table data/semi-rel/left	has	l 2107
+table data/semi-rel/left	has	l 2001
+table data/semi-rel/left	has	l 7309
+l 1225	director	Steve Rotfeld
+table data/semi-rel/left	has	l 7711
+table data/semi-rel/left	has	l 9449
+l 4028	actors	Steve McQueen; Faye Dunaway; Paul Burke
+l 5489	actors	Alec Baldwin; Steve Buscemi; Ming-Na Wen
+table data/semi-rel/left	has	l 6793
+table data/semi-rel/left	has	l 7614
+table data/semi-rel/left	has	l 9244
+table data/semi-rel/left	has	l 222
+table data/semi-rel/left	has	l 1549
+l 9244	actors	Steve McQueen; Eli Wallach; Kathryn Harrold
+l 6782	actors	James Levine; Steve Martin; Leopold Stokowski
+table data/semi-rel/left	has	l 5039
+table data/semi-rel/left	has	l 1640
+l 9586	actors	Lori Loughlin; Sarah Strange; Steve Bacic
+table data/semi-rel/left	has	l 4320
+table data/semi-rel/left	has	l 8313
+l 9792	actors	Ross Partridge; Steve Zissis; Greta Gerwig
+l a-572	actors	Steve Koren^Adam Sandler
+l 5371	director	Steve Trenbirth
+l 8788	actors	Steve Martin; Madeline Kahn; Robert Klein
+l 126	actors	Julianne Moore; Ellen Page; Steve Carell
+l 8421	actors	Steven Seagal; Steve Austin; Michael Paré
+table data/semi-rel/left	has	l 8788
+l 3697	director	Steve Shill
+table data/semi-rel/left	has	l 6698
+table data/semi-rel/left	has	l 2994
+l 4317	actors	Steve Coogan; Rob Brydon; Rosie Fellner
+table data/semi-rel/left	has	l 9632
+l 4520	director	Steve Miller
+l tt0120794	actors	Steve Hickner"
+table data/semi-rel/left	has	l 4060
+table data/semi-rel/left	has	l 7866
+l 1925	director	Steve Boyum
+l 380	actors	Steve Jobs
+table data/semi-rel/left	has	l 9792
+table data/semi-rel/left	has	l 9397
+l 7255	actors	Tom Selleck; Steve Guttenberg; Ted Danson
+table data/semi-rel/left	has	l 9089
+table data/semi-rel/left	has	l 6386
+l 2304	actors	Steve Buscemi; Thora Birch; Scarlett Johansson
+l 7961	actors	Steve Bacic; Barclay Hope; Marci T. House
+table data/semi-rel/left	has	l 1828
+l a-1080	director	Steve Lawrence
+table data/semi-rel/left	has	l 4789
+l 8954	actors	Bruce Marchiano; Steve Borden; Jaci Velasquez
+l tt1288553	director	Steve Kroschel
+l 1396	director	Steve Carver
+l 4815	actors	Julianne Moore; Alexander Skarsgård; Steve Coogan
+table data/semi-rel/left	has	l 4221
+l 3416	director	Steve James
+l 1669	actors	Steve Carell; Anne Hathaway; Alan Arkin
+table data/semi-rel/left	has	l 3049
+table data/semi-rel/left	has	l 1897
+table data/semi-rel/left	has	l 5807
+l 4638	actors	Steve Oedekerk; Fei Lung; Leo Lee
+table data/semi-rel/left	has	l 5417
+table data/semi-rel/left	has	l 9038
+table data/semi-rel/left	has	l 581
+table data/semi-rel/left	has	l 328
+table data/semi-rel/left	has	l 2695
+table data/semi-rel/left	has	l 4628
+l a-1569	director	Steve Beck
+table data/semi-rel/left	has	l 4638
+l 9603	actors	Dave Goelz; Steve Whitmire; Bill Barretta
+l 7309	actors	Steve Martin; Queen Latifah; Eugene Levy
+l 4789	director	Steve Box; Nick Park
+table data/semi-rel/left	has	l 1158
+l 7711	actors	Steve Coogan; Elisabeth Shue; Catherine Keener
+l 5566	actors	Kimberly Elise; Steve Harris; Tyler Perry
+table data/semi-rel/left	has	l 1904
+l 4911	actors	Steve Coogan; Rob Brydon; Paul Popplewell
+l 3543	actors	Steve Martin; Kevin Kline; Jean Reno
+l 4665	actors	Steve Railsback; Mathilda May; Peter Firth
+l 8430	actors	Steve McQueen; Richard Attenborough; Candice Bergen
+table data/semi-rel/left	has	l 8473
+table data/semi-rel/left	has	l 8430
+l 5663	director	Steve Gordon
+table data/semi-rel/left	has	l 7961
+l 3679	actors	Faye Dunaway; Diana Scarwid; Steve Forrest
+table data/semi-rel/left	has	l 178
+l 3911	title	The Life Aquatic with Steve Zissou 
+table data/semi-rel/left	has	l 7832
+table data/semi-rel/left	has	l 1925
+l 9816	actors	Tricia O'Neil; Steve Marachuk; Lance Henriksen
+table data/semi-rel/left	has	l 1917
+l 2253	director	Jimmy Hayward; Steve Martino
+table data/semi-rel/left	has	l 4029
+l 7282	actors	Steve Guttenberg; Bubba Smith; David Graf
+l a-2099	actors	Steve Koren^Mark O'Keefe
+table data/semi-rel/left	has	l 6177
+table data/semi-rel/left	has	l 886
+table data/semi-rel/left	has	l 1517
+l 6177	actors	Chevy Chase; Dan Aykroyd; Steve Forrest
+l 611	actors	Logan Lerman; Kevin McKidd; Steve Coogan
+l 2990	actors	Steve McQueen; Jacqueline Bisset; Robert Vaughn
+l 4024	actors	Ryan Kwanten; Steve Zahn; Peter Dinklage
+table data/semi-rel/left	has	l 1554
+l 8179	actors	Michael Caine; Dave Goelz; Steve Whitmire
+l 8077	actors	Steve Guttenberg; Bubba Smith; Michael Winslow
+l 1013	actors	Steve Martin; Mary Steenburgen; Dianne Wiest
+l tt2316383	director	Steve Franke
+l a-2396	director	Steve Stockman
+l 2451	actors	Milla Jovovich; Steve Zahn; Timothy Olyphant
+table data/semi-rel/left	has	l 5443
+table data/semi-rel/left	has	l 344
+table data/semi-rel/left	has	l 5777
+l 2994	actors	Steve Carell; Luke Vanek; Steve Buscemi
+l tt0095438	director	Steve Feke
+table data/semi-rel/left	has	l 2253
+table data/semi-rel/left	has	l 842
+l 7866	actors	Steve Buscemi; Carol Kane; Mark Boone Junior
+l 2688	actors	Steve Carell; Paul Rudd; Stephanie Szostak
+l 1452	director	Steve Race
+table data/semi-rel/left	has	l 8385
+table data/semi-rel/left	has	l 3228
+l 6793	actors	Steve Howey; Diora Baird; Kenan Thompson
+table data/semi-rel/left	has	l 9596
+l 380	title	Steve Jobs: The Man in the Machine
+l 3505	actors	Steve Martin; Bernadette Peters; Catlin Adams
+l 6538	actors	John Cusack; Molly Shannon; Steve Buscemi
+l a-1886	actors	Steve Kloves^J.K. Rowling
+l 856	actors	Steve Carell; Toni Collette; Greg Kinnear
+table data/semi-rel/left	has	l 4815
+l 7832	actors	Alana Dietze; Steve West; Tonya Kay
+table data/semi-rel/left	has	l 4270
+l 453	actors	Steve Carell; Channing Tatum; Mark Ruffalo
+table data/semi-rel/left	has	l 4911
+table data/semi-rel/left	has	l 2719
+table data/semi-rel/left	has	l 2688
+l 6542	actors	Steve Zahn; Allen Covert; Justin Long
+table data/semi-rel/left	has	l 4699
+l 3209	actors	Ally Sheedy; Steve Guttenberg; Fisher Stevens
+table data/semi-rel/left	has	l 126
+l 9659	director	Steve Wolsh
+table data/semi-rel/left	has	l 2402
+l 2998	actors	Matthew Kimbrough; Leelee Sobieski; Steve Zahn
+l a-1088	actors	Steve Niles^Stuart Beattie
+table data/semi-rel/left	has	l 1657
+table data/semi-rel/left	has	l 8234
+table data/semi-rel/left	has	l 3505
+l a-2349	director	Steve Taylor
+l 6357	actors	Elyse Levesque; Tinsel Korey; Steve Reevis
+l a-1557	director	Steve Hanft
+l 5395	actors	Lawrence Monoson; Diane Franklin; Steve Antin
+table data/semi-rel/left	has	l 2451
+table data/semi-rel/left	has	l 7992
+l 2503	director	Steve Pink
+l a-2804	director	Steve Stark
+l 694	actors	Steve Agee; Gabriel Basso; Talitha Bateman
+l 954	actors	Judi Dench; Steve Coogan; Sophie Kennedy Clark
+l 5690	actors	Steve Martin; Jean Reno; Emily Mortimer
+l 4803	director	Steve De Jarnatt
+l 2640	actors	Jay Chandrasekhar; Kevin Heffernan; Steve Lemme
+l 2402	actors	Christian Bale; Steve Zahn; Jeremy Davies
+l 5359	actors	Kirstie Alley; Steve Guttenberg; Mary-Kate Olsen
+table data/semi-rel/left	has	l 2708
+l 6108	actors	Martin Lawrence; Steve Zahn; Colm Feore
+l 5039	actors	Steve McQueen; Aneta Corsaut; Earl Rowe
+l 6429	actors	Alice Lowe; Kenneth Hadley; Steve Oram
+table data/semi-rel/left	has	l 2816
+l 185	director	Steve Buscemi
+l 1071	director	Steve Brown
+table data/semi-rel/left	has	l 3679
+l 1461	actors	Steve McQueen; James Garner; Richard Attenborough
+l 3076	actors	Steve Carell; Morgan Freeman; Lauren Graham
+table data/semi-rel/left	has	l 3276
+table data/semi-rel/left	has	l 4028
+l 3879	actors	Steve Austin; Vinnie Jones; Nathan Jones
+l 7727	actors	Jessica Simpson; Vivica A. Fox; Steve Guttenberg
+table data/semi-rel/left	has	l 9917
+table data/semi-rel/left	has	l 3149
+l 4029	actors	Jackie Chan; Steve Coogan; Jim Broadbent
+l 6351	actors	Jason Lively; Tom Atkins; Steve Marshall
+table data/semi-rel/left	has	l 1355
+l tt3504604	title	Steve McQueen: The Man & Le Mans
+table data/semi-rel/left	has	l 6551
+l 2695	title	All About Steve
+l a-2321	actors	Steve Conrad
+table data/semi-rel/left	has	l 5359
+l 2096	actors	Steve Carell; Juliette Binoche; Dane Cook
+table data/semi-rel/left	has	l 7031
+table data/semi-rel/left	has	l 6457
+l 2253	actors	Jim Carrey; Steve Carell; Carol Burnett
+table data/semi-rel/left	has	l 5395
+table data/semi-rel/left	has	l 856
+table data/semi-rel/left	has	l 6919
+l 2107	title	Steve Jobs: The Lost Interview
+table data/semi-rel/left	has	l 3879
+l 1904	director	Steve Oedekerk
+table data/semi-rel/left	has	l 1120
+l 1430	director	Steve Purcell
+table data/semi-rel/left	has	l 3413
+table data/semi-rel/left	has	l 1084
+table data/semi-rel/left	has	l 4520
+l 5052	actors	Meryl Streep; Tommy Lee Jones; Steve Carell
+l 2001	title	"4 Film Favorites: Steve McQueen (The Hunter
+l 8473	actors	Steve Martin; Rick Moranis; Joan Cusack
+table data/semi-rel/left	has	l 1314
+table data/semi-rel/left	has	l 9895
+table data/semi-rel/left	has	l 9586
+l 1777	actors	Steve Mouzakis; Leon Cain; Joss McWilliam
+table data/semi-rel/left	has	l 3697
+l 9917	actors	Steve Austin; Serinda Swan; Danny Trejo
+table data/semi-rel/left	has	l 109
+l 5046	actors	Penélope Cruz; Salma Hayek; Steve Zahn
+l 3061	actors	Jennifer Carpenter; Steve Harris; Columbus Short
+l 7029	actors	Steve Martin; Dan Aykroyd; Phil Hartman
+l 7749	actors	Steve Howey; Mike Vogel; Sophia Bush
+table data/semi-rel/left	has	l 694
+table data/semi-rel/left	has	l 188
+l 7992	actors	Mark Burnham; Eric Judor; Steve Little
+l 7400	actors	Bel Deliá; Andy Rodoreda; Steve Davis
+l a-2922	actors	Steve Berg^Ken Bretschneider
+l 7338	actors	Steve Martin; Daryl Hannah; Rick Rossovich
+table data/semi-rel/left	has	l 3076
+table data/semi-rel/left	has	l 458
+l 7031	actors	Steve McQueen; Siegfried Rauch; Elga Andersen
+l a-2914	actors	Steve Conrad^Steve Conrad
+l 4221	actors	Jason Biggs; Steve Zahn; Jack Black
+l 5867	actors	Steve McQueen; Ali MacGraw; Ben Johnson
+l 941	actors	Steve Carell; Catherine Keener; Paul Rudd
+l 5775	director	Steve 'Spaz' Williams
+l 2751	director	Steve McQueen
+table data/semi-rel/left	has	l 4024
+table data/semi-rel/left	has	l 4665
+l 3388	actors	Matthew McConaughey; Penélope Cruz; Steve Zahn
+table data/semi-rel/left	has	l 1669
+table data/semi-rel/left	has	l 912
+l 886	director	Steve Winter
+l a-1344	title	The Tao of Steve
+l 7614	actors	Peter O'Toole; Daryl Hannah; Steve Guttenberg
+l tt2946814	director	Steve Mims
+l 1517	actors	Meryl Streep; Steve Martin; Alec Baldwin
+table data/semi-rel/left	has	l 8179
+l 2623	director	Steve Barron
+l 458	actors	Raymond Ochoa; Jeffrey Wright; Steve Zahn
+l 8313	actors	Jake T. Austin; Steve Buscemi; Loretta Devine
+l 1657	title	Steve McQueen Triple Feature (Bullitt / Cincinnati Kid / Getaway) [Blu-ray] 
+l 2962	actors	Steve Carell; Tina Fey; Mark Wahlberg
+table data/semi-rel/left	has	l 2636
+table data/semi-rel/left	has	l 5663
+table data/semi-rel/left	has	l 8954
+l 222	director	Steve
+table data/semi-rel/left	has	l 1225
+table data/semi-rel/left	has	l 453
+l 188	title	Adam & Steve
+l 5417	actors	Ryan Kwanten; Steve Bisley; Tommy Lewis
+table data/semi-rel/left	has	l 1461
+l 9089	actors	Steve Martin; Lily Tomlin; Victoria Tennant
+l a-2300	actors	Steve Bencich^Ron J. Friedman
+l 3228	actors	Rowan Atkinson; Willem Dafoe; Steve Pemberton
+l 3413	actors	Karan Ashley; Johnny Yong Bosch; Steve Cardenas
+l 1917	director	Steve E. De Souza
+l 3049	director	Steve Balderson
+table data/semi-rel/left	has	l 5775
+table data/semi-rel/left	has	l 4843
+l 3178	actors	Sarah Hyland; Bret Harrison; Steve Howey
+l 6698	actors	Steve Guttenberg; Mickey Rourke; Kevin Bacon
+l a-259	actors	Steve Koren
+l 3902	title	The Life Aquatic with Steve Zissou    
+l 708	actors	Adam Sandler; Melonie Diaz; Steve Buscemi
+l 6457	actors	Steve Martin; Victoria Tennant; Richard E. Grant
+l 5807	actors	Steve Guttenberg; Kirsten Dunst; Nia Peeples
+l 10006	actors	Brooke Burns; Dylan Neal; Steve Valentine
+l tt3598850	director	Steve Royall
+l a-1922	director	Steve Bendelack
+table data/semi-rel/left	has	l 3178
+l 1120	actors	Steve Carell; Keira Knightley; Melanie Lynskey
+l 5303	actors	Steve Guttenberg; Olivia d'Abo; Jay O. Sanders
+table data/semi-rel/left	has	l 1197
+l 4699	actors	Owen Wilson; Jack Black; Steve Martin
+l a-1557	actors	Steve Hanft^Rossie Harris
+table data/semi-rel/left	has	l 1493
+table data/semi-rel/left	has	l 7762
+l a-1114	director	Steve Hickner
+table data/semi-rel/left	has	l 3209
+l 6386	actors	Steve Martin; Claire Danes; Jason Schwartzman
+l 2346	director	Steve Martino; Mike Thurmeier
+l 5777	actors	Drew Barrymore; Steve Zahn; Adam Garcia
+l 9449	actors	Steve Boles; Ray Collins; Al Curl
+l 1640	actors	Steve Carell; Toni Collette; Allison Janney
+l 344	actors	William H. Macy; Frances McDormand; Steve Buscemi
+table data/semi-rel/left	has	l 7749
+l 9596	director	Steve Stone
+l 6877	actors	Lisa Kudrow; Steve Coogan; Maggie Gyllenhaal
+table data/semi-rel/left	has	l 6473
+table data/semi-rel/left	has	l 8421
+l 4320	actors	Steve Martin; Michael Caine; Glenne Headly
+table data/semi-rel/left	has	l 2346
+table data/semi-rel/left	has	l 6301
+table data/semi-rel/left	has	l 5566
+table data/semi-rel/left	has	l 6357
+l 7726	actors	Wes Ramsey; Steve Sandvoss; Mary Kay Place
+table data/semi-rel/left	has	l 5052
+table data/semi-rel/left	has	l 1452
+table data/semi-rel/left	has	l 7400
+l 9038	actors	Steve Austin; Dolph Lundgren; Eric Keenleyside
+l 7762	actors	Jennifer Aniston; Steve Zahn; Woody Harrelson
+table data/semi-rel/left	has	l 1161
+table data/semi-rel/left	has	l 6538
+l 6473	actors	Michael Dudikoff; Steve James; Judie Aronson
+table data/semi-rel/left	has	l 2304
+l 1314	actors	Michael Jai White; Max Ryan; Steve Austin
+l 9895	director	Steve Sekely; Freddie Francis
+table data/semi-rel/left	has	l 6429
+table data/semi-rel/left	has	l 1071
+table data/semi-rel/left	has	l 1337
+table data/semi-rel/left	has	l 3543
+l a-1975	actors	Steve Martin^Steve Martin
+table data/semi-rel/left	has	l 6782
+table data/semi-rel/left	has	l 6069
+table data/semi-rel/left	has	l 954
+table data/semi-rel/left	has	l 5303
+l tt0451079	actors	Steve Martino"
+l 4628	actors	Brendan Fraser; Jenna Elfman; Steve Martin
+table data/semi-rel/left	has	l 5578
+l 1158	actors	Steve Guttenberg; G.W. Bailey; Kim Cattrall
+l 6551	actors	Steve Coogan; Matt Lucas; Anna Friel
+table data/semi-rel/left	has	l 611
+l 842	actors	Steve Carell; Kristen Wiig; Benjamin Bratt
+l a-1699	title	The Life Aquatic with Steve Zissou
+l 8234	director	Steve Binder; David Acomba
+l 6919	actors	Steve Martin; Debra Winger; Lolita Davidovich
+table data/semi-rel/left	has	l 9816
+table data/semi-rel/left	has	l 6010
+l 1897	director	Brenda Chapman; Steve Hickner
+table data/semi-rel/left	has	l 1430
+table data/semi-rel/left	has	l 1882
+l 4060	actors	Kurt Russell; Steve Buscemi; Stacy Keach
+table data/semi-rel/left	has	l 2339
+l 3149	director	Steve Kloves
+table data/semi-rel/left	has	l 1013
+l a-2009	actors	Steve Faber^Bob Fisher
+table data/semi-rel/left	has	l 2640
+l a-35	actors	Steve Granat^Cydne Clark
+table data/semi-rel/left	has	l 6108
+l 3386	director	Steve Rash
+l 6069	actors	Steve Martin; Eddie Murphy; Heather Graham
+l 1493	actors	Paul Newman; Steve McQueen; William Holden
+table data/semi-rel/left	has	l 708
+table data/semi-rel/left	has	l 5867
+l 7050	actors	Jason Robards; JoBeth Williams; Steve Guttenberg
+table data/semi-rel/left	has	l 5690
+table data/semi-rel/left	has	l 6178
+table data/semi-rel/left	has	l 1934
+l 6178	actors	Brie Larson; Steve Carell
+table data/semi-rel/left	has	l 1576
+table data/semi-rel/left	has	l 4552
+table data/semi-rel/left	has	l 1105
+l 5107	actors	Brendan Fraser; Steve Buscemi; Adam Sandler
+table data/semi-rel/left	has	l 2096
+l 1197	actors	Lukas Haas; Steve Agee; Ethan Khusidman
+l 9705	actors	Steve Buscemi; Catherine Keener; Dermot Mulroney
+l 2708	director	Steve Jacobs
+table data/semi-rel/left	has	l 5046
+l 6010	actors	Steve Coogan; Colm Meaney; Tim Key
+l 9397	actors	Randy Norton; Cynthia Leake; Steve Sandor
+l 9924	actors	Steve Martin; Kathleen Turner; David Warner
+table data/semi-rel/left	has	l 5489
+table data/semi-rel/left	has	l 941
+table data/semi-rel/left	has	l 2962
+l 1828	director	Steve Barker
+table data/semi-rel/left	has	l 2990
+table data/semi-rel/left	has	l 6877
+l 8385	actors	Erick Avari; Steve Bacic; James C. Burns
+l a-169	director	Steve Martino
+table data/semi-rel/left	has	l 4803
+l 2339	actors	Steve McQueen; Dustin Hoffman; Victor Jory
+l a-2881	actors	Steve Coogan^Jeff Pope
+l 5578	actors	Hayden Christensen; Chloë Sevigny; Steve Zahn
+table data/semi-rel/left	has	l 7338
+table data/semi-rel/left	has	l 5371
+table data/semi-rel/left	has	l 9924
+l 6117	actors	Steve Coogan; Lennie James; John Thomson
+table data/semi-rel/left	has	l 1371
+l 1084	director	Steve Miner
+l a-1162	actors	Steve Oedekerk^Steve Oedekerk
+table data/semi-rel/left	has	l 1777
+l 3879	director	Steve Boettcher
+table data/semi-rel/left	has	l 6117
+table data/semi-rel/left	has	l 1800
+l 1882	actors	Adam Sandler; Taylor Lautner; Steve Buscemi
+table data/semi-rel/left	has	l 2126
+table data/semi-rel/left	has	l 8077
+table data/semi-rel/left	has	l 2353
+l 2819	director	Steve Carr
+l 3276	actors	Bruce Willis; Garry Shandling; Steve Carell
+table data/semi-rel/left	has	l 7050
+l 7208	actors	Steve Martin; Diane Keaton; Martin Short
+l 4023	actors	Steve Martin; Chevy Chase; Martin Short
+table data/semi-rel/left	has	l 7727
+table data/semi-rel/left	has	l 4317
+table data/semi-rel/left	has	l 9705
+l 3294	director	Steve Antin
+table data/semi-rel/left	has	l 87
+table data/semi-rel/left	has	l 1396
+table data/semi-rel/left	has	l 7029
+l 2816	director	Steve Hickner; Simon J. Smith
+l 1576	director	Steve Anderson
+l 4270	actors	Steve Austin; Tobin Bell; Mark DeCarlo
+l 1426	actors	Will Ferrell; Christina Applegate; Steve Carell
+table data/semi-rel/left	has	l 1426
+l 2353	actors	Yul Brynner; Steve McQueen; Charles Bronson
+table data/semi-rel/left	has	l 4023
+table data/semi-rel/left	has	l 9081
+table data/semi-rel/left	has	l 9603
+l a-1652	actors	Steve Adams
+l 178	actors	Jim Parsons; Rihanna; Steve Martin

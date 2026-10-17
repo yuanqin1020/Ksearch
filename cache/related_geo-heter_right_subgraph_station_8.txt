@@ -1,0 +1,72 @@
+r 3	name	Carnegie Station
+table data/geo-heter/right	has	r 1780
+table data/geo-heter/right	has	r 1131
+r 1789	name	Carnegie Volunteer Fire Dept Station 118
+table data/geo-heter/right	has	r 117
+r 1126	name	Grand Station IV
+r 457	name	Station Break
+table data/geo-heter/right	has	r 811
+r 2139	address	Station Square
+r 1944	name	Carnegie station
+r 913	address	300 W Station Square Dr; at W Carson St
+table data/geo-heter/right	has	r 2272
+r 983	name	Castle Shannon T Station
+table data/geo-heter/right	has	r 2240
+r 117	address	Station Square E; West Carson
+table data/geo-heter/right	has	r 1789
+table data/geo-heter/right	has	r 3
+r 913	name	Sheraton Pittsburgh Hotel at Station Square
+r 305	address	300 W Station Square Dr
+table data/geo-heter/right	has	r 983
+r 797	name	Killarney T Station
+table data/geo-heter/right	has	r 2139
+table data/geo-heter/right	has	r 437
+table data/geo-heter/right	has	r 1172
+table data/geo-heter/right	has	r 305
+table data/geo-heter/right	has	r 913
+r 1766	name	Zone 3 Police Station
+table data/geo-heter/right	has	r 1126
+table data/geo-heter/right	has	r 1781
+table data/geo-heter/right	has	r 2125
+r 544	name	Penn Station
+r 2564	name	trak - Pittsburgh Station (PGH)
+r 321	name	Union Station
+r 2240	name	Ingram Station
+table data/geo-heter/right	has	r 141
+r 520	name	llegheny Station
+r 1172	name	East Liberty Station
+r 117	name	Station Square East Parking Lot
+r 1781	name	Pittsburgh Greyhound Bus Station
+table data/geo-heter/right	has	r 1139
+table data/geo-heter/right	has	r 215
+r 2125	name	Swissvale Station 279
+table data/geo-heter/right	has	r 1766
+table data/geo-heter/right	has	r 686
+table data/geo-heter/right	has	r 2564
+r 290	name	Memorial Hall T Station
+table data/geo-heter/right	has	r 1135
+table data/geo-heter/right	has	r 1944
+r 141	address	Smithfield Street; btwn I-376 & W Station Sq. Dr.
+table data/geo-heter/right	has	r 321
+r 1209	address	125 W Station Square Dr
+table data/geo-heter/right	has	r 1521
+table data/geo-heter/right	has	r 797
+r 811	name	Port Authority Allegheny Station
+table data/geo-heter/right	has	r 1805
+table data/geo-heter/right	has	r 290
+r 2272	name	Zone 1 Police Station
+r 1131	name	Station Square Food Court
+r 437	name	Swissvale Station
+table data/geo-heter/right	has	r 457
+r 2403	name	Rankin police station
+r 1805	name	Station Square Parking Garage
+r 1805	address	600 West Station Square Dr; at Carson St
+r 1780	name	Unocal 76 Station
+r 686	name	Bon Air T Station
+r 288	name	Station Square Fire Drill
+r 356	address	South Hills Junction; Station Square; Downtown; North Shore
+table data/geo-heter/right	has	r 288
+table data/geo-heter/right	has	r 356
+r 1135	name	PNC ATM - Station Square Garage
+table data/geo-heter/right	has	r 544
+r 1521	name	Pittsburgh Fire Station #22

@@ -1,0 +1,1634 @@
+object left	has	l 177
+l 1660	title	Database Design Manual: using MySQL for Windows  
+l bn_2594	Title	Advances in Database Technology - EDBT '94: 4th International Conference on Extending Database Technology, Cambridge, United Kingdom, March 28 - 31, 1994. Proceedings
+object left	has	l bn_1139
+l bn_2131	Title	Multimedia Database Management Systems
+object left	has	l 1424
+l bn_2772	Title	Oracle Database 10g Linux Administration / Edition 1
+l 74	title	MCTS Self-Paced Training Kit  : Microsoft SQL Server 2008 Database Development  
+l 3442	Title	Data Modeling and Database Design
+l 263	title	And relational database design theory 
+object left	has	l bn_1468
+l bn_828	Title	Database Theory - ICDT 2001: 8th International Conference London, UK, January 4-6, 2001 Proceedings
+object left	has	l 636
+object left	has	l bn_1681
+l bn_1674	Title	UNIX, a Database Approach
+l 1952	title	Java Oracle Database Development
+l 2331	title	OCA Oracle Database 11g: SQL Fundamentals I Exam Guide    ��_��_��_    
+object left	has	l 6603
+object left	has	l bn_219
+l 729	title	Oracle Database Ajax & PHP Web Application Development  
+object left	has	l bn_1710
+l bn_361	Title	Oracle Database 10g DBA Handbook / Edition 1
+object left	has	l bn_1092
+object left	has	l bn_1902
+l bn_2108	Title	Database Machines and Knowledge Base Machines
+object left	has	l bn_2586
+object left	has	l bn_2539
+l 2261	title	Elements of Relational Database Design
+object left	has	l 1359
+object left	has	l 526
+object left	has	l 2140
+object left	has	l bn_1825
+l 2251	title	Relational Database Writings, 1989-1991
+object left	has	l 2628
+l bn_1641	Title	Advanced Database Systems / Edition 1
+l bn_1476	Title	DB2 Universal Database in Application Development Environments
+object left	has	l bn_1121
+l bn_2046	Title	Spatial Database Systems: Design, Implementation and Project Management / Edition 1
+object left	has	l bn_181
+object left	has	l bn_2994
+l 773	title	The Development of a Relational Database to Support the Flight Hour Program of Commander, Naval Air Forces Pacific
+l 820	title	Practical Database Programming with Java
+l 5185	Title	Search-Based Applications: At the Confluence of Search and Database Technologies 
+l 209	title	Microsoft SQL Server 2008 High Availability with Clustering & Database Mirroring
+object left	has	l bn_1891
+l bn_55	Title	Delphi Database Development
+object left	has	l 3291
+object left	has	l bn_1443
+object left	has	l bn_1408
+l bn_398	Title	Relational Database Management: A Systems Programming Approach
+l 2111	title	Database Systems for Advanced Applications: 15th International Conference, DASFAA 2010, Tsukuba, Japan, April 1-4, 2010, Proceedings, Part I  
+l 1356	title	Oracle ASM 12c Pocket Reference Guide: Database Cloud Storage
+l 919	title	Data Mining, Data Warehousing and Client/Server Databases: Proceedings of the 8th International Hong Kong Computer Society Database Workshop  
+object left	has	l 1958
+object left	has	l 1732
+object left	has	l 2744
+object left	has	l 1295
+l bn_75	Title	Database Technologies: Concepts, Methodologies, Tools, and Applications
+l 1741	title	Visual Basic6 Database Programming For Dummies
+object left	has	l 1268
+l 1166	title	Optimal Database Marketing Strategy, Development, and Data Mining by Drozdenko, Ronald G., Drake, Perry D.    
+object left	has	l 2211
+l 2237	title	Distributed database system and its applications   / textbook series for CAS postgraduates  
+l 1777	title	Build Your Own Database
+object left	has	l 2373
+object left	has	l 1069
+object left	has	l 1637
+object left	has	l 1248
+object left	has	l 454
+l 2878	title	Access Database Design & Programming  
+l 749	title	Database Management Systems: Designing and Building Business Applications
+l 833	title	Component Database Systems  
+l 995	title	Course Development in Parallel and Distributed Database Systems
+l 2759	title	Relational Database Management: A Systems Programming Approach  
+l bn_1501	Title	Database Application Development and Design / Edition 1
+object left	has	l bn_2378
+object left	has	l bn_361
+object left	has	l bn_1929
+object left	has	l 2156
+object left	has	l bn_1917
+l bn_90	Title	Beginning Visual Basic 6 Database Programming / Edition 1
+object left	has	l 2416
+object left	has	l bn_710
+object left	has	l bn_2763
+object left	has	l 167
+l 5877	Title	Intelligent Information and Database Systems: 7th Asian Conference, ACIIDS 2015, Bali, Indonesia, March 23-25, 2015, Proceedings, Part II 
+object left	has	l 1041
+l bn_213	Title	Oracle Database 11g SQL / Edition 1
+l 1654	title	Study Guide for 1Z0-052: Oracle Database 11g: Administration I: Oracle Certification Prep
+object left	has	l 2635
+l 1538	title	OCA Oracle Database 12c SQL Fundamentals I Exam Guide    
+object left	has	l bn_1295
+object left	has	l bn_2187
+object left	has	l bn_1302
+l bn_10	Title	Modelling Database Dynamics: Selected Papers from the 4th International Workshop on Foundations of Models and Languages for Data and Objects, Volkse, Germany 19-22 October 1992
+l bn_1897	Title	Teradata Database Administration ? The Fundamentals
+object left	has	l 1866
+object left	has	l 883
+l 167	title	Database Solutions: A step-by-step guide to building databases
+l bn_1929	Title	Oracle Database 11g: New Features for DBAs and Developers
+object left	has	l bn_2249
+object left	has	l 224
+object left	has	l 209
+object left	has	l 729
+l bn_1552	Title	Database Dictionary: Eleven Data Base Dictionaries for Users, Designers, Programmers and Developers
+object left	has	l 3410
+l 1958	title	Foundation for Future Database Systems: The Third Manifesto  
+l 3651	Title	Oracle 10g Database Administrator II: Backup/Recovery and Network Administration
+object left	has	l bn_49
+l 831	title	Distributed Database Integrity
+object left	has	l bn_2040
+object left	has	l bn_1182
+object left	has	l 3348
+object left	has	l 2344
+l bn_1669	Title	Perceptual Metrics for Image Database Navigation / Edition 1
+object left	has	l bn_2775
+object left	has	l bn_723
+l bn_331	Title	Research Advances in Database and Information Systems Security: IFIP TC11 WG11.3 Thirteenth Working Conference on Database Security July 25-28, 1999, Seattle, Washington, USA / Edition 1
+object left	has	l 807
+l 230	title	Development of a Prototype Relational Database System for Managing FleetBattle Experiment Data
+l 1077	title	Expert Oracle Database 10g Administration  
+object left	has	l 2815
+l 2998	title	Study Guide for 1Z0-144: Oracle Database 11g: Program with PL/SQL: Oracle Certification Prep
+object left	has	l 3165
+object left	has	l 5199
+object left	has	l 242
+l 1428	Title	Relational Database Technology 
+l 1099	title	DB2  Universal Database for OS/390 v7.1 Certification Guide  )
+l 1936	title	Certified Database Design Specialist Secrets To Acing The Exam and Successful Finding And Landing Your Next Certified Database Design Specialist Certified Job
+object left	has	l bn_678
+l 1507	Title	Computer-Aided Database Design
+l bn_934	Title	Introduction to Database Systems / Edition 6
+l 2842	title	Java Database Programming Bible
+object left	has	l bn_473
+object left	has	l 60
+object left	has	l bn_2116
+object left	has	l bn_1674
+object left	has	l bn_230
+l 2515	title	Visual Developer SQL Database Programming with Java: Creating Fast, Efficient Database Applications for the Web
+l bn_2141	Title	Pro Oracle Database 11g Administration
+object left	has	l 1409
+l 2911	title	Exam 70-443 and 70-450 Microsoft SQL Server Database Design and Optimization
+object left	has	l 669
+l 3456	title	Expert Oracle9i Database Administration
+object left	has	l 2482
+l bn_2035	Title	Object-Oriented Modeling and Design for Database Applications / Edition 1
+object left	has	l bn_904
+object left	has	l bn_97
+object left	has	l bn_1501
+l 1476	title	Proceedings: Fourth Symposium on Reliability in Distributed Software and Database Systems  
+object left	has	l bn_799
+l 2330	title	Oracle Essentials: Oracle Database 11g
+object left	has	l bn_1112
+l 2488	title	Web Database Applications with PHP & MySQL, 2nd Edition
+l 2855	title	Physical Database Design: the database professional's guide to exploiting indexes, views, storage, and more  
+object left	has	l 43
+l bn_2878	Title	Modern Database Management / Edition 5
+object left	has	l 1855
+object left	has	l 1801
+l 2140	title	SIXTH SYMPOSIUM ON RELIABILITY IN DISTRIBUTED SOFTWARE AND DATABASE SYSTEMS: PROCEEDINGS
+l 1222	title	World Wide Web Database Developer's Guide
+l 1532	title	21st Century College planning materials Computer Applications : New relational database with SQL Server 2008 
+l 1630	title	Visual Basic6 Database Programming
+l 755	title	Establishing a Test with Distributed Database Systems
+object left	has	l bn_1116
+object left	has	l 1959
+l 2850	title	Beginning Database Design byChurcher
+l 648	title	Database Performance Tuning and Optimization: Using Oracle  
+object left	has	l 2906
+l 24	title	Conceptual Schema and Relational Database Design: A Fact Oriented Approach
+l bn_2921	Title	Computer-Aided Database Design: The DATAID Project
+object left	has	l bn_2320
+object left	has	l bn_1127
+l bn_528	Title	Rules in Database Systems: Proceedings of the 1st International Workshop on Rules in Database Systems, Edinburgh, Scotland, 30 August-1 September 1993
+l bn_648	Title	Active, Real-Time, and Temporal Database Systems: Second International Workshop, ARTDB&#039;97, Como, Italy, September 8-9, 1997, Proceedings / Edition 1
+object left	has	l bn_1640
+l bn_1803	Title	Expert Oracle Database 11g Administration / Edition 1
+l 2124	title	The Design and Implementation of ZTRAX: A Training, Readiness and Flight Hour Relational Database Management Tracking System
+l 304	title	The Complete Visual Basic Database Training Course with Book  
+l bn_1275	Title	Database Application Programming with Linux
+object left	has	l bn_2831
+l 3218	title	Applied Mathematics for Database Professionals
+l 1469	title	Oracle Quick Guides Part 2 - Oracle Database Design  
+l 811	title	Analysis and Comparison of Relational Database Systems
+object left	has	l 2603
+object left	has	l 245
+l bn_1778	Title	Database Management Using Micrsoft Access
+object left	has	l 2037
+l 2344	title	Oracle Database 10g XML & SQL: Design, Build, & Manage XML Applications in Java, C, C++, & PL/SQL  
+l bn_2801	Title	Fuzziness in Database Management Systems / Edition 1
+object left	has	l bn_2122
+l 30	title	A computer vocational education in the 21st century family planning materials: SQL language and relational database 
+l 354	title	Oracle Database 12c PL / SQL Programming
+object left	has	l 1427
+l 31	title	Database Design for Smarties: Using UML for Data Modeling  
+object left	has	l 1150
+object left	has	l bn_244
+l bn_789	Title	DB2 9 for Linux, UNIX, and Windows Advanced Database Administration Certification: Certification Study Guide
+object left	has	l bn_2096
+l bn_1127	Title	Database Experts' Guide to FOCUS
+l 1056	title	Oracle Database XE 11gR2 Jump Start Guide
+l 2740	title	Tutorial--distributed database management
+l 3410	title	Database Benchmarking: Practical Methods for Oracle & SQL Server  
+l bn_673	Title	Database Design: Applications of Library Cataloging Techniques
+l bn_2187	Title	eXist: A NoSQL Document Database and Application Platform
+object left	has	l bn_2143
+l bn_709	Title	Oracle Database Administration for UNIX Systems (Bk/CD-ROM)
+object left	has	l 581
+l 1326	title	Design theory and relational database   ISBN: 4883614301  
+l bn_752	Title	Database Theory - ICDT '95: Proceedings of the 5th International Conference, Prague, Czech Republic, January 1995
+l 2133	Title	Database Security and Auditing: Protecting Data Integrity and Accessibility
+l 2815	title	MCITP Self-Paced Training Kit  : Microsoft��_��_ SQL Server 2005 Database Administrator Core Requirements  
+object left	has	l bn_2423
+object left	has	l 4352
+object left	has	l 1014
+object left	has	l 1227
+l 1948	title	Information modeling and relational database   series of foreign materials in computer science 
+object left	has	l 2634
+object left	has	l 3504
+object left	has	l bn_194
+l 1665	title	Beginning Oracle SQL: For Oracle Database 12c
+l 2453	title	Fundamentals of Database Systems with Oracle 10g Programming: A Primer  
+object left	has	l 1664
+l 53	title	Data Access Patterns: Database Interactions in Object-Oriented Applications
+object left	has	l bn_2769
+object left	has	l 1766
+object left	has	l bn_56
+object left	has	l bn_446
+l bn_2630	Title	Developing Quality Complex Database Systems
+l 279	title	Oracle Database Administration: The Complete Video Course
+l 1733	title	Proceedings - Symposium on Reliability in Distributed Software and Database Systems: July 21-22, 1981, Pittsburgh, PA
+object left	has	l 2192
+object left	has	l bn_2806
+l bn_133	Title	Physical Database design Using Oracle
+object left	has	l 3405
+object left	has	l bn_1648
+l bn_1665	Title	Expert Database Systems: A Gentle Introduction
+object left	has	l bn_2965
+l bn_2806	Title	Logical Database Design Princi
+object left	has	l 83
+l 1310	title	Distributed Database Systems  
+l 1857	title	Oracle Database 12c PL/SQL Advanced Programming Techniques
+object left	has	l 1907
+l 1921	title	Relational Database Writings 1991-1994
+l bn_986	Title	UML for Database Design / Edition 1
+object left	has	l bn_2451
+object left	has	l 929
+object left	has	l 1373
+object left	has	l bn_2630
+object left	has	l 2769
+l bn_2337	Title	Relational Database Systems
+l 3021	title	MCAD/MCSD/MCSE Training Guide  : SQL Server 2000 Database Design and Implementation  
+object left	has	l 2288
+object left	has	l 1166
+l 2166	title	Object-Oriented Modeling and Design for Database Applications
+l 772	title	OCA/OCP Oracle Database 11g All-in-One Exam Guide with CD-ROM: Exams 1Z0-051, 1Z0-052, 1Z0-053  
+object left	has	l 1532
+object left	has	l 2831
+object left	has	l 367
+object left	has	l 2112
+l 224	title	OCP: Oracle Database 11g Administrator Certified Professional Certification Kit:  
+object left	has	l 3312
+l 2050	title	Systems Design in a Database Environment  
+l 2856	title	Object Relationship Notation   for Database Applications: Enhancing the Modeling and Implementation of Associations  
+l bn_2769	Title	Concepts of Database Management / Edition 1
+l 2549	title	SQL Server 2014 Database Design
+l bn_2154	Title	DB2: Universal Database Certification Guide / Edition 2
+object left	has	l 1107
+object left	has	l bn_2956
+l bn_95	Title	Data Access Patterns: Database Interactions in Object-Oriented Applications (Software Patterns Series)
+l 5783	Title	Database Systems for Advanced Applications: 19th International Conference, DASFAA 2014, Bali, Indonesia, April 21-24, 2014. Proceedings, Part I 
+object left	has	l 2411
+l 2602	title	DB2 Universal Database Certification Guide
+l 177	title	DATABASE MANAGEMENT SYSTEM
+object left	has	l bn_1975
+object left	has	l 72
+object left	has	l 2527
+object left	has	l bn_34
+l bn_1325	Title	Database Management in Science Technology
+l bn_346	Title	Database and Data Communication Network Systems, Three-Volume Set: Techniques and Applications
+object left	has	l bn_642
+object left	has	l 2515
+object left	has	l 2108
+l bn_660	Title	Delphi/Kylix Database Development
+l 2685	title	Oracle Dataguard: Standby Database Failover Handbook  
+object left	has	l bn_560
+l 1731	title	OCP Oracle Database 11g Administration II Exam Guide: Exam 1Z0-053  
+l bn_191	Title	Database Processing: Fundamental Design and Implement
+object left	has	l 3192
+l 2416	title	SQL Server 2005 Practical Troubleshooting: The Database Engine
+l 390	title	Database Modeling with Microsoft��_��_ Visio for Enterprise Architects  
+object left	has	l bn_2644
+l bn_181	Title	Database Programming Languages, DBPL-4: Proceedings of the Fourth International Workshop on Database Programming Languages, Manhattan, New York City, 30 August-1 September 1993
+l 2112	title	Microsoft Azure SQL Database Step by Step  
+l bn_854	Title	Oracle Database 11g PL/SQL Programming / Edition 1
+l 818	title	Comparing the performance of open source and proprietary relational database management systems.
+object left	has	l bn_365
+l bn_594	Title	Database Management
+object left	has	l 1631
+l bn_2376	Title	Database Support for Software Engineering
+object left	has	l 1384
+l bn_230	Title	Data Mining, Data Warehousing and Client/Server Databases: Proceedings of the 8th International Hong Kong Computer Society Database Workshop (Industrial Stream)
+object left	has	l 755
+l bn_1548	Title	Oracle Database Construction Kit
+object left	has	l bn_1393
+object left	has	l 2648
+l bn_2113	Title	Relation Database Design
+l bn_1408	Title	Spatio-Temporal Database Management: International Workshop STDBM&#039;99 Edinburgh, Scotland, September 10-11, 1999 Proceedings / Edition 1
+l bn_2156	Title	Database Programming Languages (DBPL-5): Proceedings of the Fifth International Workshop on Database Programming Languages, Gubbio, Umbria, Italy, 6-8 September 1995
+l 1429	title	RMAN Recipes for Oracle Database 11g: A Problem-Solution Approach  
+l bn_2965	Title	Database Management Systems: Understanding and Applying Database Technology
+object left	has	l 1678
+l 3325	title	Oracle Database 10g OCP Certification All-In-One Exam Guide  
+object left	has	l 1015
+l 1381	title	Database Systems Using Oracle  
+object left	has	l 1527
+l bn_248	Title	Database Management Systems / Edition 3
+object left	has	l bn_2928
+l bn_1182	Title	MFDBS 89: Proceedings of the 2nd Symposium on Mathematical Fundamentals of Database Systems, Visegrad, Hungary, June 26-30, 1989
+l bn_1620	Title	Database Design: The Semantic Modeling Approach / Edition 1
+l 107	title	Securing SQL Server, Second Edition: Protecting Your Database from Attackers
+l 2156	title	Database Systems: Introduction to Databases and Data Warehouses
+object left	has	l 1431
+object left	has	l 1926
+object left	has	l bn_665
+l 2271	title	Oracle Database 11g & MySQL 5.6 Developer Handbook  
+l 2963	Title	Database Design Using Entity-Relationship Diagrams 
+l bn_1334	Title	Creating a Database in FileMaker Pro 8: Visual QuickProject Guide
+l bn_2191	Title	Implementing Database Security and Auditing / Edition 1
+object left	has	l bn_2799
+object left	has	l bn_2085
+object left	has	l 2094
+l 636	title	Build Your Own Database Driven Website Using PHP and MySQL
+object left	has	l 6378
+object left	has	l 84
+l 6336	Title	Database and XML Technologies: 7th International XML Database Symposium, XSym 2010, Singapore, September 17, 2010, Proceedings 
+object left	has	l 1711
+l 2539	title	Design and Implementation of an Interface Editor for the Amadeus Multi- Relational Database Front-end System
+l 1258	title	Sams Teach Yourself DB2 Universal Database in 21 Days  
+object left	has	l 996
+l 2953	title	Data Analysis for Database Design, Third Edition
+l 2650	title	A Transaction Workload Model and its Application to a Tactical C3 Distributed Database System
+object left	has	l bn_583
+l 2867	title	Distributed Relational Database Architecture Connectivity Guide
+l bn_473	Title	The Structure of the Relational Database Model
+l bn_908	Title	Current Trends in Database Technology - EDBT 2006: EDBT 2006 Workshop PhD, DataX, IIDB, IIHA, ICSNW, QLQP, PIM, PaRMa, and Reactivity on the Web, Munich, Germany, March 26-31, 2006, Revised Selected Papers
+object left	has	l 818
+object left	has	l bn_286
+l 618	title	Advanced Database Technology and Design  
+object left	has	l 2060
+l 1383	title	Oracle Essentials: Oracle Database 11g 4th   Edition by Greenwald, Rick, Stackowiak, Robert, Stern, Jonathan published by O'Reilly Media  
+l 2838	title	Developing Time-Oriented Database Applications in SQL  
+l bn_2659	Title	SQL Server 2008 Database Design Tutorial
+object left	has	l 1330
+l 600	title	Database Design and Relational Theory: Normals Forms and All That Jazz     - Common
+l bn_2249	Title	Securing SQL Server: Protecting Your Database from Attackers
+object left	has	l bn_2961
+object left	has	l 2127
+l bn_568	Title	Practical Database Management
+l bn_2068	Title	The Survival Guide to DB2 Universal Database for Client/Server: Concepts, Design, Programming and Reference
+l 2044	title	Database Administration: The Complete Guide to Practices and Procedures
+object left	has	l bn_26
+object left	has	l bn_2068
+l 1322	title	Oracle Essentials, 3e: Oracle Database 10g
+l 3312	title	Database Systems: Design, Implementation, and Management  
+l bn_180	Title	Jeffrey McManus' Database Access with Visual Basic 6
+object left	has	l 354
+l bn_2490	Title	Multimedia Database Management Systems / Edition 1
+l 2077	title	The Database Factory: Active Database for Enterprise Computing  
+object left	has	l bn_1168
+object left	has	l 1893
+object left	has	l bn_2185
+l 2849	title	Oracle Database 10g SQL  
+l bn_1925	Title	Physical Database Design for SYBASE SQL Server
+object left	has	l bn_1719
+object left	has	l bn_2838
+object left	has	l bn_1224
+l bn_2975	Title	MySQL Database Usage &amp; Administration / Edition 1
+object left	has	l bn_1641
+l 655	title	Semistructured Database Design  
+object left	has	l 2849
+l bn_593	Title	Database Developer's Guide with Visual C++ 2
+object left	has	l 1942
+object left	has	l bn_2821
+l bn_207	Title	WebRAD: Building Database Applications on the Web with Visual Foxpro and Web Connection
+l bn_1987	Title	Oracle Database 10g PL/SQL Programming / Edition 1
+l bn_492	Title	Principles of Database Systems with Internet and Java Applications / Edition 1
+object left	has	l bn_1755
+l 1632	title	AutoCAD Database Connectivity  
+object left	has	l 98
+object left	has	l bn_546
+object left	has	l bn_713
+l 1276	title	New Approach in Fault Tolerant Commit Protocol: Development of New Non-Blocking Commit Protocol for High Availability Distributed Database Systems
+object left	has	l bn_2476
+object left	has	l bn_1360
+object left	has	l bn_2975
+object left	has	l bn_1701
+object left	has	l 2807
+object left	has	l bn_1740
+l bn_2510	Title	Database 101: Database Primer
+object left	has	l bn_1754
+object left	has	l 2472
+object left	has	l 1276
+object left	has	l 721
+object left	has	l 3227
+l bn_1771	Title	Selected Readings On Database Technologies And Applications
+object left	has	l bn_2212
+object left	has	l bn_2815
+object left	has	l 2242
+l 3334	title	World Wide Web Database Programming for Windows NT
+object left	has	l 3329
+l 1825	title	Fundamentals of Database Management Systems
+l 1177	title	FoxBASE+ Relational Database Management System
+object left	has	l bn_2777
+l 1631	title	Practical Web Database Design
+l 1514	Title	Database Security, VI: Status and Prospects 
+object left	has	l bn_331
+l bn_1343	Title	Distributed Database Management
+object left	has	l 2343
+l bn_2586	Title	Perl Database Programming / Edition 1
+object left	has	l 265
+object left	has	l 1712
+l bn_1729	Title	Relational Database Systems / Edition 1
+l 225	title	Oracle Database 10g Performance Tuning Tips & Techniques  
+l bn_904	Title	Oracle Database 10g Performance Tuning Tips &amp; Techniques / Edition 1
+object left	has	l 233
+object left	has	l bn_1325
+l bn_1402	Title	The Web Warrior Guide to Web Database Technologies / Edition 1
+object left	has	l 1008
+object left	has	l 2740
+l bn_555	Title	Advanced Topics In Database Research, Volume 4
+l 1114	title	Database Systems
+object left	has	l bn_2849
+l 90	title	Pro Oracle Spatial for Oracle Database 11g  
+object left	has	l bn_1037
+l 3047	Title	Advanced Database Technology and Design 
+l 3398	title	DB2 Universal Database  v7.1 for UNIX, Linux, Windows and OS/2 Database Administration Certification Guide  
+l 1041	title	Java 2 Database Programming For Dummies
+l 2120	Title	The Web Warrior Guide to Web Database Technologies
+object left	has	l 838
+object left	has	l bn_477
+l 883	title	Microsoft��_��_ SQL Server��_��_ 2005: Database Essentials Step by Step  
+l bn_2199	Title	Oracle Database Security, Audit and Control Features
+object left	has	l bn_1970
+object left	has	l bn_2131
+object left	has	l 1436
+object left	has	l bn_648
+l bn_2849	Title	Handbook of Relational Database Design / Edition 1
+l bn_2266	Title	Database and Expert Systems Applications: Proceedings of the International Conference, Valencia, Spain
+l bn_2230	Title	Inside ODBC: Developer's Guide to the Industry Standard for Database Connectivity
+l 1301	title	Database Theory and Application, Bio-Science and Bio-Technology: International Conferences, DTA and BSBT 2011, Held as Part of the Future Generation ... in Computer and Information Science)
+object left	has	l bn_1733
+object left	has	l bn_2075
+l bn_642	Title	Oracle Database 10g New Features
+l bn_1399	Title	Enterprise Database Connectivity
+object left	has	l 773
+l 996	title	Database Design, Application & Administration w/ ER Asst
+object left	has	l bn_658
+object left	has	l 1429
+l bn_2288	Title	DB2 Universal Database v7.1: Application Development Certification Guide
+object left	has	l 2331
+l 462	title	Study Blast CIW Database Design Specialist: ID0-541 - CIW Database Design Specialist Exam
+object left	has	l bn_180
+object left	has	l 3282
+object left	has	l 646
+object left	has	l 2181
+l bn_1318	Title	Database Systems for Advanced Applications '91: Proceedings of the Second International Symposium on Database Systems for Advanced Applications, April 2-4, 1991, Tokyo, Japan
+l bn_1468	Title	OCP Oracle Database 10g: New Features for Administrators Exam Guide / Edition 1
+l 3504	title	Managing Distributed Databases: Building Bridges between Database Islands
+object left	has	l 398
+object left	has	l 3415
+object left	has	l bn_2199
+object left	has	l 1737
+l bn_2963	Title	Creating a Database in FileMaker: Visual QuickProject Guide
+l bn_2899	Title	Entity-Relationship Modeling: Foundations of Database Technology / Edition 1
+object left	has	l 3202
+object left	has	l 1694
+l 2127	title	Information Systems Database Systems Intermediate: Relational Database Systems Higher: v. 2  
+l 1928	title	Concepts of Database Management
+object left	has	l bn_1209
+l bn_2359	Title	Oracle Database Performance Tuning Inter
+l 1117	title	Business Database Systems
+object left	has	l bn_1897
+object left	has	l 1654
+l bn_1491	Title	SQL and Relational Basics: A Practical Guide for PC Database Users
+l 1227	title	Database Programming with Visual Basic .NET
+object left	has	l 3029
+object left	has	l bn_2664
+l bn_2909	Title	The Paradox Relational Database Advisor
+l bn_1591	Title	The Real MCTS SQL Server 2008 Exam 70-433 Prep Kit: Database Design
+object left	has	l 3486
+l bn_582	Title	Aster Data Database Administration
+object left	has	l bn_205
+object left	has	l 833
+l bn_2789	Title	Parallel Database Techniques / Edition 1
+l 2565	title	A Distributed Object-Oriented Database Application Design
+object left	has	l bn_2000
+object left	has	l 225
+l bn_2096	Title	Database Machines and Database Management
+object left	has	l bn_854
+l bn_1393	Title	Database Security: Status and Prospects: Results of the IFIP WG 11.3 Workshop on Databas Security, Bad Salzdetfurth, Germany, 23-26 August 1994
+object left	has	l bn_2126
+l bn_1597	Title	Distributed Database Technology
+l 1259	title	SQL Server 2012 Database Design
+l 940	title	SQL Server 2012 Administration Joes 2 Pros   Volume 2: A Database Administrator Tutorial on Administering Database Security with SQL Server 2012
+l 370	title	Database Mining: Propositionalization for Knowledge Discovery in Relational Databases
+object left	has	l 3293
+object left	has	l 1754
+object left	has	l 1800
+object left	has	l 1165
+l 3293	title	Beginner Database Design & SQL Programming Using Microsoft SQL Server 2014
+object left	has	l 336
+object left	has	l bn_709
+object left	has	l bn_2573
+object left	has	l 2434
+object left	has	l 74
+object left	has	l bn_90
+l bn_1989	Title	Oracle Database Foundations: Technology Fundamentals for IT Success
+l 2075	title	Database Practitioner's Guide to Useable Mathematics
+l 3286	title	Distributed Database System
+l bn_2744	Title	Fund Database Systems
+l bn_2821	Title	Understanding Relational Database Query Languages / Edition 1
+l 3029	title	Oracle Database 11g The Complete Reference  
+object left	has	l bn_579
+l 2785	title	Relational Database Design With Microcomputer Applications
+object left	has	l bn_1361
+object left	has	l 1538
+object left	has	l 2850
+l bn_479	Title	Oracle Database 10g: A Beginner's Guide
+l bn_2709	Title	Managing Information with MicroComputers: Database Management Systems
+l 1472	title	OCA/OCP Oracle Database 12c All-in-One Exam Guide  
+l bn_1719	Title	Enterprise Database in a Client-Server Environment
+l bn_2987	Title	The Object Database Handbook: How to Select, Implement, and Use Object-Oriented Databases
+l 1330	title	Rules in Database Systems: Second International Workshop, RIDS '95, Glyfada, Athens, Greece, September 25 - 27, 1995. Proceedings  
+l bn_2387	Title	Database Management with Paradox 5.0 for Windows (Mastering Today's Software)
+l bn_2928	Title	Database Theory - ICDT 2005: 10th International Conference, Edinburgh, UK, January 5-7, 2005, Proceedings
+object left	has	l 2757
+object left	has	l bn_2455
+object left	has	l 2272
+l bn_903	Title	Parallel Architectures for Database Systems
+object left	has	l bn_1413
+l 1969	title	Pro SQL Server 2012 Relational Database Design and Implementation  
+object left	has	l 2367
+l 2434	title	Relational Database Design and Implementations Using DB2
+l bn_1295	Title	Beginning Database Design Solutions (Wrox Programmer to Programmer Series) / Edition 1
+l bn_965	Title	Database Systems: The Complete Book / Edition 2
+object left	has	l bn_1343
+l 796	title	Oracle Database 12c The Complete Reference  
+object left	has	l 3092
+l bn_1073	Title	Oracle Database 11g Release 2 High Availability: Maximize Your Availability with Grid Infrastructure, RAC and Data Guard
+object left	has	l bn_2253
+object left	has	l 340
+l bn_1628	Title	OS/2 Database Manager: A Developer's Guide
+object left	has	l 78
+object left	has	l bn_610
+l bn_1902	Title	Oracle Database 10g High Availability with RAC, Flashback &amp; Data Guard / Edition 1
+l 1014	title	Beginning Database Design Solutions
+object left	has	l bn_1925
+object left	has	l bn_1489
+l 1837	title	Oracle Database 11g R2: Grid Infrastructure & ASM
+l 8500	Title	DynamoDB: EVERYTHING YOU NEED TO KNOW ABOUT AMAZON WEB SERVICE'S NoSQL DATABASE
+l 3471	Title	Database Systems: Design, Implementation, & Management
+object left	has	l bn_2268
+object left	has	l bn_415
+object left	has	l 1733
+object left	has	l 1418
+l 2628	title	File Organization for Database Design  
+object left	has	l bn_1778
+l bn_2245	Title	Advances in Database Technology - EDBT '92
+object left	has	l 655
+object left	has	l 1177
+object left	has	l bn_2046
+object left	has	l 2853
+object left	has	l bn_2337
+object left	has	l bn_1680
+object left	has	l 2111
+object left	has	l bn_1764
+object left	has	l 11
+l 1866	title	Database Management Systems-Designing & Building Business Applications
+l 706	title	Database Systems - Introduction to Databases and Data Warehouses 1st   Edition by Jukic, Nenad published by Prentice Hall  
+object left	has	l 1857
+l 1198	title	Study Guide for 1Z0-050: Oracle Database 11g: New Features for Administrators: Oracle Certification Prep
+l bn_780	Title	Database and Expert Systems Applications: 13th International Conference, DEXA 2002, Aix-en-Provence, France, September 2-6, 2002. Proceedings
+l bn_219	Title	OCA Oracle Database 11g: SQL Fundamentals I: A Real World Certification Guide (1ZO-051)
+l bn_1168	Title	Modern Database Management &amp; Oracle 8i Software / Edition 5
+object left	has	l 2899
+object left	has	l 1469
+l bn_1651	Title	Database IV: Short Course
+object left	has	l bn_2291
+l 526	title	Db90: A FORTRAN Callable Relational Database Routine for Scientific and Engineering Computer Programs
+l bn_1920	Title	Designing Effective Database Systems
+l bn_1871	Title	Relational Database Design: A Practical Approach
+object left	has	l 2166
+object left	has	l bn_393
+object left	has	l bn_1402
+object left	has	l 2422
+l 7796	Title	Database Programming Using R
+object left	has	l 2261
+object left	has	l bn_2903
+object left	has	l 2162
+object left	has	l 1383
+l bn_2166	Title	Database Systems: Management and Design
+l 6028	Title	Advances in Database Technology -- EDBT 2006: 10 International Conference on Extending Database Technology, Munich, Germany, 26-31 March 2006, ... Applications, incl. Internet/Web, and HCI)
+object left	has	l bn_2118
+object left	has	l bn_692
+l 2543	title	Building Scalable Database Applications: Object-Oriented Design, Architectures and Implementations
+l 84	title	Time-Constrained Transaction Management: Real-Time Constraints in Database Transaction Systems  
+l bn_33	Title	Beginning ASP Database
+object left	has	l bn_1554
+l bn_1116	Title	DATABASE MANAGEMENT SYSTEM ORACLE SQL AND PL/SQL
+l bn_323	Title	Nontraditional Database Systems
+object left	has	l bn_1352
+l bn_2907	Title	MCITP Self-Paced Training Kit (Exam 70-443): Designing a Database Server Infrastructure Using Microsoft SQL Server(TM) 2005
+l bn_2523	Title	Distributed and Parallel Database Object Management
+l bn_2097	Title	Ninth International Conference on Scientific and Statistical Database Management: Proceedings
+l 1664	title	A Manager's Guide to Database Technology: Building and Purchasing Better Applications
+l bn_2268	Title	Advanced Database Systems: 10th British National Conference on Databases, BNCOD 10, Aberdeen, Scotland, July 6 - 8, 1992. Proceedings / Edition 1
+object left	has	l bn_2108
+object left	has	l bn_2487
+object left	has	l bn_1872
+l bn_2815	Title	Specifications of Database Systems: First International Workshop on Specifications of Database Systems, Glasgow, 3-5 July, 1991 Proceedings
+object left	has	l 178
+object left	has	l bn_2651
+object left	has	l bn_2049
+object left	has	l 1326
+l 1425	title	Database Systems: A Practical Approach to Design, Implementation, and Management  
+l bn_1214	Title	Statistical and Scientific Database Management
+l bn_1680	Title	The Database Relational Model: A Retrospective Review and Analysis / Edition 1
+l 1621	title	Relational Database Design and Implementation, Third Edition: Clearly Explained  
+l bn_1506	Title	DB2 Universal Database v7.1 for UNIX, Linux, Windows and OS/2 Database Administration Certification Guide / Edition 4
+object left	has	l bn_780
+l 1637	title	Database Design and Development: A Visual Approach
+object left	has	l 5185
+l 2172	title	Distributed Database Management Systems A Practical Approach by Rahimi, Saeed K., Haug, Frank S.    
+l 1361	Title	Nearest Neighbor Search: A Database Perspective 
+l bn_2763	Title	The Visual Guide to Microsoft Access: The Pictorial Companion to Windows Database Management and Programming
+object left	has	l bn_479
+object left	has	l 2319
+l bn_553	Title	Microsoft Access Small Business Solutions: State-of-the-Art Database Models for Sales, Marketing, Customer Management, and More Key Business Activities
+l 2711	title	Understanding Relational Database Query Languages
+object left	has	l 8124
+l 1165	title	The Teradata Database : Introduction and SQL
+l 1893	title	Principles of Multimedia Database Systems  
+l 3327	title	Java Database Best Practices
+object left	has	l 3398
+l bn_1257	Title	PHP & MySQL: Your Visual Blueprint for Creating Dynamic, Database Driven Web Sites
+l 2503	title	Database Systems  
+object left	has	l 2543
+object left	has	l bn_1552
+l 1459	title	Study Guide for 1Z0-060: Upgrade to Oracle Database 12c: Oracle Certification Prep
+l 1711	title	Oracle Performance Survival Guide: A Systematic Approach to Database Optimization
+object left	has	l 2602
+object left	has	l bn_794
+l bn_1917	Title	Knowledge Engineering: Unifying Knowledge Base and Database Design
+l bn_1821	Title	Video Database Systems: Issues, Products and Applications / Edition 1
+l 490	title	Database Design for Mere Mortals, with MyITCertificationLab Bundle
+l bn_2348	Title	File and Database Management Programs for the IBM-PC
+object left	has	l 82
+object left	has	l 762
+object left	has	l 149
+object left	has	l 2842
+l 2943	title	Database Design Using Entity-Relationship Diagrams, Second Edition  
+object left	has	l bn_2801
+object left	has	l 1356
+l bn_1855	Title	Practical Oracle Database Appliance
+object left	has	l bn_2406
+object left	has	l bn_2152
+object left	has	l bn_2348
+l bn_2427	Title	Programming in Your Words: With Any Database Program, Expert or Novice, Custom-Make Your Programs, Linguistic Technique, Filing and Accounting System
+l 210	title	SQL Success - Database Programming Proficiency
+object left	has	l bn_1597
+object left	has	l 1361
+object left	has	l bn_551
+object left	has	l bn_1548
+l 3037	title	Oracle Database 11g R2: Step-By-Step Installation Guide
+l bn_377	Title	Data Dictionaries for Database Administrators
+l bn_610	Title	The Database Experts' Guide to IDEAL
+object left	has	l bn_1771
+object left	has	l bn_345
+l bn_2668	Title	Expert Indexing in Oracle Database 11g: Maximum Performance for your Database
+l 2447	title	Securing SQL Server, Third Edition: Protecting Your Database from Attackers
+l 1754	title	SQL Antipatterns: Avoiding the Pitfalls of Database Programming  
+object left	has	l bn_2359
+object left	has	l bn_10
+l 2195	title	MCITP Self-Paced Training Kit  : Designing a Database Server Infrastructure Using Microsoft��_��_ SQL Server��_��_ 2005: Designing a Database Server ... Server 2005  
+object left	has	l bn_2245
+object left	has	l bn_1506
+l 5199	Title	Integrations of Data Warehousing, Data Mining and Database Technologies: Innovative Approaches
+l 2071	title	Expert Consolidation in Oracle Database 12c
+l 821	title	Database Processing: Fundamentals, Design and Implementation  
+l 540	title	MCITP Self-Paced Training Kit  : Designing Database Solutions by Using Microsoft��_��_ SQL Server��_��_ 2005: Designing Database Solutions by Using ... Server 2005  
+l 2819	title	By Rick F. van der Lans - Introduction to SQL: Mastering the Relational Database Language: 4th   Edition
+l 581	title	Tomes of Delphi WIN32 Database Developer's Guide
+l 7252	Title	Database Fundamentals - MTA Microsoft Technology Associate Exam 98-364: 2015 edition
+l 1248	title	Database Design Using Entity-Relationship Diagrams  
+l 2963	Series	Foundations of Database Design (Book 1)
+object left	has	l bn_594
+l 2411	title	Modern Database Systems  
+object left	has	l bn_2899
+object left	has	l 2556
+object left	has	l 2549
+object left	has	l bn_2921
+object left	has	l 1393
+l 2688	title	Oracle Essentials: Oracle Database 12c
+l bn_2126	Title	Research Issues in Structured and Semistructured Database Programming: 7th International Workshop on Database Programming Languages, DBPL'99 Kinloch Rannoch, UK, September 1-3, 1999 Revised Papers
+object left	has	l bn_2909
+object left	has	l bn_2638
+object left	has	l 946
+l bn_244	Title	Database Applications: Job-Based Tasks/Student Package Book and Disk
+l bn_2291	Title	Relational Database Writings, 1991-1994 / Edition 1
+object left	has	l 1117
+object left	has	l bn_2181
+l 3376	title	Object-Oriented Application Development Using the Cache Postrelational Database
+object left	has	l 535
+object left	has	l bn_2970
+object left	has	l bn_1620
+l 1527	title	Higher Vocational Education Curriculum Reform project planning materials : a relational database foundation 
+object left	has	l 1952
+l 2744	title	Conceptual Schema and Relational Database Design
+l bn_16	Title	First Course in Database Systems / Edition 3
+object left	has	l 621
+object left	has	l 76
+object left	has	l 171
+object left	has	l 205
+l 677	title	Oracle Database 10g Insider Solutions
+object left	has	l bn_2154
+object left	has	l 2577
+object left	has	l bn_2594
+object left	has	l bn_2659
+l 2272	title	Database and Applications Security: Integrating Information Security and Data Management
+l 2133	title	Fundamentals of Relational Database Management Systems
+object left	has	l bn_330
+object left	has	l 1741
+l 1491	title	Fundamentals of Relational Database Management System
+l bn_2077	Title	Designing Relational Database Systems
+l bn_2854	Title	Modern Database Management / Edition 7
+l bn_2546	Title	Relational Database Theory
+l bn_583	Title	Database Semantics: Semantic Issues in Multimedia Systems
+l bn_1891	Title	Dr. Dobb's Database Development Tools and Techniques
+l 1427	title	Fixing Access Annoyances: How to Fix the Most Annoying Things About Your Favorite Database
+object left	has	l 1935
+l bn_2805	Title	Advances in Database Technology - EDBT '90
+l 621	title	Designing Database Applications with Objects and Rules: The IDEA Methodology  
+object left	has	l 2095
+object left	has	l bn_1753
+l bn_2970	Title	Advances in Database Systems: Implementations and Applications
+object left	has	l bn_2599
+l bn_2148	Title	Oracle Database 11g The Complete Reference / Edition 1
+l bn_1090	Title	JDBC: Java Database Connectivity
+l bn_2338	Title	Database Management through DBASE
+l bn_2139	Title	Pro SQL Server 2012 Relational Database Design and Implementation
+object left	has	l 1259
+object left	has	l bn_582
+object left	has	l bn_1729
+l bn_721	Title	Content-Based Video Retrieval: A Database Perspective / Edition 1
+object left	has	l bn_33
+object left	has	l 706
+object left	has	l bn_958
+object left	has	l 3264
+l 2136	title	Oracle Database 11g DBA Handbook  
+object left	has	l 2237
+l bn_1209	Title	RMAN Recipes for Oracle Database 11g: A Problem-Solution Approach
+l 2958	title	The Structure of the Relational Database Model    
+object left	has	l 2172
+l bn_435	Title	C++ Database Development: Covers All Versions of C++
+object left	has	l bn_66
+l 2242	title	Introduction to Relational Database Management Systems
+l bn_546	Title	Database Application Engineering with DAIDA
+l 807	title	Study Guide for 1Z0-497: Oracle Database 12c Essentials: Oracle Certification Prep
+l 150	title	Refactoring Databases: Evolutionary Database Design
+l 1129	title	Oracle Database 11g Administrator Certified Master Third Exam Preparation Course in a Book for Passing the 11g OCM Exam - The How To Pass on Your First Try Certification Study Guide
+object left	has	l bn_390
+l bn_2790	Title	Mastering Database Programming with Visual Basic 6
+l bn_1558	Title	Introduction to Database Management: A Practical Approach
+object left	has	l 1630
+l 3493	title	Swarm Based Implementation of a Virtual Distributed Database System in a Sensor Network
+l bn_697	Title	Database System Implementation / Edition 1
+l 1295	title	The Instrumentation of a Parallel, Distributed Database Operation, Retrieve-Common, for Merging Two Large Sets of Records
+object left	has	l 2539
+object left	has	l 1258
+l 2472	title	Introduction to Imaging: Issues in Constructing an Image Database
+l 2580	title	Palm Database Programming: The Complete Developer's Guide
+l bn_493	Title	Sams Teach Yourself Database Programming with Visual Interdev 6 in 21 Days with Cdrom
+l 2223	title	Database Design
+l bn_1300	Title	Database Management and Design
+object left	has	l bn_1821
+l 3368	title	Database Systems: A Practical Approach to Design, Implementation and Management  
+object left	has	l bn_112
+l 2319	title	Database Design for Mere Mortals��_��_: A Hands-On Guide to Relational Database Design 2nd   edition
+l 2288	title	Advances in Databases: Concepts, Systems and Applications: 12th International Conference on Database Systems for Advanced Applications, DASFAA 2007, ... Applications, incl. Internet/Web, and HCI)
+l 2211	Title	Principles of Database and Knowledge-Base Systems Vol. 2: The New Technologies
+object left	has	l 113
+l bn_1524	Title	JDBC: Database Programming with J2EE
+l 1609	title	Database systems- Design, Implementation and Management, 7th
+object left	has	l bn_2675
+l 2233	title	MCAD/MCSE/MCDBA Self-Paced Training Kit: Microsoft��_��_ SQL Server��_��_ 2000 Database Design and Implementation, Exam 70-229: Microsoft  SQL Server  2000 ... 70-229, Second Edition  
+object left	has	l bn_2728
+object left	has	l bn_16
+object left	has	l bn_998
+l 3146	title	Database Solutions: A step by step guide to building databases  
+object left	has	l 2075
+l 3207	title	Oracle Database 11g A Beginner's Guide
+object left	has	l bn_1944
+object left	has	l 488
+object left	has	l bn_2504
+l bn_1740	Title	Intelligent Database Tools and Applications: Hyperinformation Access, Data Quality, Visualization, Automatic Discovery
+l bn_1780	Title	Object-Oriented Database Design Clearly Explained / Edition 1
+object left	has	l bn_697
+object left	has	l 2953
+l 1393	Series	Advances in Database Systems (Book 34)
+l 43	title	Database Design and Relational Theory: Normal Forms and All That Jazz  
+l 1618	title	Distributed Tactical Decision Support by Using Real-Time Database System
+object left	has	l 490
+l bn_2118	Title	Distributed Database Systems
+l bn_2956	Title	Murach&#039;s ADO. NET 4 Database Programming with VB 2010 / Edition 4
+l bn_2253	Title	Principles of Database Systems
+l bn_2143	Title	DB2 Universal Database SQL Developer's Guide
+object left	has	l bn_251
+l 82	title	MCITP Developer: Microsoft SQL Server 2005 Database Solutions Design
+l bn_48	Title	Practical Database Programming with Visual Basic.NET
+l bn_307	Title	Database Design for Information Retrieval: A Conceptual Approach
+l 2323	title	Statistical Modeling and Analysis for Database Marketing: Effective Techniques for Mining Big Data
+object left	has	l bn_1435
+object left	has	l 3218
+l 950	title	Big Data Integration Theory: Theory and Methods of Database Mappings, Programming Languages, and Semantics  
+object left	has	l bn_74
+object left	has	l 2580
+l bn_407	Title	Database Design for Smarties: Using UML for Data Modeling / Edition 1
+l 2192	title	Expert Oracle Database Architecture: 9i and 10g Programming Techniques and Solutions
+object left	has	l bn_2262
+l 1154	Title	Database of Dreams: The Lost Quest to Catalog Humanity
+object left	has	l 3207
+l 1694	title	Effective Oracle Database 10g Security by Design
+l 4352	Title	Pro PowerShell for Database Developers
+l 2373	title	Visual Basic.NET Database Programming For Dummies
+l 1218	title	Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design  
+l 8124	Title	PHP: MySQL & PHP Programming Guide - Web Development, Database & Hacking 
+object left	has	l bn_2490
+l 646	title	Database Modeling and Design, Third Edition  
+object left	has	l bn_2387
+l bn_1092	Title	Stored Procedures, Triggers and User Defined Functions on DB2 Universal Database for Iseries
+object left	has	l 2504
+l bn_1764	Title	Information and Database Quality
+l 1653	title	Oracle Database 12c Performance Tuning Recipes: A Problem-Solution Approach  
+l 946	title	OCP Oracle Database 10g: New Features for Administrators Exam Guide  
+object left	has	l 3469
+l 1926	title	Study Guide for 1Z0-146: Oracle Database 11g: Advanced PL/SQL  
+l 3415	title	Microsoft SQL Server: Planning and Building a High Performance Database
+object left	has	l 673
+l 1368	Title	Multimedia Database Retrieval:: A Human-Centered Approach 
+l 1907	Title	Database Systems: Design, Implementation, and Management 
+l bn_2381	Title	Visual Guide to Paradox for Windows: The Pictorial Companion to Windows Database Management and Programming
+object left	has	l 688
+l bn_1412	Title	Database Applications Using PROLOG
+object left	has	l 618
+l bn_2838	Title	QR/Data Database 5 for DOS for Dummies
+l 2963	title	Virtualize Oracle Business Critical Databases: Database Infrastructure As A Service
+l 2181	title	Relational Database Principles
+object left	has	l bn_2148
+l 2648	title	Database Modeling and Design: Logical Design, 4th Edition  
+object left	has	l bn_2858
+l 1732	title	Database Management Systems, 3rd Edition
+object left	has	l 1459
+object left	has	l bn_789
+l bn_1046	Title	Database Security: Status and Prospects: Results of the IFIP WG 11.3 Workshop on Data Base Security, Lake Guntersville, Alabama, U. S. A., 12-15 September, 1993
+object left	has	l 5783
+object left	has	l 1824
+object left	has	l bn_1628
+l 2776	title	Database Schema Evolution and Meta-Modeling: 9th International Workshop on Foundations of Models and Languages for Data and Objects FoMLaDO/DEMM 2000 ... Papers  
+object left	has	l 1765
+l bn_1030	Title	Database Security XI: Status and Prospects
+object left	has	l bn_1276
+object left	has	l bn_2191
+object left	has	l bn_2338
+l 929	title	Instructor's Review Copy - Database Processing  
+object left	has	l bn_752
+l bn_87	Title	Database Processing (International Edition)
+object left	has	l 3456
+l bn_66	Title	Oracle Database 12c: Install, Configure &amp; Maintain Like a Professional
+object left	has	l 2654
+l bn_205	Title	Soft Computing Applications For Database Technologies
+l bn_2000	Title	Algebraic Structures in Automata and Database Theory
+object left	has	l bn_1300
+object left	has	l 2819
+object left	has	l 919
+l 3486	title	Database in Depth: Relational Theory for Practitioners 1st   Edition by Date, C.J. published by O'Reilly Media  
+object left	has	l 2050
+object left	has	l 2195
+object left	has	l 3493
+object left	has	l 2952
+l 673	title	Database and Expert Systems Applications: 8th International Conference, DEXA'97, Toulouse, France, September 1-5, 1997, Proceedings  
+l 1158	title	Object Management in Distributed Database Systems for Stationary & Mobile Computing by Wujuan Lin, Veeravalli, Bharadwaj.    
+object left	has	l 1609
+l bn_2247	Title	Practical Database Techniques
+object left	has	l 2962
+object left	has	l 677
+l bn_1507	Title	The Database Factory; Active Database for Enterprise Computing
+object left	has	l 1428
+object left	has	l 1618
+object left	has	l 1677
+object left	has	l 2271
+l 219	title	Database and Expert Systems Applications: 21st International Conference, DEXA 2010, Bilbao, Spain, August 30 - September 3, 2010, Proceedings, Part I ... Applications, incl. Internet/Web, and HCI)
+object left	has	l bn_2558
+object left	has	l 332
+object left	has	l 3170
+l bn_1260	Title	Database Systems for Advanced Applications: 13th International Conference, DASFAA 2008, New Delhi, India, March 19-21, 2008, Proceedings / Edition 1
+object left	has	l 434
+l bn_1681	Title	ProCite in Libraries: Applications in Bibliographic Database Management
+object left	has	l 230
+object left	has	l 1488
+l 2710	title	MySQL Cookbook: Solutions for Database Developers and Administrators
+l 3002	title	Database Modeling & Design: The Fundamental Principles  
+l 226	title	Careers in Database Design  
+l 838	title	Database Systems for Advanced Applications: 14th International Conference, DASFAA 2009, Brisbane, Australia, April 21-23, 2009, Proceedings  
+l 1800	title	Database Development and Management   by Chao, Lee    
+object left	has	l 2855
+object left	has	l 2838
+object left	has	l bn_2477
+object left	has	l 36
+object left	has	l 261
+l 434	title	Defensive Database Programming with SQL Server
+object left	has	l 2055
+object left	has	l 2251
+object left	has	l 4286
+l bn_1224	Title	Constraint Databases and Applications: Second International Workshop on Constraint Database Systems, CDB &#039;97, Delphi, Greece, January 11-12, 1997, CP&#039;96 Workshop on Constraints and Databases, Cambridge, MA, USA, August 19, 1996, Selected papers / Edition 1
+object left	has	l bn_2789
+object left	has	l 3278
+object left	has	l 53
+l 171	title	Oracle Database 11g Building Oracle XML DB Applications  
+l bn_2835	Title	Oracle Database 11g PL/SQL Programming Workbook / Edition 1
+object left	has	l bn_2385
+l 2094	title	Beginner Database Design & SQL Programming Using Microsoft SQL Server 2012
+object left	has	l bn_307
+l 909	title	Programming the Perl DBI: Database programming with Perl
+l 930	title	Web Database Development Step by Step  
+object left	has	l 2908
+object left	has	l bn_1086
+object left	has	l bn_910
+object left	has	l 5877
+object left	has	l bn_872
+object left	has	l 3325
+object left	has	l bn_2077
+object left	has	l 1491
+object left	has	l 1948
+object left	has	l bn_213
+l bn_2656	Title	DB2/400: The New as/400 Database
+l bn_1678	Title	Pro Oracle Database 12c Administration
+l bn_1782	Title	Running Database with Windows
+l bn_2675	Title	Database and Expert Systems Applications: 11th International Conference, DEXA 2000 London, UK, September 4-8, 2000 Proceedings
+object left	has	l bn_2029
+object left	has	l 2774
+object left	has	l 2998
+object left	has	l bn_593
+object left	has	l 2943
+l bn_2085	Title	Strategic Planning Systems Analysis and Database Design: The Continuous Flow Approach
+l 367	title	Database System: Design, Implementation, and Management 10th Edition  
+l 76	title	Database applications-ACCESS relational database tutorial 
+l bn_1342	Title	Database Projects
+object left	has	l 30
+object left	has	l 772
+object left	has	l bn_2529
+object left	has	l 1978
+object left	has	l bn_1963
+l bn_2160	Title	Object-Relational Database Development : A Plumber&#039;s Guide / Edition 1
+object left	has	l 877
+object left	has	l 3062
+l 2952	title	The Data Access Handbook: Achieving Optimal Database Application Performance and Scalability
+object left	has	l 360
+object left	has	l 1077
+l 2868	title	Distributed Database Managements: Tutorial, IEEE Catalog Number EHO2220.
+l bn_2638	Title	Oracle 9i Database Administrator II : Backup/Recovery and Network Administration / Edition 1
+object left	has	l 3327
+object left	has	l 1099
+l 3092	title	Database Application Development & Design w/ERD Drawing Tool
+l bn_2049	Title	Database Modeling For Industrial Data Management
+l bn_1648	Title	Engineering Databases: Survey of Existing Engineering Database Management Systems, Criteria for Selecting a Database, and Some Practical Experiences in Applying a Database System
+object left	has	l 31
+l 2914	title	Database Management and Design  
+object left	has	l bn_377
+object left	has	l 3473
+l 3165	title	Database and Expert Systems Applications: 13th International Conference, DEXA 2002, Aix-en-Provence, France, September 2-6, 2002. Proceedings  
+l 2800	title	Relational Database Writings 1985-1989
+l bn_1037	Title	Oracle Database Administration Interview Questions You'll Most Likely Be Asked
+l 2757	Series	Advances in Database Systems (Book 18)
+object left	has	l bn_1275
+object left	has	l bn_2146
+object left	has	l 2623
+l 1737	title	DB2 Universal Database V8 for Linux, UNIX, and Windows Database Administration Certification Guide  
+l 1488	title	Fundamentals of Database Systems
+l bn_194	Title	Design of Database Structures
+l bn_2529	Title	C Database Development
+object left	has	l 169
+object left	has	l 2800
+l bn_1286	Title	Database Programming with JDBC and Java
+l 825	title	Oracle Database 10g RMAN Backup & Recovery
+l 72	Title	Database Design 
+l 1507	title	Modern Database Management Casebook
+l 3114	title	Database Management Systems
+object left	has	l bn_2160
+l bn_665	Title	Agile Database Techniques: Effective Strategies for the Agile Software Developer
+l bn_2662	Title	Managing Distributed Databases: Building Bridges Between Database Islands
+l 2367	title	Database Aesthetics: Art in the Age of Information Overflow  
+object left	has	l bn_167
+l bn_2539	Title	Database Management Systems: A Handbook for Managers and Their Advisors / Edition 1
+object left	has	l 2650
+object left	has	l bn_1840
+l 3046	title	Database Programming with JDBC & Java  )
+object left	has	l bn_441
+l bn_2153	Title	Waite Group's Visual Basic 6 Database How-To
+object left	has	l bn_828
+object left	has	l bn_2902
+l 3337	title	Database Design  
+object left	has	l 2142
+object left	has	l bn_75
+object left	has	l bn_1090
+object left	has	l 983
+object left	has	l bn_885
+l 1978	title	Database Processing: Fundamentals, Design, and Implementation, Ninth Edition
+object left	has	l 2689
+object left	has	l 3011
+l 3873	Title	Pro SQL Database for Windows Azure: SQL Server in the Cloud
+object left	has	l 1740
+l 1855	title	Accounting Database Design And T-SQL Reporting: Accounting Information System Design
+l 340	title	Database Systems Handbook
+l bn_49	Title	Database Design with FileMaker Pro for the Mac
+l 1728	title	Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design
+l bn_692	Title	Relational Database Design: An Introduction
+object left	has	l bn_2987
+l 2060	title	Database Performance Tuning Handbook, with CD-ROM    
+l bn_2728	Title	Readings in Database Systems / Edition 3
+object left	has	l 1158
+object left	has	l bn_248
+l bn_2093	Title	Creating Highly Available Database Solutions: Oracle Real Application Clusters (RAC) and Sun Cluster 3. x Software
+l 1124	title	Pro ODP.NET for Oracle Database 11g  
+object left	has	l bn_1491
+l 942	title	Designing Relational Database Systems  
+object left	has	l 127
+object left	has	l bn_2805
+object left	has	l 825
+object left	has	l bn_1558
+object left	has	l bn_965
+l 3282	title	Database Publishing with Filemaker Pro on the Web
+object left	has	l 2408
+object left	has	l 2710
+object left	has	l bn_1507
+l bn_1413	Title	Advanced Database Systems for Integration of Media and User Environments, '98
+object left	has	l 2565
+object left	has	l bn_1164
+object left	has	l 2711
+l 2504	title	Advanced DBA Certification Guide and Reference for DB2 Universal Database v8 for Linux, UNIX, and Windows
+l 3192	title	Distributed Database Management Evaluation Software
+object left	has	l 2257
+l 1268	title	Object-Oriented Database Design Clearly Explained
+l 264	title	Database Systems: Design, Implementation, and Management 10th Edition by Coronel, Carlos, Morris, Steven, Rob, Peter  
+object left	has	l bn_2772
+object left	has	l bn_689
+object left	has	l bn_1669
+object left	has	l 2759
+l 2343	title	Visual Basic 5 Database Developer's Guide
+l bn_251	Title	Database Concurrency Control: Methods, Performance, and Analysis / Edition 1
+l 1289	title	User's Guide: Microsoft FoxPro: Relational Database Management System for Windows
+object left	has	l bn_1334
+object left	has	l bn_2709
+l bn_2040	Title	Database Experts' Guide to Database 2
+l 205	title	Database Design and Programming for DB2/400
+object left	has	l 304
+l bn_2961	Title	DB2 Universal Database V8.1 for Linux, UNIX, and Windows Database Administration Certification Guide, Fifth Edition / Edition 5
+l bn_330	Title	Object Database Standard: ODMG-93
+object left	has	l 1425
+object left	has	l bn_1214
+l 2623	title	Relational Database Design Clearly Explained, Second Edition  
+l 1824	title	Oracle Database 10g DBA Handbook
+l 332	title	DB2  Universal Database V8.1 Certification Exam 703 Study Guide
+object left	has	l 1301
+object left	has	l 1898
+object left	has	l bn_232
+l 78	title	An Introduction to Database Systems  
+l 1008	title	An Empirical Evaluation of Analytical Models for Parallel Relational Database Queries
+l bn_2170	Title	Beginning Visual Basic 6 Database Programming
+l 3473	Title	Microsoft Visual Basic 2012 for Windows, Web, Office, and Database Applications: Comprehensive 
+l bn_56	Title	Database Management with Double Helix II for the MacIntosh and VAX
+object left	has	l bn_338
+l 6603	Title	Designing Effective Database Systems 
+l 1180	title	Distributed Database Systems Integration: Models and Approaches
+l 3652	Title	Oracle 10g Database Administrator: Implementation and Administration
+l bn_1975	Title	Applied Mathematics for Database Professionals / Edition 1
+object left	has	l bn_1651
+object left	has	l bn_1440
+l bn_2876	Title	Database Administration Fundamentals: MTA 98-364 / Edition 1
+object left	has	l bn_903
+l 2493	title	Database Processing  
+object left	has	l 2688
+object left	has	l 90
+l bn_837	Title	Database Design and Implementation
+object left	has	l 279
+l bn_1086	Title	SAP Database Administration with MS SQL Server 2000
+object left	has	l 831
+l bn_885	Title	Keeping Up With Oracle Database 12c Multitenant - Book One: CDBs, PDBs and the Multitenant World
+l 8246	Title	Ruby: Beginner's Guide for Ruby - Database Programming, Data Science, Data Structures & Algorithms
+l 336	title	Phase change memory in Relational Database
+object left	has	l bn_2668
+l 721	title	OCA Oracle Database SQL Certified Expert Exam Guide    
+l 762	title	Relational Database Design: An Introduction  
+object left	has	l bn_1524
+l bn_961	Title	Rules in Database Systems: Second International Workshop, RIDS &#039;95, Glyfada, Athens, Greece, September 25 - 27, 1995. Proceedings / Edition 1
+object left	has	l 1660
+object left	has	l bn_757
+object left	has	l 914
+object left	has	l 89
+l bn_1963	Title	Oracle Database 11g Administration I Certification Guide
+object left	has	l 413
+l bn_2122	Title	Microbook: Database Management for the Apple II Computer
+l 461	title	Relational Database Index Design and the Optimizers
+l bn_2657	Title	Access Database Design and Programming: What You Really Need to Know to Develop with Access
+object left	has	l 1825
+l 2577	title	DB2  Universal Database V8 Handbook for Windows, UNIX, and Linux  
+l 3161	title	Study Guide for 1Z0-047: Oracle Database SQL Expert: Oracle Certification Prep
+object left	has	l 2281
+object left	has	l bn_1035
+l 454	title	OCP Oracle Database 12c Advanced Administration Exam Guide    
+object left	has	l 2136
+l bn_144	Title	Visual Basic Database Programming
+object left	has	l 1990
+l bn_2487	Title	Amazon Redshift: A Columnar Database SQL and Architecture (PagePerfect NOOK Book)
+object left	has	l bn_2113
+object left	has	l 3090
+object left	has	l 3210
+l bn_990	Title	An Introduction to Database Systems
+object left	has	l 3194
+l bn_2330	Title	The Object Database Standard: ODMG-93, Release 1.2 / Edition 1
+object left	has	l 2508
+l 1826	title	Oracle Database & Data Warehouse 11g: Performance Assessment
+object left	has	l bn_2971
+l 1935	title	Database Systems: Design, Implementation, and Management
+object left	has	l bn_133
+object left	has	l 2118
+object left	has	l bn_435
+l bn_678	Title	Keyguide to Information Sources in Online and CD-ROM Database Searching
+object left	has	l 796
+l 1381	Series	Advances in Database Systems (Book 32)
+object left	has	l 2045
+l 1677	Title	Exam 98-364 MTA Database Administration Fundamentals
+object left	has	l bn_191
+l bn_713	Title	Developing Analytical Database Applications
+object left	has	l bn_1394
+object left	has	l bn_493
+object left	has	l 2223
+l bn_2198	Title	No Code Database Design with Access 2.0
+object left	has	l bn_568
+object left	has	l 1124
+l 3062	title	Oracle Database 10g Express Edition PHP Web Programming  
+object left	has	l 210
+l bn_2385	Title	MFDBS '91: Third Symposium on Mathematical Fundamentals of Database and Knowledge Base Systems, Rostock, FRG, May 6-9, 1991, Proceedings
+l bn_65	Title	Test-Driven Database Development: Unlocking Agility
+object left	has	l 2503
+object left	has	l 3002
+object left	has	l bn_1538
+object left	has	l bn_1678
+l bn_74	Title	Aspect-Oriented Database Systems / Edition 1
+l bn_2181	Title	Database Basics: Skills Book
+object left	has	l bn_65
+l bn_2477	Title	Database Benchmarking: Practical Methods for Oracle & SQL Server
+l bn_1276	Title	High Performance Relational Database Design
+object left	has	l 2044
+object left	has	l 2911
+object left	has	l 600
+object left	has	l bn_1412
+l bn_128	Title	A Practical Approach to Database Systems
+object left	has	l bn_2854
+l bn_1537	Title	Pro Oracle Database 10g RAC on Linux: Installation, Administration, and Performance / Edition 1
+l 1836	title	The Official Introduction to DB2  for z/OS : Covers DB2  Universal Database for z/OS  Version 8  
+l 3170	title	Teach Yourself Database Programming With Delphi in 21 Days  
+object left	has	l bn_128
+l 398	title	The Relational Model for Database Management: Version 2
+object left	has	l bn_990
+object left	has	l bn_144
+object left	has	l 2856
+object left	has	l bn_2266
+l 2059	title	The Set Model for Database and Information Systems  
+l 2774	title	Content-Based Video Retrieval: A Database Perspective  
+object left	has	l 1632
+l 2831	title	High Performance Oracle Data Warehousing: All You Need to Master Professional Database Development Using Oracle
+l 3090	title	Database Design and Development: An Essential Guide for IT Professionals
+l bn_538	Title	Oracle Database Programming using Java and Web Services
+object left	has	l bn_1739
+l 1418	title	Database Analysis & Design
+l bn_970	Title	Database Issues for Data Visualization: IEEE Visualization &#039;95 Workshop, Atlanta, Georgia, USA, October 28, 1995. Proceedings / Edition 1
+object left	has	l 3296
+object left	has	l 307
+l bn_477	Title	Database Manager in Microsoft BASIC
+object left	has	l bn_2139
+l 1688	title	Beginning MySQL Database Design and Optimization: From Novice to Professional
+l 2556	title	OCM: Oracle Database 10g Administrator Certified Master Exam Guide
+l 1740	title	Microsoft SQL Server 2000 Database Development From Scratch
+object left	has	l bn_970
+object left	has	l 820
+object left	has	l bn_1046
+l bn_872	Title	Oracle Database Ajax &amp; PHP Web Application Development
+l bn_441	Title	Database Management with Microsoft Access 2.0 for Windows (Mastering Today's Software)
+l 4049	Title	Principles of Distributed Database Systems
+l bn_1374	Title	Practical Oracle Security: Your Unauthorized Guide to Relational Database Security
+object left	has	l bn_207
+l bn_1755	Title	Teradata Database - Implementation for Performance
+object left	has	l 461
+object left	has	l 1728
+l bn_1201	Title	Information Systems Development; A Database Approach
+l bn_2991	Title	Building a Deductive Database
+l bn_958	Title	OCA/OCP Oracle Database 11g All-in-One Exam Guide: Exams 1Z0-051, 1Z0-052, 1Z0-053
+object left	has	l bn_1399
+object left	has	l 3386
+l bn_261	Title	DB2 10 for z/OS Database Administration: Certification Study Guide
+l bn_1352	Title	Rules in Database Systems: Third International Workshop, RIDS &#039;97, Skövde, Sweden, June 26-28, 1997 Proceedings / Edition 1
+l bn_1710	Title	Introduction to SQL: Mastering the Relational Database Language / Edition 4
+l 1069	title	Database Systems: The Complete Book  
+l 2904	title	Oracle Database Administration: The Essential Refe
+object left	has	l bn_1015
+l bn_1640	Title	Advanced Database Machine Architecture
+l bn_2994	Title	Comprehensive Database Performance for OS - 2 2.0's Extended Services
+l 3202	title	Oracle Database 12c Install, Configure & Maintain Like a Professional  
+object left	has	l 3273
+object left	has	l 2447
+object left	has	l bn_553
+object left	has	l 2243
+object left	has	l bn_2907
+object left	has	l 3313
+l bn_2075	Title	Database Design Using Entity-Relationship Diagrams / Edition 1
+object left	has	l 1381
+l bn_1825	Title	The Relational Model for Database Management
+object left	has	l 2878
+object left	has	l bn_986
+l 3264	title	Study Guide for 1Z0-051: Oracle Database 11g: SQL Fundamentals I: Oracle Certification Prep
+l bn_1808	Title	Database System Concepts (3/P)
+object left	has	l bn_1803
+object left	has	l 995
+object left	has	l 940
+object left	has	l bn_55
+l bn_2599	Title	70-443 and 70-450: Microsoft SQL Server Database Design and Optimization, Package / Edition 1
+l bn_2320	Title	Database Security and Integrity
+object left	has	l 3286
+l bn_1701	Title	Data Base Management Systems - MS-DOS: Evaluating MS-DOS Database Software
+object left	has	l bn_2429
+object left	has	l 1180
+l 2142	title	Expert Oracle Database Architecture: Oracle Database 9i, 10g, and 11g Programming Techniques and Solutions
+l bn_1139	Title	Database Magic with Ken North
+object left	has	l bn_407
+l 688	title	Advanced Database Indexing  
+object left	has	l bn_2662
+l 89	title	Open Source XML Database Toolkit: Resources and Techniques for Improved Development
+l 2769	Title	Database Support for Workflow Management: The WIDE Project 
+object left	has	l 2685
+l 1766	title	MySQL/PHP Database Applications  
+object left	has	l 3037
+l 413	title	Inside the Museum Archive Software Project: The database design and code snippets that make this free software application work
+l bn_26	Title	Oracle Database 11g DBA Handbook / Edition 1
+l 2807	title	Beginning Database Design: From Novice to Professional
+object left	has	l bn_346
+l bn_415	Title	Database Modeling with Microsoft Visio for Enterprise Architects / Edition 1
+object left	has	l bn_2156
+object left	has	l bn_1476
+l bn_1112	Title	Introduction to Database Systems / Edition 8
+l bn_1302	Title	Fuzzy Database Modeling of Imprecise and Uncertain Engineering Information / Edition 1
+object left	has	l bn_1030
+object left	has	l bn_1285
+l bn_2903	Title	Advanced Database Projects in Access, 3rd edition
+l bn_689	Title	Database and Expert Systems Applications: 10th International Conference, DEXA'99, Florence, Italy, August 30 - September 3, 1999, Proceedings
+l 2508	title	Oracle Database 11g R2: Architecture & Internals
+object left	has	l 2457
+object left	has	l 1094
+l bn_1754	Title	Sybase Database Administrator's Handbook
+l 2634	title	Query Processing in Parallel Relational Database Systems
+object left	has	l 2914
+l bn_1035	Title	Database Systems: A Practical Approach to Design, Implementation and Management 2nd Ed. / Edition 2
+l bn_1440	Title	Client/Server Database Design with SYBASE: A High-Performance and Fine- Tuning Guide
+l 1362	title	Modern Database Management  
+l 1765	title	Cardinality Estimation Techniques in Relational Database Systems
+object left	has	l bn_1556
+object left	has	l 950
+object left	has	l 1322
+l 261	title	Oracle Database 11g New Features   1st   edition
+object left	has	l bn_2247
+object left	has	l 3021
+object left	has	l bn_2198
+object left	has	l 150
+l 2527	title	Database Theory - ICDT 2001: 8th International Conference London, UK, January 4-6, 2001 Proceedings  
+object left	has	l bn_1257
+l 1712	title	Wiley Pathways Introduction to Database Management
+object left	has	l 49
+object left	has	l 2124
+l bn_2775	Title	Access Database Design and Programming
+l 3227	title	Design and Implementation of the Nested Relational Data Model under the Exodus Extensible Database System
+object left	has	l 2785
+l 1678	title	Database in Depth: Relational Theory for Practitioners
+object left	has	l 3652
+object left	has	l bn_1434
+object left	has	l 648
+l bn_910	Title	High Performance Oracle Database Automation
+object left	has	l 1346
+l 2457	title	MCITP Self-Paced Training Kit  : Optimizing and Maintaining a Database Administration Solution Using Microsoft��_��_ SQL Server��_��_ 2005: ... 2005  
+l bn_579	Title	DB2 Universal Database and Sap R/3 Version 4
+object left	has	l 1904
+l bn_1394	Title	Database Systems Concepts / Edition 3
+l bn_723	Title	MCITP Self-Paced Training Kit (Exam 70-444): Optimizing and Maintaining a Database Administration Solution Using Microsoft SQL Server 2005
+object left	has	l 1837
+object left	has	l 2059
+l bn_710	Title	The Database Experts' Guide to SQL
+object left	has	l bn_130
+l bn_2262	Title	Using dBASE IV for Database Applications
+l bn_500	Title	Research Foundations in Object-Oriented Database Systems
+object left	has	l 2467
+object left	has	l 1302
+object left	has	l 2120
+object left	has	l 1777
+object left	has	l 1286
+object left	has	l 2904
+l 3230	title	Nearest Neighbor Search: A Database Perspective  
+object left	has	l bn_1050
+object left	has	l 2323
+l bn_1970	Title	Multi-Media Database Management Systems, 1995 International Workshop (Mmdbms '95)
+l 3296	title	Test-Driven Database Development: Unlocking Agility  
+l bn_1944	Title	Relational Database Design Clearly Explained / Edition 2
+object left	has	l 460
+l bn_1434	Title	Choosing a Database for Your Web Site
+l 2004	title	Handbook of Relational Database Design
+object left	has	l 1826
+l bn_1050	Title	Object-Oriented Databases: Technology, Applications and Products (McGraw Hill Database Experts')
+l bn_658	Title	Securing Oracle Database 12c a Technical Primer
+object left	has	l bn_2230
+l 1990	title	Visual Basic 6 Database Programming Bible
+l 2108	title	C++ Database Development
+object left	has	l 2958
+l 233	title	Oracle Database 11g PL/SQL Programming  
+l 2745	title	Pro Oracle Database 12c Administration  
+l bn_232	Title	Database Tuning: Principles, Experiments, and Troubleshooting Techniques / Edition 1
+object left	has	l 1289
+l bn_135	Title	Database Engineering and Applications Symposium, 1997 International
+object left	has	l 1129
+object left	has	l bn_2510
+l bn_2504	Title	Design And Implementation Of A Database Programming Language For Xml-Based Applications
+l 98	title	Database Management Systems  
+object left	has	l bn_2835
+l 877	title	Access and Operator Methods for the Triton Nested Relational Database System
+l 6378	Title	Transactions on Large-Scale Data- and Knowledge-Centered Systems IV: Special Issue on Database Systems for Biomedical Applications 
+object left	has	l bn_2823
+l bn_2651	Title	Introduction to SQL: Mastering the Relational Database Language / Edition 3
+l bn_1443	Title	Handbook of Research on Innovations in Database Technologies and Applications: Current and Future Trends
+l 1286	title	Database Design Essentials for Business Custom Devry
+object left	has	l bn_1318
+l bn_390	Title	Oracle Database 12c Security
+object left	has	l 226
+l bn_1489	Title	Advanced Topics in Database Research
+l 49	title	Database Programming With C#
+l 3469	title	OCP: Oracle Database 12c Administrator Certified Professional Study Guide: Exam 1Z0-063
+object left	has	l bn_492
+l 983	title	MCDBA SQL Server 2000 Database Design Study Guide  
+l 1586	title	Relational Database Writings, 1994-1997
+object left	has	l bn_538
+object left	has	l 1222
+l 1294	title	Study Guide for 1Z0-117: Oracle Database 11g Release 2: SQL Tuning  
+object left	has	l 2745
+l 1094	title	Oracle Form Development for Database Applications
+object left	has	l 2004
+l bn_2427	Publisher	Database Users & Information Managers International
+l 4286	Series	Advances in Data Mining and Database Management
+object left	has	l 2330
+object left	has	l bn_1808
+object left	has	l 3161
+l bn_286	Title	Database Security, V: Status and Prospects
+object left	has	l 1969
+l 1424	title	Building an Object-Oriented Database System  
+l 2899	title	Oracle Database 10g Linux Administration
+object left	has	l 390
+object left	has	l bn_2744
+l 1578	title	By Ronald G. Drozdenko Optimal Database Marketing: Strategy, Development, and Data Mining  
+object left	has	l bn_908
+l bn_1753	Title	Data Modeling and Database Design / Edition 1
+object left	has	l bn_1591
+object left	has	l 811
+l bn_1840	Title	Oracle8i Database Administration
+l 1828	title	Object Data Management : Object Oriented and Extended Relational Database Systems
+object left	has	l 942
+object left	has	l bn_2427
+l bn_2378	Title	Database and Expert Systems Applications: 12th International Conference, DEXA 2001 Munich, Germany, September 3-5, 2001 Proceedings
+l bn_2429	Title	Fixing Access Annoyances: How to Avoid the Most Annoying Things about Your Favorite Database
+object left	has	l 7796
+object left	has	l bn_2523
+l bn_1360	Title	Oracle Quick Guides Part 2 - Oracle Database Design
+l bn_243	Title	Management of Heterogeneous and Autonomous Database Systems / Edition 1
+object left	has	l 3047
+l 2422	title	Database Principles and Design
+l 2162	title	Optimal Database Marketing: Strategy, Development, and Data Mining
+l bn_1285	Title	Proven Techniques for Increasing Database Use
+object left	has	l 1688
+l bn_2146	Title	Pro Oracle Spatial for Oracle Database 11g / Edition 1
+l bn_1733	Title	Sams Teach Yourself Database Programming with Visual Basic 6 in 21 Days
+l 2482	title	UML for Database Design
+l 2243	title	Oracle Database 11g Release 2 Performance Tuning Tips & Techniques  
+object left	has	l 7252
+object left	has	l bn_2657
+object left	has	l bn_1644
+object left	has	l bn_2963
+object left	has	l bn_403
+object left	has	l 1578
+object left	has	l 8094
+l bn_2423	Title	Professional SQL Server 2000 Database Design
+l 1012	title	Distributed Relational Database System of Occasionally Connected Databases
+object left	has	l bn_721
+l bn_1826	Title	MYSQL/PHP Database Applications / Edition 2
+l bn_1538	Title	Lotus 1-2-3 and Database Software Applied to Ais C Ases with 3. 5 Inch Disk
+object left	has	l 1460
+l 1359	title	Hands-On Oracle Database 10g Express Edition for Windows  
+l bn_1644	Title	Concepts of Database Management / Edition 6
+object left	has	l bn_1665
+object left	has	l bn_2093
+l bn_2455	Title	Database and Expert Systems Applications: 7th International Conference, DEXA '96, Zurich, Switzerland, September 9 - 13 , 1996. Proceedings
+object left	has	l 3334
+object left	has	l 2133
+object left	has	l 1828
+object left	has	l bn_500
+l 2236	title	Physical Database Design Using Oracle  
+object left	has	l 749
+l 2276	title	Database Systems: Concepts, Design & Applications
+l bn_338	Title	Database Publishing on the Web
+object left	has	l 1310
+l bn_551	Title	Parallel Database Systems: Proceedings of PRISMA Workshop, Noordwijk, the Netherlands, September 24-26, 1990
+object left	has	l bn_243
+object left	has	l 1731
+object left	has	l bn_1826
+l bn_998	Title	Database Integrity: Challenges and Solutions
+l 2732	title	Database and XML Technologies: 7th International XML Database Symposium, XSym 2010, Singapore, September 17, 2010, Proceedings  
+l bn_2858	Title	Database Systems: Principles, Design and Implementation
+l 488	title	Advanced Approaches to Intelligent Information and Database Systems  
+object left	has	l bn_2790
+l bn_560	Title	Research Issues in Data Engineering, 7th International Workshop on (Ride '97): High Performance Database Management for Large Scale Applications
+l bn_2831	Title	Designing Scalable Object-Oriented Database Applications: Object-Oriented Design, Architectures, and Implementations / Edition 1
+l 914	title	Distributed Database Management Systems   by Rahimi, Saeed K - Haug, Frank S  
+object left	has	l bn_2330
+l bn_2152	Title	Microcomputer Database Management Using dBASE IV, Version 1.1
+l bn_2451	Title	DB2 11: The Ultimate Database for Cloud, Analytics & Mobile
+object left	has	l 219
+object left	has	l 2488
+l 2095	title	Wiley Pathways Introduction to Database Management Project Manual
+object left	has	l 264
+object left	has	l bn_1780
+l bn_1739	Title	Database Design and Relational Theory: Normals Forms and All That Jazz
+object left	has	l bn_2381
+object left	has	l 258
+object left	has	l 909
+object left	has	l bn_2991
+l bn_2777	Title	Oracle Database 12c SQL / Edition 1
+object left	has	l 3471
+object left	has	l 8500
+object left	has	l bn_961
+object left	has	l 2776
+l bn_365	Title	Visual Database Systems 3: Visual information management / Edition 1
+l bn_1554	Title	Implementing Database Systems Using Java / Edition 1
+object left	has	l bn_1286
+l 1959	title	By Candace C. Fleming - Handbook of Relational Database Design: 1st   Edition
+l 2603	title	An Introduction to Database Systems/E-book  
+object left	has	l 821
+object left	has	l 3230
+object left	has	l bn_528
+object left	has	l 1836
+l bn_2782	Title	Database Systems: An Application-Oriented Approach / Edition 2
+object left	has	l bn_1201
+object left	has	l 6892
+object left	has	l bn_2782
+object left	has	l 24
+l bn_130	Title	Database Programming Languages: 6th International Workshop, DBPL-6, Estes Park, Colorado, USA, August 18-20, 1997 / Edition 1
+object left	has	l bn_1260
+l bn_403	Title	Database Systems for Management 1
+l 3348	title	Automated Physical Database Design and Tuning  
+l 2635	title	Intelligent Systems Design: Integrating Expert Systems, Hypermedia, and Database Technologies
+l bn_2971	Title	Database and Expert Systems Applications: 17th International Conference, DEXA 2006, Krakow, Poland, September 4-8, 2006, Proceedings
+l bn_799	Title	Concepts of Database Management, Fifth Edition / Edition 5
+object left	has	l 1294
+object left	has	l bn_2217
+object left	has	l 930
+l bn_239	Title	Database Analysis and Design
+object left	has	l 6028
+object left	has	l 1040
+object left	has	l bn_2141
+object left	has	l 3146
+l 1409	title	Encyclopedia of Database Systems
+object left	has	l bn_135
+l 2680	title	Advances in Database Technology EDBT '96: 5th International Conference on Extending Database Technology, Avignon, France, March 25-29 1996, Proceedings.  
+l bn_2116	Title	Time-Constrained Transaction Management: Real-Time Constraints in Database Transaction Systems
+l 178	title	Enterprise Database Connectivity: The Key to Enterprise Applications on the Desktop
+object left	has	l bn_2376
+object left	has	l 2881
+object left	has	l 2963
+object left	has	l 1056
+l 3210	title	OCA Oracle Database 11g: Database Administration I: A Real-World Certification Guide
+object left	has	l 1012
+object left	has	l bn_1537
+l bn_2799	Title	DB2 Universal Database for OS/390: An Introduction to DB2 for OS/390 Version 7 / Edition 1
+l 1302	title	Engineering Robust Distributed Database Software
+object left	has	l 107
+l 3011	title	Distributed Database Systems and Their Applications  /Teaching Books for Graduates in Chinese Academy of Sciences  
+l 1107	title	DB2/400: The New AS/400 Database: The Unabridged Guide to the New IBM Database Management System
+l 1384	title	Database Principles: Fundamentals of Design, Implementation, and Management
+l bn_2406	Title	Database Theory and Application: International Conference, DTA 2009, Held as Part of the Future Generation Information Technology Conference, FGIT 2009, Jeju Island, Korea, December 10-12, 2009, Proceedings / Edition 1
+l bn_112	Title	Interfaces to Database Systems - IDS 92: Proceedings of the 1st International Workshop on Interfaces to Database Systems, Glasgow, 1-3 July 1992
+l bn_2558	Title	Using Reflex: The Database Manager
+object left	has	l bn_555
+object left	has	l 1936
+object left	has	l bn_239
+l 1341	title	OCP Upgrade to Oracle Database 12c Exam Guide    
+l 2055	title	Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design by Hernandez. Michael J.   Paperback
+object left	has	l 2772
+object left	has	l 2868
+l 3313	title	Intelligent Database Systems
+object left	has	l 1154
+object left	has	l bn_2656
+object left	has	l 1198
+object left	has	l 2453
+l bn_2664	Title	Database Systems: Concepts, Management and Application
+object left	has	l bn_2035
+object left	has	l 2276
+object left	has	l 462
+l bn_1556	Title	DB2 Universal Database V6.1 for Unix, Windows and OS/2 Certification Guide / Edition 3
+l bn_2244	Title	Database Design, Application Development, and Administration / Edition 2
+object left	has	l 6336
+object left	has	l 3461
+object left	has	l 1514
+object left	has	l bn_2244
+l 265	title	Database Systems for Advanced Applications: DASFAA 2009 International Workshops: BenchmaX, MCIS, WDPP, PPDA, MBC, PhD, Brisbane, Australia, April ... Applications, incl. Internet/Web, and HCI)
+l 2908	title	OCA: Oracle Database 11g Administrator Certified Associate Study Guide:  
+object left	has	l 263
+object left	has	l 1476
+object left	has	l bn_1175
+l bn_1015	Title	Database Development and Management / Edition 1
+object left	has	l bn_2166
+l 535	title	Effective Database Design for Geoscience Professionals
+object left	has	l bn_2097
+l bn_345	Title	Applied Database Logic: Fundamental Database Issues
+l bn_2902	Title	Interfaces to Database Systems (IDS92): Proceedings of the First International Workshop on Interfaces to Database Systems, Glasgow, 1-3 July 1992
+object left	has	l bn_673
+l bn_2573	Title	Microsoft SQL Server 2000 Database Administrator's Guidebook
+l bn_1361	Title	Science of Database Management
+l 1015	title	Pro SQL Server 2008 Relational Database Design and Implementation  
+object left	has	l 540
+l 3194	title	DB2 Universal Database V8.1 Certification Exam 700 Study Guide
+object left	has	l bn_398
+object left	has	l 1114
+l 2467	title	Expert Oracle Practices: Oracle Database Administration from the Oak Table  
+l bn_2476	Title	Relational Database Systems: Analysis and Comparison
+object left	has	l 2077
+l bn_34	Title	Object-Oriented Database System: Design and Implementation for Advanced Applications
+object left	has	l 2680
+object left	has	l bn_323
+object left	has	l 370
+object left	has	l bn_1987
+l 8094	Title	SQL: Teach Yourself SQL Database Programming, SQL Server, SQL queries 
+object left	has	l bn_2876
+object left	has	l 1586
+l bn_1121	Title	Oracle9i Performance Tuning: Optimizing Database Productivity / Edition 1
+l bn_794	Title	Database Systems Engineering
+l 1431	title	Enterprise Android: Programming Android Database Applications for the Enterprise
+l 3405	title	Relational Database Technology
+l 2654	title	Database and Expert Systems Applications: 10th International Conference, DEXA'99, Florence, Italy, August 30 - September 3, 1999, Proceedings  
+l bn_1181	Title	Protecting Oracle Database 12c
+l bn_1872	Title	Database Theory - ICDT &#039;97: 6th International Conference, Delphi, Greece, January 8-10, 1997. Proceedings / Edition 1
+l 3278	title	Pro Oracle Database 11g RAC on Linux  
+l 2689	title	The Implementation of Form-Based Interface for Relational Database
+object left	has	l 8246
+object left	has	l 2233
+object left	has	l 46
+l 2037	title	ICUBASE-A Distributed Database for Support of Clinical Data Input and Coding on the World Wide Web
+object left	has	l bn_95
+l 1460	title	Practical Database Programming With Visual C#.NET
+object left	has	l bn_2153
+l bn_1435	Title	Database Systems in Science and Engineering / Edition 1
+object left	has	l 2493
+object left	has	l 1218
+object left	has	l 1702
+object left	has	l 2236
+object left	has	l 1507
+l bn_446	Title	Oracle Database 10g Rman Backup &amp; Recovery / Edition 1
+object left	has	l 3376
+object left	has	l 1621
+object left	has	l 1472
+l 1373	title	Database Management: With Website Development Applications
+object left	has	l 2732
+l 149	title	Principles of Distributed Database Systems  
+object left	has	l 2867
+l 1942	title	Database Concepts  
+l 2408	title	Oracle Database 12c SQL
+l bn_2823	Title	Applied Oracle Security: Developing Secure Database and Middleware Environments: Developing Secure Database and Middleware Environments / Edition 1
+l 11	Series	The Macmillan database / data communications series (Book 2)
+l bn_2632	Title	Build Your Own Database Driven Web Site Using PHP & MySQL
+object left	has	l 1665
+l bn_2212	Title	Distributed Database Systems / Edition 1
+object left	has	l 2071
+object left	has	l bn_1073
+l 669	title	A Sane Approach to Database Design
+l 1436	title	Biological Database Modeling
+l bn_2217	Title	ICDT Ninety: Proceedings of the Third International Conference on Database Theory, Paris, France, December 12-14, 1990
+object left	has	l 1653
+l 6892	Title	Amazon Relational Database Service Getting Started Guide
+l 169	title	C++ Database Applications With the Paradox Engine/Book and Disk  
+l bn_2644	Title	Concurrency Control in Distributed Database Systems
+object left	has	l bn_1342
+object left	has	l bn_934
+l 1898	title	The Relational Database Dictionary: A Comprehensive Glossary of Relational Terms and Concepts, with Illustrative Examples
+l 2881	title	SAP Database Administration with IBM DB2
+l 2772	title	Clasroom Learning, Relational Database Design a Practical Approach
+l bn_97	Title	Web Database Development for Windows Platforms
+l 242	title	Microsoft SQL Server 7.0 Database Implementation Training Kit
+object left	has	l 1341
+l bn_2185	Title	JDBC Database Access with Java / Edition 1
+l bn_757	Title	Relational Database Design and Implementation: Clearly Explained / Edition 3
+l 2045	title	Oracle Database 11g R2: Advanced Administration
+l bn_1164	Title	Fundamentals of Database Management Systems / Edition 1
+l 1346	title	DB2 11: The Database for Big Data & Analytics
+object left	has	l 1921
+l bn_1175	Title	Oracle Database 12c Backup and Recovery Survival Guide
+l 3291	title	Zero Downtime Database Upgrade & Active Active Replication Using Oracle GoldenGate 11g Release 2
+l bn_167	Title	Introduction to Database and Knowledge-Base Systems
+object left	has	l bn_2878
+l 60	title	Distributed Database Management Systems: A Practical Approach       Saeed K. Rahimi, Frank S. Haug
+l bn_2029	Title	Meta-Level Control for Deductive Database Systems
+object left	has	l 1876
+l 127	Title	OCA Oracle Database SQL Certified Expert Exam Guide 
+l 1040	title	RMAN Recipes for Oracle Database 12c: A Problem-Solution Approach  
+object left	has	l bn_87
+l bn_393	Title	Bourdon Advanced Pick: Database and Operating System 2E
+object left	has	l 3046
+l 2962	title	Implementing Relational Operations in an Object-Oriented Database
+object left	has	l bn_2546
+l 307	title	Advances in Database Technology - EDBT '98: 6th International Conference on Extending Database Technology, Valencia, Spain, March 23-27, 1998.  
+object left	has	l 1368
+object left	has	l 156
+object left	has	l bn_1782
+l 258	title	DESIGNING RELATIONAL DATABASE SYSTEMS

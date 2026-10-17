@@ -1,0 +1,11 @@
+l tt1591613	title	Stories USA
+table data/semi-rel/left	has	l 802
+l 3322	director	 USA (Theatrical)    "
+l 2648	director	 USA 1-Disc DVD "
+table data/semi-rel/left	has	l 2648
+table data/semi-rel/left	has	l 3660
+table data/semi-rel/left	has	l 3322
+l 3660	director	 USA (Plus Bonus Features)    "
+l 355	director	USA
+l 802	title	McFarland USA
+table data/semi-rel/left	has	l 355

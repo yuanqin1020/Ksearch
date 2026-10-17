@@ -1,0 +1,300 @@
+r 857	name	Islamic Center Of Pittsburgh (ICP)
+table data/geo-heter/right	has	r 2281
+table data/geo-heter/right	has	r 1989
+table data/geo-heter/right	has	r 2144
+table data/geo-heter/right	has	r 268
+r 541	address	Freeport Road; Center Avenue
+r 861	name	University Center Pool
+r 427	name	Magee Rec Center
+table data/geo-heter/right	has	r 2520
+table data/geo-heter/right	has	r 2081
+r 1252	address	Jared L Cohon University Center B1; at Carnegie Mellon University
+table data/geo-heter/right	has	r 253
+r 1195	name	Bernie's Photo Center
+r 906	name	Warner Center Breakroom
+table data/geo-heter/right	has	r 1195
+table data/geo-heter/right	has	r 1045
+r 2776	name	Observatory Hill Chiropractic Center
+table data/geo-heter/right	has	r 1223
+table data/geo-heter/right	has	r 427
+r 2377	name	Warner Center CandyLand
+r 113	name	Magovern Conference Center
+table data/geo-heter/right	has	r 2071
+r 1329	name	ll Things Aquatic Dive Center
+table data/geo-heter/right	has	r 478
+table data/geo-heter/right	has	r 2191
+r 1378	name	Charles L. Cost Sports Center
+r 1998	name	Marriot City Center Hotel Bar
+table data/geo-heter/right	has	r 2494
+table data/geo-heter/right	has	r 2009
+table data/geo-heter/right	has	r 399
+r 2367	address	1001 5th Ave; in Consol Energy Center
+r 949	name	SpacePlace at Carnegie Science Center
+r 478	name	Morningside Rec Center
+r 2543	address	Center Ave; 6th St
+table data/geo-heter/right	has	r 1611
+r 2005	name	Pitt Wellness Center
+r 1184	name	Hazelwood Senior Center
+r 802	name	Senator John Heinz History Center
+r 2660	name	Hillman Cancer Center
+r 994	name	Mount Washington Senior Center
+r 34	name	Three Gateway Center
+r 890	name	UMPC Herberman Conference Center
+table data/geo-heter/right	has	r 1562
+r 2642	name	PNC Investment Center
+r 2144	name	wrenceville Shopping Center
+r 761	name	East Liberty Family Health Care Center
+table data/geo-heter/right	has	r 2556
+r 2428	name	Medical Center East
+table data/geo-heter/right	has	r 1499
+r 918	address	200 Freeport Rd; Center Ave
+r 590	name	Two Chatham Center
+table data/geo-heter/right	has	r 1065
+table data/geo-heter/right	has	r 541
+table data/geo-heter/right	has	r 949
+table data/geo-heter/right	has	r 731
+r 1656	name	Jewish Community Center
+table data/geo-heter/right	has	r 994
+r 541	name	Freeport Road @ Center Avenue
+r 1937	name	Waterfront Medical Center
+r 1562	name	Dormont Vision Center
+table data/geo-heter/right	has	r 367
+r 2466	address	6320 Shakespeare St; Penn at Shady; in the Shady Hill Center
+table data/geo-heter/right	has	r 2675
+r 2232	address	116 Allegheny Center Mall
+table data/geo-heter/right	has	r 1973
+r 397	name	Hampton Pittsburgh-University Center
+table data/geo-heter/right	has	r 1646
+r 268	name	llegheny Center Parking Garage
+r 1989	name	Meineke Car Care Center
+table data/geo-heter/right	has	r 1998
+r 1027	name	Forbes Allies Center
+r 2724	name	CMU University Center Fitness
+table data/geo-heter/right	has	r 1871
+r 772	name	Point Park University Center
+r 1499	name	Tender Care Learning Center
+r 1378	address	Charles L. Cost Sport Center Robinson Street PIttsburgh; PA 15213
+r 595	name	University Technology Development Center
+r 720	name	Posner Center
+table data/geo-heter/right	has	r 2377
+r 2176	name	CCAC Visual Art Center
+table data/geo-heter/right	has	r 1937
+r 1860	name	Children's Hospital of Pittsburgh of UPMC Fitness Center
+table data/geo-heter/right	has	r 2543
+table data/geo-heter/right	has	r 942
+table data/geo-heter/right	has	r 1493
+r 737	name	Mercy Behavioral Health: Reedsdale Center
+table data/geo-heter/right	has	r 1700
+r 889	name	Residence Inn Pittsburgh University/Medical Center
+table data/geo-heter/right	has	r 2176
+table data/geo-heter/right	has	r 918
+r 1729	name	James Laughlin Music Center
+r 1724	name	USPS - Liberty Center
+table data/geo-heter/right	has	r 1252
+table data/geo-heter/right	has	r 752
+r 2362	name	Cancer Caring Center
+r 118	name	Dormont Recreation Center
+table data/geo-heter/right	has	r 1181
+r 2731	name	History Center Parking Lot
+r 2192	name	One Chatham Center Dock
+table data/geo-heter/right	has	r 2642
+table data/geo-heter/right	has	r 105
+table data/geo-heter/right	has	r 189
+table data/geo-heter/right	has	r 1510
+table data/geo-heter/right	has	r 802
+r 2057	name	laika learning center
+r 105	name	Wilkins School Community Center
+table data/geo-heter/right	has	r 463
+table data/geo-heter/right	has	r 2192
+r 752	name	University of Pittsburgh Archives Service Center
+table data/geo-heter/right	has	r 1187
+table data/geo-heter/right	has	r 72
+r 2655	address	llegheny Center
+r 253	name	Global Studies Center
+r 1997	name	Kenny's Nail Center
+r 731	name	Wyndham Pittsburgh University Center
+table data/geo-heter/right	has	r 1656
+table data/geo-heter/right	has	r 621
+r 2208	name	PPS Central Operations Center
+table data/geo-heter/right	has	r 1184
+table data/geo-heter/right	has	r 359
+table data/geo-heter/right	has	r 185
+table data/geo-heter/right	has	r 861
+table data/geo-heter/right	has	r 2208
+r 72	name	Hampton Inn Pittsburgh Univercity Center
+r 890	address	Center Ave
+r 1583	name	Homecraft True Value Building Center
+table data/geo-heter/right	has	r 1278
+r 1025	name	Center Field
+r 2191	name	O'Hara Student Center
+table data/geo-heter/right	has	r 2731
+table data/geo-heter/right	has	r 737
+table data/geo-heter/right	has	r 2466
+table data/geo-heter/right	has	r 1159
+r 2281	name	Cancer Center Cafe
+table data/geo-heter/right	has	r 68
+r 2697	name	Entertainment Technology Center - ETC
+r 423	name	UPMC Shadyside Family Health Center
+r 2556	name	Welcome Center
+table data/geo-heter/right	has	r 2232
+r 1252	name	Career and Professional Development Center
+table data/geo-heter/right	has	r 2697
+r 1737	name	FedEx Office Print & Ship Center
+r 1326	name	Frick Environmental Center
+r 399	name	The Waterfront Surgery Center
+r 1607	name	Braddock Community Center
+r 1493	name	Pittsburgh Public Schools Data Center
+table data/geo-heter/right	has	r 2057
+table data/geo-heter/right	has	r 772
+table data/geo-heter/right	has	r 1729
+table data/geo-heter/right	has	r 118
+r 700	name	Sto-Rox Family Health Center
+table data/geo-heter/right	has	r 2540
+table data/geo-heter/right	has	r 261
+table data/geo-heter/right	has	r 2299
+r 2718	name	Fitness Center
+r 820	name	Highland Park Care Center
+r 1633	name	Breast Cancer Center
+table data/geo-heter/right	has	r 335
+r 2103	address	Pittsburgh Marriott City Center
+table data/geo-heter/right	has	r 595
+r 37	name	llegheny Center Mall
+table data/geo-heter/right	has	r 720
+r 1143	name	CCAC Foerster Student Services Center
+table data/geo-heter/right	has	r 397
+r 677	name	Green Tree Recycling Center
+r 2540	name	Flag Plaza and Pittsburgh Scout Center
+r 2081	name	West End Children's Center
+table data/geo-heter/right	has	r 1724
+table data/geo-heter/right	has	r 1036
+table data/geo-heter/right	has	r 590
+r 2520	name	Point Park Mail Center
+table data/geo-heter/right	has	r 2005
+r 1646	name	Brentwood Civic Center
+r 2009	name	Sleep Center of Greater Pittsburgh
+r 189	address	747 Wallace Ave; Center Ave
+table data/geo-heter/right	has	r 1583
+r 71	name	University Center Turnaround
+table data/geo-heter/right	has	r 2210
+table data/geo-heter/right	has	r 1178
+r 2343	name	East End Shopping Center
+table data/geo-heter/right	has	r 1025
+r 1399	name	Southminster Child Care Center
+table data/geo-heter/right	has	r 1607
+table data/geo-heter/right	has	r 1027
+table data/geo-heter/right	has	r 787
+r 2494	name	North Shore Endoscopy Center
+r 1045	name	U.P.M.C Hillman Cancer Center Pharmacy
+table data/geo-heter/right	has	r 1970
+table data/geo-heter/right	has	r 255
+table data/geo-heter/right	has	r 2428
+table data/geo-heter/right	has	r 71
+table data/geo-heter/right	has	r 2054
+r 261	name	Four Gateway Center Bus Stop
+table data/geo-heter/right	has	r 2343
+r 502	name	llegheny Cancer Center
+table data/geo-heter/right	has	r 1378
+r 709	name	2 Gateway Center
+r 1700	name	ria Fitness Center
+table data/geo-heter/right	has	r 1737
+r 565	name	Pittsburgh Center for The Arts
+r 1178	name	Warrington Recreation Center
+table data/geo-heter/right	has	r 1633
+table data/geo-heter/right	has	r 2718
+r 1159	name	Pittsburgh Supercomputing Center
+r 1145	name	UPMC Eye Center St. Margaret
+table data/geo-heter/right	has	r 1860
+table data/geo-heter/right	has	r 540
+r 2071	name	Carnegie Science Center
+r 1917	name	Mt. Lebanon Recreation Center
+table data/geo-heter/right	has	r 820
+r 540	name	Merlino's Service Center
+table data/geo-heter/right	has	r 1760
+r 2382	name	Pittsburgh Videotech Center
+r 2299	name	Chatham Center Garage
+table data/geo-heter/right	has	r 709
+r 1871	name	Newman Chiropractic Center
+table data/geo-heter/right	has	r 2319
+table data/geo-heter/right	has	r 1839
+r 2054	address	135 Allegheny Center Mall
+r 1117	name	University Center Kidney Clinic
+table data/geo-heter/right	has	r 423
+r 1728	name	University Center
+r 2210	name	Rankin Christian Center
+r 48	name	GH Center For Children
+table data/geo-heter/right	has	r 2660
+table data/geo-heter/right	has	r 1997
+table data/geo-heter/right	has	r 2431
+table data/geo-heter/right	has	r 889
+table data/geo-heter/right	has	r 2776
+r 185	name	Ten Allegheny Center
+table data/geo-heter/right	has	r 34
+r 487	name	Family Health Center
+table data/geo-heter/right	has	r 890
+table data/geo-heter/right	has	r 1329
+table data/geo-heter/right	has	r 1315
+r 1611	name	CMUWorks Service Center
+table data/geo-heter/right	has	r 357
+table data/geo-heter/right	has	r 871
+r 357	name	One Chatham Center
+table data/geo-heter/right	has	r 502
+r 2675	name	Joslin Diabetes Center
+table data/geo-heter/right	has	r 1326
+table data/geo-heter/right	has	r 1117
+table data/geo-heter/right	has	r 1744
+r 463	name	North Side Christian Health Center
+r 359	name	University Center Conan Room
+r 942	address	5932 Centre Ave; btw Highland Ave and Center Ave
+r 1187	name	Trees Hall Fitness Center
+table data/geo-heter/right	has	r 1352
+r 1223	name	National Robotics Engineering Center
+r 255	name	Center Point Convenience Store
+r 68	name	1 Allegheny Center
+r 1970	name	The Skin Center Medical Spa
+table data/geo-heter/right	has	r 761
+r 871	address	Center Ave; Aiken St
+r 787	name	Baldwin Township Community Center
+r 335	name	ZBT Center House
+r 1839	name	Howard's Collison Center
+table data/geo-heter/right	has	r 2362
+table data/geo-heter/right	has	r 37
+table data/geo-heter/right	has	r 487
+r 1916	name	imal Rescue League Shelter & Wildlife Center
+r 1760	name	Towers Fitness Center
+table data/geo-heter/right	has	r 1399
+table data/geo-heter/right	has	r 716
+table data/geo-heter/right	has	r 700
+table data/geo-heter/right	has	r 1916
+r 716	name	UPMC University Center
+r 2509	name	K. Leroy Irvis Science Center
+r 1036	name	Carlow University Center
+table data/geo-heter/right	has	r 2752
+table data/geo-heter/right	has	r 2367
+r 621	name	Bayer Learning Center
+r 367	name	iberty Center
+table data/geo-heter/right	has	r 906
+r 1973	name	UPMC Mercy Health Center
+r 294	name	Chevron Science Center
+table data/geo-heter/right	has	r 2509
+r 1510	name	Shadyside Testing Center
+r 1315	name	Warner Center
+r 1278	name	Birch Center
+table data/geo-heter/right	has	r 1145
+table data/geo-heter/right	has	r 565
+table data/geo-heter/right	has	r 1917
+table data/geo-heter/right	has	r 2382
+table data/geo-heter/right	has	r 1728
+table data/geo-heter/right	has	r 2724
+r 2319	name	Seton Center
+r 2752	name	Space Research Coordination Center
+table data/geo-heter/right	has	r 48
+r 228	name	8 Allegheny Center
+table data/geo-heter/right	has	r 113
+r 1181	name	Jared L. Cohon University Center
+r 1744	name	Genesis Center
+table data/geo-heter/right	has	r 677
+r 2431	name	Millvale Community Center
+table data/geo-heter/right	has	r 228
+table data/geo-heter/right	has	r 294
+table data/geo-heter/right	has	r 1143
+table data/geo-heter/right	has	r 857

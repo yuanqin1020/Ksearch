@@ -1,0 +1,160 @@
+object right	has	r 1791
+r B858	publisher	 Wiley (October 4, 1995)
+r B1776	publisher	 Wiley (March 4, 1997)
+r B2575	publisher	 Wiley (February 27, 2006)
+object right	has	r 3161
+object right	has	r 9341
+r 7075	Series	Wiley Series in Probability and Statistics
+object right	has	r 10
+r B1720	publisher	 John Wiley & Sons Inc (Computers); Pap/Dis edition (November 1994)
+r B1102	publisher	 Wiley Publishing (February 2001)
+object right	has	r 9111
+object right	has	r B1907
+r 3306	title	Wiley Medical Research Directory Thesaurus to the Online Database
+r B2925	publisher	 Wiley (September 24, 2004)
+object right	has	r B1226
+object right	has	r B1533
+object right	has	r B2280
+object right	has	r B2200
+r 9359	Series	Wiley Desktop Editions Series
+object right	has	r 2377
+r 7037	Series	Wiley Series in Systems Engineering and Management Series
+object right	has	r B858
+object right	has	r 1609
+r 9111	authors	Wiley Publications Editorial Staff
+r 3161	title	Studyguide for Wiley Pathways Introduction to Database Management by Databases, Introduction To, ISBN 9780470101865
+object right	has	r B1720
+r 7296	Series	Wiley Series on Technologies for the Pharmaceutical Industry Series
+r 1761	series	Wiley Professional Computing Series
+r B1624	publisher	 John Wiley & Sons Inc (Computers) (July 1994)
+r B419	publisher	 John Wiley & Sons Inc (Computers) (November 1995)
+object right	has	r B2517
+object right	has	r 2534
+r B1472	publisher	 John Wiley & Sons Inc (December 23, 1987)
+object right	has	r 1659
+r 2534	Series	Wiley Cost Management Series
+object right	has	r B1897
+object right	has	r B2907
+r 738	series	Wiley Series on Methods and Applications in Data Mining Series
+object right	has	r 3502
+object right	has	r B1790
+r B1370	publisher	 John Wiley & Sons Inc (Computers) (August 1994)
+object right	has	r 1381
+object right	has	r B1890
+r 116	series	Wiley Series in Systems Engineering and Management Series ,#32
+object right	has	r 1761
+object right	has	r B2781
+r B1695	publisher	 Wiley (October 25, 1999)
+object right	has	r B2575
+object right	has	r B2119
+object right	has	r 1705
+r 2377	Series	Wiley and SAS Business Series
+r 2998	series	Wiley Series in Systems Engineering and Management Series ,#71
+object right	has	r B934
+object right	has	r 1631
+r 1705	series	Wiley Series in Systems Engineering and Management Series ,#53
+object right	has	r 2113
+object right	has	r 7296
+r 4662	authors	John Wiley & Sons
+r B2280	publisher	 John Wiley & Sons Inc (Computers); 2 Pap/Dsk edition (May 1996)
+object right	has	r B1951
+object right	has	r 4046
+r B1890	publisher	 Wiley (June 27, 2003)
+r B10	publisher	 Wiley (March 24, 1999)
+object right	has	r B2625
+r B853	publisher	 John Wiley & Sons Inc (Computers) (September 1996)
+object right	has	r 7504
+object right	has	r B935
+object right	has	r B1102
+object right	has	r B1611
+object right	has	r B1695
+r 2169	series	Wiley Series on Parallel and Distributed Comp ,#32
+object right	has	r 672
+r 672	series	Wiley and SAS Business Series ,#7
+r 1230	series	Wiley Series on Methods and Applications in Data Mining Series ,#4
+r 3502	series	Wiley XML Essential Series ,#1
+object right	has	r B1472
+r 6634	Series	Wiley Nonprofit Law, Finance and Management Series
+r 9467	Series	Wiley Series on Communications Networking & Distributed Systems Series
+r 767	series	Wiley Series in Computational Statistics
+r 9049	Publisher	Wiley
+r 2587	series	Wiley Series on Technologies for the Pharmaceutical Industry Series ,#7
+r 1631	authors	Robert B. Wiley
+r B1232	publisher	 John Wiley & Sons Inc (Computers) (January 1995)
+object right	has	r 2560
+object right	has	r 3648
+r B2353	publisher	 Wiley (November 8, 1996)
+r B578	publisher	 Wiley (April 15, 2002)
+object right	has	r 2633
+object right	has	r 738
+r 2560	series	Wiley Self-Teaching Guides Series ,#138
+r B553	publisher	 John Wiley & Sons Inc (Computers) (March 1997)
+r B2517	publisher	 John Wiley & Sons Inc (Computers); 2 edition (March 1997)
+object right	has	r B2460
+r 3648	Series	Wiley Trading Series
+r B2907	publisher	 John Wiley & Sons Inc (Computers) (September 2000)
+object right	has	r B1624
+r 1659	series	Wiley Computer Publishing Series
+r B1711	publisher	 John Wiley & Sons Inc (Computers) (June 1996)
+object right	has	r B1776
+object right	has	r 116
+r B2912	publisher	 John Wiley and Sons (June 1997)
+r 7504	Series	Wiley Blackwell Companions to Geography Series
+object right	has	r 767
+object right	has	r B1711
+r B1226	publisher	 John Wiley & Sons Inc (Computers) (March 1995)
+r 739	series	Wiley Series in Computational Statistics Series ,#716
+object right	has	r B1370
+r 2633	series	Wiley Series on Methods and Applications in Data Mining Series ,#2
+r 1609	series	Wiley Series on Parallel and Distributed Computing Series ,#67
+r 9341	Series	Wiley Finance Series
+r B2781	publisher	 John Wiley & Sons Inc (Computers) (February 1997)
+r B934	publisher	 Wiley (August 27, 1999)
+r B1611	publisher	 John Wiley & Sons Inc (Computers); Win edition (August 1999)
+object right	has	r B853
+r 532	series	Wiley Series in Bioinformatics Series ,#7
+object right	has	r B614
+r B1533	publisher	 Wiley (February 3, 1997)
+r 1791	series	Wiley Pathways Series
+r B1951	publisher	 Wiley (June 11, 1998)
+r B1907	publisher	 Wiley (February 25, 1998)
+r B1790	publisher	 John Wiley & Sons Inc (Computers); 3 Pap/Dsk edition (December 1995)
+object right	has	r B645
+r B2200	publisher	 Wiley (December 29, 2001)
+object right	has	r 2169
+r B614	publisher	 John Wiley & Sons Inc (Computers); Pap/Dis edition (March 1995)
+object right	has	r 9592
+object right	has	r B2912
+r B645	publisher	 Wiley Publishing (June 1999)
+r 3242	series	Wiley Series on Parallel and Distributed Computing Series ,#90
+object right	has	r 3306
+object right	has	r 4662
+object right	has	r 3242
+object right	has	r B2353
+object right	has	r 2998
+object right	has	r B10
+object right	has	r B347
+object right	has	r 2587
+object right	has	r B2411
+object right	has	r B2925
+r B1034	publisher	 Wiley (February 25, 2001)
+r B2625	title	Wiley Getting Started, With Microsoft Access 7.0 for Windows 95 (Getting Started Series)
+object right	has	r B578
+r B347	publisher	 Wiley (July 27, 1998)
+r B2460	publisher	 John Wiley & Sons Inc (Computers) (July 1996)
+r 1381	Series	Wiley CIO Series
+object right	has	r 7075
+object right	has	r B1232
+object right	has	r 2863
+object right	has	r 6634
+r B2411	publisher	 SAS Press/ John Wiley and Sons (Copublished); 2 edition (May 25, 2000)
+object right	has	r 739
+r B935	publisher	 Wiley (December 15, 2001)
+object right	has	r 9467
+object right	has	r 1230
+r 2863	series	Wiley Software Patterns Series ,#5
+object right	has	r B1034
+r 9592	Series	Wiley Series in Microwave and Optical Engineering Series
+r 8226	Series	Wiley Series in Probability and Statistics Series
+object right	has	r 1815
+object right	has	r 532

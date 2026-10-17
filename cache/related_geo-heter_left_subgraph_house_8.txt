@@ -1,0 +1,96 @@
+l 50	name	Donner House
+l 933	name	Rally House North Shore
+table data/geo-heter/left	has	l 1777
+table data/geo-heter/left	has	l 1682
+table data/geo-heter/left	has	l 2055
+l 338	name	Spencer House
+table data/geo-heter/left	has	l 44
+l 473	name	Rea House
+l 831	name	Scobell House
+l 1917	name	Imperial House
+table data/geo-heter/left	has	l 528
+table data/geo-heter/left	has	l 61
+l 883	name	Elephant House
+table data/geo-heter/left	has	l 2187
+table data/geo-heter/left	has	l 130
+table data/geo-heter/left	has	l 933
+l 995	name	lcohol House
+table data/geo-heter/left	has	l 114
+l 104	name	Family House
+l 528	name	Black Forge Coffee House
+table data/geo-heter/left	has	l 1984
+table data/geo-heter/left	has	l 338
+l 1984	name	Mr. Smalls Fun House
+table data/geo-heter/left	has	l 815
+table data/geo-heter/left	has	l 241
+table data/geo-heter/left	has	l 2303
+l 1471	name	Ruth's Chris Steak House
+table data/geo-heter/left	has	l 555
+l 1388	name	Neill Log House
+table data/geo-heter/left	has	l 571
+table data/geo-heter/left	has	l 520
+l 735	name	Brew House
+l 39	name	Sprit House
+l 61	name	McGill House
+table data/geo-heter/left	has	l 122
+table data/geo-heter/left	has	l 2077
+l 302	name	Mudge House
+table data/geo-heter/left	has	l 1917
+l 575	name	Schenley House
+l 114	name	Bramer House
+l 1531	name	Hammerschlag House
+l 306	name	New Dumpling House
+l 429	name	Henderson House
+l 555	name	Park House
+table data/geo-heter/left	has	l 102
+l 1334	name	Bado's Pizza Grill and Ale House
+table data/geo-heter/left	has	l 831
+table data/geo-heter/left	has	l 1334
+table data/geo-heter/left	has	l 575
+table data/geo-heter/left	has	l 107
+table data/geo-heter/left	has	l 2090
+l 130	name	Beatty House
+l 107	name	Stever House
+table data/geo-heter/left	has	l 1150
+l 1150	name	Rasta House
+l 41	name	Welch House
+l 686	name	Boss House
+l 2055	name	vel House (DU)
+table data/geo-heter/left	has	l 39
+table data/geo-heter/left	has	l 306
+l 1777	name	Essex Pool House
+l 1682	name	Mineo's Pizza House
+l 2090	name	Hyatt House Pittsburgh / Bloomfield / Shadyside
+table data/geo-heter/left	has	l 1230
+l 1230	name	Original Pancake House
+l 241	name	Tech House
+table data/geo-heter/left	has	l 1353
+table data/geo-heter/left	has	l 1388
+table data/geo-heter/left	has	l 50
+table data/geo-heter/left	has	l 41
+table data/geo-heter/left	has	l 1531
+table data/geo-heter/left	has	l 883
+table data/geo-heter/left	has	l 211
+l 815	name	Potak House
+l 57	name	Essex House
+table data/geo-heter/left	has	l 473
+l 122	name	Community House
+table data/geo-heter/left	has	l 57
+l 571	name	banon House
+table data/geo-heter/left	has	l 686
+l 427	name	Engine House - Fifty Seven
+l 520	name	Sara Heinz House
+l 44	name	Resnik House
+table data/geo-heter/left	has	l 104
+l 1353	name	Raizman House
+table data/geo-heter/left	has	l 429
+table data/geo-heter/left	has	l 995
+table data/geo-heter/left	has	l 1471
+table data/geo-heter/left	has	l 302
+l 2077	name	Fort Pitt Block House
+table data/geo-heter/left	has	l 427
+l 2303	name	Friends Meeting House
+l 2187	name	ugust Wilson House
+l 211	name	indsay House
+l 102	name	lumni House
+table data/geo-heter/left	has	l 735

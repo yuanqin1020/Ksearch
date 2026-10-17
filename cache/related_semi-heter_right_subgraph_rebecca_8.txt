@@ -1,0 +1,106 @@
+object right	has	r 6693
+object right	has	r 4323
+r HC0432	authors	Nancy Holder
+r 9615	authors	Rebecca Tapley
+r 4695	authors	Nancy Lyons# Meghan Wilker
+object right	has	r 1227
+object right	has	r 1183
+r B2366	authors	Rebecca Riordan
+object right	has	r 3265
+r 3447	authors	Nancy Goldberg Hilton. the True Story of Her Journey from Judaism to the Lord Jesus Christ
+object right	has	r 6120
+r 708	authors	Nancy Protheroe
+object right	has	r 7896
+r 1227	authors	Timothy V. Rasinski# Nancy D. Padak# Gay Fawcett
+r 3387	authors	Roger Arrick# Nancy Stevenson
+r 5268	authors	Kim Golombisky# Rebecca Hagen
+r 6120	authors	Nancy E. Willard
+r 3370	authors	Rebecca Bond
+r 6635	authors	Samuel C. McQuade# James P. Colt# Nancy Meyer
+r HC1162	authors	Nancy Garden
+object right	has	r 708
+r 3265	authors	Nancy Harris
+object right	has	r 4517
+object right	has	r 5130
+object right	has	r 3762
+object right	has	r 5274
+object right	has	r 8717
+r 3579	authors	Rebecca Swift
+object right	has	r 5912
+r 1552	authors	 Nancy Graviett
+r 2106	authors	 Rebecca Riordan
+r 2068	authors	Rebecca M. Riordan
+object right	has	r 9259
+object right	has	r 1440
+object right	has	r 505
+r 2974	authors	Nancy C. Muir
+object right	has	r HC0129
+object right	has	r 189
+object right	has	r HC0432
+object right	has	r 9187
+object right	has	r 3370
+object right	has	r 125
+r 8717	authors	Nancy Stevenson
+object right	has	r 6810
+r 2579	authors	Rebecca Walker
+r 3762	authors	Nancy Conner# Matthew MacDonald
+r B511	authors	Nancy B. Stern
+r 1919	authors	Shelley Gaskin# Carol L. Martin# Nancy Graviett# Suzanne Marks
+r B1186	authors	Nancy Long
+object right	has	r B2366
+r 5130	authors	Rebecca Rose
+r 327	authors	Nancy A. Lynch
+object right	has	r 5268
+object right	has	r 3447
+object right	has	r 3579
+object right	has	r 6635
+r HC1258	authors	Rebecca Stead
+object right	has	r 3387
+object right	has	r B1186
+r 9187	authors	Rebecca Barrington
+r 2064	authors	Rebecca MacKinnon
+r 5912	authors	Mary Anne Poatsy# Amy M. Rutledge# Rebecca Lawson# Robert T. Grauer
+r 6693	authors	Stephen Lidie# Nancy Walsh
+r 125	authors	 Nancy Kotary (Editor)
+r 3573	authors	Nancy C. Muir# Ryan C. Williams
+object right	has	r 4695
+object right	has	r 2064
+r 601	authors	Nancy Oestreich Lurie
+object right	has	r 1546
+r 9259	authors	Anna Buss# Nancy Strauss
+object right	has	r 9159
+object right	has	r 3268
+object right	has	r 3573
+object right	has	r 661
+r 1440	authors	 Nancy Davis (Editor)
+r 4314	authors	Shelley Gaskin# Carolyn McLellan# Nancy Graviett
+r 6810	authors	Nancy J. Yeager# Robert E. McGrath
+object right	has	r HC1258
+object right	has	r 1919
+r HC2306	authors	Nancy Werlin
+r HC0865	authors	Nancy Farmer
+object right	has	r 2106
+object right	has	r 4314
+object right	has	r 1187
+r HC1139	authors	Rebecca Maizel
+object right	has	r 327
+r 505	authors	 Rebecca Guenther (Contribution by)
+object right	has	r HC1139
+object right	has	r B511
+r 3268	authors	Nancy J. Bridges
+r 5274	authors	W. David Kelton# Randall Sadowski# Nancy Zupick
+object right	has	r 601
+object right	has	r HC2306
+r 4517	authors	Nancy Muir
+r 2107	authors	 Nancy Maragioglio (Editor)
+r 9159	authors	Zach Seils# Joel Christner# Nancy Jin
+r 4323	authors	Eric Butow# Rebecca Bollwitt
+r 2347	authors	Nancy Conner
+r 661	authors	Steven E. Holzner# Nancy Holzner
+object right	has	r 2579
+object right	has	r 2107
+object right	has	r 157
+r 189	authors	Nancy Duarte
+object right	has	r HC1162
+r 7896	authors	Nancy Beiman
+object right	has	r 9615

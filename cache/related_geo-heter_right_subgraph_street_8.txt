@@ -1,0 +1,207 @@
+r 2610	name	55th Street Parking Lot
+table data/geo-heter/right	has	r 1454
+table data/geo-heter/right	has	r 528
+r 159	address	315 S Bellefield Ave; Filmore Street
+table data/geo-heter/right	has	r 1876
+table data/geo-heter/right	has	r 672
+table data/geo-heter/right	has	r 2629
+r 293	address	1900 Murray Ave; Bartlett Street
+r 1227	address	1711 Liberty Ave; 17th Street
+r 821	address	1307 Federal Street
+r 2656	address	14 Smithfield Street
+table data/geo-heter/right	has	r 336
+table data/geo-heter/right	has	r 943
+r 807	name	Butler Street Motor Works
+table data/geo-heter/right	has	r 2189
+table data/geo-heter/right	has	r 817
+r 30	name	Darragh Street Luxury Appartments
+r 2365	address	lger Street; Nantasket Street
+r 1556	address	Centre Avenue; S Graham Street
+r 604	address	1918 Smallman Street
+r 336	name	St. Michael Street Steps
+table data/geo-heter/right	has	r 794
+table data/geo-heter/right	has	r 675
+r 2351	address	318-320 Cedar Ave; Lockhart Street
+table data/geo-heter/right	has	r 141
+table data/geo-heter/right	has	r 2516
+r 943	address	Cassatt Street; Cliff Street
+r 484	address	2001 Murray Ave; Beacon Street
+table data/geo-heter/right	has	r 492
+table data/geo-heter/right	has	r 2255
+r 489	address	lger Street
+table data/geo-heter/right	has	r 1768
+r 1701	address	5327C Beeler Street
+table data/geo-heter/right	has	r 355
+r 1906	address	411 Greenfield Ave; at Lydia Street
+r 2565	name	Seventh Street Apartments
+table data/geo-heter/right	has	r 1924
+r 1375	address	691 Washington Rd; Alfred Street
+table data/geo-heter/right	has	r 2105
+table data/geo-heter/right	has	r 78
+r 1454	name	30th Street Bridge
+r 59	address	5806 Howe street
+r 2516	name	tham Street Commons
+table data/geo-heter/right	has	r 281
+table data/geo-heter/right	has	r 1430
+table data/geo-heter/right	has	r 1906
+r 1378	address	Charles L. Cost Sport Center Robinson Street PIttsburgh; PA 15213
+table data/geo-heter/right	has	r 1865
+table data/geo-heter/right	has	r 2288
+table data/geo-heter/right	has	r 2219
+table data/geo-heter/right	has	r 1303
+table data/geo-heter/right	has	r 604
+r 1163	address	Fifth Avenue; Wood Street
+r 1924	address	811 S Aiken Ave; Walnut Street
+table data/geo-heter/right	has	r 2365
+r 1588	address	Main Street
+r 2183	address	3053 Brighton Rd; Schimmer Street
+r 1256	name	East Ohio Street
+r 2629	address	1408 Bingham Street; S 14th Street
+table data/geo-heter/right	has	r 1753
+r 1908	name	31st Street Bridge
+table data/geo-heter/right	has	r 92
+table data/geo-heter/right	has	r 2693
+table data/geo-heter/right	has	r 1908
+r 1348	name	Boundary Street Playground
+table data/geo-heter/right	has	r 2565
+table data/geo-heter/right	has	r 489
+table data/geo-heter/right	has	r 835
+table data/geo-heter/right	has	r 1173
+table data/geo-heter/right	has	r 1199
+table data/geo-heter/right	has	r 2104
+table data/geo-heter/right	has	r 162
+r 2105	address	629 E Carson St; 7th Street
+r 1350	address	Hassler Street
+r 675	address	Wabash Street; Main Street
+table data/geo-heter/right	has	r 30
+table data/geo-heter/right	has	r 2710
+r 2026	address	534 Island Ave; Cutler Street
+r 2555	address	4110 Brighton Road Brighton Road & Bascom Street
+r 794	address	210 South Bouquet Street  Sennott Square; 3rd Floor
+table data/geo-heter/right	has	r 2517
+table data/geo-heter/right	has	r 391
+table data/geo-heter/right	has	r 159
+r 998	address	Greenfield Avenue; Lydia Street
+table data/geo-heter/right	has	r 1834
+table data/geo-heter/right	has	r 59
+table data/geo-heter/right	has	r 886
+r 1845	address	; East Ohio Street
+r 733	name	llegheny Health Network at 30 Isabella Street
+r 64	address	McClure Street
+table data/geo-heter/right	has	r 821
+r 78	address	800 blk South Aiken Avenue; at Walnut Street
+table data/geo-heter/right	has	r 484
+r 2076	address	130 7th Street
+table data/geo-heter/right	has	r 1588
+table data/geo-heter/right	has	r 2229
+table data/geo-heter/right	has	r 1559
+table data/geo-heter/right	has	r 1186
+r 2328	address	313 City County Building; 414 Grant Street
+table data/geo-heter/right	has	r 1287
+table data/geo-heter/right	has	r 2077
+table data/geo-heter/right	has	r 218
+r 1173	name	28th street bridge
+table data/geo-heter/right	has	r 1845
+r 162	address	1251 Waterfront Pl #200; 13th Street
+table data/geo-heter/right	has	r 1350
+r 2182	address	6915 Meade Street
+table data/geo-heter/right	has	r 999
+table data/geo-heter/right	has	r 1163
+table data/geo-heter/right	has	r 697
+table data/geo-heter/right	has	r 733
+table data/geo-heter/right	has	r 2182
+table data/geo-heter/right	has	r 2555
+r 2229	address	5676 Hobart St; between Murray Avenue and Wightman Street
+r 391	address	950 Progess Street
+r 255	address	Perrysville Ave; Vinceton Street
+table data/geo-heter/right	has	r 2656
+r 2596	address	17 Furnace Street Ext
+r 528	name	East Street
+r 218	name	Smallman Street Deli On Murray
+r 817	address	McAnulty Drive; Locust Street
+table data/geo-heter/right	has	r 710
+r 1541	address	22 Sampsonia Way; Federal Street
+table data/geo-heter/right	has	r 1541
+r 1768	address	212 E 9th Ave; Amity street
+r 492	address	Shiloh Street
+table data/geo-heter/right	has	r 2183
+r 1430	name	Carson Street Live
+table data/geo-heter/right	has	r 255
+r 1053	address	South 27th Street; Sidney Street
+r 1260	name	Federal street
+r 2255	address	1937 Wharton Street
+r 1834	name	Howe Street
+r 2710	address	4110 Brighton Rd; Bascom Street
+table data/geo-heter/right	has	r 1378
+r 1876	address	1923 Murray Ave; Beacon Street
+table data/geo-heter/right	has	r 2351
+r 2189	address	8 Boundary Street
+r 910	name	Wood Street Frame Shop
+table data/geo-heter/right	has	r 2108
+r 355	address	740 E Warrington Ave; Allen Street
+table data/geo-heter/right	has	r 540
+r 710	name	Wood street
+table data/geo-heter/right	has	r 1412
+r 835	address	355 5th Ave #1500; 5th Ave and Smithfield Street
+table data/geo-heter/right	has	r 1260
+r 181	address	Cable Place; Semple Street
+r 2372	name	21st Street Coffee and Tea
+table data/geo-heter/right	has	r 181
+r 697	address	Sixth Street
+r 1412	name	Butler Street Tattoo
+r 1173	address	28th Street
+table data/geo-heter/right	has	r 998
+table data/geo-heter/right	has	r 1556
+r 141	name	Smithfield Street Bridge
+table data/geo-heter/right	has	r 2328
+r 2077	name	Henderson Street
+table data/geo-heter/right	has	r 506
+r 26	address	5944 Alder St; Spahr Street
+table data/geo-heter/right	has	r 2580
+table data/geo-heter/right	has	r 1227
+r 1530	address	S. Bouquet Street; Sennott Street
+table data/geo-heter/right	has	r 1348
+r 2288	address	2201 Murray Ave; Douglas Street
+r 570	address	73 E Carson St; 1st Street
+table data/geo-heter/right	has	r 767
+table data/geo-heter/right	has	r 2596
+table data/geo-heter/right	has	r 1375
+table data/geo-heter/right	has	r 1256
+table data/geo-heter/right	has	r 64
+table data/geo-heter/right	has	r 570
+r 2108	name	Smallman Street
+r 1186	address	118 Watt Street
+r 1287	name	iberty Avenue at 17th Street
+r 886	address	Grandview Ave and Wyoming Street
+r 2224	address	228 Isabella St; Anderson Street
+r 1303	address	5801 Hampton St; North Saint Clair Street
+r 2693	name	Denham Street
+table data/geo-heter/right	has	r 2372
+table data/geo-heter/right	has	r 1053
+table data/geo-heter/right	has	r 26
+table data/geo-heter/right	has	r 807
+r 1514	address	116 W 8th Ave; West Street
+r 2517	address	300 23rd Street Ext
+r 506	address	122 W 8th Ave; Hays Street
+table data/geo-heter/right	has	r 2610
+r 2219	address	llegheny Commons; Corner of East Ohio Street and Cedar Avenue
+table data/geo-heter/right	has	r 2224
+table data/geo-heter/right	has	r 1701
+r 540	address	3201 Penn Ave; 32nd Street
+r 672	name	Darragh Street Apartments
+table data/geo-heter/right	has	r 1514
+r 1865	name	Dormont Street Fair
+r 999	name	Taylor Street Parking Plaza
+r 2104	address	56 S 12th St; East Carson and 12th Street
+r 1559	address	Brighton Rd; at Schimmer Street
+r 342	address	130 Seventh Street
+table data/geo-heter/right	has	r 1925
+table data/geo-heter/right	has	r 293
+r 2580	address	Penn Avenue; Main Street
+r 1199	address	279 45th St; Davison Street
+r 1753	address	chartiers avenue; furnace street
+table data/geo-heter/right	has	r 2026
+table data/geo-heter/right	has	r 1530
+table data/geo-heter/right	has	r 910
+r 92	address	236 Oakland Ave; Sennott Street
+r 767	address	2nd Street

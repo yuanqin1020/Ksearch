@@ -1,0 +1,52 @@
+table data/geo-heter/right	has	r 309
+table data/geo-heter/right	has	r 2626
+table data/geo-heter/right	has	r 167
+r 633	address	510 Market St
+table data/geo-heter/right	has	r 22
+r 1483	name	Hanini Market and Subs
+table data/geo-heter/right	has	r 1647
+table data/geo-heter/right	has	r 1483
+table data/geo-heter/right	has	r 622
+table data/geo-heter/right	has	r 2056
+r 2719	name	Simba Market
+table data/geo-heter/right	has	r 1009
+table data/geo-heter/right	has	r 497
+table data/geo-heter/right	has	r 2388
+table data/geo-heter/right	has	r 744
+r 744	name	Schwartz Market
+r 2219	name	Sundae Market
+r 324	address	225 5th Ave; Market St
+r 956	name	imadeit Market
+table data/geo-heter/right	has	r 1127
+table data/geo-heter/right	has	r 324
+table data/geo-heter/right	has	r 2146
+r 1127	name	wrenceville Farmer's Market
+table data/geo-heter/right	has	r 956
+r 1028	name	Mount Lebanon Farmer's Market
+r 2004	name	Green Market
+table data/geo-heter/right	has	r 252
+r 748	address	510 Market St; at Fifth Ave.
+table data/geo-heter/right	has	r 633
+r 387	name	Garfield Night Market
+table data/geo-heter/right	has	r 1028
+table data/geo-heter/right	has	r 1561
+table data/geo-heter/right	has	r 387
+r 2626	name	Frick Park Market
+r 1009	address	250 Forbes Ave; btwn Market Sq & Wood St
+r 22	name	Shadyside Market
+r 252	name	den Market
+table data/geo-heter/right	has	r 748
+r 1647	name	Shumans Market
+table data/geo-heter/right	has	r 834
+r 2056	name	The Market
+r 1561	name	Morningside Market
+r 622	name	Blue Eagle Market
+r 497	name	Hanini Market
+table data/geo-heter/right	has	r 2004
+table data/geo-heter/right	has	r 2219
+r 834	name	Boston Market
+table data/geo-heter/right	has	r 1596
+r 2388	name	Kuhn's Market
+r 1596	name	Squirrel Hill Farmers' Market
+r 167	name	Bombay Food Market
+r 309	name	& E Market

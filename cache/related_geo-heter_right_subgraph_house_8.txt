@@ -1,0 +1,140 @@
+table data/geo-heter/right	has	r 1188
+r 1188	name	ictory House
+r 2542	name	Sellers House
+table data/geo-heter/right	has	r 2639
+table data/geo-heter/right	has	r 2278
+table data/geo-heter/right	has	r 557
+r 557	name	Boss House
+r 1386	name	The Original Pancake House
+table data/geo-heter/right	has	r 2245
+r 126	name	Dini House
+table data/geo-heter/right	has	r 2567
+table data/geo-heter/right	has	r 10
+table data/geo-heter/right	has	r 2353
+table data/geo-heter/right	has	r 2432
+table data/geo-heter/right	has	r 1091
+table data/geo-heter/right	has	r 2013
+table data/geo-heter/right	has	r 2267
+r 63	name	Schenley House
+r 109	name	My House
+table data/geo-heter/right	has	r 1272
+r 52	name	Welch House
+table data/geo-heter/right	has	r 657
+r 91	name	Carriage House - Chatham University
+table data/geo-heter/right	has	r 2135
+table data/geo-heter/right	has	r 2542
+r 2353	name	Hyatt House Pittsburgh/Bloomfield/Shadyside
+table data/geo-heter/right	has	r 806
+table data/geo-heter/right	has	r 140
+table data/geo-heter/right	has	r 112
+r 10	name	Scobell House
+r 46	name	Dads House
+r 2369	name	Dukes Bro House
+table data/geo-heter/right	has	r 91
+r 2198	name	The Panda House
+r 1113	name	Imperial House
+r 43	name	McGill House
+r 140	name	Bramer House
+table data/geo-heter/right	has	r 751
+table data/geo-heter/right	has	r 1577
+table data/geo-heter/right	has	r 673
+r 1746	name	lpha House
+table data/geo-heter/right	has	r 2314
+table data/geo-heter/right	has	r 982
+r 865	name	Family House
+r 1304	name	than House
+r 2639	name	Matt's House
+table data/geo-heter/right	has	r 2345
+table data/geo-heter/right	has	r 1942
+r 59	name	Team House
+r 1492	name	Bado's Pizza Grill & Ale House
+table data/geo-heter/right	has	r 1330
+r 664	name	Resnik House
+r 1091	name	Family House Shadyside
+r 1767	name	Sushi House
+table data/geo-heter/right	has	r 2749
+table data/geo-heter/right	has	r 1746
+table data/geo-heter/right	has	r 1492
+table data/geo-heter/right	has	r 59
+r 2739	name	da green house
+r 523	name	Chatham University Gate House
+table data/geo-heter/right	has	r 1032
+r 2135	name	Mineo's Pizza House
+table data/geo-heter/right	has	r 865
+table data/geo-heter/right	has	r 1767
+r 1058	name	Daves House
+table data/geo-heter/right	has	r 154
+table data/geo-heter/right	has	r 109
+r 2465	name	Rasta House
+table data/geo-heter/right	has	r 429
+table data/geo-heter/right	has	r 1048
+table data/geo-heter/right	has	r 523
+r 1048	name	Fitzgerald Field House
+table data/geo-heter/right	has	r 711
+r 1600	name	Henderson House
+table data/geo-heter/right	has	r 43
+r 711	name	Donner House
+r 911	name	EPi House
+table data/geo-heter/right	has	r 1600
+table data/geo-heter/right	has	r 1113
+table data/geo-heter/right	has	r 566
+table data/geo-heter/right	has	r 2739
+table data/geo-heter/right	has	r 1386
+r 1032	name	Joe's Dog House
+table data/geo-heter/right	has	r 911
+table data/geo-heter/right	has	r 460
+table data/geo-heter/right	has	r 335
+table data/geo-heter/right	has	r 63
+table data/geo-heter/right	has	r 451
+r 1715	name	Edgewood House
+r 673	name	The Tree House
+r 1057	name	Warwick House
+r 154	name	Tim's House
+r 254	name	SAE House
+r 2267	name	Schenly House 4A
+r 2432	name	The House Bar
+r 982	name	PULSE Stanton House
+r 1577	name	Sarah Heinz House
+r 2013	name	urelia House
+r 460	name	Engine House 57
+table data/geo-heter/right	has	r 330
+table data/geo-heter/right	has	r 107
+table data/geo-heter/right	has	r 2327
+table data/geo-heter/right	has	r 2198
+table data/geo-heter/right	has	r 1304
+r 451	name	Stever House
+r 2314	name	val House
+table data/geo-heter/right	has	r 1300
+r 1330	name	The Doner Kebab House
+r 1019	name	Social House 7
+table data/geo-heter/right	has	r 254
+r 429	name	lumni House
+r 2749	name	The Cage Party House
+table data/geo-heter/right	has	r 1057
+r 335	name	ZBT Center House
+r 2278	name	shadyside house tour
+r 112	name	Mudge House
+r 2567	name	Turkish Kebab House
+table data/geo-heter/right	has	r 126
+table data/geo-heter/right	has	r 2369
+table data/geo-heter/right	has	r 1715
+table data/geo-heter/right	has	r 1058
+table data/geo-heter/right	has	r 927
+r 2345	name	Washington Square Dads House
+r 2327	name	Brad's House
+r 566	name	Park House
+r 225	name	Jons House
+r 806	name	The Beta House
+r 751	name	Sandy's House
+table data/geo-heter/right	has	r 225
+table data/geo-heter/right	has	r 664
+table data/geo-heter/right	has	r 46
+table data/geo-heter/right	has	r 1019
+r 2245	name	ughlin House Chatham University
+r 1942	name	Courtney's House
+r 107	name	Magic House
+r 1272	name	West Wing House
+r 657	name	Petersons House
+r 330	name	New Dumpling House
+table data/geo-heter/right	has	r 52
+r 927	name	Schenley House 6J

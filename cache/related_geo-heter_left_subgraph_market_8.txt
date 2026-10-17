@@ -1,0 +1,24 @@
+l 565	name	Shadyside Market and Deli
+l 324	name	Giant Eagle Market District
+table data/geo-heter/left	has	l 239
+table data/geo-heter/left	has	l 1799
+l 858	name	Simba Market
+l 1326	name	Hanini Market
+l 992	name	Frick Park Market
+l 679	name	Schwartz Living Market
+table data/geo-heter/left	has	l 570
+l 239	name	den Market
+table data/geo-heter/left	has	l 335
+table data/geo-heter/left	has	l 858
+table data/geo-heter/left	has	l 1326
+l 335	name	Boston Market
+table data/geo-heter/left	has	l 324
+l 1799	name	Brighton Market
+table data/geo-heter/left	has	l 1146
+table data/geo-heter/left	has	l 565
+l 570	name	Blue Eagle Market
+table data/geo-heter/left	has	l 992
+table data/geo-heter/left	has	l 159
+l 1146	name	Steel City Market
+table data/geo-heter/left	has	l 679
+l 159	name	Bombay Food Market

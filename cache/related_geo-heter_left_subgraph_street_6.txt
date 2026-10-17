@@ -1,0 +1,4584 @@
+table data/geo-heter/left	has	l 662
+table data/geo-heter/left	has	l 810
+table data/geo-heter/left	has	l 1391
+l 737	name	WN Groceries
+table data/geo-heter/left	has	l 1356
+table data/geo-heter/left	has	l 2322
+l 1961	name	Jimmy John's
+table data/geo-heter/left	has	l 239
+table data/geo-heter/left	has	l 711
+l 1854	name	Crafton Childrens Corner
+table data/geo-heter/left	has	l 1863
+l 1440	name	Ewart Building
+table data/geo-heter/left	has	l 1531
+table data/geo-heter/left	has	l 1593
+table data/geo-heter/left	has	l 1508
+l 696	name	Dippy the Dinosaur
+table data/geo-heter/left	has	l 2274
+table data/geo-heter/left	has	l 2223
+table data/geo-heter/left	has	l 1351
+table data/geo-heter/left	has	l 1033
+l 48	name	incoln Elementary School Library
+l 1727	name	15 Fahrenheit Rolled Ice Cream
+table data/geo-heter/left	has	l 1160
+l 2360	name	Penn Avenue Fish Company
+table data/geo-heter/left	has	l 61
+l 668	name	Squirrel Hill Cafe
+table data/geo-heter/left	has	l 1502
+l 1525	name	Edgewood Towne Center
+l 241	name	Tech House
+table data/geo-heter/left	has	l 1446
+l 1953	name	Bellevue Elementary School
+table data/geo-heter/left	has	l 715
+table data/geo-heter/left	has	l 435
+table data/geo-heter/left	has	l 349
+table data/geo-heter/left	has	l 1538
+l 2429	name	Doughboy's Pizza
+l 2144	name	llderdice High School Library
+table data/geo-heter/left	has	l 924
+l 162	name	coustic Music Works
+l 2174	name	Cheers Bar
+table data/geo-heter/left	has	l 2256
+l 707	name	Polo Barber Shop
+l 35	name	Mount Lebanon High School
+table data/geo-heter/left	has	l 1963
+table data/geo-heter/left	has	l 2374
+table data/geo-heter/left	has	l 1815
+table data/geo-heter/left	has	l 534
+table data/geo-heter/left	has	l 2212
+table data/geo-heter/left	has	l 2390
+l 2138	name	Sixth Presbyterian Church
+l 1466	name	Forest Hills Park
+table data/geo-heter/left	has	l 1506
+table data/geo-heter/left	has	l 1131
+table data/geo-heter/left	has	l 225
+table data/geo-heter/left	has	l 812
+table data/geo-heter/left	has	l 1432
+table data/geo-heter/left	has	l 314
+table data/geo-heter/left	has	l 910
+table data/geo-heter/left	has	l 1806
+table data/geo-heter/left	has	l 1665
+l 1003	name	Fourth Presbyterian Church
+l 2188	name	Wines & Spirits
+l 1099	name	Jitters Cafe & Ice Cream
+l 1600	name	UPMC Presbyterian Hospital
+table data/geo-heter/left	has	l 781
+table data/geo-heter/left	has	l 900
+table data/geo-heter/left	has	l 2396
+table data/geo-heter/left	has	l 1649
+table data/geo-heter/left	has	l 2136
+l 854	name	walking to the sky
+l 1761	name	Good Orthodontics
+table data/geo-heter/left	has	l 140
+table data/geo-heter/left	has	l 690
+l 1166	name	Bill Few Associates
+table data/geo-heter/left	has	l 502
+table data/geo-heter/left	has	l 760
+table data/geo-heter/left	has	l 1683
+table data/geo-heter/left	has	l 2361
+table data/geo-heter/left	has	l 1511
+table data/geo-heter/left	has	l 370
+table data/geo-heter/left	has	l 1547
+l 41	name	Welch House
+table data/geo-heter/left	has	l 2236
+l 2242	name	Wai Wai
+l 317	name	lan's Pets and Plants
+table data/geo-heter/left	has	l 50
+table data/geo-heter/left	has	l 1805
+table data/geo-heter/left	has	l 1597
+table data/geo-heter/left	has	l 1607
+l 287	name	Renaissance Family Practice
+l 2250	name	Faith Temple Lighthouse Church
+l 2324	name	U.S. Steel Tower
+table data/geo-heter/left	has	l 547
+table data/geo-heter/left	has	l 1226
+l 902	name	Sandcastle Water Park
+table data/geo-heter/left	has	l 1484
+table data/geo-heter/left	has	l 1132
+l 30	name	Pittsburgh City Theatre
+table data/geo-heter/left	has	l 2328
+table data/geo-heter/left	has	l 1277
+table data/geo-heter/left	has	l 2124
+l 1893	name	North Ave at Elizabeth St
+l 1523	name	West Mifflin Borough Hall
+l 1925	name	Roth Cash Register
+l 1576	name	St Nicholas Greek Orthodox Cathedral
+table data/geo-heter/left	has	l 1528
+table data/geo-heter/left	has	l 123
+l 583	name	Parador Inn
+l 1647	name	Grant Ave at East Ohio St
+table data/geo-heter/left	has	l 1709
+l 913	name	Barco Law Building
+table data/geo-heter/left	has	l 1188
+table data/geo-heter/left	has	l 1264
+table data/geo-heter/left	has	l 1851
+l 33	name	One Gateway Center
+table data/geo-heter/left	has	l 1729
+l 673	name	Banksville Park
+table data/geo-heter/left	has	l 1999
+table data/geo-heter/left	has	l 2098
+l 1207	name	Blawknox Place
+table data/geo-heter/left	has	l 1623
+l 268	name	Bouquet Gardens Building C
+l 1586	name	Ed's Generator Service
+l 710	name	Banksville Laundromat
+table data/geo-heter/left	has	l 1554
+l 2337	name	Public Source
+l 1795	name	Saint Stephen Lutheran Church
+l 1277	name	Shell
+table data/geo-heter/left	has	l 356
+l 521	name	Southside Steaks
+table data/geo-heter/left	has	l 1721
+table data/geo-heter/left	has	l 1747
+l 1929	name	Radio Shack
+table data/geo-heter/left	has	l 2010
+l 1079	name	ice Pizzeria
+table data/geo-heter/left	has	l 2287
+table data/geo-heter/left	has	l 1984
+l 103	name	Oakwood Apartments
+l 424	name	Pittsburgh's Grand Hall
+l 1889	name	Herron Hill Pumping Station
+table data/geo-heter/left	has	l 434
+table data/geo-heter/left	has	l 326
+l 137	name	Thackeray Hall
+table data/geo-heter/left	has	l 612
+l 1084	name	Commonplace Coffee MWS
+table data/geo-heter/left	has	l 1595
+l 1809	name	Pittsburgh Cycle Center
+l 1799	name	Brighton Market
+l 2177	name	Edgebrook
+table data/geo-heter/left	has	l 649
+table data/geo-heter/left	has	l 408
+table data/geo-heter/left	has	l 1790
+table data/geo-heter/left	has	l 424
+table data/geo-heter/left	has	l 489
+table data/geo-heter/left	has	l 686
+l 530	name	Carnegie Office Park
+l 1818	name	Keystone Oaks Middle School Library
+table data/geo-heter/left	has	l 1957
+l 1171	name	Burn Restaurant & Cigar Lounge
+table data/geo-heter/left	has	l 479
+l 1028	name	Orr's Jewelers
+l 2352	name	Joseph Stern Building
+l 1419	name	Carlow Interfaith Center
+l 1625	name	Mueller's Hardware
+table data/geo-heter/left	has	l 1009
+table data/geo-heter/left	has	l 1054
+table data/geo-heter/left	has	l 1577
+table data/geo-heter/left	has	l 1412
+table data/geo-heter/left	has	l 1701
+table data/geo-heter/left	has	l 1090
+l 400	name	toon's Pizza
+table data/geo-heter/left	has	l 591
+table data/geo-heter/left	has	l 923
+l 2168	name	Commonwealth Press
+table data/geo-heter/left	has	l 1898
+l 2042	name	Monro Muffler
+table data/geo-heter/left	has	l 1465
+l 2002	name	Solar Financial
+table data/geo-heter/left	has	l 1057
+table data/geo-heter/left	has	l 2313
+table data/geo-heter/left	has	l 136
+table data/geo-heter/left	has	l 1212
+l 23	name	West Park American Hardware
+l 122	name	Community House
+table data/geo-heter/left	has	l 2023
+l 131	name	Sharp Edge Creekhouse
+l 2034	name	Delanie's Coffee
+l 593	name	Brentwood Library
+table data/geo-heter/left	has	l 2195
+table data/geo-heter/left	has	l 1367
+table data/geo-heter/left	has	l 2403
+table data/geo-heter/left	has	l 847
+l 134	name	Fort Pitt Elementary School
+table data/geo-heter/left	has	l 87
+table data/geo-heter/left	has	l 675
+table data/geo-heter/left	has	l 1840
+l 2348	name	Mekong
+table data/geo-heter/left	has	l 1301
+table data/geo-heter/left	has	l 2465
+table data/geo-heter/left	has	l 483
+table data/geo-heter/left	has	l 1025
+table data/geo-heter/left	has	l 1551
+table data/geo-heter/left	has	l 1121
+l 390	name	Meyers Ridge
+l 1573	name	Homestead Cemetery
+l 1733	name	Mt. Lebanon Municipal Building
+l 919	name	Consignments on Centre
+table data/geo-heter/left	has	l 2387
+l 1709	name	The Double L Bar
+l 775	name	JR's Bar
+l 1058	name	Hazelwood Senior Center
+l 1582	name	Saint Benedict the Moor Convent
+l 1862	name	Rex Theater
+l 1108	name	lihan's Mediterranean Cuisine
+l 963	name	Northwood Realty Services
+table data/geo-heter/left	has	l 1175
+l 2380	name	East Ohio St at Cedar Ave
+table data/geo-heter/left	has	l 1609
+table data/geo-heter/left	has	l 967
+table data/geo-heter/left	has	l 1200
+table data/geo-heter/left	has	l 1178
+table data/geo-heter/left	has	l 1334
+l 77	name	Mazza's Shoes
+table data/geo-heter/left	has	l 637
+table data/geo-heter/left	has	l 2038
+l 1111	name	Stephen M Brady Funeral Home
+l 1721	name	Saint Andrews Lutheran Church
+l 485	name	East Street Distributing Co.
+table data/geo-heter/left	has	l 1803
+l 1822	name	Steel Plaza
+l 1129	name	Westinghouse Shelter
+table data/geo-heter/left	has	l 1315
+l 140	name	Olde Kennywood RR
+l 1707	name	Frazier Farms
+table data/geo-heter/left	has	l 281
+table data/geo-heter/left	has	l 1903
+l 969	name	Most Holy Name Church
+l 2421	name	Firstside Park
+l 163	name	Double Wide Grill
+l 766	name	Saint Simon and Jude Church
+l 808	name	tria's Restaurant & Tavern
+l 1610	name	The Exchange
+l 2106	name	Meadow Park
+table data/geo-heter/left	has	l 544
+l 1706	name	Community Library of Castle Shannon
+l 2224	name	Roberto Clemente Statue
+table data/geo-heter/left	has	l 387
+table data/geo-heter/left	has	l 766
+table data/geo-heter/left	has	l 27
+l 1898	name	dministration Building
+table data/geo-heter/left	has	l 147
+l 894	name	Pittsburgh Playhouse
+table data/geo-heter/left	has	l 2320
+table data/geo-heter/left	has	l 59
+table data/geo-heter/left	has	l 15
+table data/geo-heter/left	has	l 664
+table data/geo-heter/left	has	l 2187
+l 334	name	Highland Park Pool
+table data/geo-heter/left	has	l 200
+table data/geo-heter/left	has	l 431
+l 2077	name	Fort Pitt Block House
+table data/geo-heter/left	has	l 714
+table data/geo-heter/left	has	l 2257
+l 392	name	UPMC Shadyside Family Health Center
+table data/geo-heter/left	has	l 1864
+table data/geo-heter/left	has	l 1433
+table data/geo-heter/left	has	l 2175
+table data/geo-heter/left	has	l 310
+l 2343	name	Beechview United Presbyterian Church
+table data/geo-heter/left	has	l 926
+l 19	name	Missionary Temple Church of God in Christ
+l 670	name	Jones Hall
+l 2055	name	vel House (DU)
+table data/geo-heter/left	has	l 54
+l 906	name	Beverly Hills Nails
+table data/geo-heter/left	has	l 2035
+l 1833	name	gape Learning Center
+table data/geo-heter/left	has	l 1764
+table data/geo-heter/left	has	l 1142
+table data/geo-heter/left	has	l 1358
+table data/geo-heter/left	has	l 1342
+l 1685	name	Old Town Buffet
+table data/geo-heter/left	has	l 2036
+table data/geo-heter/left	has	l 1357
+table data/geo-heter/left	has	l 1850
+table data/geo-heter/left	has	l 732
+l 391	name	rchies on Carson
+table data/geo-heter/left	has	l 1602
+table data/geo-heter/left	has	l 660
+l 208	name	Pool Grove
+table data/geo-heter/left	has	l 616
+table data/geo-heter/left	has	l 446
+table data/geo-heter/left	has	l 143
+l 1621	name	Hook Fish & Chicken
+l 1423	name	Diocese of Pittsburgh Synod Hall
+l 493	name	Cafe Milano
+table data/geo-heter/left	has	l 1600
+table data/geo-heter/left	has	l 666
+l 2053	name	llegheny County Department of Human Services
+table data/geo-heter/left	has	l 1379
+table data/geo-heter/left	has	l 2063
+l 1863	name	Saint John of God Elementary
+l 2334	name	Work Hard Pittsburgh
+l 1066	name	Saint Ann's Cemetery
+l 1317	name	Ralph Schugar Funeral Home
+l 1643	name	Carnegie Library of Homestead
+l 2176	name	terans Leadership Program of Western Pennsylvania
+l 259	name	Mellon Institute
+table data/geo-heter/left	has	l 2459
+l 917	name	ocal Brewhouse
+l 616	name	Bellefield Hall
+l 266	name	Reynolds Motors
+table data/geo-heter/left	has	l 585
+table data/geo-heter/left	has	l 3
+l 687	name	University Pittsburgh Childhood Development Center
+table data/geo-heter/left	has	l 2225
+l 1080	name	1 Allegheny Square
+l 846	name	ugust Wilson Park
+table data/geo-heter/left	has	l 782
+table data/geo-heter/left	has	l 1094
+l 146	name	os Family Dentistry
+table data/geo-heter/left	has	l 2345
+table data/geo-heter/left	has	l 89
+l 98	name	Department of Human Services Office
+table data/geo-heter/left	has	l 192
+l 1819	name	South Hills Embroidery
+table data/geo-heter/left	has	l 1152
+l 1229	name	Tessaro's
+l 1433	name	Broadway Electronics
+l 1633	name	The Apollo Cafe
+table data/geo-heter/left	has	l 321
+table data/geo-heter/left	has	l 315
+table data/geo-heter/left	has	l 1847
+table data/geo-heter/left	has	l 243
+l 751	name	Tavern 245
+table data/geo-heter/left	has	l 1895
+table data/geo-heter/left	has	l 1481
+table data/geo-heter/left	has	l 2301
+l 1511	name	Saint Joseph Gymnasium
+l 840	name	South Hills Optical
+l 1306	name	Wallace Memorial United Presbyterian Church
+l 2296	name	Duckstein Restoration
+l 1035	name	Sutherland Hall
+table data/geo-heter/left	has	l 1097
+table data/geo-heter/left	has	l 158
+l 1225	name	NRG Energy Center Pittsburgh
+table data/geo-heter/left	has	l 2370
+l 338	name	Spencer House
+l 1359	name	pple Store
+l 2460	name	incoln Bakery
+table data/geo-heter/left	has	l 1470
+l 1235	name	Keystone Oaks High School Library
+table data/geo-heter/left	has	l 2418
+l 952	name	Mugam Auto Repair
+l 651	name	Penny Arcade
+l 1732	name	Elm Grove
+table data/geo-heter/left	has	l 94
+table data/geo-heter/left	has	l 1350
+l 878	name	ibrary Building
+table data/geo-heter/left	has	l 1568
+table data/geo-heter/left	has	l 229
+l 1712	name	South Hills Art Center
+l 1074	name	Duquesne University
+l 513	name	Stanton-Negley Drug Co
+l 1329	name	Green Tree Public Library
+table data/geo-heter/left	has	l 1837
+l 2169	name	Pittsburgh Urban Christian School
+table data/geo-heter/left	has	l 1976
+table data/geo-heter/left	has	l 1938
+table data/geo-heter/left	has	l 137
+l 2226	name	Iron City Auto Service & Sales
+table data/geo-heter/left	has	l 2178
+table data/geo-heter/left	has	l 1084
+table data/geo-heter/left	has	l 531
+l 1262	name	St. Vincent de Paul Thrift Store
+l 1768	name	Rocky's Cafe
+table data/geo-heter/left	has	l 1435
+table data/geo-heter/left	has	l 2153
+table data/geo-heter/left	has	l 150
+l 2128	name	Heinz Field
+table data/geo-heter/left	has	l 2012
+l 1926	name	Redbox
+l 728	name	K&L Gates Center
+l 1025	name	Mt. Lebanon Christian Church
+l 601	name	Federal Galley
+l 1134	name	ibrary for the Blind Carnegie Free Library of Pittsburgh
+table data/geo-heter/left	has	l 2111
+table data/geo-heter/left	has	l 1692
+table data/geo-heter/left	has	l 1920
+table data/geo-heter/left	has	l 2339
+l 2145	name	Ressurection Catholic Church
+table data/geo-heter/left	has	l 1487
+l 75	name	Southside Works City Apartments
+table data/geo-heter/left	has	l 1563
+table data/geo-heter/left	has	l 1832
+l 562	name	Pittsburgh Board of Education
+table data/geo-heter/left	has	l 1621
+l 1217	name	Bloomfield Drug Store
+table data/geo-heter/left	has	l 1241
+l 714	name	opardi Auto Sales
+l 1131	name	Kandy Kaleidoscope
+table data/geo-heter/left	has	l 1770
+l 2335	name	Circle K
+l 927	name	llegheny Valley Bank
+l 576	name	McKees Rocks Mound
+l 2268	name	Turkish Kebab
+table data/geo-heter/left	has	l 682
+table data/geo-heter/left	has	l 1283
+table data/geo-heter/left	has	l 596
+table data/geo-heter/left	has	l 1008
+table data/geo-heter/left	has	l 2198
+table data/geo-heter/left	has	l 628
+table data/geo-heter/left	has	l 672
+l 501	name	Saint Annes Church
+table data/geo-heter/left	has	l 861
+table data/geo-heter/left	has	l 1210
+table data/geo-heter/left	has	l 1139
+l 2280	name	Miller Elementary School
+table data/geo-heter/left	has	l 1
+l 776	name	DoubleTree by Hilton Hotel Pittsburgh-Green Tree
+table data/geo-heter/left	has	l 716
+l 2373	name	ittle's Shoes
+l 1160	name	Wood St between Forbes & Fifth
+l 1792	name	Starbucks Coffee
+table data/geo-heter/left	has	l 395
+table data/geo-heter/left	has	l 1613
+table data/geo-heter/left	has	l 2180
+l 2409	name	Union School
+table data/geo-heter/left	has	l 1393
+l 1231	name	Washington Elementary School
+l 2303	name	Friends Meeting House
+l 370	name	llegheny County Health Department
+l 988	name	Buon Giorno Cafe
+table data/geo-heter/left	has	l 164
+table data/geo-heter/left	has	l 1197
+l 939	name	Esser's Floral Shop
+table data/geo-heter/left	has	l 627
+l 2185	name	Homestead Post Office
+table data/geo-heter/left	has	l 2120
+l 541	name	Paisano's Restaurant
+l 1868	name	Software Engineering Institute
+table data/geo-heter/left	has	l 1369
+l 2356	name	PNC Bank
+l 736	name	Butler St at Freeport St
+l 1869	name	Wesley W. Posvar Hall
+l 2265	name	Waterfront Power Center
+table data/geo-heter/left	has	l 141
+l 429	name	Henderson House
+table data/geo-heter/left	has	l 2073
+table data/geo-heter/left	has	l 641
+table data/geo-heter/left	has	l 1067
+table data/geo-heter/left	has	l 1994
+table data/geo-heter/left	has	l 872
+l 2346	name	Jackman Inn
+l 759	name	The Allegheny
+l 2439	name	Rita's Italian Ice
+l 1454	name	Saint Pius X Byzantine Catholic Church
+l 538	name	Club Cafe
+l 1284	name	Michael's Lounge
+l 899	name	Sterling Plaza
+table data/geo-heter/left	has	l 347
+l 867	name	Citizens Bank.
+l 1617	name	McKees Rocks Police Department
+l 2435	name	Great Clips
+table data/geo-heter/left	has	l 1969
+table data/geo-heter/left	has	l 2405
+table data/geo-heter/left	has	l 552
+l 2163	name	llegheny Therapy and Wellness
+l 319	name	Mt. Lebanon Fire Department
+table data/geo-heter/left	has	l 1058
+table data/geo-heter/left	has	l 345
+table data/geo-heter/left	has	l 2210
+table data/geo-heter/left	has	l 571
+table data/geo-heter/left	has	l 511
+table data/geo-heter/left	has	l 415
+l 1776	name	lero
+table data/geo-heter/left	has	l 594
+table data/geo-heter/left	has	l 246
+table data/geo-heter/left	has	l 1403
+table data/geo-heter/left	has	l 428
+table data/geo-heter/left	has	l 457
+l 1289	name	The Frick Greenhouse
+l 2452	name	West Homestead Police Department
+l 1593	name	ish Yard
+l 100	name	Wilkins School Community Center
+table data/geo-heter/left	has	l 1245
+l 221	name	Peoples Natural Gas
+l 887	name	Olivet Baptist Church
+table data/geo-heter/left	has	l 855
+table data/geo-heter/left	has	l 70
+table data/geo-heter/left	has	l 1696
+table data/geo-heter/left	has	l 1313
+table data/geo-heter/left	has	l 1663
+table data/geo-heter/left	has	l 1526
+l 1291	name	Killarney
+table data/geo-heter/left	has	l 2254
+l 1087	name	REI
+table data/geo-heter/left	has	l 927
+table data/geo-heter/left	has	l 1053
+table data/geo-heter/left	has	l 1451
+l 1181	name	Federated Tower
+l 789	name	ittle Ceasars
+l 378	name	Pittsburgh
+l 2428	name	Greenstone United Methodist Church
+table data/geo-heter/left	has	l 156
+table data/geo-heter/left	has	l 1409
+table data/geo-heter/left	has	l 2288
+l 1616	name	PNC Center
+l 739	name	Church of the Assumption
+table data/geo-heter/left	has	l 1765
+table data/geo-heter/left	has	l 335
+l 1267	name	Petersen Sports Complex
+l 1702	name	Engine/Truck Company 26
+table data/geo-heter/left	has	l 289
+l 2015	name	Courtyard Pittsburgh Downtown
+l 2008	name	Grandview Elementary School Library
+l 2437	name	Seville Volunteer Fire Company
+table data/geo-heter/left	has	l 406
+table data/geo-heter/left	has	l 877
+l 413	name	Greenfield Elementary School Library
+table data/geo-heter/left	has	l 640
+table data/geo-heter/left	has	l 1748
+l 431	name	One North Shore Center
+l 671	name	Clapp Hall
+table data/geo-heter/left	has	l 78
+table data/geo-heter/left	has	l 2415
+table data/geo-heter/left	has	l 1661
+l 982	name	E&M Pizzeria
+l 2030	name	ssumption Hall (DU)
+l 1456	name	gley Hall
+table data/geo-heter/left	has	l 537
+l 24	name	Oak Hill Apartments
+table data/geo-heter/left	has	l 2373
+table data/geo-heter/left	has	l 2224
+table data/geo-heter/left	has	l 1824
+table data/geo-heter/left	has	l 340
+l 836	name	Cargill Salt
+l 59	name	iello's Pizza
+table data/geo-heter/left	has	l 1072
+l 1946	name	West End-Elliott Overlook Park
+l 1391	name	Sharpsburg Police Department
+table data/geo-heter/left	has	l 701
+l 1462	name	Mario's East Side Saloon
+l 1334	name	Bado's Pizza Grill and Ale House
+l 531	name	Crafton Park
+table data/geo-heter/left	has	l 2228
+l 1314	name	Whales Tale Lawrenceville Center
+table data/geo-heter/left	has	l 2433
+l 1846	name	rtists Image Resource Inc
+table data/geo-heter/left	has	l 2058
+table data/geo-heter/left	has	l 2233
+table data/geo-heter/left	has	l 309
+table data/geo-heter/left	has	l 9
+l 1936	name	Penn Brewery
+l 46	name	llegheny General Hospital Center for Children
+table data/geo-heter/left	has	l 97
+l 384	name	Foster Plaza 9
+l 684	name	Jefferson Middle School
+l 620	name	The Carlyle
+table data/geo-heter/left	has	l 615
+l 2149	name	Tower Auto Sales
+table data/geo-heter/left	has	l 658
+table data/geo-heter/left	has	l 41
+l 2458	name	Trinity Lutheran Church
+l 2221	name	Smithfield St at Forbes Ave
+table data/geo-heter/left	has	l 2199
+l 2312	name	East Ohio St at Heinz St
+table data/geo-heter/left	has	l 233
+l 1857	name	Western Pennsylvania Hospital
+l 288	name	University Art Gallery
+table data/geo-heter/left	has	l 1458
+table data/geo-heter/left	has	l 945
+l 1949	name	Duquesne Elementary K-6
+l 460	name	Point State Park
+table data/geo-heter/left	has	l 456
+l 29	name	Darragh Street Apartments
+table data/geo-heter/left	has	l 1420
+l 2095	name	Emerald Gardens
+table data/geo-heter/left	has	l 1183
+l 534	name	The Foundry
+l 2190	name	The Church in Pittsburgh
+table data/geo-heter/left	has	l 931
+table data/geo-heter/left	has	l 1972
+l 2396	name	Shades of Style Salon
+table data/geo-heter/left	has	l 720
+l 1530	name	Saint Aloysius Church
+table data/geo-heter/left	has	l 1493
+l 2123	name	Union Grill
+table data/geo-heter/left	has	l 113
+l 2297	name	Trinity Hall (DU)
+table data/geo-heter/left	has	l 687
+table data/geo-heter/left	has	l 472
+table data/geo-heter/left	has	l 646
+table data/geo-heter/left	has	l 1230
+l 1331	name	llegro Hearth Bakery
+l 1406	name	Mount Olivet Cemetery
+table data/geo-heter/left	has	l 1219
+l 2189	name	Wightman School Community Building
+table data/geo-heter/left	has	l 1660
+l 654	name	Dormont Junction
+l 2254	name	Turner Elementary School
+table data/geo-heter/left	has	l 595
+table data/geo-heter/left	has	l 2310
+table data/geo-heter/left	has	l 450
+table data/geo-heter/left	has	l 2372
+table data/geo-heter/left	has	l 407
+table data/geo-heter/left	has	l 1727
+l 561	name	Brookline Beer
+l 373	name	Margaret Morrison Apartments
+table data/geo-heter/left	has	l 911
+table data/geo-heter/left	has	l 1647
+table data/geo-heter/left	has	l 2430
+l 1155	name	illen's Pizza
+table data/geo-heter/left	has	l 1987
+l 31	name	Brentwood Park
+table data/geo-heter/left	has	l 1471
+l 2072	name	CH Auto Sales
+table data/geo-heter/left	has	l 306
+table data/geo-heter/left	has	l 2338
+table data/geo-heter/left	has	l 2219
+l 2029	name	Sixth Ave at Smithfield St
+table data/geo-heter/left	has	l 1763
+table data/geo-heter/left	has	l 1015
+table data/geo-heter/left	has	l 2117
+l 2151	name	st Minit Mart
+l 950	name	Washington Blvd at Highland Dr
+table data/geo-heter/left	has	l 392
+l 2020	name	William Penn Place
+table data/geo-heter/left	has	l 160
+l 2243	name	China Taste
+l 1704	name	Spirit
+l 847	name	Fu Lai Chinese Restaurant
+table data/geo-heter/left	has	l 222
+l 1793	name	Brentwood Stadium
+table data/geo-heter/left	has	l 337
+table data/geo-heter/left	has	l 1459
+table data/geo-heter/left	has	l 1814
+l 526	name	rican Natural
+l 1687	name	incoln Center
+table data/geo-heter/left	has	l 2172
+l 124	name	Micro Diner
+l 1409	name	Ohio Valley Hospital
+table data/geo-heter/left	has	l 1927
+l 1366	name	Shadeland Beer
+table data/geo-heter/left	has	l 1536
+table data/geo-heter/left	has	l 1574
+table data/geo-heter/left	has	l 964
+table data/geo-heter/left	has	l 1611
+table data/geo-heter/left	has	l 386
+l 2422	name	Bulldog Pub
+table data/geo-heter/left	has	l 650
+l 1682	name	Mineo's Pizza House
+table data/geo-heter/left	has	l 2285
+table data/geo-heter/left	has	l 517
+l 1027	name	rlington Elementary School
+l 55	name	Kennywood Park
+table data/geo-heter/left	has	l 1599
+table data/geo-heter/left	has	l 505
+table data/geo-heter/left	has	l 1566
+l 1009	name	McKees Rocks Dental
+table data/geo-heter/left	has	l 1687
+table data/geo-heter/left	has	l 968
+table data/geo-heter/left	has	l 2364
+l 2287	name	USW | United Steelworkers
+table data/geo-heter/left	has	l 2363
+l 915	name	Gaby et Jules
+table data/geo-heter/left	has	l 1557
+table data/geo-heter/left	has	l 507
+l 2115	name	Dormont Public Library
+table data/geo-heter/left	has	l 1580
+table data/geo-heter/left	has	l 1936
+l 528	name	Black Forge Coffee House
+l 2331	name	Bigbee Field
+table data/geo-heter/left	has	l 181
+l 1270	name	St. Mark's Lutheran Church
+l 1942	name	Evergreen Ave opp Franklin St
+table data/geo-heter/left	has	l 416
+table data/geo-heter/left	has	l 266
+l 922	name	Pizza Pronto
+l 2407	name	Pitt Ohio Express Corporate Office
+table data/geo-heter/left	has	l 583
+l 2255	name	Rhododendron Shelter
+l 257	name	Two PNC Plaza
+table data/geo-heter/left	has	l 933
+l 1378	name	Metropolitan Baptist Church
+table data/geo-heter/left	has	l 895
+l 519	name	Pittsburgh Center for the Arts
+table data/geo-heter/left	has	l 1897
+l 267	name	Brentwood Pool
+l 1970	name	Flag Plaza
+table data/geo-heter/left	has	l 253
+table data/geo-heter/left	has	l 2445
+table data/geo-heter/left	has	l 291
+table data/geo-heter/left	has	l 1440
+table data/geo-heter/left	has	l 2001
+l 2414	name	Family Dollar
+table data/geo-heter/left	has	l 1885
+table data/geo-heter/left	has	l 1679
+table data/geo-heter/left	has	l 455
+l 1312	name	Phillips Elementary School Library
+l 1340	name	Joseph Tambellini Restaurant
+l 1813	name	Fraternity Houses
+l 2402	name	Nazarene Baptist Church
+l 408	name	Castle Shannon Borough Hall
+l 967	name	Off Leash Exercise Area
+table data/geo-heter/left	has	l 81
+table data/geo-heter/left	has	l 2160
+l 2463	name	ong John Silver's
+l 1528	name	Brightside Academy
+l 1878	name	First National Bank
+table data/geo-heter/left	has	l 1935
+l 1881	name	First Galilee Baptist Church
+table data/geo-heter/left	has	l 694
+l 1718	name	Green Tree Borough Hall
+table data/geo-heter/left	has	l 854
+table data/geo-heter/left	has	l 1244
+table data/geo-heter/left	has	l 771
+table data/geo-heter/left	has	l 1423
+table data/geo-heter/left	has	l 276
+l 2132	name	Dollar General
+table data/geo-heter/left	has	l 500
+table data/geo-heter/left	has	l 2129
+l 187	name	Falk Hall
+l 350	name	Doman Auto
+l 2035	name	Frankl Electric
+table data/geo-heter/left	has	l 618
+l 2093	name	First Unitarian Church
+table data/geo-heter/left	has	l 412
+l 1999	name	Heartland Health Care Center
+l 21	name	X Shadyside
+table data/geo-heter/left	has	l 2341
+table data/geo-heter/left	has	l 1394
+l 1372	name	Clearview Common
+table data/geo-heter/left	has	l 538
+l 2202	name	Jerry's Records
+table data/geo-heter/left	has	l 1706
+table data/geo-heter/left	has	l 449
+l 588	name	Denny's
+l 1907	name	Tabernacle Baptist Church
+l 1478	name	Omni William Penn Hotel
+table data/geo-heter/left	has	l 1479
+l 512	name	Ri Van Tran
+table data/geo-heter/left	has	l 1533
+table data/geo-heter/left	has	l 1610
+table data/geo-heter/left	has	l 1838
+l 1174	name	Clarissa Boutique
+table data/geo-heter/left	has	l 2299
+l 1343	name	Wee Care Childrens Center
+l 979	name	Brighton-McClure Presbytyrian Church
+table data/geo-heter/left	has	l 726
+l 2016	name	Rose Tea Cafe
+l 771	name	Number Garden
+table data/geo-heter/left	has	l 2173
+l 269	name	Buhl Building
+l 272	name	David Lawrence Hall
+table data/geo-heter/left	has	l 2101
+l 1106	name	Mellon Middle School
+table data/geo-heter/left	has	l 138
+l 2434	name	J & J's Family Restaurant & Catering
+l 1508	name	Saint Wendelins Catholic Church
+table data/geo-heter/left	has	l 513
+table data/geo-heter/left	has	l 1978
+table data/geo-heter/left	has	l 444
+table data/geo-heter/left	has	l 984
+table data/geo-heter/left	has	l 1062
+l 2054	name	Rite Aid
+table data/geo-heter/left	has	l 1341
+l 1549	name	Bradley Center at Mount Lebanon
+table data/geo-heter/left	has	l 1586
+table data/geo-heter/left	has	l 1974
+table data/geo-heter/left	has	l 1003
+l 470	name	Duke's Upper Deck Cafe
+l 1400	name	St. Anne's
+l 1577	name	Book Discount Warehouse
+l 1972	name	Rankin Christian Center
+table data/geo-heter/left	has	l 938
+table data/geo-heter/left	has	l 155
+table data/geo-heter/left	has	l 17
+l 39	name	Sprit House
+l 1332	name	Katsur Dental
+table data/geo-heter/left	has	l 1543
+l 16	name	Squirrel Hill News Stand
+table data/geo-heter/left	has	l 1780
+table data/geo-heter/left	has	l 468
+l 1124	name	Kenmawr Plaza
+table data/geo-heter/left	has	l 1147
+table data/geo-heter/left	has	l 1312
+table data/geo-heter/left	has	l 747
+table data/geo-heter/left	has	l 565
+table data/geo-heter/left	has	l 1250
+l 2056	name	Gateway
+table data/geo-heter/left	has	l 496
+table data/geo-heter/left	has	l 1498
+table data/geo-heter/left	has	l 831
+table data/geo-heter/left	has	l 1332
+table data/geo-heter/left	has	l 543
+l 1191	name	Brugge on North
+table data/geo-heter/left	has	l 2388
+table data/geo-heter/left	has	l 1061
+l 2180	name	Sunoco Gas Station
+table data/geo-heter/left	has	l 441
+l 2070	name	Pentecostal Temple Church of God in Christ
+table data/geo-heter/left	has	l 2142
+table data/geo-heter/left	has	l 1079
+table data/geo-heter/left	has	l 2162
+l 2235	name	Deli on North Avenue
+l 2209	name	SouthWest Communities Federal Credit Union
+l 925	name	Saint Bede School
+l 2205	name	Willi's
+table data/geo-heter/left	has	l 2262
+l 1041	name	Gulf Tower
+table data/geo-heter/left	has	l 1128
+table data/geo-heter/left	has	l 1012
+table data/geo-heter/left	has	l 2249
+l 1856	name	Waterworks Cinemas
+table data/geo-heter/left	has	l 144
+table data/geo-heter/left	has	l 1534
+table data/geo-heter/left	has	l 1869
+table data/geo-heter/left	has	l 1326
+l 1373	name	Target
+table data/geo-heter/left	has	l 1699
+l 691	name	Jefferson Elementary School Library
+l 2368	name	Pope's Place
+table data/geo-heter/left	has	l 177
+table data/geo-heter/left	has	l 2048
+l 1043	name	Mamaux Building
+table data/geo-heter/left	has	l 1303
+table data/geo-heter/left	has	l 2330
+table data/geo-heter/left	has	l 2060
+table data/geo-heter/left	has	l 1031
+table data/geo-heter/left	has	l 2025
+table data/geo-heter/left	has	l 1835
+table data/geo-heter/left	has	l 1795
+l 2155	name	Shamrock's Inn
+table data/geo-heter/left	has	l 1638
+l 232	name	Silver Palace
+table data/geo-heter/left	has	l 1964
+table data/geo-heter/left	has	l 2441
+l 1967	name	Shady Hill Center
+l 1038	name	Bellefield Towers
+table data/geo-heter/left	has	l 823
+l 329	name	Pittsburgh Bureau of Fire Station 37
+table data/geo-heter/left	has	l 1286
+table data/geo-heter/left	has	l 1520
+table data/geo-heter/left	has	l 1819
+l 740	name	Hookah Bookah
+table data/geo-heter/left	has	l 1162
+l 1436	name	The Headgear
+table data/geo-heter/left	has	l 1934
+table data/geo-heter/left	has	l 1858
+l 2	name	Crossfit Mt. Lebanon
+l 43	name	Costco Gas
+table data/geo-heter/left	has	l 262
+table data/geo-heter/left	has	l 2275
+l 1882	name	Negley Station C & D
+l 1519	name	Posner Center
+table data/geo-heter/left	has	l 1169
+table data/geo-heter/left	has	l 376
+table data/geo-heter/left	has	l 493
+l 66	name	1914 Murray Apartments
+l 1791	name	Ronnie's Tire
+table data/geo-heter/left	has	l 1125
+table data/geo-heter/left	has	l 808
+l 1157	name	The Pretzel Shop
+table data/geo-heter/left	has	l 322
+table data/geo-heter/left	has	l 1875
+table data/geo-heter/left	has	l 1899
+table data/geo-heter/left	has	l 1159
+l 1786	name	Canevin Hall (DU)
+table data/geo-heter/left	has	l 1965
+l 1788	name	Children's Hospital of Pittsburgh of UPMC
+table data/geo-heter/left	has	l 2410
+l 916	name	University Club
+table data/geo-heter/left	has	l 841
+l 946	name	USPS
+table data/geo-heter/left	has	l 268
+l 2442	name	spinwall Police Department
+table data/geo-heter/left	has	l 2351
+table data/geo-heter/left	has	l 1959
+l 247	name	South Side Tattoo
+table data/geo-heter/left	has	l 2218
+table data/geo-heter/left	has	l 2186
+l 2364	name	Fisher Hall
+l 806	name	Brookline Boulevard United Presbyterian Church
+table data/geo-heter/left	has	l 1817
+l 306	name	New Dumpling House
+table data/geo-heter/left	has	l 1521
+l 328	name	utheran University Center
+table data/geo-heter/left	has	l 865
+table data/geo-heter/left	has	l 264
+l 1461	name	Urban Impact Foundation
+table data/geo-heter/left	has	l 1617
+table data/geo-heter/left	has	l 1411
+l 1563	name	Mario's
+table data/geo-heter/left	has	l 2002
+table data/geo-heter/left	has	l 2296
+l 2273	name	Potomac Bakery
+l 1725	name	East Ohio St at Chestnut St
+l 2412	name	Star Nails
+table data/geo-heter/left	has	l 2125
+table data/geo-heter/left	has	l 1761
+table data/geo-heter/left	has	l 2365
+table data/geo-heter/left	has	l 2464
+l 13	name	Pashek Associates
+table data/geo-heter/left	has	l 1932
+l 138	name	Tepper School of Buisness
+l 941	name	Julia Ward Howe Elementary School
+l 399	name	Castle Shannon Volunteer Fire Department
+table data/geo-heter/left	has	l 176
+l 631	name	Stack'd
+table data/geo-heter/left	has	l 1234
+l 250	name	Donato's Fox Chapel
+l 2445	name	Saint Clair Hospital
+l 2212	name	Grocery Kart
+table data/geo-heter/left	has	l 342
+l 1644	name	Bon Air Elementary School
+table data/geo-heter/left	has	l 563
+table data/geo-heter/left	has	l 1760
+l 58	name	The Pittsburgh Fan
+l 2101	name	Greenfield Presbyterian Church
+table data/geo-heter/left	has	l 401
+table data/geo-heter/left	has	l 1319
+l 529	name	Mervis Hall
+table data/geo-heter/left	has	l 1915
+table data/geo-heter/left	has	l 57
+l 598	name	Centre Commons
+table data/geo-heter/left	has	l 2238
+table data/geo-heter/left	has	l 331
+l 690	name	Saint Nicholas Cemetery
+table data/geo-heter/left	has	l 1378
+l 996	name	Bradley School
+l 970	name	Boron Funeral Home
+l 1167	name	Brottier Commons
+l 2148	name	Grant St at Post Office
+table data/geo-heter/left	has	l 1359
+l 207	name	Fuel & Fuddle
+table data/geo-heter/left	has	l 1383
+l 2064	name	Bellevue United Presbytyrian Church
+l 874	name	Bobby's
+table data/geo-heter/left	has	l 885
+table data/geo-heter/left	has	l 1628
+table data/geo-heter/left	has	l 2271
+l 1033	name	Pat Catan's
+table data/geo-heter/left	has	l 588
+l 1251	name	Barber Shop
+l 432	name	King Museum
+l 289	name	& E Deli
+l 456	name	Greenfield Elementary School
+table data/geo-heter/left	has	l 1217
+l 107	name	Stever House
+table data/geo-heter/left	has	l 1322
+table data/geo-heter/left	has	l 439
+l 1040	name	Forest Hills Borough Hall
+l 1891	name	SMS Group
+table data/geo-heter/left	has	l 2226
+l 2120	name	Dollar Bank
+l 2271	name	Hard Rock Cafe
+table data/geo-heter/left	has	l 1299
+table data/geo-heter/left	has	l 1413
+table data/geo-heter/left	has	l 2232
+l 1609	name	Saint Anthony School
+table data/geo-heter/left	has	l 981
+l 1077	name	Stevenson
+table data/geo-heter/left	has	l 1406
+l 1698	name	imal Rescue League of Pittsburgh
+l 563	name	Herron Station
+table data/geo-heter/left	has	l 381
+l 2384	name	Pinskers Judaica
+table data/geo-heter/left	has	l 888
+l 2259	name	Brookline Tobacco Outlet
+table data/geo-heter/left	has	l 1273
+table data/geo-heter/left	has	l 897
+table data/geo-heter/left	has	l 2333
+table data/geo-heter/left	has	l 487
+table data/geo-heter/left	has	l 1967
+table data/geo-heter/left	has	l 576
+table data/geo-heter/left	has	l 1316
+l 2143	name	Pittsburgh Theological Seminary
+l 765	name	The Royal Palace
+table data/geo-heter/left	has	l 2400
+table data/geo-heter/left	has	l 1703
+table data/geo-heter/left	has	l 1711
+table data/geo-heter/left	has	l 1728
+l 2440	name	Beacon Place
+l 407	name	North Park
+l 1759	name	UPMC Optical
+table data/geo-heter/left	has	l 995
+l 1536	name	North Side Station
+l 1202	name	Wood Street
+table data/geo-heter/left	has	l 290
+l 2239	name	Citizens Bank
+table data/geo-heter/left	has	l 1333
+table data/geo-heter/left	has	l 1603
+table data/geo-heter/left	has	l 1684
+table data/geo-heter/left	has	l 1282
+table data/geo-heter/left	has	l 1225
+l 2066	name	Union Trust Building
+l 866	name	PNC Park
+table data/geo-heter/left	has	l 969
+l 1663	name	Pittsburgh Magistrates Courthouse
+table data/geo-heter/left	has	l 712
+table data/geo-heter/left	has	l 2454
+l 1059	name	Primanti Bros. Restaurant
+table data/geo-heter/left	has	l 125
+table data/geo-heter/left	has	l 274
+l 1330	name	First Presbyterian Church of Castle Shannon
+table data/geo-heter/left	has	l 803
+table data/geo-heter/left	has	l 1265
+l 655	name	Oakland International Fellowship
+table data/geo-heter/left	has	l 784
+table data/geo-heter/left	has	l 2371
+l 1342	name	Mansions On Fifth Hotel
+table data/geo-heter/left	has	l 134
+table data/geo-heter/left	has	l 2409
+table data/geo-heter/left	has	l 2019
+l 2165	name	Greek Orthodox Metropolis of Pittsburgh
+l 2214	name	Chilren's Hospital of Pittsburgh Administrative Office Building
+table data/geo-heter/left	has	l 1340
+table data/geo-heter/left	has	l 1970
+table data/geo-heter/left	has	l 2243
+table data/geo-heter/left	has	l 2143
+l 1046	name	Millvale Memorials
+l 762	name	Mt. Lebanon
+l 650	name	Conestoga Building
+l 2248	name	Blawnox Community Park
+l 279	name	Thaw Hall
+l 509	name	Restaurant Depot
+table data/geo-heter/left	has	l 1633
+l 1642	name	EBH Architects
+l 1982	name	Sacred Heart Elementary School
+table data/geo-heter/left	has	l 2321
+table data/geo-heter/left	has	l 114
+table data/geo-heter/left	has	l 1686
+table data/geo-heter/left	has	l 1931
+l 260	name	Pizza Prima
+l 1861	name	Fox Chapel Yacht Club
+l 1090	name	National Robotics Engineering Center
+table data/geo-heter/left	has	l 1376
+l 481	name	Bloomfield Bridge Tavern
+table data/geo-heter/left	has	l 530
+table data/geo-heter/left	has	l 638
+table data/geo-heter/left	has	l 1101
+table data/geo-heter/left	has	l 241
+table data/geo-heter/left	has	l 884
+l 60	name	Chubby's Pizza
+table data/geo-heter/left	has	l 2362
+table data/geo-heter/left	has	l 1281
+table data/geo-heter/left	has	l 1306
+l 205	name	ce Hotel Pittsburgh
+table data/geo-heter/left	has	l 953
+table data/geo-heter/left	has	l 597
+l 252	name	US Post Office
+table data/geo-heter/left	has	l 1109
+l 1607	name	Shady Lane School
+l 393	name	The Lava Lounge
+l 2329	name	Brighton Heights Dental
+l 883	name	Elephant House
+table data/geo-heter/left	has	l 82
+l 1710	name	Giant Eagle Supermarket
+table data/geo-heter/left	has	l 545
+table data/geo-heter/left	has	l 762
+table data/geo-heter/left	has	l 1017
+table data/geo-heter/left	has	l 492
+table data/geo-heter/left	has	l 1382
+l 1901	name	Oakwood Park
+table data/geo-heter/left	has	l 389
+table data/geo-heter/left	has	l 707
+table data/geo-heter/left	has	l 1732
+table data/geo-heter/left	has	l 1544
+table data/geo-heter/left	has	l 1698
+table data/geo-heter/left	has	l 84
+l 1708	name	Plants & Flowers By Lisa
+table data/geo-heter/left	has	l 2103
+table data/geo-heter/left	has	l 33
+table data/geo-heter/left	has	l 1086
+table data/geo-heter/left	has	l 951
+table data/geo-heter/left	has	l 852
+l 724	name	University of Pittsburgh
+table data/geo-heter/left	has	l 1615
+table data/geo-heter/left	has	l 2247
+l 1355	name	Troy Hill WWI Monument
+table data/geo-heter/left	has	l 632
+table data/geo-heter/left	has	l 1907
+l 1344	name	New Grace Missionary Baptist Church
+table data/geo-heter/left	has	l 1184
+l 67	name	Oakland Post Office
+table data/geo-heter/left	has	l 1027
+table data/geo-heter/left	has	l 667
+l 1715	name	Waterfront Bike Rental
+l 2217	name	Sheraton Pittsburgh Hotel at Station Square Hotel
+table data/geo-heter/left	has	l 2051
+table data/geo-heter/left	has	l 275
+table data/geo-heter/left	has	l 477
+l 2354	name	Seubert & Associates; Inc
+l 1006	name	Union Station
+l 1364	name	Bellevue Chiropractic Center
+l 1382	name	Preston
+l 574	name	Episcopal Church of the Epiphany
+table data/geo-heter/left	has	l 1933
+l 1731	name	iberty Bridge
+l 1808	name	lerian F. Szal Funeral Home
+table data/geo-heter/left	has	l 2290
+table data/geo-heter/left	has	l 2158
+l 2005	name	Borough of Carnegie Municipal Building
+l 1203	name	Resurrection Baptist Church
+table data/geo-heter/left	has	l 778
+table data/geo-heter/left	has	l 318
+l 297	name	Eastminster Presbyterian Church
+l 2275	name	West Penn Park
+table data/geo-heter/left	has	l 1700
+l 1806	name	Shady Hill Chiropractic Clinic
+l 2418	name	Butler Street News & More
+l 602	name	Freedom Corner
+table data/geo-heter/left	has	l 1546
+table data/geo-heter/left	has	l 937
+l 1853	name	Chatham Elementary School
+l 2073	name	C&D Auto Services
+table data/geo-heter/left	has	l 1811
+table data/geo-heter/left	has	l 1567
+l 251	name	Carnegie Music Hall
+table data/geo-heter/left	has	l 2191
+table data/geo-heter/left	has	l 2049
+l 1994	name	China Palace
+l 709	name	Mount Lebanon Park
+l 1093	name	Saint Patrick Roman Catholic Church
+l 1904	name	Fellini Auto Sales & Service
+table data/geo-heter/left	has	l 2272
+table data/geo-heter/left	has	l 2376
+l 790	name	Spencer United Methodist Church
+table data/geo-heter/left	has	l 366
+l 2240	name	ockhart Tire
+table data/geo-heter/left	has	l 2305
+l 447	name	Emmanuel Evangelical Lutheran Church
+l 1474	name	Grandview Elementary School
+l 227	name	Orient Express
+table data/geo-heter/left	has	l 1221
+table data/geo-heter/left	has	l 1106
+table data/geo-heter/left	has	l 1619
+table data/geo-heter/left	has	l 2347
+l 2344	name	Sumi's Cakery
+l 1701	name	Spring Hill Park
+table data/geo-heter/left	has	l 2235
+l 1629	name	Gladstone Middle School
+l 283	name	Murray Bartlett Professional Building
+table data/geo-heter/left	has	l 1742
+table data/geo-heter/left	has	l 1220
+l 1841	name	Nicki's Thai Kitchen
+table data/geo-heter/left	has	l 1655
+table data/geo-heter/left	has	l 688
+table data/geo-heter/left	has	l 1203
+l 1200	name	Cardinal Wright Regional School
+table data/geo-heter/left	has	l 1362
+l 1606	name	llegheny County Jail
+table data/geo-heter/left	has	l 602
+table data/geo-heter/left	has	l 2069
+table data/geo-heter/left	has	l 258
+table data/geo-heter/left	has	l 1762
+l 1496	name	Brookline Elementary School
+l 1175	name	imal Care Center
+l 1944	name	PNC Bank - Eastside
+table data/geo-heter/left	has	l 735
+l 1386	name	Green Garden
+l 869	name	The Big Dipper
+table data/geo-heter/left	has	l 1445
+table data/geo-heter/left	has	l 523
+l 1488	name	The Coffee Tree Roasters
+table data/geo-heter/left	has	l 1877
+table data/geo-heter/left	has	l 1052
+table data/geo-heter/left	has	l 2251
+table data/geo-heter/left	has	l 1909
+l 1036	name	The Cuckoo's Nest Magic Shop
+l 376	name	UPMC Oakland
+table data/geo-heter/left	has	l 526
+table data/geo-heter/left	has	l 1239
+table data/geo-heter/left	has	l 219
+table data/geo-heter/left	has	l 1040
+l 648	name	Parkway Center
+table data/geo-heter/left	has	l 1744
+table data/geo-heter/left	has	l 807
+table data/geo-heter/left	has	l 2200
+table data/geo-heter/left	has	l 1289
+table data/geo-heter/left	has	l 2011
+l 1397	name	The Blooming Dahlia
+l 1945	name	rmstrong Playground
+l 882	name	s Palmas
+l 488	name	indo's Restaurant
+table data/geo-heter/left	has	l 2109
+l 2372	name	Hitchhiker Brewing Company
+l 1948	name	Co Go's
+l 2342	name	Cogo's
+table data/geo-heter/left	has	l 1519
+table data/geo-heter/left	has	l 580
+l 398	name	Greentree Road Shopping Center
+l 2403	name	Swissvale Station
+l 1915	name	Connelly School
+l 717	name	McBubbles Car Wash
+table data/geo-heter/left	has	l 1991
+l 2293	name	Taylor Alderdice High School
+table data/geo-heter/left	has	l 2421
+table data/geo-heter/left	has	l 1745
+table data/geo-heter/left	has	l 1886
+table data/geo-heter/left	has	l 1381
+table data/geo-heter/left	has	l 939
+l 368	name	Denim Express
+l 173	name	llen Hall
+l 567	name	Milky Way
+l 1512	name	Boggs Ave at Warrington Ave
+table data/geo-heter/left	has	l 1043
+table data/geo-heter/left	has	l 1034
+table data/geo-heter/left	has	l 1201
+table data/geo-heter/left	has	l 1328
+l 1811	name	Sunset View Cemetery
+l 1013	name	Forbes Gyro
+table data/geo-heter/left	has	l 1592
+l 1580	name	Eleanor Street Park
+table data/geo-heter/left	has	l 1656
+table data/geo-heter/left	has	l 2244
+l 211	name	indsay House
+table data/geo-heter/left	has	l 606
+table data/geo-heter/left	has	l 1739
+l 1940	name	Priory Fine Pastries
+l 1113	name	North Catholic High School
+l 51	name	Brioche Dore
+table data/geo-heter/left	has	l 2003
+table data/geo-heter/left	has	l 48
+table data/geo-heter/left	has	l 1890
+l 2154	name	Bible Center Church of God In Christ
+l 711	name	Garden Theater
+table data/geo-heter/left	has	l 1259
+table data/geo-heter/left	has	l 1891
+table data/geo-heter/left	has	l 480
+l 116	name	Sharpsburg Community Library
+l 615	name	Steel City Vapors
+l 294	name	Sewickley Eye Group
+table data/geo-heter/left	has	l 403
+l 2423	name	The Saloon of Mt. Lebanon
+table data/geo-heter/left	has	l 120
+l 2367	name	East Ohio St at Grant Ave
+table data/geo-heter/left	has	l 2121
+table data/geo-heter/left	has	l 2393
+table data/geo-heter/left	has	l 1951
+table data/geo-heter/left	has	l 2420
+table data/geo-heter/left	has	l 1794
+l 1583	name	Castle Shannon Volunteer Firemens Memorial Hall
+table data/geo-heter/left	has	l 132
+table data/geo-heter/left	has	l 227
+table data/geo-heter/left	has	l 1041
+table data/geo-heter/left	has	l 1124
+table data/geo-heter/left	has	l 1833
+l 734	name	Residence Inn Pittsburgh North Shore
+table data/geo-heter/left	has	l 1844
+table data/geo-heter/left	has	l 1954
+l 825	name	Eddy Theatre
+l 1557	name	XFactory
+table data/geo-heter/left	has	l 2167
+table data/geo-heter/left	has	l 832
+table data/geo-heter/left	has	l 1513
+table data/geo-heter/left	has	l 1064
+l 1672	name	East 8th Avenue at West
+table data/geo-heter/left	has	l 746
+table data/geo-heter/left	has	l 1478
+l 105	name	Brighton Cafe
+table data/geo-heter/left	has	l 190
+table data/geo-heter/left	has	l 277
+table data/geo-heter/left	has	l 2308
+l 206	name	Scott Towne Center
+table data/geo-heter/left	has	l 2202
+table data/geo-heter/left	has	l 604
+table data/geo-heter/left	has	l 74
+l 177	name	Max's Allegheny Tavern
+table data/geo-heter/left	has	l 2258
+l 1110	name	Homewood Montessori Elementary School
+l 539	name	The Eye Gallery
+l 2371	name	Pizza Sola
+l 365	name	llegheny General Hospital
+table data/geo-heter/left	has	l 1442
+l 1325	name	Rankin VFD
+l 159	name	Bombay Food Market
+l 1272	name	Benedum-Trees Building
+l 1592	name	Fulton Elementary School
+l 577	name	Doherty Hall
+l 1823	name	Wood Street Commons
+table data/geo-heter/left	has	l 564
+l 1230	name	Original Pancake House
+l 2129	name	Sto-Rox Senior High School
+table data/geo-heter/left	has	l 987
+l 383	name	llegheny Landing
+l 465	name	.J. Marks Jewelers
+l 1613	name	McKees Rocks Post Office
+l 2203	name	w & Finance Building
+table data/geo-heter/left	has	l 2122
+table data/geo-heter/left	has	l 2068
+table data/geo-heter/left	has	l 1310
+l 612	name	Evergreen Ave at John St
+table data/geo-heter/left	has	l 608
+l 74	name	Bouquet Gardens Building F
+table data/geo-heter/left	has	l 709
+l 342	name	Pittsburgh Ballet Theatre
+l 935	name	llegheny Commons East Park
+table data/geo-heter/left	has	l 1347
+l 1840	name	biance Hair & Nail Salon
+table data/geo-heter/left	has	l 1163
+l 300	name	In The Blood Tattoo
+table data/geo-heter/left	has	l 1320
+table data/geo-heter/left	has	l 581
+l 1428	name	Chatham Elementary School Library
+table data/geo-heter/left	has	l 2300
+l 2215	name	The Kennel Klub
+l 972	name	Hunt Library
+table data/geo-heter/left	has	l 1337
+table data/geo-heter/left	has	l 2389
+l 1556	name	Two Chatham Center
+l 856	name	Mount Lebanon United Lutheran Church
+l 1304	name	West End Overlook
+table data/geo-heter/left	has	l 1047
+table data/geo-heter/left	has	l 1365
+table data/geo-heter/left	has	l 1021
+table data/geo-heter/left	has	l 1444
+table data/geo-heter/left	has	l 2317
+l 953	name	Rialto Pizza
+l 640	name	Bruce Hall
+l 1797	name	Dobr Tea
+table data/geo-heter/left	has	l 1714
+table data/geo-heter/left	has	l 1298
+l 483	name	Freeport Rd at #1150
+l 119	name	wrenceville Shopping Center
+l 490	name	The Vision Center
+l 2082	name	rt and Design Center
+table data/geo-heter/left	has	l 794
+table data/geo-heter/left	has	l 520
+table data/geo-heter/left	has	l 2329
+table data/geo-heter/left	has	l 2099
+table data/geo-heter/left	has	l 2193
+table data/geo-heter/left	has	l 826
+l 914	name	12th Ward School
+table data/geo-heter/left	has	l 438
+l 1997	name	Giggles
+l 2075	name	Schenley Park Ice Skating Rink
+table data/geo-heter/left	has	l 339
+table data/geo-heter/left	has	l 1522
+table data/geo-heter/left	has	l 1204
+table data/geo-heter/left	has	l 2165
+l 637	name	Hair Day
+table data/geo-heter/left	has	l 1430
+table data/geo-heter/left	has	l 300
+table data/geo-heter/left	has	l 40
+l 2457	name	Sodini Parklet
+l 895	name	Mount Washington Park
+l 2453	name	Huntington Bank
+l 1507	name	Beer 4 Less
+l 2443	name	Three Rivers Commons
+table data/geo-heter/left	has	l 447
+l 1886	name	FatJack's Kitchen
+table data/geo-heter/left	has	l 1083
+table data/geo-heter/left	has	l 1431
+table data/geo-heter/left	has	l 773
+table data/geo-heter/left	has	l 86
+table data/geo-heter/left	has	l 1461
+table data/geo-heter/left	has	l 2315
+l 1866	name	Cindy Esther Plaza
+table data/geo-heter/left	has	l 974
+l 340	name	os Hall
+l 1787	name	The Used Car Store
+table data/geo-heter/left	has	l 2386
+table data/geo-heter/left	has	l 1371
+table data/geo-heter/left	has	l 864
+table data/geo-heter/left	has	l 1443
+l 362	name	GreenLight Juice
+l 1749	name	Washington Blvd at Frankstown Ave
+table data/geo-heter/left	has	l 1426
+table data/geo-heter/left	has	l 1488
+l 1748	name	Philip Murray Elementary School
+l 1887	name	Crowne Plaza Pittsburgh West-Green Tree
+table data/geo-heter/left	has	l 313
+l 1159	name	Northside Common Ministries
+l 1832	name	Eco Bistro
+l 1670	name	Millvale Post Office
+table data/geo-heter/left	has	l 476
+l 2210	name	William Pitt Union Lawn
+table data/geo-heter/left	has	l 352
+table data/geo-heter/left	has	l 2014
+table data/geo-heter/left	has	l 1056
+l 1612	name	Evergreen Ave at Franklin St
+table data/geo-heter/left	has	l 1170
+l 570	name	Blue Eagle Market
+table data/geo-heter/left	has	l 550
+l 1599	name	Winter Park
+l 2092	name	Persian Rug Gallery
+l 1247	name	The Capital Grille
+table data/geo-heter/left	has	l 2166
+l 804	name	Farmers Daughter
+l 1313	name	3 Rivers Lounge
+table data/geo-heter/left	has	l 2157
+l 216	name	Rockwood Park
+l 1335	name	Pittsburgh High School Library
+l 450	name	Westwood Golf Club
+table data/geo-heter/left	has	l 399
+table data/geo-heter/left	has	l 985
+table data/geo-heter/left	has	l 906
+table data/geo-heter/left	has	l 2112
+l 178	name	ife Pittsburgh
+l 1764	name	Schaeffer Intermediate School
+table data/geo-heter/left	has	l 1450
+l 1316	name	Mullen's On Carson
+table data/geo-heter/left	has	l 870
+l 2390	name	Tai Pei
+l 643	name	Trees Hall
+table data/geo-heter/left	has	l 1634
+l 425	name	gends of the North Shore
+table data/geo-heter/left	has	l 929
+table data/geo-heter/left	has	l 1253
+l 1830	name	Rite Aid Pharmacy
+l 61	name	McGill House
+l 1451	name	Park Place Pub
+l 2461	name	The Village of Shadyside
+table data/geo-heter/left	has	l 2461
+table data/geo-heter/left	has	l 1092
+l 2387	name	Joe Natoli Field
+table data/geo-heter/left	has	l 1013
+table data/geo-heter/left	has	l 1268
+l 2059	name	Horner School
+l 441	name	South Side Park
+table data/geo-heter/left	has	l 1884
+table data/geo-heter/left	has	l 2246
+table data/geo-heter/left	has	l 365
+table data/geo-heter/left	has	l 902
+l 1427	name	The Home Depot
+table data/geo-heter/left	has	l 210
+table data/geo-heter/left	has	l 187
+l 2113	name	Saint Johns Greek Catholic Church
+table data/geo-heter/left	has	l 998
+table data/geo-heter/left	has	l 1979
+table data/geo-heter/left	has	l 644
+l 1023	name	State Liquor Store
+table data/geo-heter/left	has	l 377
+table data/geo-heter/left	has	l 1172
+table data/geo-heter/left	has	l 2429
+table data/geo-heter/left	has	l 867
+table data/geo-heter/left	has	l 800
+l 787	name	Brackenridge Hall
+l 2114	name	Gavino's Pizzeria
+l 142	name	School of Law Building
+l 1938	name	isual Arts Center
+table data/geo-heter/left	has	l 1823
+table data/geo-heter/left	has	l 1113
+l 1352	name	The Mayflower
+l 1299	name	Monongahela Park
+l 2376	name	Pittsburgh DJ Company
+table data/geo-heter/left	has	l 378
+l 1288	name	ldi
+table data/geo-heter/left	has	l 440
+table data/geo-heter/left	has	l 1216
+table data/geo-heter/left	has	l 2268
+l 943	name	UPMC Urgent Care at Shadyside
+l 1109	name	Matthews International Company
+l 2378	name	Kelly Elementary School
+l 1483	name	Community of the Crucified One Church
+l 1741	name	Court of Common Pleas of Allegheny County
+l 2432	name	O'Brien's
+table data/geo-heter/left	has	l 836
+l 1558	name	laddin's Eatery
+l 2098	name	State Farm Insurance
+l 1411	name	Gino Brothers Pizzeria
+table data/geo-heter/left	has	l 1066
+l 2049	name	Rewind Memories
+l 2175	name	Flowershow Studio
+table data/geo-heter/left	has	l 47
+table data/geo-heter/left	has	l 1149
+l 303	name	Giant Eagle Drive
+l 38	name	East Liberty Park
+table data/geo-heter/left	has	l 2114
+table data/geo-heter/left	has	l 695
+l 2206	name	Enterprise
+l 1408	name	Seven Eleven
+table data/geo-heter/left	has	l 51
+l 49	name	William Pitt Union
+table data/geo-heter/left	has	l 765
+table data/geo-heter/left	has	l 2020
+l 834	name	St. Pius X Catholic Church
+l 1308	name	The Manor Theatre
+table data/geo-heter/left	has	l 2088
+l 2018	name	Sisters of Saint Francis Church
+l 973	name	Saint Pauls Episcopal Church Nursery School
+l 862	name	Salon Vivace
+table data/geo-heter/left	has	l 2105
+l 2466	name	oretto Cemetery
+l 1201	name	Highland Park
+table data/geo-heter/left	has	l 1233
+l 389	name	Community College of Allegheny County
+l 768	name	Quest Diagnostics
+l 564	name	Hillman Cancer Center
+table data/geo-heter/left	has	l 1705
+table data/geo-heter/left	has	l 2394
+table data/geo-heter/left	has	l 2307
+table data/geo-heter/left	has	l 1560
+l 2026	name	Holy Assumption Orthodox Church
+table data/geo-heter/left	has	l 1913
+table data/geo-heter/left	has	l 1788
+table data/geo-heter/left	has	l 840
+table data/geo-heter/left	has	l 1759
+l 1978	name	WesBanco
+l 903	name	Frick Park Automotive
+table data/geo-heter/left	has	l 946
+table data/geo-heter/left	has	l 1145
+table data/geo-heter/left	has	l 1510
+table data/geo-heter/left	has	l 1018
+table data/geo-heter/left	has	l 425
+l 1438	name	Shady Oak Park
+table data/geo-heter/left	has	l 0
+table data/geo-heter/left	has	l 1211
+table data/geo-heter/left	has	l 2289
+l 1444	name	Carnegie Museum of Natural History
+table data/geo-heter/left	has	l 1843
+table data/geo-heter/left	has	l 325
+table data/geo-heter/left	has	l 699
+table data/geo-heter/left	has	l 873
+table data/geo-heter/left	has	l 2353
+table data/geo-heter/left	has	l 1512
+l 1719	name	Forest Hills Presbyterian Church
+table data/geo-heter/left	has	l 205
+l 1680	name	Panera Bread
+table data/geo-heter/left	has	l 302
+table data/geo-heter/left	has	l 2205
+table data/geo-heter/left	has	l 2032
+table data/geo-heter/left	has	l 1816
+l 1924	name	Dairy Queen
+l 642	name	Morningside Church of God In Christ
+table data/geo-heter/left	has	l 817
+l 2078	name	Pizza Parma
+table data/geo-heter/left	has	l 1010
+l 2027	name	The Children's Place
+l 658	name	Holland Hall
+table data/geo-heter/left	has	l 263
+table data/geo-heter/left	has	l 1297
+l 1388	name	Neill Log House
+table data/geo-heter/left	has	l 1137
+table data/geo-heter/left	has	l 380
+table data/geo-heter/left	has	l 311
+l 1118	name	McNeilly Park
+l 1798	name	Sestili Nursery
+table data/geo-heter/left	has	l 2092
+table data/geo-heter/left	has	l 2457
+l 1356	name	Cort Furniture
+l 1824	name	Social
+l 2117	name	Pittsburgh New Church School
+table data/geo-heter/left	has	l 1719
+table data/geo-heter/left	has	l 1724
+table data/geo-heter/left	has	l 619
+table data/geo-heter/left	has	l 1249
+l 1867	name	Bellefield Presbyterian Church bell tower
+l 101	name	Panther Hollow field
+l 2222	name	Mount Ararat Baptist Church
+table data/geo-heter/left	has	l 942
+l 596	name	incoln Elementary School
+l 325	name	Foster Plaza 3
+table data/geo-heter/left	has	l 1626
+table data/geo-heter/left	has	l 1228
+table data/geo-heter/left	has	l 1063
+table data/geo-heter/left	has	l 891
+l 1533	name	Troy Hill Cemetary
+table data/geo-heter/left	has	l 1571
+table data/geo-heter/left	has	l 1651
+l 433	name	Refuge Temple Church
+l 2258	name	Piccadilly Artisan Yogurt
+l 277	name	Posner Tower
+l 1594	name	Union Fitness
+l 1022	name	Mazzei & Associates
+table data/geo-heter/left	has	l 934
+l 225	name	Chatham University
+table data/geo-heter/left	has	l 209
+table data/geo-heter/left	has	l 2047
+l 14	name	Foster Zero
+l 1000	name	Prospect Elementary School Library
+l 1095	name	Representative Dan Miller
+table data/geo-heter/left	has	l 28
+table data/geo-heter/left	has	l 1734
+l 752	name	West Park
+l 2013	name	William S. Moorhead Federal Building
+table data/geo-heter/left	has	l 988
+l 42	name	West Building
+l 484	name	Pittsburgh City Hall
+table data/geo-heter/left	has	l 230
+table data/geo-heter/left	has	l 1284
+l 1151	name	Zion Christian Church
+table data/geo-heter/left	has	l 849
+l 1031	name	Centre Plaza
+table data/geo-heter/left	has	l 2013
+l 742	name	CMU Tennis Courts
+l 2284	name	Gran Prix
+l 1692	name	Grace Library
+l 1827	name	Dave's Barber Shop
+table data/geo-heter/left	has	l 1120
+l 1147	name	Murray Avenue Locksmith
+table data/geo-heter/left	has	l 1848
+table data/geo-heter/left	has	l 1213
+table data/geo-heter/left	has	l 1495
+l 1199	name	Seville Park
+l 800	name	Dinan Park
+l 689	name	Pittsburgh Zoo & PPG Aquarium
+l 1205	name	Waterfront Drive at Recreation Center
+table data/geo-heter/left	has	l 787
+l 45	name	Filmet Park
+l 677	name	Pittsburgh Parking Authority
+table data/geo-heter/left	has	l 2090
+l 1678	name	Butler St at #188
+l 1993	name	"J.P. ""Honus"" Wagner Statue"
+table data/geo-heter/left	has	l 1639
+l 1324	name	idan Hall
+l 245	name	D's Six Packs and Dogs
+l 1319	name	Western Pennsylvania School for the Blind
+table data/geo-heter/left	has	l 2156
+table data/geo-heter/left	has	l 1473
+table data/geo-heter/left	has	l 821
+l 1909	name	Saint Paul of the Cross Monastery
+table data/geo-heter/left	has	l 809
+l 198	name	Bethany Baptist Church
+table data/geo-heter/left	has	l 1670
+table data/geo-heter/left	has	l 234
+table data/geo-heter/left	has	l 797
+l 1393	name	Pittsburgh Post-Gazette
+l 2017	name	Original Mattress Factory
+table data/geo-heter/left	has	l 235
+table data/geo-heter/left	has	l 2334
+l 22	name	Shadyside Place
+table data/geo-heter/left	has	l 1102
+table data/geo-heter/left	has	l 2382
+table data/geo-heter/left	has	l 110
+l 1955	name	O'Hara Student Center
+table data/geo-heter/left	has	l 308
+table data/geo-heter/left	has	l 2065
+table data/geo-heter/left	has	l 504
+table data/geo-heter/left	has	l 2081
+l 2291	name	St. George Syrian Orthodox Church
+table data/geo-heter/left	has	l 733
+table data/geo-heter/left	has	l 1871
+table data/geo-heter/left	has	l 1641
+l 2031	name	pher Reservoir
+table data/geo-heter/left	has	l 1585
+l 2178	name	gume
+table data/geo-heter/left	has	l 722
+l 896	name	Fort Pitt Museum
+table data/geo-heter/left	has	l 1318
+l 1874	name	Grace Memorial Presbyterian Church
+l 1648	name	CCP  Bass Wolfson Pediatrics; Squirrel Hill Office
+l 1102	name	Holiday Inn Express & Suites Pittsburgh-South Side
+table data/geo-heter/left	has	l 1888
+table data/geo-heter/left	has	l 1477
+table data/geo-heter/left	has	l 238
+table data/geo-heter/left	has	l 978
+l 2213	name	Saint Paul's Episcopal Church
+l 1458	name	Betz Auto Works
+l 397	name	Duquesne University Student Union
+l 1422	name	Homecraft Building Center
+l 418	name	Mount Lebanon Academy
+table data/geo-heter/left	has	l 2352
+table data/geo-heter/left	has	l 358
+l 1211	name	City View Apartments
+table data/geo-heter/left	has	l 1637
+table data/geo-heter/left	has	l 574
+l 1789	name	Carnegie Borough Hall
+l 2325	name	Second Baptist Church
+l 1255	name	Butler St at Washington St
+table data/geo-heter/left	has	l 1165
+table data/geo-heter/left	has	l 1016
+l 1244	name	Sunny Days Child Care and Learning Center
+l 1960	name	Gulf
+table data/geo-heter/left	has	l 1360
+table data/geo-heter/left	has	l 183
+table data/geo-heter/left	has	l 1044
+table data/geo-heter/left	has	l 1447
+l 1603	name	Prospect Elementary School
+table data/geo-heter/left	has	l 1658
+l 938	name	Pittsburgh Brewing Company
+table data/geo-heter/left	has	l 1841
+table data/geo-heter/left	has	l 88
+table data/geo-heter/left	has	l 1923
+l 2252	name	Cardello Building
+table data/geo-heter/left	has	l 728
+table data/geo-heter/left	has	l 1862
+table data/geo-heter/left	has	l 1235
+l 57	name	Essex House
+table data/geo-heter/left	has	l 775
+l 1448	name	Trinity Cathedral
+l 1274	name	Highmark Place
+table data/geo-heter/left	has	l 470
+l 1847	name	Holy Trinity Catholic Church
+l 419	name	Cambria hotel & suites Pittsburgh - Downtown
+table data/geo-heter/left	has	l 466
+table data/geo-heter/left	has	l 659
+table data/geo-heter/left	has	l 1166
+l 2193	name	Gardner Steel Conference Center
+table data/geo-heter/left	has	l 1439
+l 242	name	Center Point Convenience Store
+l 385	name	Squirrel Hill Post Office
+l 1323	name	Slayd Apparel
+l 516	name	North Side Beer
+table data/geo-heter/left	has	l 2150
+l 17	name	East Liberty Lutheran Church
+l 2454	name	Concord Presbyterian Church
+l 1735	name	Hyde Park Prime Steakhouse
+table data/geo-heter/left	has	l 1436
+table data/geo-heter/left	has	l 1798
+table data/geo-heter/left	has	l 102
+table data/geo-heter/left	has	l 2431
+table data/geo-heter/left	has	l 2185
+l 2127	name	Good Looks Eyewear
+table data/geo-heter/left	has	l 2406
+l 763	name	rrott Building
+table data/geo-heter/left	has	l 1114
+table data/geo-heter/left	has	l 76
+table data/geo-heter/left	has	l 1311
+l 2456	name	Razzy Fresh Frozen Yogurt
+table data/geo-heter/left	has	l 2034
+l 315	name	Dormont Pool
+l 718	name	Baldwin Township Community Library
+table data/geo-heter/left	has	l 2309
+table data/geo-heter/left	has	l 2343
+table data/geo-heter/left	has	l 1712
+l 2124	name	Episcopal Diocese of Pittsburgh
+l 1348	name	ight of Life Rescue Mission
+l 633	name	Point Park University Library
+table data/geo-heter/left	has	l 2277
+l 2186	name	The Church Brew Works
+l 1591	name	Eberly Hall
+l 1860	name	Chamber of Commerce Building
+l 1126	name	Crane Village
+table data/geo-heter/left	has	l 1985
+table data/geo-heter/left	has	l 693
+table data/geo-heter/left	has	l 1681
+table data/geo-heter/left	has	l 1338
+l 870	name	Scherer Lock & Supply
+table data/geo-heter/left	has	l 350
+l 636	name	PNC Park Box Office
+l 2349	name	Kraus Winter Garden
+l 1002	name	Huszar
+l 802	name	Mount Washington Baptist Church
+l 1185	name	Browns Hill Center
+table data/geo-heter/left	has	l 341
+l 190	name	Bellevue Police Department
+table data/geo-heter/left	has	l 976
+l 494	name	Church of the Redeemer
+l 2096	name	Papa John's
+table data/geo-heter/left	has	l 355
+l 2022	name	Pizza Hut
+l 10	name	Roselawn Houses
+table data/geo-heter/left	has	l 1937
+table data/geo-heter/left	has	l 2188
+l 439	name	Hilltop Baptist Church
+table data/geo-heter/left	has	l 1049
+l 1728	name	Faison Arts Elementary School
+table data/geo-heter/left	has	l 1380
+table data/geo-heter/left	has	l 2216
+table data/geo-heter/left	has	l 1561
+l 1661	name	Boulevard Motor Mart
+l 1825	name	Smith Funeral Home & Crematory
+table data/geo-heter/left	has	l 2234
+l 79	name	Dick's Sporting Goods
+table data/geo-heter/left	has	l 328
+table data/geo-heter/left	has	l 170
+table data/geo-heter/left	has	l 647
+l 276	name	Mt. Lebanon Police Department
+l 1631	name	The Playhouse
+table data/geo-heter/left	has	l 1627
+table data/geo-heter/left	has	l 894
+l 627	name	Mustard & Relics
+table data/geo-heter/left	has	l 1995
+table data/geo-heter/left	has	l 1384
+table data/geo-heter/left	has	l 2404
+table data/geo-heter/left	has	l 202
+l 1169	name	Frick Environmental Center
+table data/geo-heter/left	has	l 1756
+l 442	name	Green Tree Police Department
+l 1640	name	Thomas Detre Hall
+l 295	name	Hillman Library
+table data/geo-heter/left	has	l 53
+l 339	name	Gary Liebel Dentistry
+table data/geo-heter/left	has	l 1916
+l 2184	name	St. Bede Parish
+l 2310	name	valon Exchange
+table data/geo-heter/left	has	l 1006
+l 1495	name	Green Pepper
+l 949	name	Red; White & Blue Thrift Store
+table data/geo-heter/left	has	l 186
+l 515	name	The Carlton
+table data/geo-heter/left	has	l 37
+table data/geo-heter/left	has	l 1046
+l 1116	name	Pittsburgh Chinese Church
+table data/geo-heter/left	has	l 2021
+l 2087	name	Prince of Peace Roman Catholic Church
+l 653	name	Shannon Auto Service Center
+l 2100	name	Shady Grove
+table data/geo-heter/left	has	l 2104
+l 2071	name	Pink Box Bakery & Cafe
+l 170	name	Trees Field
+l 2044	name	Goodwill South Side Store
+table data/geo-heter/left	has	l 157
+l 579	name	Bloomfield Playground
+table data/geo-heter/left	has	l 751
+table data/geo-heter/left	has	l 2297
+table data/geo-heter/left	has	l 34
+l 1195	name	llegheny City Brewery
+l 2295	name	valon Public Library
+l 1912	name	First Niagara
+l 1145	name	Central Catholic High School
+l 1123	name	Blawnox FireDepartment
+l 779	name	Grant Building
+l 1467	name	100 Medical Arts Building
+table data/geo-heter/left	has	l 614
+table data/geo-heter/left	has	l 1231
+l 1689	name	Evergreen Ave at Emma St
+table data/geo-heter/left	has	l 185
+l 2279	name	Iglesia Cristiana Taburnacula de Dracon
+table data/geo-heter/left	has	l 128
+table data/geo-heter/left	has	l 1279
+l 1917	name	Imperial House
+l 720	name	Mary Anne's Breakfast-N-Lunch
+l 517	name	Daniels Alignment
+table data/geo-heter/left	has	l 1998
+table data/geo-heter/left	has	l 718
+table data/geo-heter/left	has	l 541
+table data/geo-heter/left	has	l 1952
+table data/geo-heter/left	has	l 1830
+l 2374	name	Waterfront Towne Center
+table data/geo-heter/left	has	l 786
+table data/geo-heter/left	has	l 49
+l 1911	name	Moonlight Cafe
+table data/geo-heter/left	has	l 970
+table data/geo-heter/left	has	l 182
+l 920	name	llegheny County Library Association
+l 2319	name	Motel 6 Pittsburgh
+l 1224	name	Brookline Memorial Park
+table data/geo-heter/left	has	l 1768
+table data/geo-heter/left	has	l 878
+table data/geo-heter/left	has	l 1818
+table data/geo-heter/left	has	l 1503
+l 2116	name	Midtown Towers
+l 1694	name	Triangle Park
+table data/geo-heter/left	has	l 1005
+table data/geo-heter/left	has	l 259
+table data/geo-heter/left	has	l 1026
+l 1417	name	Plus
+table data/geo-heter/left	has	l 1532
+l 1153	name	Saint Andrews Episcopal Church
+l 992	name	Frick Park Market
+table data/geo-heter/left	has	l 1155
+l 2021	name	James Dean Auto Works
+table data/geo-heter/left	has	l 892
+l 2341	name	Saint Brendans Church
+table data/geo-heter/left	has	l 2273
+l 683	name	Fairmont Pittsburgh
+l 954	name	Chatham Village
+l 1273	name	Budget Car Rental
+l 1772	name	O'brien's
+l 617	name	BNY Mellon Center
+table data/geo-heter/left	has	l 122
+table data/geo-heter/left	has	l 43
+l 2262	name	North Ave at Grant Ave
+table data/geo-heter/left	has	l 1117
+table data/geo-heter/left	has	l 1578
+table data/geo-heter/left	has	l 949
+l 732	name	Pittsburgh Classical Middle School
+table data/geo-heter/left	has	l 2349
+table data/geo-heter/left	has	l 1846
+l 1075	name	The Tanning Room LLC
+l 786	name	Yen's Gourmet
+table data/geo-heter/left	has	l 613
+table data/geo-heter/left	has	l 212
+l 944	name	Charter Bank
+l 369	name	Saint Benedict the Moor School
+l 152	name	Schenley Park
+l 1535	name	White Eagle Inn
+l 1547	name	Garfield's Nightmare
+l 427	name	Engine House - Fifty Seven
+l 2048	name	Julia Ward Howe Elementary School Library
+l 532	name	Western Pennsylvania School for the Deaf
+table data/geo-heter/left	has	l 2066
+l 332	name	South Hills Eye Associates
+table data/geo-heter/left	has	l 2059
+l 1662	name	Newman Chiropractic Center
+l 292	name	Parkedge Park
+table data/geo-heter/left	has	l 777
+l 1283	name	Forest Hills Police Department
+l 226	name	Pizza Perfecta
+table data/geo-heter/left	has	l 2356
+l 783	name	Carnegie Mellon University Bookstore
+table data/geo-heter/left	has	l 1123
+l 2269	name	Saint Matthew Brighton Heights Campus
+l 1337	name	Red Line Auto Sales
+l 811	name	Unity Center of Pittsburgh
+l 1935	name	Saint Josephs Cemetery
+l 78	name	Sloppy Joe's
+table data/geo-heter/left	has	l 2054
+table data/geo-heter/left	has	l 1601
+l 1481	name	Schoolhouse Yoga
+l 223	name	Squirrel Hill Jewelry
+table data/geo-heter/left	has	l 105
+l 1838	name	State Correctional Institution  Pittsburgh
+table data/geo-heter/left	has	l 1870
+l 2397	name	Boutique la Passerelle
+table data/geo-heter/left	has	l 168
+table data/geo-heter/left	has	l 175
+table data/geo-heter/left	has	l 2442
+table data/geo-heter/left	has	l 980
+l 2253	name	Woods Run School
+table data/geo-heter/left	has	l 758
+l 261	name	Noodles & Company
+table data/geo-heter/left	has	l 630
+table data/geo-heter/left	has	l 252
+l 1287	name	Mindful Brewing Company
+l 2404	name	Pittsburgh Ballet Theater Building
+l 1571	name	t Tech Institute
+table data/geo-heter/left	has	l 691
+table data/geo-heter/left	has	l 2031
+table data/geo-heter/left	has	l 668
+l 47	name	Kristas Cantina
+table data/geo-heter/left	has	l 611
+table data/geo-heter/left	has	l 1099
+l 2228	name	Dean Ornish Program
+table data/geo-heter/left	has	l 432
+table data/geo-heter/left	has	l 448
+table data/geo-heter/left	has	l 279
+l 715	name	Riverview Towers
+table data/geo-heter/left	has	l 584
+l 1779	name	Sonny's Tavern
+l 1208	name	Milton Hall
+table data/geo-heter/left	has	l 1434
+l 693	name	Banksville Plaza
+l 1052	name	Burger King
+table data/geo-heter/left	has	l 1781
+l 5	name	UPMC Mercy
+l 2424	name	Westfield
+table data/geo-heter/left	has	l 1921
+table data/geo-heter/left	has	l 2076
+l 467	name	Mount Olive Baptist Church
+table data/geo-heter/left	has	l 966
+table data/geo-heter/left	has	l 610
+l 999	name	Coach's Restaurant & Grille
+l 1930	name	Fox's Pizza Den
+table data/geo-heter/left	has	l 749
+l 974	name	Bob Matthew's Auto Repair
+table data/geo-heter/left	has	l 248
+l 666	name	llegheny County Courthouse
+table data/geo-heter/left	has	l 1702
+l 1489	name	Mark A. Nordenberg Hall
+table data/geo-heter/left	has	l 14
+table data/geo-heter/left	has	l 1596
+table data/geo-heter/left	has	l 1238
+l 1078	name	Butterjoint
+l 809	name	Carson City Saloon
+table data/geo-heter/left	has	l 1857
+table data/geo-heter/left	has	l 1112
+l 1976	name	Dickson Park
+l 892	name	Hyatt Place Pittsburgh North Shore
+l 1412	name	Stanton
+table data/geo-heter/left	has	l 1673
+l 1210	name	Sherwin-Williams Paints
+l 2231	name	Point Park College
+l 1390	name	Family Dentistry
+l 1141	name	iberty Avenue Park
+table data/geo-heter/left	has	l 622
+l 725	name	Pittsburgh Plate Glass Building
+l 1555	name	Crabtree Hall
+table data/geo-heter/left	has	l 1680
+table data/geo-heter/left	has	l 990
+table data/geo-heter/left	has	l 1425
+table data/geo-heter/left	has	l 46
+l 464	name	YMCA of Greater Pittsburgh
+table data/geo-heter/left	has	l 573
+table data/geo-heter/left	has	l 1789
+table data/geo-heter/left	has	l 375
+table data/geo-heter/left	has	l 1881
+l 1849	name	Salim's Middle Eastern Food
+table data/geo-heter/left	has	l 284
+table data/geo-heter/left	has	l 2037
+l 812	name	1311 Carson
+table data/geo-heter/left	has	l 2412
+l 1611	name	Bellevue Christian Church
+l 1019	name	Pittsburgh Police Department
+table data/geo-heter/left	has	l 427
+table data/geo-heter/left	has	l 2174
+l 826	name	Pittsburgh Popcorn
+l 1947	name	Hamilton Presbyterian Church
+table data/geo-heter/left	has	l 2237
+l 791	name	Best Auto Mart
+l 1071	name	Our Lady of Grace School
+table data/geo-heter/left	has	l 66
+l 96	name	Schenley Plaza
+l 608	name	Peace Garden
+l 333	name	City Vista
+table data/geo-heter/left	has	l 1861
+l 374	name	Bouquet Gardens Building J
+l 701	name	Robot City Roundhouse
+table data/geo-heter/left	has	l 1050
+l 997	name	The Bead Mine
+l 3	name	Carnegie Park
+table data/geo-heter/left	has	l 973
+table data/geo-heter/left	has	l 1962
+table data/geo-heter/left	has	l 2085
+l 1513	name	Mr Roboto
+table data/geo-heter/left	has	l 2222
+table data/geo-heter/left	has	l 2147
+table data/geo-heter/left	has	l 320
+table data/geo-heter/left	has	l 589
+table data/geo-heter/left	has	l 661
+table data/geo-heter/left	has	l 2325
+table data/geo-heter/left	has	l 184
+table data/geo-heter/left	has	l 557
+l 1971	name	Riverfront Landing
+table data/geo-heter/left	has	l 846
+l 697	name	Keystone Oaks High School
+table data/geo-heter/left	has	l 555
+table data/geo-heter/left	has	l 1309
+l 2111	name	Warrington Beer Distributor
+l 1870	name	Waldorf School of Pittsburgh
+l 877	name	Saint Regis School
+l 2383	name	South Hills Junction
+l 1198	name	Siegel and Portnoy
+table data/geo-heter/left	has	l 2239
+l 7	name	undromat
+l 1042	name	Pinkerton Funeral Home
+l 1173	name	ll Things Aquatic
+l 1484	name	Jewish Community Center Nursery and Kindergarten
+table data/geo-heter/left	has	l 194
+table data/geo-heter/left	has	l 814
+l 63	name	Ingram
+table data/geo-heter/left	has	l 490
+l 1553	name	Genesis Center
+l 1047	name	McDonald's - East Liberty Station
+l 56	name	Schenley Place
+l 8	name	Cupka's Cafe
+l 1264	name	Pierogies Plus
+table data/geo-heter/left	has	l 1215
+l 2309	name	xi's Auto Sales and Service
+table data/geo-heter/left	has	l 1176
+table data/geo-heter/left	has	l 1246
+table data/geo-heter/left	has	l 145
+table data/geo-heter/left	has	l 2077
+table data/geo-heter/left	has	l 2115
+l 1305	name	YWCA of Greater Pittsburgh
+table data/geo-heter/left	has	l 260
+l 1636	name	Hallelujah Anyhow Gosepel Barber
+l 380	name	Smithfield Cemetery
+l 1657	name	Maimonides Academy of Pitttsburgh
+table data/geo-heter/left	has	l 169
+l 909	name	DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown
+table data/geo-heter/left	has	l 1489
+table data/geo-heter/left	has	l 868
+l 750	name	Ross Community United Presbyterian Church
+table data/geo-heter/left	has	l 1269
+l 459	name	ittle Nipper's Pizza
+table data/geo-heter/left	has	l 1317
+table data/geo-heter/left	has	l 1989
+l 1383	name	ce Paints & Unfinished Furniture
+table data/geo-heter/left	has	l 890
+table data/geo-heter/left	has	l 1507
+table data/geo-heter/left	has	l 1733
+table data/geo-heter/left	has	l 833
+l 2007	name	rizon Wireless
+l 136	name	Foster Plaza 5
+table data/geo-heter/left	has	l 1906
+l 2089	name	Fantastic Sams
+table data/geo-heter/left	has	l 242
+l 756	name	wrenceville Vision Care
+table data/geo-heter/left	has	l 101
+table data/geo-heter/left	has	l 1348
+l 1531	name	Hammerschlag House
+l 1469	name	Nationality Rooms
+l 910	name	Breakfast at Shelly's
+table data/geo-heter/left	has	l 702
+table data/geo-heter/left	has	l 2350
+l 675	name	Nana's Northside Diner
+table data/geo-heter/left	has	l 791
+table data/geo-heter/left	has	l 1743
+table data/geo-heter/left	has	l 1664
+table data/geo-heter/left	has	l 2041
+table data/geo-heter/left	has	l 1942
+l 900	name	Sichuan Gourmet
+l 1455	name	Highland Building
+l 82	name	Commonwealth Building
+l 1572	name	Pittsburgh Police Department Zone 3
+table data/geo-heter/left	has	l 1078
+l 1005	name	Pennant
+table data/geo-heter/left	has	l 351
+l 94	name	Forbes Tower
+l 1402	name	Smithfield St at Fort Pitt Blvd
+table data/geo-heter/left	has	l 1750
+l 1107	name	Head Board
+l 947	name	llegheny General Hospital Suburban Campus
+l 203	name	Westwood Park
+l 1170	name	Hamburg Hall
+table data/geo-heter/left	has	l 1122
+table data/geo-heter/left	has	l 2189
+table data/geo-heter/left	has	l 1167
+table data/geo-heter/left	has	l 1517
+table data/geo-heter/left	has	l 1845
+l 358	name	Pittsburgh Union Station
+table data/geo-heter/left	has	l 1666
+table data/geo-heter/left	has	l 1421
+table data/geo-heter/left	has	l 1940
+table data/geo-heter/left	has	l 2133
+table data/geo-heter/left	has	l 1527
+l 1493	name	Word of God Elementary School
+table data/geo-heter/left	has	l 429
+table data/geo-heter/left	has	l 312
+l 851	name	-1 Auto Mart
+l 560	name	Morewood Gardens
+l 1222	name	Penn Station C
+table data/geo-heter/left	has	l 1690
+table data/geo-heter/left	has	l 23
+table data/geo-heter/left	has	l 1504
+table data/geo-heter/left	has	l 2240
+table data/geo-heter/left	has	l 944
+l 2028	name	Zone One Police Station
+table data/geo-heter/left	has	l 2170
+l 1425	name	Everest Restaurant
+table data/geo-heter/left	has	l 1573
+table data/geo-heter/left	has	l 1697
+table data/geo-heter/left	has	l 2392
+l 1186	name	David Lawrence Pavilion
+table data/geo-heter/left	has	l 131
+table data/geo-heter/left	has	l 180
+table data/geo-heter/left	has	l 22
+table data/geo-heter/left	has	l 684
+l 1769	name	South Shore Riverfront Park
+l 1964	name	itamin Shoppe
+l 803	name	Presston Park
+table data/geo-heter/left	has	l 445
+table data/geo-heter/left	has	l 1190
+table data/geo-heter/left	has	l 1454
+table data/geo-heter/left	has	l 1154
+l 2375	name	Quizno's
+l 375	name	Homestead Capri Pizza and Bar
+table data/geo-heter/left	has	l 1966
+table data/geo-heter/left	has	l 799
+l 1505	name	Pittsburgh Roofing Systems
+table data/geo-heter/left	has	l 2159
+table data/geo-heter/left	has	l 69
+l 2416	name	Scarehouse
+table data/geo-heter/left	has	l 2000
+l 1369	name	McKinley Park
+table data/geo-heter/left	has	l 710
+table data/geo-heter/left	has	l 1400
+table data/geo-heter/left	has	l 1605
+l 527	name	Whitfield Hall
+l 2090	name	Hyatt House Pittsburgh / Bloomfield / Shadyside
+table data/geo-heter/left	has	l 994
+table data/geo-heter/left	has	l 56
+table data/geo-heter/left	has	l 1825
+table data/geo-heter/left	has	l 2446
+table data/geo-heter/left	has	l 383
+l 1232	name	ili Cafe
+table data/geo-heter/left	has	l 2279
+table data/geo-heter/left	has	l 1720
+table data/geo-heter/left	has	l 1449
+table data/geo-heter/left	has	l 1539
+table data/geo-heter/left	has	l 1349
+table data/geo-heter/left	has	l 536
+table data/geo-heter/left	has	l 497
+l 2170	name	Curry on Murray
+l 624	name	Squaw Valley Park
+table data/geo-heter/left	has	l 333
+l 1246	name	Photo Antiques
+table data/geo-heter/left	has	l 1694
+table data/geo-heter/left	has	l 12
+l 181	name	Wilkinsburg High School
+table data/geo-heter/left	has	l 286
+l 1538	name	Schenley Oval
+table data/geo-heter/left	has	l 2342
+l 1700	name	Union Project
+table data/geo-heter/left	has	l 1948
+l 2139	name	Jack Maggs Agency
+l 852	name	zing Books
+table data/geo-heter/left	has	l 2294
+table data/geo-heter/left	has	l 422
+l 2065	name	Mount Oliver Police
+l 2400	name	rlington Playground
+table data/geo-heter/left	has	l 223
+table data/geo-heter/left	has	l 2094
+l 2301	name	Starbucks
+table data/geo-heter/left	has	l 656
+l 1044	name	Murray Avenue Kosher
+table data/geo-heter/left	has	l 2137
+l 1396	name	Morningside VFW 3945
+table data/geo-heter/left	has	l 1292
+l 1995	name	Pizza Warehouse
+table data/geo-heter/left	has	l 1304
+table data/geo-heter/left	has	l 703
+l 1956	name	Thai Hana Restaurant
+table data/geo-heter/left	has	l 1859
+l 1675	name	Spring Garden Elementary School Library
+table data/geo-heter/left	has	l 626
+table data/geo-heter/left	has	l 609
+l 2431	name	Crafton Post Office
+table data/geo-heter/left	has	l 379
+table data/geo-heter/left	has	l 372
+table data/geo-heter/left	has	l 1620
+l 505	name	Essie's Original Hot Dogs
+table data/geo-heter/left	has	l 1736
+l 1240	name	Carnegie Mellon University (Forbes and Morewood)
+l 2322	name	Thick Bikes
+l 1354	name	Baptist Homes
+table data/geo-heter/left	has	l 2017
+table data/geo-heter/left	has	l 201
+table data/geo-heter/left	has	l 2344
+l 2264	name	Old Engineering Hall
+table data/geo-heter/left	has	l 2183
+table data/geo-heter/left	has	l 553
+table data/geo-heter/left	has	l 1879
+table data/geo-heter/left	has	l 1214
+l 44	name	Resnik House
+l 2229	name	Camp Guyasuta
+l 573	name	Bouquet Gardens Building G
+table data/geo-heter/left	has	l 2264
+table data/geo-heter/left	has	l 1678
+l 613	name	Cyert Hall
+table data/geo-heter/left	has	l 1438
+table data/geo-heter/left	has	l 1353
+table data/geo-heter/left	has	l 2456
+table data/geo-heter/left	has	l 1119
+l 770	name	Washington Blvd opp Highland Dr
+l 420	name	ove Ramen
+l 1053	name	Frazier Field
+l 743	name	Byers Hall
+table data/geo-heter/left	has	l 629
+table data/geo-heter/left	has	l 188
+table data/geo-heter/left	has	l 922
+table data/geo-heter/left	has	l 579
+l 1888	name	Kennedy Park
+table data/geo-heter/left	has	l 478
+table data/geo-heter/left	has	l 838
+l 1668	name	River City Inn
+table data/geo-heter/left	has	l 2378
+l 194	name	Emmanuel Baptist Church
+l 993	name	Jolina's Mediterranean Cuisine
+l 1091	name	Nails Elegance & Spa
+table data/geo-heter/left	has	l 1515
+table data/geo-heter/left	has	l 1707
+table data/geo-heter/left	has	l 1822
+l 2446	name	spinwall Riverfront Park
+table data/geo-heter/left	has	l 99
+l 1627	name	How Lee
+l 1384	name	Young Peoples Synagogue
+table data/geo-heter/left	has	l 1335
+l 702	name	Hazelwood Christian Church
+table data/geo-heter/left	has	l 1640
+l 2320	name	ogan's Pub
+table data/geo-heter/left	has	l 1896
+l 2183	name	Grace Lutheran Church
+l 1268	name	Pomponne Salon
+table data/geo-heter/left	has	l 719
+l 1367	name	Dinette
+table data/geo-heter/left	has	l 163
+l 1121	name	Olive Garden
+l 1150	name	Rasta House
+l 2060	name	Taste of India
+l 886	name	Foster Plaza 1
+table data/geo-heter/left	has	l 731
+l 1450	name	Corinthian Baptist Church
+l 1088	name	J.R. Coffee Shop
+table data/geo-heter/left	has	l 1549
+table data/geo-heter/left	has	l 1752
+table data/geo-heter/left	has	l 679
+l 1487	name	Casbah
+table data/geo-heter/left	has	l 634
+l 773	name	Carriage House; Chatham University
+table data/geo-heter/left	has	l 19
+l 1132	name	Memorial Hall
+l 1597	name	Tram's Kitchen
+table data/geo-heter/left	has	l 825
+table data/geo-heter/left	has	l 1505
+l 503	name	57th Street Motors
+table data/geo-heter/left	has	l 601
+table data/geo-heter/left	has	l 148
+table data/geo-heter/left	has	l 1118
+table data/geo-heter/left	has	l 1467
+table data/geo-heter/left	has	l 382
+table data/geo-heter/left	has	l 231
+l 777	name	Islamic Center of Pittsburgh
+table data/geo-heter/left	has	l 58
+table data/geo-heter/left	has	l 789
+l 1307	name	Smithfield St at 6th Ave
+l 486	name	Renaissance Pittsburgh Hotel
+l 585	name	Shaare Torah Congregation
+table data/geo-heter/left	has	l 2207
+table data/geo-heter/left	has	l 1068
+l 1374	name	Saints Simon and Jude School
+l 556	name	The Rocks Car Wash
+l 1432	name	Sharpsburg Post Office
+l 1529	name	inny's Pizza
+table data/geo-heter/left	has	l 1397
+l 1368	name	Sennott Square
+table data/geo-heter/left	has	l 1157
+l 1310	name	Winchester Thurston Upper School
+table data/geo-heter/left	has	l 879
+l 1410	name	Ruskin Hall
+table data/geo-heter/left	has	l 1524
+table data/geo-heter/left	has	l 220
+table data/geo-heter/left	has	l 851
+table data/geo-heter/left	has	l 2072
+table data/geo-heter/left	has	l 2242
+l 426	name	South Hills Congregational Church
+l 1115	name	Easy Street
+l 663	name	Brookline Teen Outreach
+table data/geo-heter/left	has	l 522
+l 499	name	McBride Park
+table data/geo-heter/left	has	l 1973
+table data/geo-heter/left	has	l 1926
+l 139	name	Dormont Park
+table data/geo-heter/left	has	l 2145
+l 176	name	Thornburg Borough Hall
+l 253	name	Music Building
+table data/geo-heter/left	has	l 151
+table data/geo-heter/left	has	l 1530
+l 2099	name	Cabaret Theatre
+l 128	name	Bouquet Gardens Building H
+table data/geo-heter/left	has	l 1247
+table data/geo-heter/left	has	l 1608
+table data/geo-heter/left	has	l 971
+l 1403	name	Equity Real Estate
+l 1624	name	Food Services
+table data/geo-heter/left	has	l 1453
+table data/geo-heter/left	has	l 301
+l 1548	name	Embassy Suites by Hilton Pittsburgh Downtown
+table data/geo-heter/left	has	l 663
+table data/geo-heter/left	has	l 1757
+l 86	name	llegheny Traditional Academy
+l 1588	name	iberty Ave at Wyndham Grand
+table data/geo-heter/left	has	l 1771
+l 1683	name	Wilson Park
+table data/geo-heter/left	has	l 1876
+l 699	name	Diocese of Pittsburgh
+table data/geo-heter/left	has	l 858
+table data/geo-heter/left	has	l 2215
+table data/geo-heter/left	has	l 869
+l 581	name	Point of View
+l 1120	name	Common Plea Restaurant
+table data/geo-heter/left	has	l 1993
+l 1752	name	Skibo Gymnasium
+l 2157	name	Cafe Moulin
+l 1063	name	Parkside Cafe
+l 1652	name	General Store
+l 1434	name	Saint Ann Hall
+table data/geo-heter/left	has	l 1174
+l 2039	name	Coriander India Grill
+l 555	name	Park House
+l 108	name	Carnegie Science Center
+l 155	name	llegheny Podiatry
+table data/geo-heter/left	has	l 989
+table data/geo-heter/left	has	l 759
+l 1086	name	braxas High School
+table data/geo-heter/left	has	l 2447
+l 2251	name	Parker's Cafe
+table data/geo-heter/left	has	l 171
+l 667	name	llegheny Health Network
+l 2152	name	K. Leroy Irvis Science Center
+l 1447	name	Ben Fairless Intermediate School Library
+l 2401	name	Kaleidoscope Cafe
+table data/geo-heter/left	has	l 1089
+table data/geo-heter/left	has	l 2295
+l 1966	name	Selection Boutique
+l 1651	name	Bistro To Go Cafe
+table data/geo-heter/left	has	l 1542
+l 145	name	Braddock Carnegie Library
+l 1655	name	Storms Restaurant
+table data/geo-heter/left	has	l 272
+l 2257	name	To Go
+table data/geo-heter/left	has	l 2468
+table data/geo-heter/left	has	l 533
+table data/geo-heter/left	has	l 2397
+l 2267	name	El Burro
+l 28	name	Pittsburgh Gifted Center
+table data/geo-heter/left	has	l 332
+l 2247	name	Kaduck Auto Sales
+table data/geo-heter/left	has	l 1290
+table data/geo-heter/left	has	l 2453
+l 497	name	Freeport Rd at Lewis Ave
+l 614	name	Pittsburgh Steak Company
+table data/geo-heter/left	has	l 1386
+l 1803	name	Evergreen Ave at Frederick St
+table data/geo-heter/left	has	l 1327
+l 694	name	Shadyside Surgi-Center
+table data/geo-heter/left	has	l 943
+table data/geo-heter/left	has	l 2444
+l 179	name	Crunch Fitness
+table data/geo-heter/left	has	l 1179
+table data/geo-heter/left	has	l 2140
+l 1130	name	Deli on Butler
+l 1879	name	William Penn Association
+l 1958	name	Stewart Avenue Lutheran Church
+table data/geo-heter/left	has	l 2332
+table data/geo-heter/left	has	l 730
+table data/geo-heter/left	has	l 1922
+l 1339	name	Green Tree Nature Center
+table data/geo-heter/left	has	l 21
+l 2263	name	Brighton Road Auto Sales
+l 1221	name	Fifth Ave at Frankstown Ave
+l 1243	name	Pitaland
+table data/geo-heter/left	has	l 912
+table data/geo-heter/left	has	l 780
+l 2370	name	Ingram Police Department
+table data/geo-heter/left	has	l 2385
+table data/geo-heter/left	has	l 2084
+table data/geo-heter/left	has	l 154
+table data/geo-heter/left	has	l 548
+table data/geo-heter/left	has	l 13
+l 1179	name	Broadway Brunch
+table data/geo-heter/left	has	l 683
+table data/geo-heter/left	has	l 705
+l 815	name	Potak House
+table data/geo-heter/left	has	l 1422
+l 1389	name	Bistro 19
+table data/geo-heter/left	has	l 2050
+table data/geo-heter/left	has	l 409
+l 1394	name	East End Food Co-op
+table data/geo-heter/left	has	l 982
+l 220	name	Mitchell's Restaurant
+table data/geo-heter/left	has	l 1071
+table data/geo-heter/left	has	l 26
+l 1098	name	Genoa Pizza
+l 1673	name	Pittsburgh Kitchenrama
+l 2198	name	Rectory Guardian Angels
+table data/geo-heter/left	has	l 2079
+table data/geo-heter/left	has	l 1646
+table data/geo-heter/left	has	l 104
+l 610	name	Murphy's Auto Body
+table data/geo-heter/left	has	l 1387
+table data/geo-heter/left	has	l 2028
+table data/geo-heter/left	has	l 516
+table data/geo-heter/left	has	l 678
+l 2194	name	Peter's Pub
+l 95	name	Redbeard's on Sixth
+l 2323	name	St. Benedict The Moor
+table data/geo-heter/left	has	l 655
+l 313	name	Joan of Arc Building
+l 1204	name	ida Massage
+l 1370	name	trak
+table data/geo-heter/left	has	l 1925
+table data/geo-heter/left	has	l 1708
+l 2272	name	Bakery Square
+table data/geo-heter/left	has	l 1772
+table data/geo-heter/left	has	l 1983
+l 249	name	Two Gateway Center
+table data/geo-heter/left	has	l 2075
+table data/geo-heter/left	has	l 1144
+l 349	name	University of Pittsburgh Theatre
+l 1922	name	Children's Museum of Pittsburgh
+l 175	name	Mt. Lebanon Public Library
+l 2449	name	uBreakiFix
+table data/geo-heter/left	has	l 1944
+table data/geo-heter/left	has	l 689
+l 931	name	East Liberty Garage
+l 2052	name	Bloom Cigar Company
+l 1385	name	Soldiers and Sailors Memorial Hall
+table data/geo-heter/left	has	l 215
+table data/geo-heter/left	has	l 2089
+l 1527	name	Barb's Country Kitchen
+l 1916	name	Foster Square
+table data/geo-heter/left	has	l 1055
+table data/geo-heter/left	has	l 1087
+l 495	name	WDUQ-FM (Pittsburgh)
+l 141	name	Cardamone's Hair & Nail Salon
+l 2150	name	Mecka Fitness
+l 1303	name	llegheny Historic Preservation Society
+l 586	name	Port Authority of Allegheny County Police
+l 2345	name	othrop Hall
+table data/geo-heter/left	has	l 1035
+l 239	name	den Market
+table data/geo-heter/left	has	l 2438
+l 1975	name	Ingram Borough Hall
+table data/geo-heter/left	has	l 1793
+l 2219	name	Schaeffer Elementary School Library
+table data/geo-heter/left	has	l 972
+table data/geo-heter/left	has	l 2355
+l 1608	name	Crescent Elementary School
+table data/geo-heter/left	has	l 2192
+table data/geo-heter/left	has	l 744
+l 0	name	1909 McKee's Rocks Strike
+table data/geo-heter/left	has	l 1329
+l 2395	name	Wesbanco
+table data/geo-heter/left	has	l 1462
+l 594	name	Rothrock's Kung Fu & Tai Chi Academy
+table data/geo-heter/left	has	l 460
+table data/geo-heter/left	has	l 1914
+l 1457	name	Byham Theater
+l 1327	name	Sunrise Auto Sales
+table data/geo-heter/left	has	l 1548
+l 2225	name	Jewish Community Center
+table data/geo-heter/left	has	l 925
+l 1782	name	Trinity African Methodist Episcopal Church
+l 2062	name	Gentilcore Jewelers
+table data/geo-heter/left	has	l 18
+table data/geo-heter/left	has	l 1485
+table data/geo-heter/left	has	l 298
+l 876	name	Zorbas
+l 2041	name	Central
+table data/geo-heter/left	has	l 172
+l 231	name	Orbis Caffe
+l 893	name	Crafton United Presbyterian Church
+l 686	name	Boss House
+l 2136	name	Massage Envy
+table data/geo-heter/left	has	l 189
+table data/geo-heter/left	has	l 280
+table data/geo-heter/left	has	l 1475
+l 228	name	St Rosalia Academy
+table data/geo-heter/left	has	l 913
+table data/geo-heter/left	has	l 1402
+table data/geo-heter/left	has	l 2348
+table data/geo-heter/left	has	l 329
+table data/geo-heter/left	has	l 889
+l 466	name	Pendale Salon
+table data/geo-heter/left	has	l 764
+l 2266	name	Saint Pauls Cemetery
+table data/geo-heter/left	has	l 2369
+table data/geo-heter/left	has	l 1280
+table data/geo-heter/left	has	l 1240
+table data/geo-heter/left	has	l 551
+table data/geo-heter/left	has	l 1917
+table data/geo-heter/left	has	l 1108
+table data/geo-heter/left	has	l 2211
+l 729	name	Mamma Lucia
+table data/geo-heter/left	has	l 521
+table data/geo-heter/left	has	l 2359
+table data/geo-heter/left	has	l 2007
+table data/geo-heter/left	has	l 2458
+l 1039	name	Braddock Avenue at Library Street
+l 1049	name	East Liberty Presbyterian Church
+table data/geo-heter/left	has	l 1657
+l 1596	name	Donner Ditch
+l 1807	name	Olde Towne Laundry
+table data/geo-heter/left	has	l 2080
+l 830	name	O'Reilly Theater
+table data/geo-heter/left	has	l 750
+table data/geo-heter/left	has	l 717
+l 1430	name	Mendel Hall
+table data/geo-heter/left	has	l 1650
+table data/geo-heter/left	has	l 633
+l 1697	name	Child's Wardrobe & Adults Too
+l 430	name	200 Medical Arts Building
+l 2010	name	Butler St at Center St
+l 582	name	Frick Park
+table data/geo-heter/left	has	l 232
+l 2327	name	Schenley Park Caf and Visitor Center
+l 758	name	Northside Dental
+table data/geo-heter/left	has	l 1135
+l 263	name	Pittsburgh Science and Technology Academy
+table data/geo-heter/left	has	l 1572
+l 747	name	Rogue Tattoo
+table data/geo-heter/left	has	l 338
+l 829	name	Castle Shannon Police Department
+table data/geo-heter/left	has	l 896
+l 1743	name	Full Life Deliverance Ministries
+table data/geo-heter/left	has	l 2091
+l 1639	name	Saint Aloysius Church Social Hall
+l 290	name	Sam Chioda Field
+l 1690	name	Brunswick Playmor Bowl
+l 2207	name	Forest Avenue Presbyterian Church
+table data/geo-heter/left	has	l 677
+table data/geo-heter/left	has	l 785
+l 1890	name	NPL Building
+table data/geo-heter/left	has	l 2064
+table data/geo-heter/left	has	l 804
+l 821	name	E Carson St at Station Square
+l 1296	name	40th Street Bridge
+table data/geo-heter/left	has	l 393
+table data/geo-heter/left	has	l 862
+table data/geo-heter/left	has	l 955
+table data/geo-heter/left	has	l 119
+l 837	name	ubavitch Center
+l 363	name	Marybelle Apartments
+l 605	name	Bellefield Boiler Plant
+l 1794	name	Uncle Sam's Subs
+l 2024	name	Rankin Borough Hall
+l 523	name	First National Bank Wealth Management
+table data/geo-heter/left	has	l 83
+table data/geo-heter/left	has	l 2128
+table data/geo-heter/left	has	l 2194
+l 695	name	Pittsburgh Jeans Company
+l 2392	name	For The People Insurance Agency; Inc.
+l 1333	name	The Snack Shop
+l 774	name	St. Paul Cathedral
+table data/geo-heter/left	has	l 214
+l 1477	name	Common Park
+l 377	name	Express Pizzeria
+l 157	name	Whited
+l 1589	name	Save-Mor Beer and Pop Warehouse
+table data/geo-heter/left	has	l 706
+table data/geo-heter/left	has	l 1662
+table data/geo-heter/left	has	l 373
+l 1212	name	Phillips Park
+table data/geo-heter/left	has	l 400
+l 2153	name	Steel City Martial Arts
+l 1285	name	Homestead United Presbyterian Church
+l 1321	name	lumni Hall
+l 1037	name	Mifflin Elementary School
+l 2230	name	Riverview Park
+l 1954	name	MedExpress
+l 520	name	Sara Heinz House
+l 929	name	The Yard
+l 857	name	llegheny Sandwich Shop
+table data/geo-heter/left	has	l 1930
+table data/geo-heter/left	has	l 1060
+l 234	name	Murray Ave. Grill
+table data/geo-heter/left	has	l 1180
+l 559	name	Frick Park Clay Courts
+table data/geo-heter/left	has	l 1710
+l 748	name	Mellon Park Tennis Center
+table data/geo-heter/left	has	l 1307
+table data/geo-heter/left	has	l 1778
+table data/geo-heter/left	has	l 1339
+l 2130	name	Gally Park
+l 2182	name	Munhall Park
+table data/geo-heter/left	has	l 909
+table data/geo-heter/left	has	l 126
+l 2050	name	Slacker
+table data/geo-heter/left	has	l 45
+table data/geo-heter/left	has	l 2291
+table data/geo-heter/left	has	l 2062
+l 1209	name	The Heartwood Institute
+l 412	name	Maranatha Bible Baptist Church
+table data/geo-heter/left	has	l 992
+table data/geo-heter/left	has	l 1257
+table data/geo-heter/left	has	l 418
+table data/geo-heter/left	has	l 792
+table data/geo-heter/left	has	l 540
+table data/geo-heter/left	has	l 704
+l 2103	name	Bethel African Methodist Episcopal Church
+table data/geo-heter/left	has	l 958
+table data/geo-heter/left	has	l 1535
+table data/geo-heter/left	has	l 271
+table data/geo-heter/left	has	l 1645
+l 93	name	Mt. Lebanon Shoe Repair
+table data/geo-heter/left	has	l 850
+table data/geo-heter/left	has	l 1151
+l 304	name	Northside Associates
+l 1050	name	Carnegie Museum of Art
+table data/geo-heter/left	has	l 1777
+table data/geo-heter/left	has	l 2250
+l 2468	name	Rumerz Sports Bar & Grill
+l 2146	name	Emmanuel Lutheran Church
+table data/geo-heter/left	has	l 2009
+table data/geo-heter/left	has	l 805
+table data/geo-heter/left	has	l 569
+table data/geo-heter/left	has	l 1081
+table data/geo-heter/left	has	l 10
+table data/geo-heter/left	has	l 363
+l 1686	name	Walking to the Sky
+l 1420	name	The Hiker - Spanish American War Memorial
+table data/geo-heter/left	has	l 2176
+l 351	name	Baker Hall
+table data/geo-heter/left	has	l 820
+table data/geo-heter/left	has	l 38
+l 1365	name	Porter Hall
+table data/geo-heter/left	has	l 488
+table data/geo-heter/left	has	l 1104
+table data/geo-heter/left	has	l 2261
+table data/geo-heter/left	has	l 2425
+table data/geo-heter/left	has	l 63
+table data/geo-heter/left	has	l 887
+table data/geo-heter/left	has	l 2078
+table data/geo-heter/left	has	l 559
+table data/geo-heter/left	has	l 1604
+table data/geo-heter/left	has	l 1456
+table data/geo-heter/left	has	l 1943
+table data/geo-heter/left	has	l 319
+l 37	name	Metaltech
+table data/geo-heter/left	has	l 2419
+table data/geo-heter/left	has	l 827
+l 1899	name	Uptown Pittsburgh Post Office
+table data/geo-heter/left	has	l 2270
+l 1172	name	Providence Reformed Presbyterian Church
+table data/geo-heter/left	has	l 442
+table data/geo-heter/left	has	l 1373
+table data/geo-heter/left	has	l 1075
+l 2199	name	Riverview United Presbyterian Church of Pittsburgh
+l 91	name	Foli's
+table data/geo-heter/left	has	l 1529
+l 976	name	Saint John's Lutheran Church
+table data/geo-heter/left	has	l 96
+table data/geo-heter/left	has	l 344
+table data/geo-heter/left	has	l 1321
+l 414	name	Hampton Inn & Suites Pittsburgh-Downtown
+l 778	name	Reconciliation Church
+l 1349	name	Heth's Playground
+table data/geo-heter/left	has	l 2074
+table data/geo-heter/left	has	l 1716
+l 2283	name	valon Borough Hall
+table data/geo-heter/left	has	l 2135
+l 275	name	Temple Emanuel of South Hills
+l 396	name	gion Park
+table data/geo-heter/left	has	l 769
+table data/geo-heter/left	has	l 2335
+l 1254	name	Garland Parklet
+l 792	name	Bouquet Gardens Building B
+l 40	name	Pizza Fiesta
+l 1985	name	Monongahela Incline Lower Station
+l 90	name	Heinz Hall
+table data/geo-heter/left	has	l 2427
+l 2249	name	Target Drive
+table data/geo-heter/left	has	l 886
+table data/geo-heter/left	has	l 587
+table data/geo-heter/left	has	l 2407
+l 1309	name	Hair Express
+l 2430	name	First Avenue
+table data/geo-heter/left	has	l 1074
+l 849	name	Schenley Gardens
+table data/geo-heter/left	has	l 802
+table data/geo-heter/left	has	l 2196
+l 1024	name	ibermann Hall
+l 1777	name	Essex Pool House
+l 32	name	Foster Plaza 7
+table data/geo-heter/left	has	l 729
+table data/geo-heter/left	has	l 1587
+l 217	name	Overbrook Elementary School (closed)
+table data/geo-heter/left	has	l 1377
+table data/geo-heter/left	has	l 1480
+table data/geo-heter/left	has	l 16
+table data/geo-heter/left	has	l 1082
+l 940	name	Fitzgerald Fieldhouse
+l 545	name	Saint John the Baptist Ukrainian Catholic
+table data/geo-heter/left	has	l 1982
+table data/geo-heter/left	has	l 2052
+table data/geo-heter/left	has	l 1490
+table data/geo-heter/left	has	l 1020
+l 1815	name	McFadden's Saloon
+l 147	name	Hampton Inn Pittsburgh University/Medical Center
+table data/geo-heter/left	has	l 283
+l 713	name	Minadeo Elementary School Library
+table data/geo-heter/left	has	l 954
+table data/geo-heter/left	has	l 85
+table data/geo-heter/left	has	l 1801
+l 2156	name	North Shore Riverfront Park
+table data/geo-heter/left	has	l 2026
+l 1294	name	Propel Charter School Homestead
+table data/geo-heter/left	has	l 993
+l 254	name	Mt. Lebanon Swim Center
+table data/geo-heter/left	has	l 2086
+l 2417	name	Triangle Urological Group
+l 2276	name	Keystone Oaks Middle School
+table data/geo-heter/left	has	l 294
+table data/geo-heter/left	has	l 1070
+l 1144	name	Bon Air
+l 2388	name	Kashi Jewelers
+l 1318	name	Dilworth Hall; Chatham University
+l 2003	name	Hillel Jewish University Center
+table data/geo-heter/left	has	l 204
+l 1223	name	Spoon
+table data/geo-heter/left	has	l 1740
+table data/geo-heter/left	has	l 129
+l 2023	name	Beulah Baptist Church
+table data/geo-heter/left	has	l 2057
+l 595	name	Hazelwood Green
+table data/geo-heter/left	has	l 174
+l 1122	name	inden Grove
+l 165	name	Stack'd Oakland
+l 237	name	Eat 'N Park
+l 980	name	llegheny General Hospital Lab
+table data/geo-heter/left	has	l 1037
+l 1177	name	Penn Station B
+l 498	name	Carnegie Library of Pittsburgh-Allegheny
+table data/geo-heter/left	has	l 2045
+table data/geo-heter/left	has	l 1187
+table data/geo-heter/left	has	l 936
+l 863	name	Mardis Gras
+l 1192	name	Homestead Borough Hall
+table data/geo-heter/left	has	l 1537
+table data/geo-heter/left	has	l 770
+table data/geo-heter/left	has	l 525
+table data/geo-heter/left	has	l 1305
+table data/geo-heter/left	has	l 52
+l 584	name	Tambellini Restaurant
+table data/geo-heter/left	has	l 2395
+table data/geo-heter/left	has	l 965
+l 246	name	Chatham Tower Condominium
+l 1241	name	Seran Auto Service
+table data/geo-heter/left	has	l 247
+table data/geo-heter/left	has	l 734
+l 2377	name	iberty Ave opp 9th St
+table data/geo-heter/left	has	l 1133
+l 652	name	Carmalt Science and Technology Elementary School
+l 2358	name	Sbarro
+l 542	name	Three Gateway Center
+table data/geo-heter/left	has	l 844
+l 1069	name	llegheny YMCA
+l 1696	name	Dollar Tree
+table data/geo-heter/left	has	l 469
+table data/geo-heter/left	has	l 2340
+table data/geo-heter/left	has	l 1395
+l 1992	name	Sunnyside Elementary School
+l 256	name	Heidelberg Borough Hall
+table data/geo-heter/left	has	l 1065
+l 449	name	Mt. Lebanon Floral
+table data/geo-heter/left	has	l 524
+l 148	name	ittle Giant Federal Credit Union
+l 1902	name	Homeville Elementary School
+table data/geo-heter/left	has	l 1023
+l 2196	name	Page Dairy Mart
+table data/geo-heter/left	has	l 881
+l 2112	name	Pamela's Diner
+table data/geo-heter/left	has	l 940
+l 2305	name	Caffe Mona la bistro
+table data/geo-heter/left	has	l 685
+table data/geo-heter/left	has	l 107
+table data/geo-heter/left	has	l 1766
+table data/geo-heter/left	has	l 1275
+l 2385	name	Dean Institute of Technology
+table data/geo-heter/left	has	l 1672
+l 336	name	Pittsburgh Technology Center
+l 1746	name	South Hills Post Office
+l 2158	name	Baldwin Pool
+l 2332	name	rnold's Tea
+table data/geo-heter/left	has	l 2434
+l 1666	name	Piskover Cemetery
+l 1137	name	Squirrel Hill Professional Building
+table data/geo-heter/left	has	l 1722
+l 1293	name	First United Methodist Church
+table data/geo-heter/left	has	l 1150
+l 1770	name	Concord Elementary School
+table data/geo-heter/left	has	l 437
+l 1601	name	iberty Ave at Smithfield St
+table data/geo-heter/left	has	l 237
+table data/geo-heter/left	has	l 2190
+table data/geo-heter/left	has	l 2414
+l 1491	name	Briarcliff Park
+table data/geo-heter/left	has	l 1291
+table data/geo-heter/left	has	l 2336
+table data/geo-heter/left	has	l 2131
+table data/geo-heter/left	has	l 1237
+l 1581	name	Penn Station
+l 511	name	Busy Beaver
+table data/geo-heter/left	has	l 2161
+table data/geo-heter/left	has	l 2006
+table data/geo-heter/left	has	l 917
+table data/geo-heter/left	has	l 842
+table data/geo-heter/left	has	l 199
+table data/geo-heter/left	has	l 2462
+l 327	name	Crawford Hall
+l 741	name	Thai Gourmet
+table data/geo-heter/left	has	l 4
+table data/geo-heter/left	has	l 384
+table data/geo-heter/left	has	l 600
+table data/geo-heter/left	has	l 2039
+table data/geo-heter/left	has	l 1014
+table data/geo-heter/left	has	l 2044
+table data/geo-heter/left	has	l 1629
+l 2160	name	The Humble Barber Company
+table data/geo-heter/left	has	l 1255
+table data/geo-heter/left	has	l 1758
+table data/geo-heter/left	has	l 257
+l 641	name	Kenny Ross Ford
+l 2197	name	Coffee Tree Roasters
+l 1544	name	Scoops On Beverly
+l 2321	name	Barrett Elementary School
+l 1016	name	The Waterfront Apartments
+table data/geo-heter/left	has	l 1947
+table data/geo-heter/left	has	l 1955
+table data/geo-heter/left	has	l 1912
+l 2204	name	River Front Park
+table data/geo-heter/left	has	l 1100
+table data/geo-heter/left	has	l 2015
+table data/geo-heter/left	has	l 2380
+l 1007	name	wrenceville's Smile Center
+table data/geo-heter/left	has	l 267
+l 1029	name	Scott Hall
+table data/geo-heter/left	has	l 1258
+l 1381	name	The Grub Hut
+l 1927	name	West Liberty Elementary School
+table data/geo-heter/left	has	l 761
+table data/geo-heter/left	has	l 417
+l 1065	name	Bernie's Photo Center
+table data/geo-heter/left	has	l 1831
+l 1598	name	Hollywood Theater
+l 1991	name	ctors Civic Theatre
+l 2351	name	Holiday Inn Express & Suites Pittsburgh North Shore
+table data/geo-heter/left	has	l 2463
+l 1775	name	Calvary Cemetery
+l 87	name	Neville Apartments
+table data/geo-heter/left	has	l 2164
+l 210	name	llegheny Court Bulding
+table data/geo-heter/left	has	l 1080
+table data/geo-heter/left	has	l 824
+l 382	name	llegheny West Center
+table data/geo-heter/left	has	l 2280
+table data/geo-heter/left	has	l 1893
+table data/geo-heter/left	has	l 362
+table data/geo-heter/left	has	l 1808
+table data/geo-heter/left	has	l 112
+table data/geo-heter/left	has	l 652
+table data/geo-heter/left	has	l 2082
+table data/geo-heter/left	has	l 95
+table data/geo-heter/left	has	l 1437
+table data/geo-heter/left	has	l 598
+table data/geo-heter/left	has	l 72
+table data/geo-heter/left	has	l 554
+l 1429	name	Roosevelt School
+l 921	name	Mount Lebanon Golf Course
+l 117	name	Saint James School
+table data/geo-heter/left	has	l 1928
+l 544	name	Warner Hall
+table data/geo-heter/left	has	l 528
+l 2241	name	Paris 66
+table data/geo-heter/left	has	l 90
+table data/geo-heter/left	has	l 674
+table data/geo-heter/left	has	l 269
+table data/geo-heter/left	has	l 1296
+l 415	name	llegheny General Hospital Professional Building
+l 168	name	Saint Simon and Jude
+table data/geo-heter/left	has	l 1644
+table data/geo-heter/left	has	l 228
+table data/geo-heter/left	has	l 207
+table data/geo-heter/left	has	l 197
+table data/geo-heter/left	has	l 1482
+table data/geo-heter/left	has	l 2030
+table data/geo-heter/left	has	l 2278
+l 1439	name	Dormont Police Department
+table data/geo-heter/left	has	l 1171
+table data/geo-heter/left	has	l 558
+l 991	name	Banksville Park Pool
+table data/geo-heter/left	has	l 109
+l 1622	name	U.S. Post Office and Courthouse
+table data/geo-heter/left	has	l 324
+l 1233	name	7th St past Penn Ave
+l 1532	name	lley View Presbyterian Church
+table data/geo-heter/left	has	l 1427
+table data/geo-heter/left	has	l 1642
+l 379	name	St. Paul Cathedral Rectory
+table data/geo-heter/left	has	l 806
+table data/geo-heter/left	has	l 80
+table data/geo-heter/left	has	l 75
+table data/geo-heter/left	has	l 124
+l 1010	name	Byzantine Seminary
+table data/geo-heter/left	has	l 20
+table data/geo-heter/left	has	l 1854
+table data/geo-heter/left	has	l 1048
+l 1979	name	Keystone Paralyzed Veterans of America
+l 1908	name	The Pitt Stop
+l 281	name	East Carnegie Park
+table data/geo-heter/left	has	l 2302
+l 1785	name	Zoe's Beer
+table data/geo-heter/left	has	l 556
+table data/geo-heter/left	has	l 2171
+l 2131	name	West Penn Laco
+l 665	name	Hotel Monaco Pittsburgh
+table data/geo-heter/left	has	l 853
+l 150	name	Bellefield Hall Swimming Pool
+table data/geo-heter/left	has	l 357
+table data/geo-heter/left	has	l 1417
+l 2441	name	Torch & Dagger Tattoo
+table data/geo-heter/left	has	l 1069
+table data/geo-heter/left	has	l 2443
+table data/geo-heter/left	has	l 1389
+table data/geo-heter/left	has	l 1730
+table data/geo-heter/left	has	l 149
+l 738	name	Spring Garden Elementary School
+table data/geo-heter/left	has	l 875
+l 1012	name	West Homestead Community Park
+table data/geo-heter/left	has	l 1977
+l 1136	name	Resonance Violins
+l 2208	name	Miller Funeral Home
+l 1510	name	Swissvale Baptist Church
+table data/geo-heter/left	has	l 2354
+table data/geo-heter/left	has	l 295
+l 873	name	East Liberty Station
+table data/geo-heter/left	has	l 1405
+table data/geo-heter/left	has	l 1779
+l 171	name	Pittsburgh Marriott City Center
+table data/geo-heter/left	has	l 1476
+l 2040	name	Bridgestreet The Encore on 7th
+table data/geo-heter/left	has	l 2298
+l 1980	name	Pittsburgh Sports Bar
+table data/geo-heter/left	has	l 2391
+table data/geo-heter/left	has	l 635
+table data/geo-heter/left	has	l 100
+table data/geo-heter/left	has	l 1894
+table data/geo-heter/left	has	l 874
+table data/geo-heter/left	has	l 388
+l 1892	name	utoshine
+table data/geo-heter/left	has	l 772
+l 971	name	Mullen's Bar & Grill
+l 1497	name	Palm Garden
+table data/geo-heter/left	has	l 2326
+table data/geo-heter/left	has	l 1553
+l 2025	name	New  Balance
+l 219	name	Five Star Dentistry
+table data/geo-heter/left	has	l 1591
+table data/geo-heter/left	has	l 1880
+l 1998	name	Frisch's Resturant
+l 352	name	Saint Joseph Cemetery
+l 1460	name	Baptist Temple Church
+l 1260	name	One PPG Place
+l 1796	name	sbury Heights
+l 904	name	Tower at PNC Plaza
+l 1441	name	Thai Spoon
+table data/geo-heter/left	has	l 1654
+l 371	name	Bouquet Gardens Building D
+l 230	name	ovely Hands
+table data/geo-heter/left	has	l 1834
+table data/geo-heter/left	has	l 916
+table data/geo-heter/left	has	l 1968
+l 571	name	banon House
+l 1376	name	Boulevard Generator
+l 1839	name	Starbuck's Coffee
+table data/geo-heter/left	has	l 166
+table data/geo-heter/left	has	l 1385
+l 312	name	Dees Cafe
+table data/geo-heter/left	has	l 1853
+l 1152	name	Days Inn Pittsburgh
+table data/geo-heter/left	has	l 724
+l 2393	name	Mandarin Gourmet
+l 386	name	Girl Scouts of Southwestern Pennsylvania
+table data/geo-heter/left	has	l 1908
+table data/geo-heter/left	has	l 2016
+l 1906	name	Sue Murray Swimming Pool
+table data/geo-heter/left	has	l 1002
+l 858	name	Simba Market
+table data/geo-heter/left	has	l 1785
+table data/geo-heter/left	has	l 1612
+table data/geo-heter/left	has	l 636
+l 1504	name	9th St at Penn Ave
+l 764	name	West End Park
+table data/geo-heter/left	has	l 2168
+l 1855	name	ZAP Solutions
+table data/geo-heter/left	has	l 819
+l 1494	name	Badamo's Pizza
+l 186	name	Warrington Recreation Center
+l 1585	name	bo Subs
+l 1480	name	Oakland Catholic Chapel
+l 1634	name	Duds 'n' Suds
+table data/geo-heter/left	has	l 549
+table data/geo-heter/left	has	l 2213
+table data/geo-heter/left	has	l 1501
+table data/geo-heter/left	has	l 1252
+l 2425	name	Saint Peters Cemetery
+l 1278	name	Espresso A Mano
+l 188	name	llegheny Station
+table data/geo-heter/left	has	l 1904
+table data/geo-heter/left	has	l 265
+table data/geo-heter/left	has	l 1523
+l 872	name	wyers Building
+table data/geo-heter/left	has	l 1194
+l 682	name	Bellevue Post Office
+table data/geo-heter/left	has	l 798
+table data/geo-heter/left	has	l 1867
+l 1781	name	Gumberg Library
+table data/geo-heter/left	has	l 1839
+table data/geo-heter/left	has	l 2276
+l 2313	name	Salk Pavillion
+table data/geo-heter/left	has	l 498
+l 936	name	Coppertops Pittsburgh
+l 1872	name	iberty Ave at Tito Way
+table data/geo-heter/left	has	l 1129
+l 984	name	Courthouse Tavern
+table data/geo-heter/left	has	l 1136
+l 285	name	Mellon Green
+l 1738	name	South Side Cemetery
+table data/geo-heter/left	has	l 2169
+table data/geo-heter/left	has	l 2206
+l 324	name	Giant Eagle Market District
+table data/geo-heter/left	has	l 354
+l 314	name	Northview Heights Elementary School
+l 1637	name	The Melting Pot
+l 15	name	Pittsburgh Renaissance
+table data/geo-heter/left	has	l 1036
+l 1398	name	Squirrel Hill Plaza
+l 496	name	UCP Community Service Center
+table data/geo-heter/left	has	l 1314
+l 144	name	Resolution Rentals
+table data/geo-heter/left	has	l 165
+table data/geo-heter/left	has	l 1463
+table data/geo-heter/left	has	l 2083
+table data/geo-heter/left	has	l 307
+l 630	name	Benedum Hall
+table data/geo-heter/left	has	l 1236
+table data/geo-heter/left	has	l 1469
+l 911	name	Il Pizzaiolo
+table data/geo-heter/left	has	l 1146
+l 1836	name	Calvary Episcopal Church
+l 99	name	ynn's Cafe
+table data/geo-heter/left	has	l 1276
+table data/geo-heter/left	has	l 1902
+l 1691	name	31st Street Bridge Ramp at 31st St Bridge
+table data/geo-heter/left	has	l 1746
+table data/geo-heter/left	has	l 1552
+table data/geo-heter/left	has	l 1198
+table data/geo-heter/left	has	l 2061
+table data/geo-heter/left	has	l 532
+table data/geo-heter/left	has	l 914
+l 1831	name	Blawnox Police Department
+l 2339	name	Morningside Elementary School (Closed)
+l 998	name	CA Castle Shannon Animal Hospital
+table data/geo-heter/left	has	l 2127
+table data/geo-heter/left	has	l 327
+table data/geo-heter/left	has	l 2110
+table data/geo-heter/left	has	l 866
+table data/geo-heter/left	has	l 725
+l 2261	name	Bellevue Diner
+l 1758	name	Paynter Elementary School
+l 1135	name	Power Center
+l 2167	name	s Getz Memorial Park
+table data/geo-heter/left	has	l 2346
+table data/geo-heter/left	has	l 1390
+table data/geo-heter/left	has	l 2093
+l 1574	name	Used Furniture Gallery
+table data/geo-heter/left	has	l 1107
+l 1620	name	Pork & Beans
+l 1097	name	Scaife Hall
+l 1923	name	Shop N Save
+l 1154	name	Duquesne University Chapel
+l 681	name	Thai Cuisine
+l 1269	name	illage Park
+table data/geo-heter/left	has	l 670
+table data/geo-heter/left	has	l 2214
+l 1900	name	Wylie Post Office
+l 1161	name	ce's Tavern
+l 1850	name	Epiphany Church
+table data/geo-heter/left	has	l 371
+table data/geo-heter/left	has	l 1196
+l 853	name	Evaline Lutheran Church
+table data/geo-heter/left	has	l 251
+table data/geo-heter/left	has	l 2314
+table data/geo-heter/left	has	l 2327
+l 1880	name	East Ohio St opp Union Ave
+table data/geo-heter/left	has	l 1331
+l 956	name	Brentwood Borough Building
+table data/geo-heter/left	has	l 198
+table data/geo-heter/left	has	l 2042
+table data/geo-heter/left	has	l 2252
+l 1363	name	Fort Pitt Commons
+table data/geo-heter/left	has	l 2005
+table data/geo-heter/left	has	l 997
+l 2256	name	Walnut Place
+table data/geo-heter/left	has	l 1725
+l 549	name	Schenley High School
+table data/geo-heter/left	has	l 1717
+table data/geo-heter/left	has	l 1541
+l 2118	name	Cogos
+table data/geo-heter/left	has	l 514
+l 1703	name	Yeshiva School
+l 2000	name	Kraynick's
+table data/geo-heter/left	has	l 2027
+table data/geo-heter/left	has	l 620
+table data/geo-heter/left	has	l 1441
+table data/geo-heter/left	has	l 1576
+l 647	name	Sweeney's Irish Pub
+l 600	name	Pesaro's Pizza
+l 1072	name	Pittsburgh Classical Academy Library
+table data/geo-heter/left	has	l 1051
+table data/geo-heter/left	has	l 2108
+l 1628	name	Rex Theatre
+l 1182	name	The Celtic Cross
+table data/geo-heter/left	has	l 436
+l 1242	name	Brookline Plumber
+table data/geo-heter/left	has	l 991
+l 1784	name	KeyBank
+table data/geo-heter/left	has	l 1849
+l 841	name	Rainbow
+table data/geo-heter/left	has	l 494
+l 838	name	oafers Bread Company
+table data/geo-heter/left	has	l 1024
+table data/geo-heter/left	has	l 410
+l 1085	name	The Priory
+table data/geo-heter/left	has	l 2130
+l 1281	name	iberty Ave at 7th Street
+l 546	name	University Technology Development Center
+l 1215	name	Hillel Academy of Pittsburgh
+l 1539	name	James Laughlin Music Hall
+l 2462	name	1905 Eatery
+table data/geo-heter/left	has	l 221
+l 698	name	River Vue
+table data/geo-heter/left	has	l 578
+l 1590	name	Mercy Behavioral Health
+l 1894	name	Our Savior Lutheran Church
+l 645	name	gelia's Italian Grille
+l 1724	name	Renaissance Center
+table data/geo-heter/left	has	l 605
+l 2232	name	Woodhill Park
+table data/geo-heter/left	has	l 2417
+table data/geo-heter/left	has	l 745
+l 2333	name	PNC Investor Center
+table data/geo-heter/left	has	l 1262
+l 506	name	Carnegie Public Library Brooline
+table data/geo-heter/left	has	l 1466
+table data/geo-heter/left	has	l 67
+l 1859	name	Destination XL
+l 879	name	DiSilvas Pizzeria
+table data/geo-heter/left	has	l 941
+l 1897	name	Izzazu Salon & Spa
+table data/geo-heter/left	has	l 1398
+table data/geo-heter/left	has	l 1630
+l 2161	name	Thai Tamarind
+table data/geo-heter/left	has	l 2316
+l 130	name	Beatty House
+l 2288	name	ife Science Annex
+table data/geo-heter/left	has	l 1153
+l 1105	name	Bellevue Gables Apartments
+table data/geo-heter/left	has	l 44
+l 1082	name	Green Front Inn
+l 908	name	Hilton Garden Inn Pittsburgh Downtown
+table data/geo-heter/left	has	l 1038
+table data/geo-heter/left	has	l 1564
+l 1677	name	Smith Hall
+l 1951	name	Cesaroli Pizza
+l 1426	name	Pittsburgh Bureau of Police
+table data/geo-heter/left	has	l 1028
+table data/geo-heter/left	has	l 1263
+l 2137	name	ocelli Pizza
+table data/geo-heter/left	has	l 654
+table data/geo-heter/left	has	l 1900
+l 514	name	Bayer Hall
+table data/geo-heter/left	has	l 1669
+table data/geo-heter/left	has	l 1251
+table data/geo-heter/left	has	l 2152
+table data/geo-heter/left	has	l 2448
+l 1282	name	valon Mart
+table data/geo-heter/left	has	l 2286
+l 1188	name	I Tea Cafe
+table data/geo-heter/left	has	l 568
+table data/geo-heter/left	has	l 346
+table data/geo-heter/left	has	l 2267
+table data/geo-heter/left	has	l 1632
+l 930	name	Don Campiti's Pizzeria
+l 1459	name	Evergreen Ave at David St
+l 1852	name	Italian Village Pizza
+table data/geo-heter/left	has	l 167
+table data/geo-heter/left	has	l 25
+l 1568	name	IP Styles
+l 1018	name	Rankin Boulevard at Hawkins
+table data/geo-heter/left	has	l 1468
+l 265	name	Tunnel Park
+table data/geo-heter/left	has	l 1140
+l 1877	name	Classic Lines
+l 535	name	Dormont Elementary
+l 1322	name	Department of Public Works
+table data/geo-heter/left	has	l 2024
+table data/geo-heter/left	has	l 1085
+table data/geo-heter/left	has	l 1997
+table data/geo-heter/left	has	l 1300
+table data/geo-heter/left	has	l 282
+table data/geo-heter/left	has	l 2424
+l 578	name	SubMed Cafe
+l 1834	name	Grandview Ave at Cohassett St
+table data/geo-heter/left	has	l 2163
+l 986	name	First Presbyterian Church
+l 983	name	Jennie King Mellon Library
+table data/geo-heter/left	has	l 1668
+table data/geo-heter/left	has	l 1270
+table data/geo-heter/left	has	l 216
+l 2302	name	lbright United Methodist Church
+table data/geo-heter/left	has	l 2231
+table data/geo-heter/left	has	l 1625
+table data/geo-heter/left	has	l 1671
+l 1665	name	Jack's Bar
+table data/geo-heter/left	has	l 213
+table data/geo-heter/left	has	l 2437
+table data/geo-heter/left	has	l 394
+table data/geo-heter/left	has	l 1285
+l 2067	name	City of Pittsburgh River Safety Center
+l 1974	name	Walton United Methodist Church
+table data/geo-heter/left	has	l 385
+l 2134	name	Beth El Congregation
+table data/geo-heter/left	has	l 288
+table data/geo-heter/left	has	l 996
+table data/geo-heter/left	has	l 567
+l 823	name	Hi-Tech Auto Care
+table data/geo-heter/left	has	l 1950
+l 440	name	Tn Lc Vin
+table data/geo-heter/left	has	l 1616
+table data/geo-heter/left	has	l 273
+l 1196	name	Semple School
+table data/geo-heter/left	has	l 463
+l 569	name	Sawyer School Learning Resources Center
+table data/geo-heter/left	has	l 1278
+l 2464	name	Philip Pelusi Salon
+table data/geo-heter/left	has	l 1000
+l 1615	name	Penn Aiken Dairy
+table data/geo-heter/left	has	l 509
+table data/geo-heter/left	has	l 404
+table data/geo-heter/left	has	l 2181
+l 625	name	Fox Chapel Plaza
+table data/geo-heter/left	has	l 68
+l 2260	name	rican Buyer's Discount Mattress
+table data/geo-heter/left	has	l 1971
+l 1737	name	Kelly Elementary School Library
+l 161	name	The Allegheny Inn
+table data/geo-heter/left	has	l 956
+l 286	name	Four Gateway Center
+table data/geo-heter/left	has	l 1889
+l 2419	name	Chipotle Mexican Grill
+l 1276	name	North Ave at Klopfer St
+l 1068	name	Pittsburgh Community Services
+table data/geo-heter/left	has	l 2266
+l 2338	name	Cafe Du Jour
+l 575	name	Schenley House
+table data/geo-heter/left	has	l 1545
+l 1502	name	Meadowcroft Park
+table data/geo-heter/left	has	l 642
+table data/geo-heter/left	has	l 2439
+l 1482	name	Station Square
+l 1802	name	lberta Modern Hair
+l 410	name	Minadeo Elementary School
+table data/geo-heter/left	has	l 2149
+l 968	name	Family Visions
+table data/geo-heter/left	has	l 959
+l 794	name	Southside Works Cinema
+l 26	name	Foster Plaza 6
+table data/geo-heter/left	has	l 921
+l 1534	name	Willow
+table data/geo-heter/left	has	l 287
+table data/geo-heter/left	has	l 1737
+l 1843	name	West Liberty Cycles
+l 965	name	Jet's Pizza
+table data/geo-heter/left	has	l 835
+l 827	name	Quantum Theatre
+table data/geo-heter/left	has	l 485
+table data/geo-heter/left	has	l 617
+table data/geo-heter/left	has	l 402
+table data/geo-heter/left	has	l 1688
+l 360	name	Point Park University - Academic Hall
+l 469	name	The Pitt Shop
+l 607	name	Sampo Distributors; Inc.
+table data/geo-heter/left	has	l 2303
+l 1778	name	OTB Bicycle Caf
+l 1341	name	Troy Hill Citizens Park
+l 102	name	lumni House
+l 118	name	UPMC Saint Margaret
+l 1506	name	Exxon
+l 609	name	Shady Side Academy Junior School
+l 1884	name	Clearview Federal Credit Union
+l 2187	name	ugust Wilson House
+l 629	name	Biomedical Science Tower III
+table data/geo-heter/left	has	l 35
+l 2336	name	Eye Gotcha
+table data/geo-heter/left	has	l 1525
+table data/geo-heter/left	has	l 753
+l 1630	name	Easter Seal Society of Western Pennsylvania
+l 80	name	derson Dining Hall
+table data/geo-heter/left	has	l 6
+table data/geo-heter/left	has	l 1836
+table data/geo-heter/left	has	l 1704
+l 1814	name	Tribute to Children
+l 479	name	Millvale Diner
+table data/geo-heter/left	has	l 1865
+l 1328	name	The Smiling Moose
+table data/geo-heter/left	has	l 1363
+l 1950	name	lpha House; Inc.
+table data/geo-heter/left	has	l 1689
+table data/geo-heter/left	has	l 1598
+table data/geo-heter/left	has	l 93
+table data/geo-heter/left	has	l 727
+l 864	name	Brookline Elementary School Library
+table data/geo-heter/left	has	l 1039
+table data/geo-heter/left	has	l 2126
+table data/geo-heter/left	has	l 999
+l 1279	name	Saint John of God Parish
+l 1213	name	Suntan Seeders
+table data/geo-heter/left	has	l 795
+l 158	name	Swanson School of Engineering
+l 2307	name	Crazy Mocha
+l 820	name	Glenwood Yard
+table data/geo-heter/left	has	l 1996
+l 2281	name	Fourth Avenue Post Office
+l 1315	name	Pizza Palermo
+l 262	name	Carnegie
+l 318	name	Qdoba Mexican Grill
+l 1140	name	Pandora's Box and Gallery
+table data/geo-heter/left	has	l 2377
+l 679	name	Schwartz Living Market
+l 185	name	One PNC Plaza
+table data/geo-heter/left	has	l 1558
+l 760	name	Park Circle Motors
+l 2361	name	Uncle Sam's Sandwich Bar
+table data/geo-heter/left	has	l 1500
+l 1470	name	Troy Hill Playground
+table data/geo-heter/left	has	l 1929
+table data/geo-heter/left	has	l 561
+table data/geo-heter/left	has	l 2383
+table data/geo-heter/left	has	l 293
+l 1754	name	Our Lady Queen of Peace
+table data/geo-heter/left	has	l 2358
+table data/geo-heter/left	has	l 828
+l 688	name	Grow Pittsburgh Garden Resource Center
+l 126	name	Heritage Place
+table data/geo-heter/left	has	l 2440
+table data/geo-heter/left	has	l 639
+l 1464	name	Crafton
+l 2381	name	BP
+l 2043	name	Original Gyro
+table data/geo-heter/left	has	l 2381
+table data/geo-heter/left	has	l 2449
+l 552	name	Constellation Coffee
+l 1679	name	Friendship Suites
+table data/geo-heter/left	has	l 1905
+l 1711	name	Calabria's
+l 1164	name	Fiori's Pizzaria
+table data/geo-heter/left	has	l 297
+l 2227	name	Homeville Elementary School Library
+l 1226	name	ictory Building
+table data/geo-heter/left	has	l 560
+l 1562	name	Northside Catholic School
+table data/geo-heter/left	has	l 1715
+table data/geo-heter/left	has	l 2323
+table data/geo-heter/left	has	l 631
+l 166	name	Foster Plaza 10
+table data/geo-heter/left	has	l 1774
+table data/geo-heter/left	has	l 1396
+l 548	name	General Dentistry
+table data/geo-heter/left	has	l 2318
+l 1595	name	Margaret Morrison Carnegie Hall
+l 1498	name	Friendship Park
+table data/geo-heter/left	has	l 1424
+l 859	name	Frick Building
+table data/geo-heter/left	has	l 790
+table data/geo-heter/left	has	l 1677
+table data/geo-heter/left	has	l 2408
+table data/geo-heter/left	has	l 1271
+l 2379	name	Scheaffer Traditional A Elementary School
+l 2110	name	Epilepsy Foundation of Western Pennsylvania
+table data/geo-heter/left	has	l 1098
+table data/geo-heter/left	has	l 848
+table data/geo-heter/left	has	l 774
+l 2068	name	South Hills Country Club
+l 987	name	The Bagel Factory
+table data/geo-heter/left	has	l 1254
+table data/geo-heter/left	has	l 1408
+l 196	name	Key Bank
+table data/geo-heter/left	has	l 1883
+l 1646	name	s Palmas Carniceria
+table data/geo-heter/left	has	l 1103
+table data/geo-heter/left	has	l 1624
+table data/geo-heter/left	has	l 1418
+table data/geo-heter/left	has	l 368
+table data/geo-heter/left	has	l 501
+table data/geo-heter/left	has	l 2375
+table data/geo-heter/left	has	l 779
+table data/geo-heter/left	has	l 1191
+l 934	name	Club Erotica Gentleman's Club
+l 1345	name	Copies at Carson
+table data/geo-heter/left	has	l 491
+table data/geo-heter/left	has	l 1653
+l 1619	name	Fine Wine and Good Spirits
+table data/geo-heter/left	has	l 1001
+table data/geo-heter/left	has	l 1242
+l 88	name	King's Family Restaurant
+table data/geo-heter/left	has	l 1185
+l 309	name	UPMC Shadyside
+l 355	name	Bellefield Place Garage
+table data/geo-heter/left	has	l 1582
+l 719	name	Bloomfield Post Office
+table data/geo-heter/left	has	l 2304
+table data/geo-heter/left	has	l 1675
+table data/geo-heter/left	has	l 2312
+table data/geo-heter/left	has	l 1095
+table data/geo-heter/left	has	l 1164
+table data/geo-heter/left	has	l 983
+table data/geo-heter/left	has	l 1975
+l 1100	name	Pizza Bellino's
+l 492	name	South Side High School
+table data/geo-heter/left	has	l 499
+table data/geo-heter/left	has	l 1892
+table data/geo-heter/left	has	l 1496
+l 1162	name	ce Cash Express
+l 565	name	Shadyside Market and Deli
+table data/geo-heter/left	has	l 1723
+l 280	name	Pittsburgh Action Against Rape
+table data/geo-heter/left	has	l 1594
+l 2105	name	Woolslair Elementary School
+table data/geo-heter/left	has	l 671
+l 1032	name	Bouquet Gardens Building A
+table data/geo-heter/left	has	l 960
+l 500	name	Penn Station A
+table data/geo-heter/left	has	l 1032
+table data/geo-heter/left	has	l 1336
+table data/geo-heter/left	has	l 1199
+l 2308	name	DePaul Institute
+table data/geo-heter/left	has	l 1115
+table data/geo-heter/left	has	l 1826
+l 2036	name	Potomac
+table data/geo-heter/left	has	l 1207
+table data/geo-heter/left	has	l 203
+table data/geo-heter/left	has	l 1361
+table data/geo-heter/left	has	l 244
+table data/geo-heter/left	has	l 692
+l 1932	name	Motor Square Garden
+l 788	name	Prince of Peace
+l 2223	name	The Big Easy Animal Hospital
+table data/geo-heter/left	has	l 1842
+l 477	name	Wean Hall
+table data/geo-heter/left	has	l 829
+l 335	name	Boston Market
+table data/geo-heter/left	has	l 2018
+table data/geo-heter/left	has	l 2460
+table data/geo-heter/left	has	l 621
+l 1030	name	Dance America!
+l 727	name	Salon Uzori
+table data/geo-heter/left	has	l 2107
+table data/geo-heter/left	has	l 737
+l 1445	name	Guys & Dolls Salon
+table data/geo-heter/left	has	l 1860
+table data/geo-heter/left	has	l 92
+table data/geo-heter/left	has	l 421
+table data/geo-heter/left	has	l 481
+l 1726	name	T Caf
+table data/geo-heter/left	has	l 1800
+table data/geo-heter/left	has	l 2227
+table data/geo-heter/left	has	l 299
+table data/geo-heter/left	has	l 1474
+l 1986	name	PNC Firstside Center
+table data/geo-heter/left	has	l 535
+table data/geo-heter/left	has	l 739
+l 646	name	Seton Lasalle High School
+l 1094	name	Style Exchange Boutique
+l 1405	name	Mt. Lebanon Recreation Center
+l 599	name	Scarpaci's Place
+table data/geo-heter/left	has	l 459
+table data/geo-heter/left	has	l 1946
+table data/geo-heter/left	has	l 796
+l 347	name	Carnegie Mellon University
+l 20	name	Courtyard by Marriott Pittsburgh Shadyside
+table data/geo-heter/left	has	l 1820
+l 366	name	Epiphany Association
+table data/geo-heter/left	has	l 152
+l 1350	name	Mount Washington Post Office
+table data/geo-heter/left	has	l 2263
+table data/geo-heter/left	has	l 118
+l 1387	name	ittle Tokyo
+table data/geo-heter/left	has	l 952
+l 1858	name	The Doughboy
+l 1895	name	Jade Grille
+table data/geo-heter/left	has	l 471
+l 209	name	Uptown Coffee
+table data/geo-heter/left	has	l 1407
+table data/geo-heter/left	has	l 254
+table data/geo-heter/left	has	l 1076
+table data/geo-heter/left	has	l 1753
+table data/geo-heter/left	has	l 1924
+table data/geo-heter/left	has	l 304
+l 757	name	Gateway Center Park
+table data/geo-heter/left	has	l 285
+table data/geo-heter/left	has	l 196
+table data/geo-heter/left	has	l 1518
+l 1490	name	Extended Stay America - Pittsburgh - Carnegie
+table data/geo-heter/left	has	l 1374
+l 781	name	University School
+l 649	name	Wood Street Galleries
+l 25	name	Bellevue Tobacco
+table data/geo-heter/left	has	l 566
+l 1551	name	Shop 'n Save
+l 1919	name	Braddock Hills Shopping Center
+l 2069	name	Pittsburgh Valet
+table data/geo-heter/left	has	l 2331
+l 525	name	Foster Plaza 8
+table data/geo-heter/left	has	l 2284
+l 50	name	Donner House
+table data/geo-heter/left	has	l 651
+l 480	name	Olive & Marlowe
+table data/geo-heter/left	has	l 2029
+table data/geo-heter/left	has	l 1143
+l 356	name	Enright Parklet
+table data/geo-heter/left	has	l 1797
+l 1004	name	Thomas Jefferson Middle School Library
+table data/geo-heter/left	has	l 2255
+l 1914	name	Two PPG Place
+table data/geo-heter/left	has	l 1919
+l 1723	name	Oriole Cleaners
+l 871	name	T&T Building
+table data/geo-heter/left	has	l 930
+l 1290	name	Northgate Church
+table data/geo-heter/left	has	l 2182
+l 769	name	Oakland Square
+table data/geo-heter/left	has	l 2022
+l 2359	name	South Busway at Station Square
+l 1875	name	ily Baptist Church
+table data/geo-heter/left	has	l 860
+l 322	name	be. Salon
+table data/geo-heter/left	has	l 29
+l 68	name	University Center
+l 1297	name	Cappy's Cafe
+l 395	name	Magee Community Recreation Center
+l 1560	name	Coldstone Creamery
+table data/geo-heter/left	has	l 226
+table data/geo-heter/left	has	l 1990
+l 1753	name	Wyndham Grand Pittsburgh Downtown
+table data/geo-heter/left	has	l 1731
+l 2290	name	Gillece Transmissions
+l 796	name	Paul's Motor Car Service
+l 4	name	Bellefield Presbyterian Church
+table data/geo-heter/left	has	l 1751
+l 1015	name	Rand Building
+table data/geo-heter/left	has	l 55
+l 1057	name	The Galleria of Mt. Lebanon
+table data/geo-heter/left	has	l 1855
+table data/geo-heter/left	has	l 2119
+table data/geo-heter/left	has	l 1643
+table data/geo-heter/left	has	l 2096
+table data/geo-heter/left	has	l 586
+table data/geo-heter/left	has	l 1494
+l 343	name	Moore Park
+table data/geo-heter/left	has	l 2360
+table data/geo-heter/left	has	l 837
+l 635	name	Nova Place
+l 510	name	Dave's Music Mine
+table data/geo-heter/left	has	l 1486
+l 1521	name	Soldier's and Sailor's Lawn
+l 1626	name	Cathedral Lawn
+l 199	name	DePaul School for Hearing and Speech Library
+table data/geo-heter/left	has	l 1565
+l 2107	name	Spring Hill Elementary School
+l 1250	name	Bouquet Gardens Building E
+table data/geo-heter/left	has	l 903
+l 311	name	The Warhol Cafe
+l 644	name	Polish Hill Wiggins Community Garden
+l 436	name	Kelton Elementary School
+table data/geo-heter/left	has	l 518
+table data/geo-heter/left	has	l 742
+l 2141	name	Rankin Police Department
+table data/geo-heter/left	has	l 103
+l 733	name	llegheny County Garage
+table data/geo-heter/left	has	l 1776
+l 2191	name	Olympia Park
+table data/geo-heter/left	has	l 1636
+table data/geo-heter/left	has	l 106
+l 1054	name	Quality Inn University Center
+table data/geo-heter/left	has	l 426
+l 657	name	Carolyn Dorsey Agency; Inc.
+table data/geo-heter/left	has	l 1852
+table data/geo-heter/left	has	l 1370
+l 1320	name	Gateway View Plaza
+table data/geo-heter/left	has	l 1004
+table data/geo-heter/left	has	l 1364
+l 507	name	Elks Lodge
+l 2455	name	Wayne's Auto Body
+table data/geo-heter/left	has	l 919
+l 2353	name	Roberts Engineering Hall
+table data/geo-heter/left	has	l 2179
+table data/geo-heter/left	has	l 928
+l 2108	name	21st Street Coffee and Tea
+l 2366	name	The Inn on Mexican War Streets
+table data/geo-heter/left	has	l 839
+l 1178	name	Hamilton Park
+table data/geo-heter/left	has	l 2422
+l 278	name	Murray Avenue News & Toys
+l 942	name	3 Rivers Restaurant
+table data/geo-heter/left	has	l 811
+l 2063	name	Pittsburgh Athletic Association
+table data/geo-heter/left	has	l 1769
+l 1442	name	Saint Basils Church
+l 1988	name	Magee Playground
+table data/geo-heter/left	has	l 582
+table data/geo-heter/left	has	l 1992
+table data/geo-heter/left	has	l 2148
+table data/geo-heter/left	has	l 1059
+table data/geo-heter/left	has	l 2067
+l 1984	name	Mr. Smalls Fun House
+table data/geo-heter/left	has	l 316
+l 1928	name	Bangkok Balcony
+table data/geo-heter/left	has	l 343
+table data/geo-heter/left	has	l 986
+l 172	name	Chabad of the South Hills
+l 18	name	Pittsburgh News
+table data/geo-heter/left	has	l 2087
+table data/geo-heter/left	has	l 1614
+l 213	name	Pristine Auto Sales
+table data/geo-heter/left	has	l 179
+l 1913	name	Jupe Boutique
+table data/geo-heter/left	has	l 665
+table data/geo-heter/left	has	l 1773
+table data/geo-heter/left	has	l 822
+l 1197	name	The Book Center
+l 2216	name	Carnegie Library of Pittsburgh
+table data/geo-heter/left	has	l 2384
+l 1969	name	rlington Recreation Center
+table data/geo-heter/left	has	l 1173
+l 1176	name	The Andy Warhol Museum
+l 274	name	Cheveron Science Center
+l 1515	name	Bedford Hill Apartments
+l 1256	name	Suds 'n' Subs
+table data/geo-heter/left	has	l 211
+l 2058	name	Pioneer Education Center
+table data/geo-heter/left	has	l 625
+l 1193	name	Dunseith Playground
+table data/geo-heter/left	has	l 1042
+l 1865	name	Homewood Post Office
+table data/geo-heter/left	has	l 261
+table data/geo-heter/left	has	l 542
+l 1876	name	West Mifflin Community Park
+table data/geo-heter/left	has	l 1941
+l 1632	name	Bellevue Beer
+table data/geo-heter/left	has	l 1324
+table data/geo-heter/left	has	l 1782
+table data/geo-heter/left	has	l 1787
+table data/geo-heter/left	has	l 904
+table data/geo-heter/left	has	l 1415
+l 9	name	Shadyside Plaza
+l 1963	name	Three PNC Plaza
+l 1509	name	Bed Bath & Beyond
+table data/geo-heter/left	has	l 1126
+table data/geo-heter/left	has	l 1939
+table data/geo-heter/left	has	l 676
+table data/geo-heter/left	has	l 2113
+l 2142	name	Saint Elizabeth Ann Seton Parish Administratve Center
+l 1941	name	The Medicine Shoppe
+l 2245	name	Cathedral of Learning
+l 473	name	Rea House
+l 1903	name	Ephesus Mediterranean Kitchen
+l 1020	name	Sultan Bey
+table data/geo-heter/left	has	l 135
+l 1067	name	Fort Pitt Flag Bastion
+l 2363	name	Bellevue Speed Wash
+table data/geo-heter/left	has	l 736
+table data/geo-heter/left	has	l 793
+table data/geo-heter/left	has	l 2118
+l 1138	name	Pennsylvania Hall
+table data/geo-heter/left	has	l 2132
+l 453	name	West Wing
+l 2436	name	Space Research Coordination Center
+table data/geo-heter/left	has	l 697
+l 2109	name	Sharpsburg Volunteer Fire Department
+l 2447	name	Korean War Veterans Memorial
+table data/geo-heter/left	has	l 2311
+table data/geo-heter/left	has	l 1652
+l 1351	name	irginia Manor Shops
+table data/geo-heter/left	has	l 1767
+l 810	name	Brentwood Bank
+l 1742	name	Giant Eagle Pharmacy
+table data/geo-heter/left	has	l 1181
+l 842	name	Dave and Andy's
+table data/geo-heter/left	has	l 2055
+table data/geo-heter/left	has	l 159
+l 284	name	Third Presbyterian Church
+table data/geo-heter/left	has	l 133
+l 2406	name	Carnegie Library of Pittsburgh Squirrel Hill
+table data/geo-heter/left	has	l 2357
+l 678	name	Pleasure Bar
+table data/geo-heter/left	has	l 146
+table data/geo-heter/left	has	l 396
+table data/geo-heter/left	has	l 305
+l 1128	name	Pittsburgh Downtown Branch Library
+table data/geo-heter/left	has	l 1882
+l 85	name	Foster Plaza
+table data/geo-heter/left	has	l 91
+table data/geo-heter/left	has	l 748
+l 978	name	Primanti Brothers
+l 353	name	Panther Statue
+table data/geo-heter/left	has	l 1141
+l 1804	name	National City Bank
+table data/geo-heter/left	has	l 195
+table data/geo-heter/left	has	l 2402
+l 1774	name	Kenny's Nail Center
+l 622	name	Wabash Post Office
+l 2433	name	Route 51 Quick Cash
+l 2411	name	Kelly's Dry Ice
+l 1720	name	Grace Episcopal Church
+table data/geo-heter/left	has	l 645
+l 2033	name	McCormick Hall
+l 1546	name	FedEx Office Print and Ship Center
+table data/geo-heter/left	has	l 1209
+l 2347	name	Beggs-Snyder Park
+table data/geo-heter/left	has	l 1569
+table data/geo-heter/left	has	l 2452
+table data/geo-heter/left	has	l 948
+l 1545	name	Edgebrook Veterinary Clinic
+table data/geo-heter/left	has	l 1570
+table data/geo-heter/left	has	l 2102
+table data/geo-heter/left	has	l 863
+table data/geo-heter/left	has	l 111
+l 248	name	incent's Pizza
+table data/geo-heter/left	has	l 743
+table data/geo-heter/left	has	l 108
+table data/geo-heter/left	has	l 2220
+l 958	name	Mt. Lebanon Public Works Yard
+l 661	name	io Deli and Caf
+table data/geo-heter/left	has	l 975
+table data/geo-heter/left	has	l 1590
+l 2427	name	Mad Mex
+table data/geo-heter/left	has	l 1901
+table data/geo-heter/left	has	l 2151
+l 1413	name	Saint Edmunds Academy
+l 182	name	Braddock's American Brasserie
+table data/geo-heter/left	has	l 2436
+l 1472	name	Castle Shannon
+l 1180	name	The Commonplace Coffeehouse
+l 831	name	Scobell House
+table data/geo-heter/left	has	l 495
+table data/geo-heter/left	has	l 2428
+l 462	name	Electric Garage
+table data/geo-heter/left	has	l 1448
+l 1	name	North Ave at Lincoln Ave
+l 730	name	John Heinz Pittsburgh Regional History Center
+l 2382	name	Mezza Grill 663
+l 1845	name	CoGo's
+l 1220	name	Cost Sports Center
+l 1638	name	Norwood Inn
+l 1552	name	King Estate Park
+l 1125	name	Shadyside Variety Store
+l 522	name	Polish Hill Community Garden
+table data/geo-heter/left	has	l 1182
+table data/geo-heter/left	has	l 503
+table data/geo-heter/left	has	l 593
+table data/geo-heter/left	has	l 2095
+table data/geo-heter/left	has	l 2106
+l 948	name	Curran Hall
+table data/geo-heter/left	has	l 1202
+l 1962	name	WS Vending Machine Co
+l 801	name	Wyndham Pittsburgh University Center
+table data/geo-heter/left	has	l 1606
+table data/geo-heter/left	has	l 857
+l 1541	name	61c Caf
+l 1654	name	Ninja Entertainment
+table data/geo-heter/left	has	l 390
+l 183	name	Mellon Square
+l 1347	name	Oxford Building
+table data/geo-heter/left	has	l 653
+l 828	name	The Cut
+l 1537	name	Comfort Inn & Suites
+l 1300	name	Smithfield Outlet on Forbes
+l 1983	name	Frederick J. Osterling Office and Studio
+l 2218	name	UPS Store
+table data/geo-heter/left	has	l 1261
+l 2051	name	Coldwell Banker
+table data/geo-heter/left	has	l 763
+l 1835	name	Weldin's
+table data/geo-heter/left	has	l 1232
+table data/geo-heter/left	has	l 1346
+l 945	name	Concordia Lutheran Church
+l 662	name	Saint Anne School
+l 907	name	Bower Hill Community Church
+l 1476	name	Doce Taqueria
+table data/geo-heter/left	has	l 336
+l 468	name	Burke Building
+table data/geo-heter/left	has	l 1648
+table data/geo-heter/left	has	l 117
+l 557	name	Rivertowne North Shore
+table data/geo-heter/left	has	l 60
+l 1101	name	Nazareth Baptist Church
+table data/geo-heter/left	has	l 575
+table data/geo-heter/left	has	l 250
+table data/geo-heter/left	has	l 1419
+l 2220	name	Covenant Fellowship Church
+table data/geo-heter/left	has	l 36
+table data/geo-heter/left	has	l 42
+l 1143	name	The Garage
+table data/geo-heter/left	has	l 218
+l 1864	name	5 Generation Bakers
+l 799	name	Zeke's Coffee
+l 2426	name	Elm Leaf Park
+table data/geo-heter/left	has	l 1718
+l 951	name	West Liberty Elementary School Library
+table data/geo-heter/left	has	l 162
+table data/geo-heter/left	has	l 512
+table data/geo-heter/left	has	l 2253
+table data/geo-heter/left	has	l 1618
+table data/geo-heter/left	has	l 453
+table data/geo-heter/left	has	l 768
+l 1437	name	Weil Elementary School Library
+l 132	name	The Modern Cafe
+table data/geo-heter/left	has	l 1514
+l 1253	name	Cheesecake Factory
+table data/geo-heter/left	has	l 178
+l 1076	name	North Shore Endoscopy
+table data/geo-heter/left	has	l 1206
+table data/geo-heter/left	has	l 1799
+table data/geo-heter/left	has	l 1749
+l 1453	name	Dormont Municipal Center
+table data/geo-heter/left	has	l 1130
+l 2365	name	Brashear High School
+l 2133	name	New Emerson Elementary School Library
+table data/geo-heter/left	has	l 2292
+table data/geo-heter/left	has	l 1388
+table data/geo-heter/left	has	l 1186
+table data/geo-heter/left	has	l 71
+table data/geo-heter/left	has	l 1741
+l 1501	name	Kingdom Hall of Jehovahs Witnesses
+table data/geo-heter/left	has	l 2141
+l 1292	name	3 Brothers Plumbing & Heating Supplies
+l 2201	name	Wood St at Third Ave
+l 321	name	Pittsburgh Fish & Chicken
+l 832	name	The Corner
+table data/geo-heter/left	has	l 2138
+table data/geo-heter/left	has	l 740
+l 1248	name	Bluebird Kitchen
+table data/geo-heter/left	has	l 898
+l 1414	name	Prince of India Restaurant
+table data/geo-heter/left	has	l 2368
+table data/geo-heter/left	has	l 947
+l 2181	name	Reformed Presbyterian Church of North America
+table data/geo-heter/left	has	l 411
+table data/geo-heter/left	has	l 2451
+l 2467	name	Baum Grove
+l 238	name	Homewood Cemetery
+table data/geo-heter/left	has	l 419
+table data/geo-heter/left	has	l 1428
+table data/geo-heter/left	has	l 414
+table data/geo-heter/left	has	l 1222
+table data/geo-heter/left	has	l 957
+l 1302	name	City of Asylum
+l 2420	name	Paw Spa
+l 1650	name	Pittsburgh Montessori School
+l 1937	name	Professional Office Building
+table data/geo-heter/left	has	l 506
+l 1699	name	Environmental Charter School
+table data/geo-heter/left	has	l 2467
+table data/geo-heter/left	has	l 2265
+table data/geo-heter/left	has	l 430
+l 632	name	BeehIve Coffee
+l 1271	name	Public Safety Center
+table data/geo-heter/left	has	l 39
+table data/geo-heter/left	has	l 1956
+table data/geo-heter/left	has	l 908
+l 1183	name	Homestead Police Department
+l 2410	name	Thomas J. Gmiter Funeral Home Inc
+l 926	name	Options Center
+table data/geo-heter/left	has	l 1562
+l 2236	name	Barnes & Noble
+table data/geo-heter/left	has	l 1792
+l 634	name	Kelly's Beer Distributor
+table data/geo-heter/left	has	l 907
+table data/geo-heter/left	has	l 698
+l 1773	name	Wagner Agency; Inc.
+l 1757	name	ll About Eyes
+table data/geo-heter/left	has	l 2134
+table data/geo-heter/left	has	l 2100
+table data/geo-heter/left	has	l 935
+l 669	name	Canton Avenue
+table data/geo-heter/left	has	l 893
+l 1184	name	Beer Express
+table data/geo-heter/left	has	l 1045
+table data/geo-heter/left	has	l 1256
+l 293	name	The Greek Gourmet
+table data/geo-heter/left	has	l 1375
+l 174	name	Shadyside Inn
+table data/geo-heter/left	has	l 1168
+table data/geo-heter/left	has	l 519
+l 704	name	omito Restaurant
+l 200	name	Green Tree Park
+table data/geo-heter/left	has	l 1516
+table data/geo-heter/left	has	l 405
+table data/geo-heter/left	has	l 1399
+l 282	name	Pit Stop Beer Express
+l 204	name	Smallman Street Deli
+table data/geo-heter/left	has	l 5
+l 817	name	Roosevelt Elementary School
+l 2362	name	Mattress Factory
+table data/geo-heter/left	has	l 420
+l 1918	name	The McKee Mansion
+l 2451	name	Magisterial District Judge 05-2-19
+l 1587	name	Carnegie Police Department
+table data/geo-heter/left	has	l 2053
+l 1763	name	illage at Pennwood
+l 2076	name	Pittsburgh Internal Medicine Associates
+table data/geo-heter/left	has	l 364
+table data/geo-heter/left	has	l 206
+l 712	name	The Library
+l 1920	name	IHOP
+table data/geo-heter/left	has	l 1872
+table data/geo-heter/left	has	l 1588
+l 2415	name	Wendy's
+table data/geo-heter/left	has	l 1093
+table data/geo-heter/left	has	l 8
+table data/geo-heter/left	has	l 64
+table data/geo-heter/left	has	l 2209
+table data/geo-heter/left	has	l 1821
+l 474	name	Jalen's Barbershop
+table data/geo-heter/left	has	l 1911
+l 416	name	lex's Ice Cream
+table data/geo-heter/left	has	l 1796
+l 240	name	Forbes Allies Center
+table data/geo-heter/left	has	l 1492
+table data/geo-heter/left	has	l 1414
+l 346	name	Eureka Building
+l 224	name	Pitt School of Dental Medicine
+table data/geo-heter/left	has	l 173
+table data/geo-heter/left	has	l 756
+l 133	name	Scoops on the Boulevard
+table data/geo-heter/left	has	l 323
+l 807	name	PNC
+l 1575	name	Fort Pitt Blvd at Smithfield St
+l 2166	name	East End Smithfield Cemetery
+table data/geo-heter/left	has	l 510
+l 154	name	llegheny Smokeworks
+table data/geo-heter/left	has	l 673
+table data/geo-heter/left	has	l 696
+table data/geo-heter/left	has	l 882
+l 2413	name	Thomas E Barret Elementary School
+l 164	name	Pace School
+table data/geo-heter/left	has	l 367
+l 69	name	Elixir Hair Artistry & Design
+l 1227	name	Jefferson Elementary School
+table data/geo-heter/left	has	l 813
+l 1149	name	Millvale Community Library
+table data/geo-heter/left	has	l 657
+l 1747	name	Saint Cyril of Alexandria Church
+table data/geo-heter/left	has	l 1029
+l 2274	name	McCormick & Schmick's
+table data/geo-heter/left	has	l 32
+l 2164	name	iberty Ave past 10th St
+l 1871	name	Sacred Heart Parish
+l 2465	name	Island Avenue Tattoo
+table data/geo-heter/left	has	l 1294
+l 160	name	Pittsburgh Guitars
+table data/geo-heter/left	has	l 249
+table data/geo-heter/left	has	l 1343
+table data/geo-heter/left	has	l 1874
+l 1471	name	Ruth's Chris Steak House
+table data/geo-heter/left	has	l 2269
+table data/geo-heter/left	has	l 2208
+l 1008	name	Nick's Place
+table data/geo-heter/left	has	l 1807
+table data/geo-heter/left	has	l 2184
+table data/geo-heter/left	has	l 2217
+table data/geo-heter/left	has	l 1302
+l 2277	name	Medicap Pharmacy
+l 2394	name	Giant Eagle
+l 1714	name	Sheraden
+table data/geo-heter/left	has	l 121
+l 2398	name	Dunamis Baptist Church
+l 533	name	Jester's Court
+l 2088	name	First National Bank ATM
+table data/geo-heter/left	has	l 65
+l 1820	name	Unitarian Universalist Church of the South Hills
+table data/geo-heter/left	has	l 1775
+l 1750	name	Christos Mediterranean Grille
+table data/geo-heter/left	has	l 539
+table data/geo-heter/left	has	l 236
+l 104	name	Family House
+l 2244	name	Negley Station A & B
+table data/geo-heter/left	has	l 359
+table data/geo-heter/left	has	l 1878
+l 1114	name	rsenal Bowl
+table data/geo-heter/left	has	l 1177
+l 2438	name	R & B's Pizza Place
+l 1353	name	Raizman House
+table data/geo-heter/left	has	l 669
+l 1275	name	Howard Hanna
+table data/geo-heter/left	has	l 592
+l 2001	name	Silk Elephant
+l 1060	name	Esther's
+table data/geo-heter/left	has	l 2283
+table data/geo-heter/left	has	l 270
+table data/geo-heter/left	has	l 423
+l 1139	name	ucky Dragon
+table data/geo-heter/left	has	l 816
+l 2097	name	Wallace's Taproom
+table data/geo-heter/left	has	l 1011
+table data/geo-heter/left	has	l 303
+l 323	name	2 Allegheny Center
+table data/geo-heter/left	has	l 599
+table data/geo-heter/left	has	l 2416
+l 62	name	Saint Michaels Church
+table data/geo-heter/left	has	l 1579
+table data/geo-heter/left	has	l 330
+l 1765	name	Redfin Blues
+table data/geo-heter/left	has	l 755
+table data/geo-heter/left	has	l 681
+table data/geo-heter/left	has	l 2423
+l 2119	name	Bark Park
+l 659	name	Forbes Hall
+table data/geo-heter/left	has	l 142
+l 1418	name	Rankin Elementary School
+table data/geo-heter/left	has	l 1497
+table data/geo-heter/left	has	l 454
+l 1745	name	Glitterbox Theater
+table data/geo-heter/left	has	l 1631
+table data/geo-heter/left	has	l 278
+table data/geo-heter/left	has	l 1345
+table data/geo-heter/left	has	l 721
+table data/geo-heter/left	has	l 1392
+table data/geo-heter/left	has	l 843
+table data/geo-heter/left	has	l 1205
+table data/geo-heter/left	has	l 1784
+table data/geo-heter/left	has	l 24
+table data/geo-heter/left	has	l 1791
+table data/geo-heter/left	has	l 1229
+table data/geo-heter/left	has	l 603
+l 1837	name	The Jaggerbush
+l 746	name	Pino's Italian Kitchen
+table data/geo-heter/left	has	l 932
+table data/geo-heter/left	has	l 1783
+table data/geo-heter/left	has	l 918
+table data/geo-heter/left	has	l 2398
+table data/geo-heter/left	has	l 2221
+l 2080	name	DeBlasio's
+l 1236	name	Pittsburgh Mennonite Church
+table data/geo-heter/left	has	l 920
+table data/geo-heter/left	has	l 1156
+l 1604	name	Rangos School of Health Sciences
+table data/geo-heter/left	has	l 757
+table data/geo-heter/left	has	l 738
+l 1465	name	George L. Wilson & Co. Inc.
+l 1280	name	Steel Valley High/Middle School
+l 798	name	Monongahela Incline Upper Station
+table data/geo-heter/left	has	l 1682
+l 114	name	Bramer House
+table data/geo-heter/left	has	l 883
+l 2014	name	ington Elementary School
+table data/geo-heter/left	has	l 451
+table data/geo-heter/left	has	l 1555
+l 2079	name	Feller's Garage
+table data/geo-heter/left	has	l 1193
+l 924	name	Two North Shore Center
+l 2317	name	4121 Main
+table data/geo-heter/left	has	l 413
+table data/geo-heter/left	has	l 572
+l 2200	name	Bosetti Lawn Care
+l 558	name	UPMC Greater Pittsburgh Medical Associates
+l 435	name	llegheny County Office Building
+table data/geo-heter/left	has	l 462
+table data/geo-heter/left	has	l 1755
+table data/geo-heter/left	has	l 1635
+table data/geo-heter/left	has	l 2401
+table data/geo-heter/left	has	l 979
+l 71	name	Shady Oak Apartments
+table data/geo-heter/left	has	l 1073
+l 1801	name	uto Race
+table data/geo-heter/left	has	l 1287
+l 359	name	Barrett Elementary School Library
+table data/geo-heter/left	has	l 2197
+l 2311	name	United Methodist Foundation of Western Pennsylvania
+table data/geo-heter/left	has	l 1368
+l 2408	name	Games Unlimited
+table data/geo-heter/left	has	l 2097
+l 1070	name	Unity Baptist Church
+l 457	name	Mineo Building
+l 1744	name	Grant Street Tavern
+l 310	name	Saint Michaels Cemetery
+table data/geo-heter/left	has	l 2367
+table data/geo-heter/left	has	l 240
+table data/geo-heter/left	has	l 801
+table data/geo-heter/left	has	l 474
+table data/geo-heter/left	has	l 2139
+l 2104	name	Weil Technology Elementary School
+table data/geo-heter/left	has	l 1429
+table data/geo-heter/left	has	l 1457
+l 1486	name	Emerson Elementary School
+table data/geo-heter/left	has	l 458
+table data/geo-heter/left	has	l 1344
+l 1688	name	Saint Rosalias Church
+l 2399	name	Duquesne Towers
+table data/geo-heter/left	has	l 2260
+l 2019	name	South Bank
+table data/geo-heter/left	has	l 464
+table data/geo-heter/left	has	l 1293
+table data/geo-heter/left	has	l 1352
+table data/geo-heter/left	has	l 624
+table data/geo-heter/left	has	l 1148
+l 2083	name	rizon
+l 1987	name	inden Elementary School
+l 844	name	MC Loews Waterfront 22
+table data/geo-heter/left	has	l 452
+l 550	name	lla Famiglia
+table data/geo-heter/left	has	l 1738
+table data/geo-heter/left	has	l 515
+table data/geo-heter/left	has	l 127
+l 795	name	pteka
+l 745	name	Brottier Hall
+l 454	name	Sto-Rox Neighborhood Family Health Center
+table data/geo-heter/left	has	l 360
+table data/geo-heter/left	has	l 1022
+table data/geo-heter/left	has	l 2413
+table data/geo-heter/left	has	l 2177
+table data/geo-heter/left	has	l 1685
+l 537	name	Work Hard
+l 2448	name	Saint Peter Catholic Church
+table data/geo-heter/left	has	l 1330
+table data/geo-heter/left	has	l 1550
+table data/geo-heter/left	has	l 1667
+l 2179	name	Stone - Neapolitan Pizzeria
+l 2084	name	Washington Square
+table data/geo-heter/left	has	l 1325
+table data/geo-heter/left	has	l 224
+l 214	name	Parran Hall
+table data/geo-heter/left	has	l 1540
+l 337	name	iberty Ave at 5th Ave
+table data/geo-heter/left	has	l 577
+table data/geo-heter/left	has	l 1372
+table data/geo-heter/left	has	l 208
+l 1760	name	Herschel Park
+table data/geo-heter/left	has	l 397
+l 2094	name	Wilson's Pharmacy
+l 229	name	Foster Plaza 2
+table data/geo-heter/left	has	l 2154
+l 1424	name	Edgewood Police Department
+table data/geo-heter/left	has	l 1491
+table data/geo-heter/left	has	l 139
+table data/geo-heter/left	has	l 475
+l 478	name	Saint Marks Cemetery
+l 1800	name	Point Park University
+table data/geo-heter/left	has	l 484
+table data/geo-heter/left	has	l 1735
+l 1805	name	Geno Como
+table data/geo-heter/left	has	l 433
+l 1755	name	Sky Rocket
+l 2091	name	Mount Pisgah Presbyterian Church
+l 805	name	420 Boulevard of the Allies
+table data/geo-heter/left	has	l 962
+table data/geo-heter/left	has	l 2282
+l 1542	name	rsenal Post Office
+table data/geo-heter/left	has	l 2435
+table data/geo-heter/left	has	l 2366
+l 890	name	North Side
+table data/geo-heter/left	has	l 2466
+table data/geo-heter/left	has	l 1693
+l 1163	name	Rivers Casino
+l 816	name	Warner Centre
+table data/geo-heter/left	has	l 2411
+table data/geo-heter/left	has	l 1354
+table data/geo-heter/left	has	l 467
+table data/geo-heter/left	has	l 2046
+l 301	name	Riggs Lounge
+table data/geo-heter/left	has	l 680
+l 1623	name	Pittsburgh Gifted Center Library
+table data/geo-heter/left	has	l 1483
+l 1826	name	One Oxford Center
+l 1569	name	The Fabric Place
+table data/geo-heter/left	has	l 1161
+table data/geo-heter/left	has	l 11
+l 553	name	EQT Plaza
+l 1756	name	John Minadeo Elementary School
+l 2270	name	Southern Pennsylvania World War 2 Memorial
+table data/geo-heter/left	has	l 815
+l 1693	name	rsenal Park
+table data/geo-heter/left	has	l 473
+table data/geo-heter/left	has	l 2144
+table data/geo-heter/left	has	l 193
+l 2292	name	Barber Shop Styles
+table data/geo-heter/left	has	l 317
+l 2304	name	Wine & Spirits
+l 406	name	l's
+l 411	name	The Mall
+l 865	name	Clark Building
+table data/geo-heter/left	has	l 31
+table data/geo-heter/left	has	l 1007
+l 1500	name	Wine & Spirits Store
+table data/geo-heter/left	has	l 2259
+table data/geo-heter/left	has	l 1189
+l 372	name	Foster Plaza 4
+l 785	name	Woolslair Elementary School Library
+table data/geo-heter/left	has	l 708
+table data/geo-heter/left	has	l 1810
+table data/geo-heter/left	has	l 465
+table data/geo-heter/left	has	l 1019
+table data/geo-heter/left	has	l 391
+l 1073	name	Pamela's P&G Diner
+l 149	name	Remnant City
+l 618	name	Fifth Third Bank
+l 1751	name	The Medical Center East
+table data/geo-heter/left	has	l 2070
+l 1771	name	McCleary School
+l 2074	name	Kentucky Avenue School
+table data/geo-heter/left	has	l 1910
+table data/geo-heter/left	has	l 1455
+l 2391	name	ogt True Value Hardware
+table data/geo-heter/left	has	l 977
+table data/geo-heter/left	has	l 1713
+table data/geo-heter/left	has	l 2399
+l 403	name	PF Chang's
+l 502	name	Sally Beauty Supply
+table data/geo-heter/left	has	l 1272
+table data/geo-heter/left	has	l 461
+table data/geo-heter/left	has	l 1243
+l 2012	name	H&R Block
+table data/geo-heter/left	has	l 845
+l 2233	name	Winchester Thurston School
+l 70	name	First National Trust Company
+l 367	name	The Waterfront
+table data/geo-heter/left	has	l 1674
+l 1570	name	Granite Building
+table data/geo-heter/left	has	l 1460
+table data/geo-heter/left	has	l 1589
+l 255	name	llegheny Center Alliance Church
+table data/geo-heter/left	has	l 1960
+l 1473	name	West End Park Shelter
+l 1452	name	Goodwill
+table data/geo-heter/left	has	l 1355
+l 1564	name	Colfax Elementary School Library
+l 2011	name	llegheny Valley Bank of Pittsburgh
+l 1540	name	Pittsburgh Obama Academy of International Studies 6-12
+table data/geo-heter/left	has	l 1266
+table data/geo-heter/left	has	l 1509
+l 2081	name	Barefoot Stitches & Gifts
+table data/geo-heter/left	has	l 899
+table data/geo-heter/left	has	l 1691
+table data/geo-heter/left	has	l 1224
+table data/geo-heter/left	has	l 1953
+table data/geo-heter/left	has	l 2043
+table data/geo-heter/left	has	l 1218
+l 1910	name	Holy Trinity Cemetery
+table data/geo-heter/left	has	l 334
+table data/geo-heter/left	has	l 1887
+table data/geo-heter/left	has	l 1472
+l 73	name	Woodlawn Apartments
+l 2195	name	Falk Medical Building
+table data/geo-heter/left	has	l 2116
+table data/geo-heter/left	has	l 1828
+l 106	name	Pittsburgh Police - Zone 5
+table data/geo-heter/left	has	l 723
+l 1252	name	The Laundry Factory
+l 1142	name	United States Post Office
+table data/geo-heter/left	has	l 818
+l 923	name	Woodland Hall
+l 1931	name	Carmalt Field
+l 1851	name	valon Police Department
+l 753	name	Childrens Center of Pittsburgh
+l 1981	name	Money Mart
+l 1261	name	Northside Common Minstry
+table data/geo-heter/left	has	l 562
+table data/geo-heter/left	has	l 353
+l 153	name	Greyhound Pittsburgh
+l 135	name	E Carson St at Smithfield St Bridge
+table data/geo-heter/left	has	l 1195
+table data/geo-heter/left	has	l 1559
+l 222	name	Kitman's Fine Furniture
+table data/geo-heter/left	has	l 570
+l 2444	name	St Paul's Cemetery
+l 1705	name	Southside Riverfront Park
+table data/geo-heter/left	has	l 508
+table data/geo-heter/left	has	l 369
+table data/geo-heter/left	has	l 754
+table data/geo-heter/left	has	l 880
+l 320	name	Smithfield News
+table data/geo-heter/left	has	l 153
+table data/geo-heter/left	has	l 1401
+l 2330	name	Pipers Pub
+l 793	name	Weil Elementary School
+table data/geo-heter/left	has	l 776
+l 1194	name	Craig Hall
+l 898	name	St Rosalia-Old school
+l 394	name	Brentwood Towne Square
+l 995	name	lcohol House
+table data/geo-heter/left	has	l 1804
+table data/geo-heter/left	has	l 1695
+table data/geo-heter/left	has	l 98
+table data/geo-heter/left	has	l 1802
+table data/geo-heter/left	has	l 1366
+l 660	name	Millvale Riverfront Park
+l 1514	name	GameStop
+table data/geo-heter/left	has	l 2379
+l 2294	name	Wightman Playground
+l 639	name	Homewood Suites by Hilton Pittsburgh Downtown
+l 438	name	Faith Community Christian Church
+table data/geo-heter/left	has	l 1192
+l 1816	name	utoZone
+table data/geo-heter/left	has	l 62
+l 2246	name	Pittsburgh Oliver Citywide Academy
+table data/geo-heter/left	has	l 2155
+l 1516	name	llegheny County Day School
+l 1187	name	Munhall Police Department
+table data/geo-heter/left	has	l 859
+l 2459	name	Observatory Hill School
+table data/geo-heter/left	has	l 905
+table data/geo-heter/left	has	l 1581
+table data/geo-heter/left	has	l 1958
+l 2282	name	Paul's Automotive
+table data/geo-heter/left	has	l 79
+table data/geo-heter/left	has	l 2004
+table data/geo-heter/left	has	l 1980
+table data/geo-heter/left	has	l 2241
+table data/geo-heter/left	has	l 2230
+l 2286	name	Sunoco
+table data/geo-heter/left	has	l 116
+table data/geo-heter/left	has	l 2293
+table data/geo-heter/left	has	l 1127
+table data/geo-heter/left	has	l 901
+table data/geo-heter/left	has	l 915
+table data/geo-heter/left	has	l 1659
+table data/geo-heter/left	has	l 856
+l 881	name	Saint Georges Cemetery
+l 1645	name	Old Allegheny County Jail
+table data/geo-heter/left	has	l 1410
+l 705	name	Grandview Bakery & Sweet Shop
+l 554	name	The Army Church
+l 357	name	rmstrong Field
+table data/geo-heter/left	has	l 1868
+table data/geo-heter/left	has	l 30
+l 818	name	Saint Rosalia Grade School
+table data/geo-heter/left	has	l 2
+l 1234	name	Howler's Coyote Cafe
+table data/geo-heter/left	has	l 871
+l 1338	name	Holy Rosary School
+l 1681	name	Bar Louie
+l 1301	name	Penn Waste Systems
+table data/geo-heter/left	has	l 1949
+l 65	name	Excuses Bar and Grill
+l 664	name	Hilton Garden Inn Pittsburgh University Place
+table data/geo-heter/left	has	l 830
+table data/geo-heter/left	has	l 1227
+l 244	name	The Northside Chronicle
+l 445	name	Morningside Automotive
+l 434	name	berson Apartments Buildings #1 & #2
+l 1883	name	Subway
+table data/geo-heter/left	has	l 2432
+table data/geo-heter/left	has	l 607
+table data/geo-heter/left	has	l 1873
+table data/geo-heter/left	has	l 1583
+l 2147	name	Oakland Catholic High School
+table data/geo-heter/left	has	l 2040
+l 1245	name	Packs and Dogs
+l 1565	name	Hyland Hills Apartments
+table data/geo-heter/left	has	l 2455
+l 1298	name	Mount Lebanon Evangelical Presbyterian Church
+l 6	name	East Building
+l 700	name	ictoria Building
+table data/geo-heter/left	has	l 1464
+table data/geo-heter/left	has	l 2201
+table data/geo-heter/left	has	l 741
+l 2369	name	Elizabeth Seton Childrens Center
+l 76	name	Berry Hall; Chatham University
+l 755	name	Southside Jewelers
+table data/geo-heter/left	has	l 1584
+table data/geo-heter/left	has	l 1812
+l 2298	name	Point State Park Fountain
+table data/geo-heter/left	has	l 256
+table data/geo-heter/left	has	l 486
+table data/geo-heter/left	has	l 2337
+table data/geo-heter/left	has	l 1452
+table data/geo-heter/left	has	l 1091
+table data/geo-heter/left	has	l 73
+table data/geo-heter/left	has	l 1981
+table data/geo-heter/left	has	l 1030
+table data/geo-heter/left	has	l 2306
+l 2045	name	Saint Mary's Cemetery
+l 1190	name	Brentwood Police Department
+table data/geo-heter/left	has	l 1096
+table data/geo-heter/left	has	l 1961
+table data/geo-heter/left	has	l 950
+l 822	name	Thomas Jefferson Middle School
+table data/geo-heter/left	has	l 1945
+l 1605	name	Kavsar
+table data/geo-heter/left	has	l 191
+l 1736	name	Propel Northside
+table data/geo-heter/left	has	l 529
+table data/geo-heter/left	has	l 2008
+table data/geo-heter/left	has	l 1323
+table data/geo-heter/left	has	l 590
+l 912	name	Mount Lebanon Cemetery
+l 180	name	ZOLL LifeVest
+l 833	name	Carnegie Library of Hill District
+l 780	name	Christian Tabernacle Church
+table data/geo-heter/left	has	l 1827
+table data/geo-heter/left	has	l 1260
+table data/geo-heter/left	has	l 130
+table data/geo-heter/left	has	l 2123
+table data/geo-heter/left	has	l 2450
+table data/geo-heter/left	has	l 1295
+table data/geo-heter/left	has	l 2319
+table data/geo-heter/left	has	l 961
+table data/geo-heter/left	has	l 292
+table data/geo-heter/left	has	l 1288
+l 326	name	Benedum Center
+table data/geo-heter/left	has	l 1111
+table data/geo-heter/left	has	l 115
+table data/geo-heter/left	has	l 1556
+table data/geo-heter/left	has	l 1676
+table data/geo-heter/left	has	l 161
+table data/geo-heter/left	has	l 443
+table data/geo-heter/left	has	l 1404
+l 2326	name	Small Fry
+l 446	name	Salk Hall
+table data/geo-heter/left	has	l 834
+l 1286	name	Nico's Recovery Room
+l 964	name	East End Assembly of God Church
+l 2140	name	dvance Auto Parts
+l 167	name	Frick Fine Arts Building
+l 1146	name	Steel City Market
+l 1407	name	rizon Building
+table data/geo-heter/left	has	l 1499
+table data/geo-heter/left	has	l 1158
+table data/geo-heter/left	has	l 1575
+table data/geo-heter/left	has	l 1208
+l 955	name	The Barbers Inn
+table data/geo-heter/left	has	l 348
+l 2125	name	Grant Bar & Lounge
+l 960	name	Sesame Inn
+l 2047	name	Denny Park
+l 1021	name	Foerster Student Services Center
+l 1479	name	Brillobox
+l 1206	name	Northway Christian Community Dormont
+table data/geo-heter/left	has	l 7
+l 1064	name	SouthSide Works
+table data/geo-heter/left	has	l 2056
+l 933	name	Rally House North Shore
+l 723	name	Pie Express
+table data/geo-heter/left	has	l 1105
+l 1089	name	St. Paul Baptist Church
+l 1828	name	Fickes Hall
+table data/geo-heter/left	has	l 361
+table data/geo-heter/left	has	l 2146
+table data/geo-heter/left	has	l 2204
+table data/geo-heter/left	has	l 2203
+table data/geo-heter/left	has	l 527
+table data/geo-heter/left	has	l 700
+table data/geo-heter/left	has	l 623
+table data/geo-heter/left	has	l 783
+l 989	name	Payless ShoeSource
+table data/geo-heter/left	has	l 1829
+table data/geo-heter/left	has	l 255
+table data/geo-heter/left	has	l 1116
+l 2162	name	Gesling Stadium
+l 2300	name	Barry's Pub
+table data/geo-heter/left	has	l 398
+l 962	name	Saint Martin Hall
+table data/geo-heter/left	has	l 1726
+l 721	name	Panther Hall
+l 1783	name	First Baptist Church
+table data/geo-heter/left	has	l 643
+table data/geo-heter/left	has	l 2033
+l 901	name	Eyetique
+l 1326	name	Hanini Market
+table data/geo-heter/left	has	l 77
+l 2316	name	Cricket Wireless
+l 235	name	Trees Pool
+table data/geo-heter/left	has	l 1786
+l 1990	name	Banksville Elementary School
+l 2121	name	incler & Associates LLC
+l 744	name	Friendship Academy
+table data/geo-heter/left	has	l 217
+l 437	name	zing Yoga
+l 835	name	Elroy Elementary School
+l 1263	name	on's Caribbean Food
+l 1258	name	Bob's Diner
+l 302	name	Mudge House
+l 405	name	Hale Park
+l 957	name	Miller Elementary School Library
+table data/geo-heter/left	has	l 2281
+table data/geo-heter/left	has	l 2229
+l 2386	name	TJ Maxx
+table data/geo-heter/left	has	l 1986
+table data/geo-heter/left	has	l 1267
+l 597	name	Prospect Park
+table data/geo-heter/left	has	l 1856
+table data/geo-heter/left	has	l 245
+table data/geo-heter/left	has	l 1274
+table data/geo-heter/left	has	l 648
+l 1817	name	Braddock Post Office
+l 749	name	Gateway Center Post Office
+l 1933	name	Schneider Truck
+l 2122	name	Molly's
+l 2299	name	Pruni Auto Body
+table data/geo-heter/left	has	l 546
+table data/geo-heter/left	has	l 1223
+table data/geo-heter/left	has	l 1248
+table data/geo-heter/left	has	l 2245
+l 1957	name	Eastminster Child Care Center
+table data/geo-heter/left	has	l 1088
+table data/geo-heter/left	has	l 752
+table data/geo-heter/left	has	l 1416
+l 2306	name	Philip Murray Elementary School Library
+table data/geo-heter/left	has	l 2248
+l 193	name	Suburban Dry Cleaners
+table data/geo-heter/left	has	l 482
+l 1051	name	Nicholas Coffee Co
+table data/geo-heter/left	has	l 1622
+l 476	name	Shadyside Presbyterian Church
+l 195	name	Pittsburgh City Courthouse
+table data/geo-heter/left	has	l 1110
+table data/geo-heter/left	has	l 1077
+table data/geo-heter/left	has	l 767
+table data/geo-heter/left	has	l 2324
+l 1371	name	tos
+l 1952	name	Martin Luther King Jr. Elementary School
+l 706	name	Pine Cone Park
+table data/geo-heter/left	has	l 963
+table data/geo-heter/left	has	l 876
+table data/geo-heter/left	has	l 713
+table data/geo-heter/left	has	l 1813
+table data/geo-heter/left	has	l 1866
+table data/geo-heter/left	has	l 1134
+l 735	name	Brew House
+table data/geo-heter/left	has	l 788
+table data/geo-heter/left	has	l 296
+l 127	name	Century Building
+table data/geo-heter/left	has	l 1988
+table data/geo-heter/left	has	l 1308
+l 1965	name	Des Places Hall
+l 656	name	Subba Asian Restaurant
+table data/geo-heter/left	has	l 1138
+table data/geo-heter/left	has	l 2426
+l 1921	name	Happy Nails
+l 2450	name	wis Hair Salon
+l 592	name	Freeport Rd at #1050
+table data/geo-heter/left	has	l 2071
+table data/geo-heter/left	has	l 1754
+l 672	name	Mercy Behavioral Health Center Reedsdale Street
+table data/geo-heter/left	has	l 1809
+table data/geo-heter/left	has	l 374
+table data/geo-heter/left	has	l 1918

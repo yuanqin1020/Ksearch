@@ -1,0 +1,859 @@
+table data/rel-heter/right	has	r 149
+r 314	class	96
+r 330	class	711
+table data/rel-heter/right	has	r 214
+r 302	addr	1397 n. highland ave.
+table data/rel-heter/right	has	r 324
+table data/rel-heter/right	has	r 264
+table data/rel-heter/right	has	r 154
+r 255	addr	402 w. 44th st.
+table data/rel-heter/right	has	r 97
+r 143	addr	1134 euclid ave.
+r 196	addr	1500 church st.
+r 184	addr	3172 peachtree rd. ne
+r 51	addr	642 broadway
+r 304	addr	224 ponce de leon ave.
+table data/rel-heter/right	has	r 285
+r 26	city	venice
+r 272	type	seafood
+r 67	city	glendale
+r 129	addr	4750 w. sahara ave.
+r 178	class	713
+r 18	city	westwood
+table data/rel-heter/right	has	r 300
+r 325	class	107
+r 329	city	san francisco
+r 285	addr	3200 las vegas blvd. s.
+r 15	addr	1020 n. san vicente blvd.
+r 275	addr	240 central park s.
+table data/rel-heter/right	has	r 43
+table data/rel-heter/right	has	r 60
+table data/rel-heter/right	has	r 201
+r 107	addr	210 e. 46th st.
+r 111	addr	1588 york ave.
+table data/rel-heter/right	has	r 102
+r 38	city	westlake village
+r 309	class	91
+table data/rel-heter/right	has	r 53
+r 261	type	asian
+r 197	addr	1582 folsom st.
+r 119	class	653
+table data/rel-heter/right	has	r 55
+r 165	addr	2970 cobb pkwy .
+r 6	addr	45 s. mentor ave.
+r 21	city	hollywood
+table data/rel-heter/right	has	r 258
+table data/rel-heter/right	has	r 81
+r 302	class	84
+r 105	addr	411 third ave.
+table data/rel-heter/right	has	r 305
+table data/rel-heter/right	has	r 68
+table data/rel-heter/right	has	r 268
+table data/rel-heter/right	has	r 6
+r 96	addr	405 atlantic ave.
+table data/rel-heter/right	has	r 155
+table data/rel-heter/right	has	r 282
+r 292	class	74
+table data/rel-heter/right	has	r 31
+r 252	addr	99 e. 52nd st.
+table data/rel-heter/right	has	r 150
+r 310	addr	293-b peachtree rd.
+r 70	addr	93 ave. a
+table data/rel-heter/right	has	r 198
+table data/rel-heter/right	has	r 257
+table data/rel-heter/right	has	r 107
+r 31	addr	4000 colfax ave.
+table data/rel-heter/right	has	r 28
+r 160	addr	171 mcdonough blvd.
+r 109	addr	38 e. 51st st.
+r 238	city	w. hollywood
+r 48	city	monterey park
+table data/rel-heter/right	has	r 230
+table data/rel-heter/right	has	r 113
+r 308	addr	3434 peachtree rd. ne
+r 57	addr	45 s. fair oaks ave.
+table data/rel-heter/right	has	r 310
+r 183	addr	220 sandy springs circle
+table data/rel-heter/right	has	r 35
+table data/rel-heter/right	has	r 219
+table data/rel-heter/right	has	r 229
+table data/rel-heter/right	has	r 45
+r 242	type	scandinavian
+r 149	type	` health food '
+r 34	addr	10506 little santa monica blvd.
+r 147	addr	2911 s. pharr court
+r 216	type	pizza
+r 287	addr	3000 paradise rd.
+r 38	class	572
+r 318	class	100
+table data/rel-heter/right	has	r 82
+r 183	type	vegetarian
+table data/rel-heter/right	has	r 24
+r 28	class	562
+r 218	addr	435 s. la cienega blvd.
+table data/rel-heter/right	has	r 41
+r 96	type	` middle eastern '
+table data/rel-heter/right	has	r 74
+r 44	class	578
+table data/rel-heter/right	has	r 326
+table data/rel-heter/right	has	r 19
+r 226	addr	23725 w. malibu rd.
+r 155	addr	1029 edgewood ave. se
+r 39	addr	10509 w. pico blvd.
+table data/rel-heter/right	has	r 239
+r 306	class	88
+r 266	addr	57 jane st.
+table data/rel-heter/right	has	r 280
+r 187	class	722
+table data/rel-heter/right	has	r 217
+table data/rel-heter/right	has	r 145
+r 87	class	621
+r 317	addr	804 north point st.
+table data/rel-heter/right	has	r 77
+table data/rel-heter/right	has	r 299
+r 4	addr	1433 third st. promenade
+r 46	addr	17040 ventura blvd.
+r 14	city	redondo beach
+table data/rel-heter/right	has	r 321
+r 23	addr	8424 beverly blvd.
+r 271	class	53
+table data/rel-heter/right	has	r 221
+r 6	class	540
+table data/rel-heter/right	has	r 179
+r 30	class	564
+table data/rel-heter/right	has	r 13
+table data/rel-heter/right	has	r 263
+r 93	addr	39 w. 55th st.
+table data/rel-heter/right	has	r 99
+r 26	addr	1023 abbot kinney blvd.
+table data/rel-heter/right	has	r 144
+r 314	addr	1 mission st.
+r 99	class	633
+r 169	addr	1031 ponce de leon ave.
+table data/rel-heter/right	has	r 301
+r 177	addr	519 e. paces ferry rd.
+r 291	class	73
+r 14	class	548
+r 255	class	37
+r 253	class	35
+r 71	addr	424 amsterdam ave.
+r 185	city	college park
+r 249	class	31
+r 221	class	3
+table data/rel-heter/right	has	r 181
+r 90	class	624
+r 232	addr	129 n. la cienega blvd.
+r 149	addr	5975 roswell rd.
+table data/rel-heter/right	has	r 266
+table data/rel-heter/right	has	r 21
+r 263	addr	57 w. 58th st.
+table data/rel-heter/right	has	r 308
+r 297	addr	1529 piedmont ave.
+r 154	addr	4279 roswell rd.
+table data/rel-heter/right	has	r 120
+r 179	class	714
+r 227	addr	9560 dayton way
+r 62	addr	8360 melrose ave.
+r 221	addr	14016 ventura blvd.
+r 74	addr	87 e. fourth st.
+r 260	class	42
+r 324	class	106
+table data/rel-heter/right	has	r 302
+r 325	type	japanese
+table data/rel-heter/right	has	r 186
+r 58	addr	1198 pch
+r 265	class	47
+r 214	class	749
+table data/rel-heter/right	has	r 87
+r 76	class	610
+table data/rel-heter/right	has	r 237
+table data/rel-heter/right	has	r 309
+r 221	city	sherman oaks
+r 188	class	723
+r 203	addr	2225 irving st.
+table data/rel-heter/right	has	r 195
+r 259	class	41
+r 122	addr	401 s. 6th st.
+r 32	addr	6333 w. third st.
+table data/rel-heter/right	has	r 279
+table data/rel-heter/right	has	r 205
+r 306	addr	1232 w. paces ferry rd.
+r 19	addr	1949 westwood blvd.
+r 323	addr	816 folsom st.
+r 81	addr	86 w. third st.
+table data/rel-heter/right	has	r 227
+r 167	addr	4427 roswell rd.
+table data/rel-heter/right	has	r 167
+table data/rel-heter/right	has	r 275
+r 188	addr	423 columbus ave.
+r 225	addr	8358 sunset blvd.
+r 291	addr	2245 e. flamingo rd.
+table data/rel-heter/right	has	r 328
+table data/rel-heter/right	has	r 188
+r 317	class	99
+r 48	addr	145 n. atlantic blvd.
+table data/rel-heter/right	has	r 251
+r 176	addr	2118 n. decatur rd.
+r 212	class	747
+r 284	addr	152 w. 44th st.
+table data/rel-heter/right	has	r 36
+table data/rel-heter/right	has	r 236
+r 171	addr	1248 clairmont rd.
+r 35	addr	22800 pch
+r 250	class	32
+r 284	city	new york city
+table data/rel-heter/right	has	r 295
+r 270	type	russian
+r 34	city	century city
+table data/rel-heter/right	has	r 20
+table data/rel-heter/right	has	r 273
+table data/rel-heter/right	has	r 0
+table data/rel-heter/right	has	r 220
+r 220	addr	701 stone canyon rd.
+r 213	class	748
+r 96	class	630
+table data/rel-heter/right	has	r 213
+r 113	city	queens
+r 263	class	45
+table data/rel-heter/right	has	r 163
+table data/rel-heter/right	has	r 58
+table data/rel-heter/right	has	r 114
+r 326	class	108
+r 293	class	75
+r 162	addr	2469 cobb pkwy .
+table data/rel-heter/right	has	r 200
+r 310	class	92
+r 192	addr	522 jones st.
+r 270	class	52
+r 305	type	continental
+r 279	addr	1110 third ave.
+r 195	addr	1550 california st.
+table data/rel-heter/right	has	r 246
+table data/rel-heter/right	has	r 183
+table data/rel-heter/right	has	r 312
+table data/rel-heter/right	has	r 78
+r 296	addr	3073 piedmont rd.
+r 324	addr	648 bush st.
+r 69	class	603
+r 312	addr	126 clement st.
+r 227	type	` american ( traditional ) '
+table data/rel-heter/right	has	r 63
+table data/rel-heter/right	has	r 146
+r 242	class	24
+table data/rel-heter/right	has	r 174
+r 59	class	593
+r 60	addr	1505 mission st. s.
+r 291	city	las vegas
+table data/rel-heter/right	has	r 262
+table data/rel-heter/right	has	r 29
+r 209	class	744
+table data/rel-heter/right	has	r 307
+r 54	addr	923 e. third st.
+r 7	city	northridge
+r 280	addr	797 third ave.
+r 94	class	628
+r 282	addr	747 ninth ave.
+r 72	addr	331 w. fourth st.
+table data/rel-heter/right	has	r 89
+table data/rel-heter/right	has	r 238
+table data/rel-heter/right	has	r 171
+r 12	class	546
+table data/rel-heter/right	has	r 232
+table data/rel-heter/right	has	r 256
+r 67	addr	1415 e. colorado st.
+r 114	class	648
+table data/rel-heter/right	has	r 175
+table data/rel-heter/right	has	r 185
+r 265	addr	102 fifth ave.
+table data/rel-heter/right	has	r 138
+table data/rel-heter/right	has	r 95
+table data/rel-heter/right	has	r 140
+r 215	addr	8 sixth st.
+table data/rel-heter/right	has	r 8
+r 161	type	cuban
+r 269	addr	100 e. 63rd st.
+table data/rel-heter/right	has	r 276
+r 16	addr	1136 westwood blvd.
+r 18	addr	1059 broxton ave.
+r 18	class	552
+table data/rel-heter/right	has	r 103
+table data/rel-heter/right	has	r 215
+table data/rel-heter/right	has	r 203
+r 219	class	1
+table data/rel-heter/right	has	r 7
+r 293	addr	3125 piedmont rd.
+r 12	addr	9777 little santa monica blvd.
+table data/rel-heter/right	has	r 272
+r 232	city	beverly hills
+r 198	addr	333 bush st.
+table data/rel-heter/right	has	r 287
+table data/rel-heter/right	has	r 64
+table data/rel-heter/right	has	r 320
+r 231	addr	8638 w. third st.
+table data/rel-heter/right	has	r 10
+table data/rel-heter/right	has	r 284
+table data/rel-heter/right	has	r 290
+table data/rel-heter/right	has	r 30
+table data/rel-heter/right	has	r 66
+r 21	addr	6145 franklin ave.
+table data/rel-heter/right	has	r 111
+table data/rel-heter/right	has	r 112
+r 127	class	661
+r 319	type	` french bistro '
+r 327	class	109
+r 299	class	81
+r 59	addr	224 s. beverly dr.
+r 180	addr	764 marietta st. nw
+r 266	type	mexican
+r 20	class	554
+r 68	type	afghan
+table data/rel-heter/right	has	r 330
+r 79	addr	483 amsterdam ave.
+table data/rel-heter/right	has	r 259
+r 239	city	santa monica
+r 228	city	los feliz
+r 88	class	622
+r 170	class	704
+r 228	addr	1972 hillhurst ave.
+table data/rel-heter/right	has	r 51
+r 206	class	741
+table data/rel-heter/right	has	r 61
+table data/rel-heter/right	has	r 44
+table data/rel-heter/right	has	r 15
+table data/rel-heter/right	has	r 193
+table data/rel-heter/right	has	r 277
+table data/rel-heter/right	has	r 244
+table data/rel-heter/right	has	r 223
+table data/rel-heter/right	has	r 222
+table data/rel-heter/right	has	r 206
+r 211	addr	1517 polk st.
+r 129	class	663
+r 137	addr	128 e. fremont st.
+table data/rel-heter/right	has	r 281
+r 65	addr	1305 highland ave.
+r 259	addr	155 w. 51st st.
+r 161	addr	2905 buford hwy .
+r 235	addr	1001 n. alameda st.
+r 182	addr	70 w. crossville rd.
+table data/rel-heter/right	has	r 252
+r 117	class	651
+table data/rel-heter/right	has	r 22
+r 257	addr	33 w. 55th st.
+r 301	addr	595 piedmont ave.
+r 181	class	716
+table data/rel-heter/right	has	r 208
+table data/rel-heter/right	has	r 33
+table data/rel-heter/right	has	r 169
+table data/rel-heter/right	has	r 4
+table data/rel-heter/right	has	r 298
+r 150	addr	4199 paces ferry rd.
+r 114	addr	151 hudson st.
+table data/rel-heter/right	has	r 14
+r 43	addr	1147 third st.
+r 128	class	662
+table data/rel-heter/right	has	r 70
+r 267	addr	239 w. broadway
+table data/rel-heter/right	has	r 329
+r 311	addr	41 14th st.
+r 54	class	588
+table data/rel-heter/right	has	r 124
+table data/rel-heter/right	has	r 182
+table data/rel-heter/right	has	r 271
+r 264	class	46
+r 298	addr	1 margaret mitchell sq.
+r 170	addr	303 peachtree st. ne
+r 276	class	58
+table data/rel-heter/right	has	r 67
+r 323	class	105
+r 191	addr	2217 union st.
+table data/rel-heter/right	has	r 265
+table data/rel-heter/right	has	r 40
+table data/rel-heter/right	has	r 243
+r 64	addr	2575 beverly blvd.
+table data/rel-heter/right	has	r 247
+table data/rel-heter/right	has	r 136
+r 0	class	534
+r 99	addr	lower level
+r 319	class	101
+r 318	addr	777 sutter st.
+r 280	class	62
+r 274	addr	1 water st.
+r 135	addr	355 convention center dr.
+table data/rel-heter/right	has	r 191
+r 322	class	104
+table data/rel-heter/right	has	r 294
+r 303	class	85
+r 278	class	60
+table data/rel-heter/right	has	r 72
+r 28	city	culver city
+r 181	addr	774 ponce de leon ave. ne
+r 236	addr	12969 ventura blvd.
+r 281	addr	central park west
+table data/rel-heter/right	has	r 322
+table data/rel-heter/right	has	r 108
+table data/rel-heter/right	has	r 316
+table data/rel-heter/right	has	r 128
+r 236	city	studio city
+table data/rel-heter/right	has	r 318
+r 9	addr	1570 rosecrans ave. s.
+r 64	city	la
+r 158	addr	1031 peachtree st. ne
+r 253	addr	12 e. 12th st.
+r 233	addr	9001 santa monica blvd.
+r 214	addr	1870 fillmore st.
+r 144	addr	1437 virginia ave.
+r 39	city	rancho park
+r 251	class	33
+r 190	addr	1805 haight st.
+r 262	addr	249 e. 50th st.
+r 19	class	553
+r 2	addr	3345 kimber dr.
+r 299	addr	2290 peachtree rd.
+table data/rel-heter/right	has	r 288
+r 14	addr	1716 pch
+r 330	type	` american ( new ) '
+r 257	class	39
+table data/rel-heter/right	has	r 159
+r 272	addr	95 ave. a
+r 4	class	538
+r 104	addr	308 e. sixth st.
+r 112	addr	1460 first ave.
+r 274	city	brooklyn
+r 286	addr	3799 las vegas blvd. s.
+r 309	type	` french ( classic ) '
+r 321	class	103
+r 211	class	746
+table data/rel-heter/right	has	r 105
+r 226	city	malibu
+table data/rel-heter/right	has	r 125
+r 238	addr	8795 sunset blvd.
+r 86	addr	117 second ave.
+table data/rel-heter/right	has	r 117
+table data/rel-heter/right	has	r 180
+r 40	addr	519 s. fairfax ave.
+table data/rel-heter/right	has	r 37
+r 195	class	730
+r 213	type	french
+r 145	addr	56 e. andrews dr. nw
+table data/rel-heter/right	has	r 80
+r 267	class	49
+r 1	addr	2027 sawtelle blvd.
+table data/rel-heter/right	has	r 57
+table data/rel-heter/right	has	r 153
+r 214	type	american
+r 49	addr	875 s. figueroa st. downtown
+table data/rel-heter/right	has	r 323
+r 300	class	82
+table data/rel-heter/right	has	r 189
+r 8	addr	9600 brighton way
+r 289	type	` pacific rim '
+r 156	addr	600 ponce de leon ave.
+table data/rel-heter/right	has	r 75
+table data/rel-heter/right	has	r 248
+table data/rel-heter/right	has	r 297
+r 330	addr	181 peachtree st.
+r 68	addr	764 ninth ave.
+table data/rel-heter/right	has	r 96
+table data/rel-heter/right	has	r 269
+r 70	class	604
+table data/rel-heter/right	has	r 228
+r 56	addr	15322 ventura blvd.
+r 27	addr	10516 w. pico blvd.
+table data/rel-heter/right	has	r 38
+r 152	addr	1215 powers ferry rd.
+r 223	class	5
+table data/rel-heter/right	has	r 76
+r 295	class	77
+r 65	city	manhattan beach
+table data/rel-heter/right	has	r 65
+table data/rel-heter/right	has	r 85
+r 244	class	26
+table data/rel-heter/right	has	r 71
+table data/rel-heter/right	has	r 254
+table data/rel-heter/right	has	r 151
+r 178	type	` coffee shops '
+table data/rel-heter/right	has	r 267
+r 47	class	581
+table data/rel-heter/right	has	r 86
+r 164	addr	790 ponce de leon ave.
+table data/rel-heter/right	has	r 304
+table data/rel-heter/right	has	r 210
+table data/rel-heter/right	has	r 166
+r 115	addr	106 bayard st.
+r 24	addr	502 santa monica blvd
+r 21	class	555
+table data/rel-heter/right	has	r 104
+table data/rel-heter/right	has	r 233
+r 130	addr	3595 las vegas blvd. s.
+r 292	addr	2355 peachtree rd. ne
+r 172	addr	3060 peachtree rd.
+table data/rel-heter/right	has	r 49
+r 243	addr	34 e. 61st st.
+table data/rel-heter/right	has	r 16
+r 55	addr	2901 pico blvd.
+table data/rel-heter/right	has	r 135
+table data/rel-heter/right	has	r 325
+table data/rel-heter/right	has	r 289
+table data/rel-heter/right	has	r 109
+table data/rel-heter/right	has	r 92
+table data/rel-heter/right	has	r 122
+r 281	class	63
+r 300	addr	490 e. paces ferry rd. ne
+r 88	addr	2199 broadway
+table data/rel-heter/right	has	r 42
+table data/rel-heter/right	has	r 118
+r 37	class	571
+r 208	addr	300 de haro st.
+r 58	city	seal beach
+r 277	class	59
+table data/rel-heter/right	has	r 11
+r 302	type	eclectic
+r 29	class	563
+r 237	city	los angeles
+table data/rel-heter/right	has	r 173
+r 256	class	38
+r 44	addr	8474 w. third st.
+table data/rel-heter/right	has	r 162
+table data/rel-heter/right	has	r 314
+r 74	class	608
+table data/rel-heter/right	has	r 306
+r 11	addr	838 lincoln blvd.
+r 67	class	601
+r 73	addr	368 bleecker st.
+r 185	addr	4837 old national hwy .
+r 240	addr	67 n. raymond ave.
+table data/rel-heter/right	has	r 62
+r 304	class	86
+table data/rel-heter/right	has	r 216
+r 222	addr	624 s. la brea ave.
+r 10	city	mar vista
+table data/rel-heter/right	has	r 131
+table data/rel-heter/right	has	r 245
+r 329	addr	532 columbus ave.
+r 27	class	561
+table data/rel-heter/right	has	r 209
+r 142	type	sandwiches
+r 49	class	583
+table data/rel-heter/right	has	r 115
+table data/rel-heter/right	has	r 255
+table data/rel-heter/right	has	r 160
+r 3	addr	9882 little santa monica blvd.
+r 134	class	668
+r 30	addr	7507 melrose ave.
+table data/rel-heter/right	has	r 165
+r 27	city	west la
+table data/rel-heter/right	has	r 156
+r 248	addr	2 harrison st.
+table data/rel-heter/right	has	r 187
+table data/rel-heter/right	has	r 130
+r 63	addr	11677 san vicente blvd.
+r 329	type	italian
+r 148	addr	4274 peachtree rd.
+r 97	class	631
+table data/rel-heter/right	has	r 172
+r 226	class	8
+r 38	addr	30869 thousand oaks blvd.
+r 217	addr	2141 polk st.
+table data/rel-heter/right	has	r 176
+table data/rel-heter/right	has	r 226
+table data/rel-heter/right	has	r 240
+table data/rel-heter/right	has	r 50
+table data/rel-heter/right	has	r 134
+r 130	class	664
+table data/rel-heter/right	has	r 313
+r 248	class	30
+r 315	class	97
+r 319	addr	570 fourth st.
+r 278	addr	155 e. 55th st.
+table data/rel-heter/right	has	r 52
+table data/rel-heter/right	has	r 260
+table data/rel-heter/right	has	r 91
+r 22	addr	10428 1/2 national blvd.
+r 295	addr	3393 peachtree rd.
+r 271	addr	35 w. 64th st.
+r 205	addr	1322 grant st.
+table data/rel-heter/right	has	r 319
+r 268	addr	55 e. 54th st.
+r 134	addr	3925 paradise rd.
+table data/rel-heter/right	has	r 129
+table data/rel-heter/right	has	r 250
+r 36	addr	1842 e. first
+table data/rel-heter/right	has	r 9
+r 13	addr	3266 w. sixth st.
+r 141	addr	103 w. paces ferry rd.
+r 132	addr	3400 las vegas blvd. s.
+r 235	city	chinatown
+r 41	addr	22nd street grill 25 22nd
+table data/rel-heter/right	has	r 286
+r 320	addr	22 hawthorne st.
+r 113	addr	80 montague st.
+r 229	addr	903 n. la cienega blvd.
+r 230	addr	8284 melrose ave.
+table data/rel-heter/right	has	r 56
+r 294	class	76
+r 288	addr	3570 las vegas blvd. s.
+table data/rel-heter/right	has	r 100
+r 224	class	6
+r 128	addr	3300 las vegas blvd. s.
+table data/rel-heter/right	has	r 311
+r 136	addr	3500 las vegas blvd. s.
+table data/rel-heter/right	has	r 139
+table data/rel-heter/right	has	r 164
+r 29	addr	4663 long beach blvd.
+table data/rel-heter/right	has	r 212
+r 315	addr	7 claude ln .
+table data/rel-heter/right	has	r 148
+r 66	addr	544 s. grand ave.
+r 252	class	34
+r 120	addr	122 e. 17th st.
+table data/rel-heter/right	has	r 54
+table data/rel-heter/right	has	r 143
+r 307	class	89
+r 250	addr	210 e. 58th st.
+r 189	addr	240 columbus ave.
+r 132	class	666
+table data/rel-heter/right	has	r 274
+r 219	addr	12224 ventura blvd.
+r 258	addr	60 w. 55th st.
+r 45	addr	7261 melrose ave.
+table data/rel-heter/right	has	r 170
+r 258	class	40
+table data/rel-heter/right	has	r 34
+r 175	addr	3391 peachtree rd. ne
+r 92	addr	466 hudson st.
+table data/rel-heter/right	has	r 141
+r 213	addr	3108 16th st.
+r 84	addr	48 w. 65th st.
+r 230	class	12
+table data/rel-heter/right	has	r 27
+table data/rel-heter/right	has	r 123
+r 52	addr	709 n. la brea ave.
+table data/rel-heter/right	has	r 291
+r 5	addr	515 s. olive st.
+table data/rel-heter/right	has	r 196
+r 142	addr	659 peachtree st.
+table data/rel-heter/right	has	r 224
+table data/rel-heter/right	has	r 147
+table data/rel-heter/right	has	r 168
+r 247	class	29
+table data/rel-heter/right	has	r 88
+r 37	addr	704 s. alvarado st.
+r 326	addr	3127 fillmore st.
+table data/rel-heter/right	has	r 303
+table data/rel-heter/right	has	r 157
+table data/rel-heter/right	has	r 79
+r 40	class	574
+table data/rel-heter/right	has	r 101
+r 42	city	marina del rey
+r 328	type	` french ( new ) '
+table data/rel-heter/right	has	r 207
+table data/rel-heter/right	has	r 83
+r 103	addr	178 broadway
+table data/rel-heter/right	has	r 327
+r 179	addr	3330 piedmont rd.
+r 289	class	71
+r 290	addr	2880 las vegas blvd. s.
+r 316	class	98
+r 254	addr	42 e. 20th st.
+r 139	addr	3645 las vegas blvd. s.
+r 223	addr	2709 main st.
+r 327	addr	545 post st.
+r 87	addr	2nd fl .
+r 297	class	79
+r 131	addr	3145 las vegas blvd. s.
+r 255	type	caribbean
+r 89	class	623
+r 17	addr	8909 sunset blvd.
+r 220	city	bel air
+r 168	addr	3525 mall blvd.
+table data/rel-heter/right	has	r 177
+table data/rel-heter/right	has	r 132
+r 53	addr	2635 w. olive ave.
+r 273	class	55
+r 63	city	brentwood
+r 97	addr	105 hudson st.
+table data/rel-heter/right	has	r 283
+r 22	type	indonesian
+r 296	class	78
+r 237	addr	617 s. olive st.
+r 308	class	90
+table data/rel-heter/right	has	r 116
+r 246	addr	2450 broadway
+r 157	addr	1655 mclendon ave.
+table data/rel-heter/right	has	r 46
+r 29	city	long beach
+r 176	city	decatur
+r 209	addr	1328 18th st.
+r 289	addr	200 e. fremont st.
+table data/rel-heter/right	has	r 235
+table data/rel-heter/right	has	r 2
+r 101	addr	840 second ave.
+r 110	class	644
+table data/rel-heter/right	has	r 270
+table data/rel-heter/right	has	r 59
+r 305	addr	255 courtland st.
+table data/rel-heter/right	has	r 1
+r 151	addr	1021 cobb pkwy . se
+table data/rel-heter/right	has	r 211
+table data/rel-heter/right	has	r 178
+table data/rel-heter/right	has	r 192
+r 61	addr	11288 ventura blvd.
+r 9	class	543
+r 138	addr	129 fremont st.
+r 118	class	652
+table data/rel-heter/right	has	r 292
+table data/rel-heter/right	has	r 90
+table data/rel-heter/right	has	r 84
+r 303	addr	2637 peachtree rd. ne
+table data/rel-heter/right	has	r 234
+table data/rel-heter/right	has	r 121
+r 174	class	708
+table data/rel-heter/right	has	r 17
+r 177	class	712
+r 329	class	111
+table data/rel-heter/right	has	r 137
+table data/rel-heter/right	has	r 158
+table data/rel-heter/right	has	r 69
+r 274	class	56
+table data/rel-heter/right	has	r 152
+r 106	addr	1295 madison ave.
+r 39	class	573
+r 330	city	atlanta
+r 266	class	48
+r 33	addr	8393 w. beverly blvd.
+table data/rel-heter/right	has	r 3
+r 95	addr	435 amsterdam ave.
+r 202	addr	2209 polk st.
+table data/rel-heter/right	has	r 194
+table data/rel-heter/right	has	r 106
+table data/rel-heter/right	has	r 127
+r 290	class	72
+table data/rel-heter/right	has	r 133
+r 42	addr	13329 washington blvd.
+r 313	class	95
+r 110	addr	328 lenox ave.
+r 33	type	chicken
+r 174	addr	4330 peachtree rd.
+r 240	city	pasadena
+r 234	addr	5955 melrose ave.
+r 79	class	613
+r 64	class	598
+r 63	type	` noodle shops '
+table data/rel-heter/right	has	r 119
+r 223	type	` pacific new wave '
+table data/rel-heter/right	has	r 110
+r 298	class	80
+r 208	class	743
+r 173	addr	1495 chattahoochee ave. nw
+r 322	addr	2316 polk st.
+r 0	addr	10801 w. pico blvd.
+table data/rel-heter/right	has	r 296
+r 201	addr	2889 mission st.
+r 200	addr	288 noe st.
+r 186	addr	2315 clement st.
+table data/rel-heter/right	has	r 242
+table data/rel-heter/right	has	r 12
+r 246	class	28
+r 127	addr	202 e. fremont st.
+table data/rel-heter/right	has	r 317
+r 182	city	roswell
+r 126	addr	3700 w. flamingo rd.
+r 109	class	643
+r 328	addr	600 stockton st.
+r 299	type	southwestern
+r 153	addr	70 w. paces ferry rd.
+table data/rel-heter/right	has	r 204
+r 301	class	83
+table data/rel-heter/right	has	r 278
+table data/rel-heter/right	has	r 249
+r 282	type	greek
+r 72	class	606
+r 264	addr	405 e. 58th st.
+table data/rel-heter/right	has	r 47
+r 311	class	93
+r 56	city	encino
+r 272	class	54
+r 316	addr	340 stockton st.
+r 285	type	chinese
+r 245	addr	1 w. 67th st.
+table data/rel-heter/right	has	r 48
+r 276	type	delis
+r 321	type	thai
+r 206	type	cambodian
+r 184	class	719
+r 193	addr	3221 mission st.
+r 169	class	703
+table data/rel-heter/right	has	r 184
+r 275	class	57
+r 222	class	4
+r 224	addr	6703 melrose ave.
+r 47	addr	3117 ocean park blvd.
+r 80	type	` hot dogs '
+table data/rel-heter/right	has	r 126
+table data/rel-heter/right	has	r 18
+table data/rel-heter/right	has	r 315
+r 193	class	728
+r 325	addr	1737 post st.
+table data/rel-heter/right	has	r 293
+r 189	class	724
+r 80	addr	2090 broadway
+r 98	addr	17 barrow st.
+r 237	type	` nuova cucina italian '
+r 85	addr	127 greene st.
+table data/rel-heter/right	has	r 253
+r 168	city	duluth
+table data/rel-heter/right	has	r 25
+r 24	class	558
+r 91	addr	32 spring st.
+table data/rel-heter/right	has	r 32
+r 10	class	544
+r 68	class	602
+r 90	addr	61a seventh ave.
+r 25	addr	2011 ocean front walk
+r 301	type	indian
+r 4	type	` fast food '
+r 216	addr	201 ivy st.
+r 260	addr	155 w. 58th st.
+r 41	city	st. hermosa beach
+r 120	class	654
+table data/rel-heter/right	has	r 231
+table data/rel-heter/right	has	r 197
+r 294	addr	3130 piedmont rd. ne
+r 124	class	658
+table data/rel-heter/right	has	r 202
+r 284	class	66
+table data/rel-heter/right	has	r 190
+r 312	class	94
+table data/rel-heter/right	has	r 93
+table data/rel-heter/right	has	r 23
+table data/rel-heter/right	has	r 218
+r 206	addr	631 larkin st.
+r 218	class	0
+r 34	class	568
+r 254	class	36
+r 50	addr	510 s. arroyo pkwy .
+table data/rel-heter/right	has	r 5
+r 305	class	87
+r 273	addr	30 rockefeller plaza
+r 286	class	68
+r 17	class	551
+table data/rel-heter/right	has	r 94
+r 102	addr	19 old fulton st.
+table data/rel-heter/right	has	r 39
+r 239	addr	3115 pico blvd.
+table data/rel-heter/right	has	r 161
+table data/rel-heter/right	has	r 73
+table data/rel-heter/right	has	r 225
+table data/rel-heter/right	has	r 142
+r 187	addr	2298 market st.
+r 36	city	st. boyle hts .
+r 313	addr	252 california st.
+r 183	class	718
+table data/rel-heter/right	has	r 26
+table data/rel-heter/right	has	r 98
+r 22	class	556
+r 152	city	marietta
+r 247	addr	854 seventh ave.
+r 207	class	742
+r 320	class	102
+r 89	addr	3 e. 52nd st.

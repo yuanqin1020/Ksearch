@@ -1,0 +1,563 @@
+object left	has	l 1933
+object left	has	l 2239
+l 5907	Title	Transforming Learning and IT Management through Gamification 
+object left	has	l 5366
+l 3780	Title	Learning to Fly: The Autobiography
+l 2040	Title	Learning Flash CS4 Professional 
+l 526	Description	Steve Davis was just a rookie from Plumstead, south London, learning how to play from an old book his snooker-obsessed father had given him, when an encounter with Barry Hearn changed his life forever. With his backing, Steve began touring the country in a clapped-out car as an amateur. Challenging established professionals and winning titles, supported by his loyal following the Romford Roar, it wasn’t long before he progressed to the world’s stage. By the eighties, Steve had helped transform a previously shady sport into a national obsession. He and a cast of legends such as Ray Reardon, Dennis Taylor and Alex Higgins, with other young guns like Jimmy White, were doing silent battle in front of huge audiences. Tens of millions of viewers would witness the nail-biting conclusions of his world championship finals; this was snooker’s golden era. The man behind the ‘boring’ tag has always been the sport’s smartest and sharpest man. With his cool, obsessive approach, Steve rewrote the rule book and became untouchably the best player in the world and the best paid sportsman in the country. Interesting lays it all bare: what it was like to win in those pressure-cooker situations; how to cope at the top, when everyone wants you to lose; and how you deal with the moment when a man comes along who is finally better than you. This is a memoir that closely evokes the smoke-filled atmosphere of those arenas, the intrigue behind the scenes and the personal psychology and sacrifice that is required to stay at the top of such an exacting sport.
+l 6283	Title	Learning in the Synergy of Multiple Disciplines: 4th European Conference on Technology Enhanced Learning, EC-TEL 2009 Nice, France, September ... 
+l 4576	Series	Learning
+object left	has	l bn_2707
+object left	has	l 1779
+object left	has	l bn_2018
+object left	has	l 2718
+object left	has	l 4576
+l 885	title	Visual Saliency Computation: A Machine Learning Perspective  
+object left	has	l 5409
+object left	has	l 5923
+l 1308	Title	Learning iPad Programming LiveLessons Bundle
+l 1386	Description	From his unique perspective, renowned statistician and educator Frederick Mosteller describes many of the projects and events in his long career. From humble beginnings in western Pennsylvania to becoming the founding chairman of Harvard University's Department of Statistics and beyond, he inspired many statisticians, scientists, and students with his unabashed pragmatism, creative thinking, and zest for both learning and teaching. This candid account offers fresh insights into the qualities that made Mosteller a superb teacher, a prolific scholar, a respected leader, and a valued advisor. A special feature of the book is its chapter-length insider accounts of work on the pre-election polls of 1948, statistical aspects of the Kinsey report on sexual behavior in the human male, mathematical learning theory, authorship of the disputed Federalist papers, safety of anesthetics, and a wide-ranging examination of the Coleman report on equality of educational opportunity. This volume is a companion to Selected Papers of Frederick Mosteller (Springer, 2006) and A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy (Springer-Verlag, 1990). Frederick Mosteller (1916-2006) was Roger I. Lee Professor of Mathematical Statistics at Harvard University. His manuscript was unfinished at his death and has been updated.
+l 1514	publisher	Crisp Learning
+object left	has	l 6270
+object left	has	l 305
+object left	has	l bn_888
+object left	has	l 7837
+object left	has	l 3780
+object left	has	l 643
+l 8059	Title	Game based learning mustard fat vol.1- you must know. 
+l 8249	Publisher_dummy	Mercury Learning and Information 
+object left	has	l 2524
+l bn_1749	Title	Learning dBASE III Plus
+object left	has	l 2000
+object left	has	l 5144
+l 274	Title	Learning the Ropes: A Creative Autobiography
+l 596	Description	The world's No 1 fast bowler and the driving force behind South Africa at Test level and Warwickshire in the County Championship, provides a telling insight into the physical and mental demands on a top-class sportsman. Arriving as a shy, introverted twenty year old on the unique stage of English professional cricket from the heartlands of South Africa, Donald's learning curve with his county Warwickshire was steep. Competition for the one overseas berth, injuries and loss of form meant a tricky baptism for Donald in the county game, before Bob Woolmer arrived at Edgbaston in 1991 to reconstruct his bowling action. In this book Donald reviews his relationship with key players and backroom staff -- including Woolmer, Dennis Amiss, Dermot Reeve and Brian Lara -- and contrasts the unique team spirit during Warwickshire's trophy winning seasons with the later rifts that developed over the selection of Lara as the county's overseas player. In the Test arena, South Africa's return to the international fold in 1992, with Donald to the fore, began tentatively, leading to a fiercely fought series with Australia home and away in 1994, and culminating in the 1998 tour of England, their first since the ban. Donald's ferocious assault on Mike Atherton at Trent Bridge was one of the most hostile passages of fast bowling ever witnessed, and by the end of the summer South Africa's leading strike bowler had bagged 33 wickets. Donald has some hard-hitting opinions on the policy of 'positive discrimination' and the political pressures being put on the South African cricket administrators in the build-up to the World Cup. With his revelations concerning the rugged physical and mental approach instilled as part of his Afrikaans cricket upbringing and the touring pressures faced by the modern-day Test cricketer, Donald's book provides compelling reading.
+l 4081	Title	Automatic Speech Recognition: A Deep Learning Approach 
+l bn_2930	Title	The DBASE IV: A Practical Learning Guide
+object left	has	l 5583
+object left	has	l 4529
+object left	has	l 526
+object left	has	l 2495
+l 4590	Title	Learning the vi Editor 
+object left	has	l 125
+object left	has	l 1060
+object left	has	l 4153
+object left	has	l 2131
+l 4196	Title	Learning Analytics: From Research to Practice 
+l 15	title	Data Mining: Practical Machine Learning Tools and Techniques, Second Edition  
+object left	has	l 6202
+object left	has	l 5578
+object left	has	l 56
+object left	has	l 1814
+l 3629	Author	Cengage Learning Delmar
+object left	has	l 3729
+l 2197	title	Learning ArcGIS Geodatabase
+object left	has	l 2753
+l 5145	Title	Web-Based Education and Pedagogical Technologies: Solutions for Learning Applications
+l 5923	Title	Learning Technology for Education in Cloud: 4th International Workshop, LTEC 2015, Maribor, Slovenia, August 24-28, 2015, Proceedings 
+l 412	Title	Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction 
+object left	has	l 39
+object left	has	l bn_2743
+object left	has	l 3342
+l 4364	Title	Simulation-Based Optimization: Parametric Optimization Techniques and Reinforcement Learning 
+l 2221	title	Advances in Web Based Learning - ICWL 2008: 7th International Conference, Jinhua, China, August 20-22, 2008, Proceedings  
+l 7493	Title	Jump Start Your Drupal 7 Module Development Learning Curve: One of the missing links to understanding Module Development in Drupal
+l 1563	title	Understanding DB2 : Learning Visually with Examples
+l 2000	title	Encyclopedia of Machine Learning
+object left	has	l bn_1683
+object left	has	l 5517
+l 2495	title	Learning SQL: A Step-By-Step Guide Using Oracle
+l 4577	Title	Learning Windows 95 Office
+l 1708	Title	Machine Learning and Statistics: The Interface 
+object left	has	l 6283
+object left	has	l 6114
+l bn_827	Publisher	PHI Learning
+l bn_2018	Publisher	Cengage Learning PTR
+l 4529	Title	Robots for Kids: Exploring New Technologies for Learning 
+l 4576	Title	Learning DOS
+l 1772	title	Learning Classifier Systems: From Foundations to Applications  
+l 30	Description	This text has long been recognized as not only an Islamic classic, but also as a great spiritual autobiography of one of the world's greatest religious thinkers. It is the narrative of how one dedicated seeker of true knowledge and salvation, having probed various systems of thought and differing paths of learning and enlightenment, discovered the peace of the inner life and discipline of mystical spirituality.
+object left	has	l 320
+object left	has	l bn_2463
+l 2085	Title	Learning Flex 4: Getting Up to Speed with Rich Internet Application Design and Development 
+l bn_1228	Title	Intelligent Data Engineering and Automated Learning - IDEAL 2002: Third International Conference, Manchester, UK, August 12-14 Proceedings
+l bn_1029	Author	Solid Quality Learning
+object left	has	l bn_1624
+l 4196	Series	Computer-Supported Collaborative Learning (Book 1000)
+object left	has	l bn_437
+object left	has	l bn_1163
+l 4412	Author	PawPrints Learning Technologies
+l 125	title	Data Mining and Data Warehousing: Practical Machine Learning Tools Techniques
+object left	has	l bn_304
+object left	has	l 377
+l 1801	Description	Kay Harmon, managing director of Technicolor Corporation's British facility wrote to Dr. Herbert T. Kalmus upon learning of his plan to write an autobiographical account of the development of Technicolor:. ...You have created a new art form and I acclaim it so and reject any accusation of vanity. You have created a new and fascinating world of colour that can be used in the arts and sciences to reveal the texture of life, to teach, to educate and to inform. But most important is its adaptation to an art form. You, more than any man living, have accomplished that. For tens of millions of people you have held a mirror up to nature and brought colour into their lives and into their world... ...The title "Mr. Technicolor" is just about right. Give your heart the fluid of your thoughts and let your intellect drive your pen. Open the doors to intimacy. Tells us what influenced your thoughts and actions, what created your lust for life... I suspect your material success was tempered with a will not to submit to a problem unsolved... that your joy or pleasure came from the solution itself. Tell us these things. This, then, is Dr. Kalmus' attempt to answer the plea, detailing the happenstance as well as the single-minded perseverance that led to the fulfillment of his life-long quest to bring color to the motion picture screens of the world. For reasons known only to "The Doctor," as Herbert Kalmus was affectionately known, he chose to leave out of his account any mention of his first marriage to Natalie Kalmus. Natalie played a major role in his life for decades both as the color consultant for Technicolor and as his adversary in what became a legendary divorce battle. In the closing chapters of this book Doctor's second wife, Eleanore King Kalmus, undertakes the task of filling in the missing details of his unusual relationship with Natalie. In a letter contemplating her husband's life work and Natalie's roll in it, Eleanor writes:. I've been swirling around in my min
+object left	has	l 7493
+object left	has	l 1001
+object left	has	l 1707
+l 7837	Title	Programming Python: Start Learning Python Today, Even If You've Never Coded Before 
+l 2028	Description	Filled with timeless, pertinent, and well-documented information, Journey with Children is a heartfelt, enthralling memoir of Frances Hawkins and her abiding dedication to the education of young children. A memoir and role model for professionals who care deeply about the children they work with, Hawkins emphasises the importance of putting on a different lens to view each child as an individual. Having been a teacher for more than five decades, her views on how the war, depression, and other societal issues that affect children's development and learning are insightful and thought-provoking. Most of the children Hawkins writes about are impoverished and troubled. A cornerstone of Hawkin's teaching ethic was moving her students toward a more hands-on, manipulative style. Her writing addresses all of the issues that confound people involved in education, including boredom, dropouts, and the inability to 'reach' many students.By interspersing comments on early childhood education teaching practice, theories in child growth and development, and material for child psychology, Hawkins enriches the reader's understanding and grasp of the concepts and broader importance of cultural and educational implications.
+l 2910	Description	The latest installment in the History of Psychology in Autobiography series takes readers through the personal and intellectual journeys of nine eminent people whose research has propelled the field of psychology into the 21st century. Each featured psychologist narrates how historical circumstances, collaborations, internal struggles, and public conflict led him or her to choose and develop various lines of research. Over the past 50 years, psychology has expanded from behaviorism and psychoanalysis into cognitive and social theories of learning and brain-based models of behavior and memory. Contributors to this volume document their role in these and other movements, including personality theory and assessment and child development. Editors Gardner Lindzey and William M. Runyan have brought together a collection of essays that put a human face on the maturing science of psychology.
+object left	has	l bn_2980
+l 1707	Description	A true football legend, this is a hugely long awaited autobiography told with Leigh's customary steel, wry humour and no-holds barred honesty.Life and lessons from the world of Australian Rules Football as told by an icon of the sport, Leigh Matthews. Four time Premiership player, voted the player of the 20th Century and four time Premiership coach.Accept the Challenge offers rare insights into the life and learning experiences that have shaped Leigh along his successful and at times turbulent journey.Autobiographical in style this much anticipated title takes the reader back to Leigh's early childhood through to his current position as an elder statesman of the game. An honest self-appraisal as Leigh ponders the influences and experiences that shaped his character, his decisions and ultimately his career, the book unravels and reveals. Leigh is extremely open as the book explores early childhood, the fortune of moving to Hawthorn and the commencement of the shaping of his own philosophy and beliefs by legendary coaches John Kennedy, David Parkin and Allan Jeans.It identifies with the pressures of coaching Collingwood and the relief that success delivers. The task of building a champion team in the Brisbane Lions and the different personalities that contributed to the challenge but also to the successful formula that dominated the sport at the turn of the century. Lessons in team dynamics, man management, keys to success, goal setting and managing a crisis are interspersed with revealing anecdotes and exclusive content from the biggest name in the game during the sports' most successful era.
+object left	has	l 1386
+object left	has	l 4364
+object left	has	l 412
+l 365	title	Cutting Edge Marketing Analytics: Real World Cases and Data Sets for Hands On Learning  
+object left	has	l 1708
+l 3579	Description	Few books have so firmly established their place in American literature as The Education of Henry Adams . When it was first published in 1918, it became an instant bestseller and went on to win the Pulitzer Prize. More than eighty years later, in an age of self-reflection and exhaustive memoirs, The Education still stands as perhaps the greatest American autobiography. The son of a diplomat, the grandson and great-grandson of two American presidents, a man of extraordinary gifts and learning in his own right, Henry Adams recounts his life from his birth in 1838 and upbringing as a Boston Brahmin, through the Civil War, the nation's industrial expansion, and its emergence as a world power. In the process, he gives us a brilliant history of a changing country as well as a thoughtful, humane, often tender exploration of himself. From the original publisher, this edition of The Education of Henry Adams , newly introduced by Donald Hall, celebrates and honors this classic work on what it means to be an American.
+object left	has	l 7335
+l 4050	Series	Explorations in the Learning Sciences, Instructional Systems and Performance Technologies (Book 3)
+object left	has	l 355
+l 2784	Description	'Give Me This Mountain' is the British title of the autobiography of Dr. Helen Roseveare, graduate in medicine from University of Cambridge, in the late 1940's. A wellknown missionary doctor and author, with several of her works still in print, she worked in the northeastern province of the Belgian Congo with the Heart of Africa Mission in the 1950's & 60's. She established a substantial pioneer medical service and assisted the churches before Congo's independence in 1960, and continued there for some years after, at a time when many had to flee for their lives. Helen tells her story in down to earth terms, from playing cricket for the ladies' university side (a liberated woman even then), to her return to Britain after five months as a hostage in rebel terrorist hands. Her candid account is an antidote to any delusion that missionaries are saints who float about an inch off the ground and see a blinding light from heaven when they receive 'the call'. She almost failed in missionary school through her personal failings. Her own admitted stubbornness, pride, knowitall attitude and inability to work with others made her a liability. The final decision to send her overseas came when an incident with a broken washing line proved that she at least had a sense of humour in the face of adversity! Physical dangers and her personal ambition in the Congo often almost sank her, but her faith and hard work brought her through. Her story is one of bright mountains, conquered after experiencing the dark valleys and learning to give the glory to God.
+object left	has	l 8252
+l 4153	Title	Breakthrough Leadership in the Digital Age: Using Learning Science to Reboot Schooling
+object left	has	l bn_1354
+l 2786	Title	Artificial Neural Networks: Learning Algorithms, Performance Evaluation, and Applications 
+object left	has	l 2324
+l 56	Title	Learning to Listen: The Jazz Journey of Gary Burton: An Autobiography
+object left	has	l 1228
+l 3163	Description	Peter Vallas has always followed his dreams and has never given up. He wanted to be a professional artist; he became one. He wanted to become a writer; he published several books. He wanted to be an actor; he acted in the movie Exit and is now working on his own movie. And in this memoir, The Fire Within, Vallas shares his life story that speaks of these successes and also of his hard work, perseverance, and determination. Acknowledging both the joys and the sorrows, Vallas discusses the hard times of poverty, making mistakes, and learning from those mistakes. But he also writes about the many accomplishments of his life including forty-eight years in fire service-from firefighter to lieutenant to captain and fire marshal. Credited with saving forty-two lives in his storied career, Vallas has been decorated by two presidents and received an award from the American Character Awards. Including detailed accounts, "The Fire Within" is filled with bittersweet remembrances of his family and dreams-a chronology of events from boyhood to the present, turning his dreams into reality along the way. He grew up with nothing and became something.
+l 372	Title	Computer Games and Team and Individual Learning
+object left	has	l 4050
+object left	has	l 3196
+object left	has	l 5266
+l 5319	Title	Learning Android Intents
+object left	has	l bn_1775
+l 5492	Title	Researching Learning in Virtual Worlds 
+l 6206	Title	Machine Learning Techniques for Multimedia: Case Studies on Organization and Retrieval 
+l 1143	title	Logical and Relational Learning  
+l BN2578	Title	Chicken Soup for the Teenage Soul III: More Stories of Life, Love and Learning
+object left	has	l 2784
+object left	has	l 8284
+l 901	Description	Darren Clarke's 2006 Ryder Cup successes following shortly after his wife Heather's tragic death from cancer cemented his place in the nation's hearts. In this autobiography he talks about his fellow golfers, the competition on the field and the friendships off it, his own future in golf, and learning to live without Heather.
+l 427	Title	Mobile Technology for Children: Designing for Interaction and Learning 
+object left	has	l 1617
+l 377	Description	From the introduction: Rather than gloat over having read the book already, or blather on about the artistic merits of the prose, let me just introduce you to a member of a "voluntary despised minority," a hobo. Neither a tramp or a bindlestiff, a goofer or a snowbird, a hobo is a "knight of the road," looking down upon the lowly beggars and addicts he sometimes shares his sleeping quarters with. Before being homeless was cool, and I dare say, before anyone alive today rode a train, "Hobo" Chandler was dodging the cops and railroad men. In a hat, coat and tie he would stow away on any train or ship he took a fancy to. Neither suffering from mental illness, drug or alcohol dependency, and having no aversion to work when it suited his purposes, Chandler traveled widely, and was able to capture the feeling of a time long gone in his words. Chandler's command of the English language is impressive, his style distinctive. His newspaper publishing credits include The Calgary Albertan and The Boston Globe. Baseball and boxing fans will find many chapters devoted to the early days of both sports. Mr. Chandler spent many hours both playing and later umpiring when injury prevented him from realizing his dreams of a major league career. Also included in the text is the famous American Boxer John L. Sullivan's last known written correspondence, addressed to the author's uncle. Please be offended by the racist remarks, but not so offended you put the book down, remember that this was written by a man who saw the next to last century turn into the twentieth. Attitudes that we consider offensive today were the cultural norm, and to ignore our history excludes us from learning its lessons. Many delightfully archaic terms of speech, exclamation points, and hyphenated words await you. This book was originally written in beautiful English Longhand, of which a sample can be found on the front leaf. The manuscript was submitted multiple times for publishing, and suffered rejections for reasons known only to publishers. After the Author's death, it took 12 years to decipher from the original Longhand onto the typewritten page, and it has taken an additional several years before this wonderful story could be made available.
+object left	has	l 4914
+object left	has	l 537
+l 355	title	DB2 Developer's Guide: A Solutions-Oriented Approach to Learning the Foundation and Capabilities of DB2 for z/OS    
+l 1484	Title	Reusing Open Resources: Learning in Open Networks for Work, Life and Education 
+l 5583	Author	Alias Learning Tools
+object left	has	l 274
+l bn_304	Title	Learning Python Data Visualization
+l 1933	Description	Nasir al-Din Tusi, the renowned Shi'i scholar of the 13th century, produced a wide range of writings in different fields of learning under Ismaili patronage and later under the Mongols. His work brought him great acclaim and, as a result of his changing affiliations in the course of a brilliant scholastic career, he is claimed by both Twelver Shi'i and Ismaili traditions. Contemplation and Action is Tusi's spiritual autobiography in which he recounts details of his early education, his search for knowledge and his eventual conversion to the Ismaili faith. Translated for the first time into English, it is published here with the full Persian text and a substantial introductory essay on Tusi's life and thought.
+object left	has	l 8340
+object left	has	l 2851
+l 1889	Title	Learning C++: A Hands on Approach
+l bn_504	Publisher	Learning Matters Limited
+object left	has	l 634
+object left	has	l 4808
+object left	has	l 7767
+l bn_290	Title	Learning MySQL and MariaDB: Heading in the Right Direction with MySQL and MariaDB
+l BN0610	Title	Chicken Soup for the Teenage Soul: Stories of Life, Love and Learning
+object left	has	l 5110
+object left	has	l 1484
+l 3361	title	Applied Genetic Programming and Machine Learning  
+l 2708	title	Learning to Use Microcomputer Applications: dBASE 5 for DOS  
+object left	has	l 376
+object left	has	l 3163
+l 5847	Title	Games and Learning Alliance: Second International Conference, GALA 2013, Paris, France, October 23-25, 2013, Revised Selected Papers 
+object left	has	l 4011
+l 3695	Description	This book chronicles one man’s battle to earn respect and an education, only to discover in mid-life that his severe mental "fog" was a serious learning disability. "Abe Schmitt’s towering portrayal is rich, meaningful, and poignant."
+object left	has	l 812
+object left	has	l 4271
+object left	has	l bn_1911
+object left	has	l 1447
+object left	has	l 8099
+object left	has	l 1491
+l 5234	Title	Virtual Immersive and 3D Learning Spaces: Emerging Technologies and Trends
+l 1001	Title	Women and Gaming: The Sims and 21st Century Learning
+l 5578	Title	Teaching by Design: Using Your Computer to Create Materials for Students With Learning Differences
+l 967	publisher	Pearson learning solutions
+object left	has	l 3171
+object left	has	l 967
+l 3374	Description	Richie McCaw is the New Zealand All Blacks’ most capped player of all time. During the 2011 World Cup he reached 100 caps and has played over 60 Tests as Captain. When the All Blacks beat France in Final, he crowned a ten year career that started with a man-of-the-match performance against Ireland in 2001. Unquestionably the greatest player of his generation, he is arguably the most talented rugby player of all time. In his autobiography, McCaw recounts for the first time, with brutal honesty, the roots of his family life that defined his character – learning to play the game on the family farm in South New Zealand and being inspired to fly gliders by his war-hero grandfather – and how it gave him the strength to emerge from the lowest moment in his career to become the most successful Captain world rugby has ever seen. Unafraid of playing the game right at the edge and putting his body on the line for his team mates, McCaw has set the standard of what a professional rugby player should be. Hugely popular and respected, his sheer presence means that he is a natural leader of men both on and off the pitch and his story is not just a brutal account of life on the front line, but an exhilarating portrait of modern rugby.
+l 8230	Title	Hacking: Hacking Now! The Ultimate Guide for Beginners Learning how to Hack with Real Examples
+object left	has	l 8230
+l 1515	Title	Learning to Breathe: One Woman's Journey of Spirit and Survival
+object left	has	l 1128
+object left	has	l 8156
+object left	has	l 2826
+l bn_888	Title	Machine Learning for Hackers
+l bn_437	Title	Intelligent Data Engineering and Automated Learning - IDEAL 2000. Data Mining, Financial Engineering, and Intelligent Agents: Second International Conference Shatin, N.T., Hong Kong, China, December 13-15, 2000. Proceedings
+object left	has	l 3185
+l 2817	title	Learning Analytics: From Research to Practice  
+l 554	Description	After his mother is butchered by a werewolf, Sylvester James is taken in by a Cheyenne mystic. The boy trains to be a werewolf hunter, learning to block out pain, stalk, fight, and kill. As Sylvester sacrifices himself to the hunt, his hatred has become a monster all its own. As he follows his vendetta into the outlands of the occult, he learns it takes more than silver bullets to kill a werewolf.
+object left	has	l 5328
+l bn_1527	Title	Predictive Analytics with Microsoft Azure Machine Learning 2nd Edition
+l 518	Title	Learning Bayesian Networks
+object left	has	l 5832
+l 3240	Description	In Autobiography of an Allergic/Asthmatic Survivor, the early life of Sara Marie Jones is shared with her readers. Sara Marie's life depicts a journey from sickness to wellness and recognition of "all of the gray areas in between." Though some minor events and occasional later in life insight may be juxtaposed simply to fit certain material in suitable places; the story is basically true. As the X-Files television program states, "The truth is out there." In this instance, the truth is self-evident within. While Sara Marie does not propose to know about the reality of little ETs, she knows very well that allergies and asthmatic symptoms exist and are not merely figments of her imagination. Not only are symptoms real, but the afflictions maim, disable and kill. Memories and flashbacks of sickness, even setbacks, haunt her as she visits her grandmother on weekends and throughout the story. She moves her life along from elementary school age to junior high and then to her high school years revealing what it was like to deal with her allergies and lung disease which included frightening attacks and often feeling different and alienated. After becoming severely ill due to her "ironic detrimental" decision to work as a hairdresser, she reaches rock-bottom and realizes that her entire life needs to change. With her husband, she moves to Denver, Colorado, and continues her exploration and "passion for learning about how to be well." Eventually Sara Marie experiences new realms of possibility and wellness. Especially, she is proud of an exhilarating solitary bicycle tour along the Pacific Coast from Cannon Beach, Oregon to her destination, San Francisco, California. In this story and in herlife, Sara Marie truly does break through and break free of many of her once real and feared limitations. As she says, "I've run my marathon, conquered my own fear and pain." This book, which reveals, frankly and poignantly, what it's like to live with allergies and asthma, offers hope, promise and the probability that other victims possess the power within to educate themselves, adapt and also transcend from victim to "survivor." When this happens, higher levels of well-being and an improved quality of life will be their dream come true, too. Author Biography: Gail Galvan was born in LaPorte, Indiana and grew up in Gary, a section called, "Glen Park. Writing became a part of her life in her twenties because she felt like learning how to be well symbolized leaving the "ghetto" of sickness behind. In sharing her story, she hopes to help others find their safe passage toward a higher level of well-being. Aside from being an allergic/asthmatic individual, foremost, her daily occupational heart-purpose is that of a writer. Her other work consists of nursing and field interview research. Other books by Galvan include: Sneezing Seasons, the "inside" story about allergies and immunology, narrated by Henry, a friendly antibody, In Parents We Trust, and Final Say-Adoptive Love (under the pseudonym of Karrol M. Karlin), and Paycheck To Paycheck—Pre And Post Millennium Style and a book of poems entitled, Affinity for Rainbows. She kept her dreams of becoming a published author alive in the midst of a closed world attitude toward unknown writers with the help of Write-On Hoosiers, a local literary club, and the inspiring poets and story-telling writers within the group.
+object left	has	l 2844
+l bn_2195	Title	Ontology Learning for the Semantic Web
+object left	has	l 5817
+object left	has	l 30
+l 6114	Title	Computers and Exploratory Learning 
+l 8211	Title	SQL: Crash Course - The Ultimate Beginner's Course to Learning SQL Programming in Under 12 Hours
+l bn_2743	Title	Learning Predictive Analytics with R
+l 116	title	Learning MySQL
+object left	has	l 5831
+l BN1912	Title	The Social Success Workbook for Teens: Skill-Building Activities for Teens with Nonverbal Learning Disorder, Asperger's Disorder, and Other Social-Skill Problems
+l 5342	Title	Learning SAP BusinessObjects Dashboards
+object left	has	l 2898
+l 8318	Title	Skype for Seniors: Be a Living Example of Lifelong Learning for the Grandkids!
+l 3374	title	Machine Learning and Knowledge Discovery for Engineering Systems Health Management  
+l 2361	title	Machine Learning in Cyber Trust: Security, Privacy, and Reliability
+l 1139	Description	Music came to Willie ruff early in his Alabama boyhood. It came from Mrs. Nance, the solo bass drummer of the Sanctified church, whose beat "gave her right arm the churning motion of a set of steam locomotive wheels." It came from singing at the grocery store for candy, and from the "chitlin struts: at his home, with young Willie sprinkling cornmeal on the floor to make "gliding" easy for dancing. It came from eavesdropping on the porch ladies, listening to the rhythm of their revelations. It came from the Sheffield School for Colored the day the second grader met a storied Alabama neighbor, W.C. Handy, who played his St. Louis Blues on the trumpet and spoke to the children about "the music of the Negro race." Music and learning ("Can't nobody take nothin from outta your head," said his first mentor, Daddy Long) set the course of Willie Ruff's life. He sopped up music and learning when he joined the army at age fourteen, coming under the influence of various fatherly music masters. While he was an undergraduate at Yale, it was Paul Hindemith's magnetic presence that expanded Willie's musical horizons. Later, playing the French horn with the Lionel Hampton band and forming the "Duo" with his old piano-playing army sidekick, Dwike Mitchell, Willie learned firsthand from powerful influence like Duke Ellington, Count Basie, Max Roach, Dizzy Gillespie. And through his years at Yale as a professor of music, the quest for learning never stopped. But music wasn't all. A powerfully recurring theme of A Call to Assembly comes from Willie's curiosity about the black soldier in American history. It began when he was in grade school and witnessed an air show by an all-black squadron of fighter pilots from Tuskegee. Later, in the army, Willie met some of those pilots who had fought over Germany and Italy and risked courts-martial to gain the same rights white officers enjoyed. Years later, through a set of extraordinary circumstances, he came across a statement written in 1902 by another Alabama neighbor, an ex-Confederate general who commended the valor of Negro soldiers fighting in the Spanish-American War. It was, Willie writes, as if this general "laid a hand on me from the grave and gave me pride and understanding." Willie Ruff's is an exhilarating story, told in a distinctive voice that rings clear and true, smart and funny, and is always moving.
+object left	has	l 5591
+object left	has	l 5339
+l 8156	Title	Python: Crash Course - The Ultimate Beginner's Course to Learning Python Programming in Under 12 Hours
+l bn_462	Publisher	Cengage Learning EMEA Higher Education
+l 4271	Title	Robots in K-12 Education: A New Technology for Learning 
+object left	has	l 3066
+object left	has	l 598
+object left	has	l 2829
+l 5831	Title	Learning Technology for Education in Cloud - MOOC and Big Data: Third International Workshop, LTEC 2014, Santiago, Chile, September 2-5, 2014. ... in Computer and Information Science)
+object left	has	l bn_1116
+object left	has	l 6343
+l 5266	Title	SQL Server 2014: A Step by Step Guide to Learning SQL 
+object left	has	l bn_1351
+object left	has	l 2666
+l 1955	title	Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning  
+object left	has	l 596
+object left	has	l bn_2836
+object left	has	l 365
+l 1228	Description	Laura grew up as any normal child, with dolls and friends. The difference was that she could see and talk to the dead. For years she learned to stay silent about her secret until she was old enough to understand the impact she could have helping the grieving. Through major life experience; learning someone hired hit men for her murder, her accidental death during child birth as well as losing everything in the economic crisis, she has come back stronger and more intune with the world and the people in it. Take a journey through the life of a psychic/ medium and you may see some similarities in your own life as well.
+l 7954	Title	Swift Programming Cookbook: Learning Swift VS Objective-c
+l 812	title	Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations  
+object left	has	l bn_504
+l bn_750	Title	Learning Guide to Access for Windows 95
+object left	has	l 5145
+object left	has	l 2361
+l bn_2980	Title	Learning Cypher
+l bn_1354	Title	PC Learning Labs Teaches Fox Pro 2.5 for Windows
+l 8380	Title	Your First PHP Book: A simple guided approach to learning PHP programming and APP Development
+object left	has	l 4130
+object left	has	l bn_1649
+l 2753	Title	Learning to Classify Text Using Support Vector Machines 
+object left	has	l 1912
+l 1278	Title	Learning Core Audio: A Hands-On Guide to Audio Programming for Mac and iOS
+object left	has	l 3250
+l 4037	Title	The Role of Technology in CSCL: Studies in Technology Enhanced Collaborative Learning 
+object left	has	l 3917
+l bn_879	Publisher	Jones & Bartlett Learning
+object left	has	l 8282
+l 917	title	Learning Microsoft Office Publisher 2010, Student Edition
+object left	has	l 5172
+object left	has	l 554
+object left	has	l 1389
+object left	has	l 1515
+l 537	title	Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics: 9th European Conference, EvoBIO 2011, Torino, Italy, April 27-29, 2011, ... Computer Science and General Issues)
+l 7591	Title	PYTHON: Learning Python The Easy Way. 
+l bn_2463	Title	Sams Teach Yourself PHP and MySQL: Video Learning Starter Kit (Sams Teach Yourself Video Series)
+l 1421	Title	Learning Computer Graphics: From 3D Models to Animated Movies on Your PC
+object left	has	l 5890
+object left	has	l bn_2276
+l 8333	Title	HACKING: Easy Hacking, Simple Steps for Learning How to Hack 
+l 5110	Title	Picture Yourself Learning Microsoft Office 2008 for Mac
+object left	has	l 1390
+object left	has	l 3374
+l 1912	Description	John Healy's The Grass Arena describes with unflinching honesty his experiences of addiction, his escape through learning to play chess in prison, and his ongoing search for peace of mind. This Penguin Classics edition includes an afterword by Colin MacCabe. In his searing autobiography Healy describes his fifteen years living rough in London without state aid, when begging carried an automatic three-year prison sentence and vagrant alcoholics prowled the parks and streets in search of drink or prey. When not united in their common aim of acquiring alcohol, winos sometimes murdered one another over prostitutes or a bottle, or the begging of money. Few modern writers have managed to match Healy's power to refine from the brutal destructive condition of the chronic alcoholic a story so compelling it is beyond comparison. John Healy (b. 1943) was born into an impoverished, Irish immigrant family, in the slums of Kentish Town, North London. Out of school by 14, pressed into the army and intermittently in prison, Healy became an alcoholic early on in life. Despite these obstacles Healy achieved remarkable, indeed phenomenal expertise in both writing and chess, as outlined in the autobiographical The Grass Arena. If you enjoyed The Grass Arena, you might like Last Exit to Brooklyn, also available in Penguin Modern Classics. 'Sober and precise, grotesque, violent, sad, charming and hilarious all at once' Literary Review 'Beside it, a book like Orwell's Down and Out in Paris and London seems a rather inaccurate tourist guide' Colin MacCabe
+l 5986	Title	Learning Design: A Handbook on Modelling and Delivering Networked Education and Training
+object left	has	l 4075
+object left	has	l 1308
+l bn_1624	Title	Mastering Machine Learning with scikit-learn
+l 8284	Title	JavaScript: Learn JavaScript in Two Hours: The Beginners Choice For Learning JavaScript 
+l 8282	Title	Ruby: Learn Ruby in Two Hours: The Smart and Efficient Way to Learning Ruby Programming
+l 3342	title	Learning to Rank for Information Retrieval and Natural Language Processing  
+object left	has	l 6263
+l 8252	Title	Big Data Analysis using ensemble machine learning of scikit-learn in Python
+l 2666	Title	e-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning
+object left	has	l 8324
+object left	has	l 1731
+object left	has	l 1988
+l 613	Author	Cisco Learning Institute
+l 1390	title	Foundations of Rule Learning  
+l 6202	Title	Anticipatory Behavior in Adaptive Learning Systems: From Brains to Individual and Social Behavior 
+object left	has	l 5234
+l 6343	Title	Advances in Web-Based Learning - ICWL 2010: 9th International Conference, Shanghai, China, December 8-10, 2010, Proceedings 
+l 1988	Title	Learning GNU Emacs, Third Edition
+l 2179	title	Learning PHP 5
+l 305	title	Unervised Learning via Self-Organization: A Dynamic Approach  
+l 1107	Description	"This well established poet makes a brilliant debut in fiction with these complex, poetically detailed, interrelated stories of Blacks from Africa, the Caribbean and the USA who converge and form an artistic community in the early 1960s in the most easterly regions of Alphabet City ." -David Henderson, author of 'Scuse Me While I Kiss the Sky "Ismaili charts the lower East side just prior to the turbulent, revolutionary Sixties, when the influence of Leroi Jones and the Black Arts Movement signaled a cultural sea-change. Her characters persevere through desertion, loss, abandonment and betrayal, to achieve fulfillment in a fractured society." - Vinnie Burrows "A sensuous and intimate portrait of a place and a generation. Belongs in the canon of American literary and socio-political classics, alongside Diane di Prima, James Baldwin, Grace Paley, Vivian Gornick, and Jack Kerouac. A masterpiece." - Sara Pritchard, author of Crackpots and Help Wanted: Female Autobiography of the Lower East Side is a novel in short stories, set in New York during the late nineteen-fifties and the turbulent decade that followed. Inhale the exotic spices from tenement hallways, smell the sweat and garbage in the streets, feel the sweltering heat of summer in the City. Taste the texture and densities of African dishes: the rice and pepper sauce, stewed fruits, tagine, okra soup, bread and fish. Walk the alphabet streets in the daytime, weaving among pushcarts, or at night in the biting winds of winter, footsteps too close at your back. Sway to the cool jazz. Groove to the lilt of African voices reciting poetry, intoning prayers. Follow a junkie riding out a Jones, an anarchist handing out pamphlets, a pacifist leading a draft resister on the Underground route from New York City to Canada. The Autobiography of the Lower East Side pulsates with the heartbeat of Manhattan's Lower East Side in the 1960s, its artists and activists caught in the racial, sexual, political, and class tensions of the era. Ismaili's richly-evoked setting presents characters learning to survive in the jazz scene, the theater, and the arts while dealing with interracial relationships, abuse, addiction, and the toll of the Vietnam draft.
+object left	has	l 2695
+object left	has	l bn_1292
+object left	has	l 15
+object left	has	l 885
+object left	has	l 1143
+object left	has	l 4372
+l bn_2648	Publisher	Mercury Learning and Information
+object left	has	l 3152
+object left	has	l bn_750
+object left	has	l 7591
+object left	has	l 2857
+object left	has	l 2354
+object left	has	l 5492
+object left	has	l 2193
+l bn_455	Title	Learning Oracle PL/SQL
+object left	has	l 8333
+l 3152	Description	The autobiographies in this work were written by the editor’s students "as one of the learning experiences undertaken in the Seminar on Ethnic Identity taught in the Fall of 1976" at the College of Staten Island.
+l 4075	Title	Understanding Learning in Virtual Worlds 
+object left	has	l 2875
+l 8099	Title	UNIX:  Operating System Success in a Day: Beginners Guide to Fast, Easy and Efficient Learning of UNIX Operating Systems! 
+l 4808	Title	Learning Computer Applications: Projects & Exercises
+object left	has	l 8326
+object left	has	l 372
+l bn_1649	Title	Learning to Use Windows Applications: Paradox 4.5 for Windows
+object left	has	l 5336
+l 3917	Title	Picture Yourself Learning Corel PaintShop Photo Pro X3
+l 1731	Description	Roland Johnson spent half his childhood at Pennhurst State School and Hospital for the Mentally Retarded, where he was sexually abused and, essentially, enslaved. When he'd won his freedom as a young adult, he spent several years putting his life back together and learning to control the anger his experience at Pennhurst had kindled in him. And then he happened upon the Philadelphia-based group Speaking For Ourselves. He quickly rose to the presidency and, in the spirit of Martin Luther King, Jr., whose career he'd followed and whose death he learned of at Pennhurst, was soon traveling across the US and to Canada and England to speak to other fledgling self-advocacy groups and at conferences of professionals, and to work toward establishing a US national self-advocacy organization. Originally published after Johnson's death by Speaking For Ourselves, the group Johnson headed up for much of the 1990s, the book sold out its first small printing. One reviewer called it ". . .a work of pioneering authenticity." Karl Williams has also written a play of the same title, based on the book. "Roland Johnson was a friend and a hero of mine. He was a great pioneer of the frontier of human being. Read his book." - Justin Dart, "Father of the of the ADA” (Americans With Disabilities Act)
+object left	has	l 4577
+l 6470	Title	Advances in Web-Based Learning - ICWL 2013 Workshops: USL 2013, IWSLL 2013, KMEL 2013, IWCWL 2013, WIL 2013, and IWEEC 2013, Kenting, Taiwan, October ... Papers 
+l 376	Description	What do we think we know about the female orgasm? It's that peak experience, an ultimate moment of climax and release that nevertheless eludes so many. Some women live for it, some have multiple orgasms, some fake it while others simply learn to do without. "Autobiography of an Orgasm" (November, 2014) is a sexy-spiritual memoir that's part steamy erotica and part straight-talking advice. It's the result of Betsy Blankenbaker's tireless journey to learn everything she could about the female orgasm in a personal quest to feel as much as possible after too many years of feeling nothing at all. To solve the mystery of why she spent much of her life disconnected from her sensuality, struggling to overcome the shame of childhood sexual assault, Blankenbaker set out at age 45 to thoroughly research women's orgasm. Along the way, she spent time in bed with orgasm experts, strolled down New York's tony Fifth Avenue with a healing jade egg in her vagina, had a spiritual awakening through orgasm in Africa, and received sacred "Womb Rites" from a shaman in the Peruvian Amazon. Through lively storytelling and a delicious sense of humor, Betsy shares why she was never able to find fulfillment in life, love or sex prior to her pilgrimage to healing and pleasure. Her findings resulted in this unprecedented book, "Autobiography of an Orgasm." "Autobiography of an Orgasm" seeks to answer the questions women have but don't know how (or whom) to ask. It is the author's fervent prayer that it will inspire women everywhere to burn their dysfunctional bridges and step into healing by learning to love their bodies and themselves.
+object left	has	l bn_1234
+object left	has	l BN0610
+l 1814	title	Statistical and Machine Learning Approaches for Network Analysis
+l 4852	Series	Foundation Learning Guides
+object left	has	l bn_1926
+object left	has	l 6289
+object left	has	l 8163
+l 2131	title	Learning from Data Streams: Processing Techniques in Sensor Networks
+l 8179	Title	ASP.NET: Programming success in a day: Beginners guide to fast, easy and efficient learning of ASP.NET programming 
+object left	has	l 4290
+l bn_1926	Title	Learning PHP and MySQL
+object left	has	l 2085
+l bn_1911	Title	Learning Data Analysis with Datadesk Student Version 6.0 / Edition 1
+l 2829	Description	PLEASE NOTE: This is a summary of the book and NOT the original book. American Sniper by Chris Kyle - A 20-minute Summary Inside this Instaread Summary: • Overview of the entire book • Introduction to the important people in the book • Summary and analysis of all the chapters in the book • Key Takeaways of the book • A Reader's Perspective Preview of this summary: Chapter 1 Kyle grew up in central Texas. He loved to hunt and ride horses and would have been a cowboy if he had not become a member of the Navy Sea, Air, Land Teams (SEAL). He had a lot of fun hunting with his mom, dad, and brother as a child. His dad and brother were his best friends growing up. Kyle learned true patience by learning to break a horse. He got involved in rodeo competitions to quench his thirst for being a cowboy. In 1992, he graduated and went to Tarleton State University with aspirations to join the military afterward. An accident in his freshman year ended his rodeo career when he had to have pins put in his wrist. He became a ranch hand for a man named David Landrum while he was still a student. Landrum’s strict expectations made Kyle want to prove himself. Kyle believes this prepared him to become a Navy SEAL. Kyle decided to quit school and join the military. He learned about the SEALs and wanted to become one. He investigated the opportunity further and learned that there was no guarantee he would become a SEAL if he joined the Navy. He would need to earn the privilege. Kyle went through the application process, but the Navy disqualified him because of the pins in his wrist. He felt his military career had ended before it began. He went back to work for Landrum and hoped to become a rancher. Shortly afterward, a recruiter called and asked if he was still interested in becoming a SEAL. About the Author With Instaread Summaries, you can get the summary of a book in 30 minutes or less. We read every chapter, summarize and analyze it for your convenience.
+l 2127	publisher	Learning & Teaching Scotland
+l 2851	title	Building Intelligent Systems: Utilizing Computer Vision, Data Mining, and Machine Learning
+l bn_542	Publisher	Cengage Learning
+l bn_1256	Title	Intelligent Data Engineering and Automated Learning - IDEAL 2006: 7th International Conference, Burgos, Spain, September 20-23, 2006, Proceedings
+object left	has	l 1773
+l 1773	Description	This is Yami Lester's story: from stockman to stirrer. Beginning in the heart of the Western Desert, Yami tells of his early years learning the country and the Law from the Ones Who Know. Of his years as a stockman, learning his trade on the vast, unfenced cattle stations of the Centre. Of this years living in the world of white people. And of the childhood memories stirred by a voice on the radio - memories of the day when the ground shook and a black mist came up from the south and covered the camp. Of the sickness that followed, and the blindness that changed his life for ever. Yami's is a unique life of challenge and change, courage and humour. From the remote Centralian outback to the handback of Uluru, from bomb tests at Maralinga to the Royal Commission in London, Yami's memories are aout the making of modern Australian history.
+l 8163	Title	XML Programming Success in a Day: Beginner's Guide to Fast, Easy, and Efficient Learning of XML Programming 
+object left	has	l 2179
+l 2349	title	Data Mining with R: Learning with Case Studies  
+l bn_1721	Title	Learning NumPy Array
+l bn_1234	Title	Oracle SQL Primer: Learning the Craft
+l 3066	title	Chemoinformatics and Advanced Machine Learning Perspectives: Complex Computational Methods and Collaborative Techniques
+object left	has	l 1139
+object left	has	l 1641
+l 5817	Title	Machine Learning and Data Mining in Pattern Recognition: 10th International Conference, MLDM 2014, St. Petersburg, Russia, July 21-24, 2014, ... / Lecture Notes in Artificial Intelligence)
+l bn_1577	Title	Learning to Use Microcomputer Applications: Paradox 4.5 DOS
+object left	has	l bn_290
+object left	has	l 1775
+object left	has	l 2726
+object left	has	l 4852
+object left	has	l 2028
+object left	has	l bn_1577
+l 3196	title	Learning Spark: Lightning-Fast Big Data Analytics
+object left	has	l bn_2572
+l 5409	Title	Machine Learning For Financial Engineering 
+object left	has	l 1996
+object left	has	l 7954
+object left	has	l 2083
+l bn_1269	Title	Learning ArcGIS Geodatabases
+l 2726	title	Statistical Learning and Data Science  
+object left	has	l 4229
+l 326	Description	What do we think we know about the female orgasm? It’s that peak experience, an ultimate moment of climax and release that nevertheless eludes so many. Some women live for it, some have multiple orgasms, some fake it while others simply learn to do without. “Autobiography of an Orgasm” (November, 2014) is a sexy-spiritual memoir that’s part steamy erotica and part straight-talking advice. It’s the result of Betsy Blankenbaker’s tireless journey to learn everything she could about the female orgasm in a personal quest to feel as much as possible after too many years of feeling nothing at all. To solve the mystery of why she spent much of her life disconnected from her sensuality, struggling to overcome the shame of childhood sexual assault, Blankenbaker set out at age 45 to thoroughly research women’s orgasm. Along the way, she spent time in bed with orgasm experts, strolled down New York’s tony Fifth Avenue with a healing jade egg in her vagina, had a spiritual awakening throug orgasm in Africa, and received sacred “Womb Rites” from a shaman in the Peruvian Amazon. Through lively storytelling and a delicious sense of humor, Betsy shares why she was never able to find fulfillment in life, love or sex prior to her pilgrimage to healing and pleasure. Her findings resulted in this unprecedented book, “Autobiography of an Orgasm.” “Autobiography of an Orgasm” seeks to answer the questions women have but don’t know how (or whom) to ask. It is the author’s fervent prayer that it will inspire women everywhere to burn their dysfunctional bridges and step into healing by learning to love their bodies and themselves.
+l 6412	Title	Learning and Intelligent Optimization: 6th International Conference, LION 6, Paris, France, January 16-20, 2012, Revised Selected Papers 
+object left	has	l 1107
+object left	has	l 518
+object left	has	l 8318
+l bn_1683	Title	Learning to Use Windows Applications: Microsoft Word 2.0 for Windows, Microsoft Excel 4.0 for Windows, Paradox 1.0
+object left	has	l 5962
+l 898	title	Machine Learning and Interpretation in Neuroimaging: International Workshop, MLINI 2011, Held at NIPS 2011, Sierra Nevada, Spain, December 16-17, ... / Lecture Notes in Artificial Intelligence)
+l 7767	Title	120 Easy Tips And Tricks For Photoshop: Learning is now Easy and Fun
+l 6270	Title	Anticipatory Behavior in Adaptive Learning Systems: From Psychological Theories to Artificial Cognitive Systems 
+l 8082	Title	Microsoft Azure Essentials Azure Machine Learning
+l bn_2707	Title	DB2 Developer's Guide: A Solutions-Oriented Approach to Learning the Foundation and Capabilities of DB2 for z/OS
+object left	has	l 6376
+object left	has	l 2040
+l bn_2072	Title	Learning SQL
+object left	has	l 7774
+l bn_2386	Title	Learning Qlikview Data Visualization
+object left	has	l 8059
+l BN0754	Title	Chicken Soup for the Soul: Teens Talk Middle School: 101 Stories of Life, Love, and Learning for Younger Teens
+l bn_1861	Title	Clean And Repair Registry: An Introductory Guide for Learning About Regisrty Cleaners, Repair, Errors, Tools, How To Clean, Best Cleaners And More!
+l 1389	title	Advances in Learning Classifier Systems
+object left	has	l 6091
+l 3185	title	Advances in Machine Learning and Data Mining for Astronomy  
+l 643	Description	Paras P. is the most correct person in Trinidad, shown by the popularity of his "Centre of Correctness." This candid autobiography illustrates how Paras' whole life has been geared to being "proper," from early days learning the Queen's English to life as the most upright of politicians. Pity that Paras never noticed the laughter and ridicule permeating all the tapes he has of his doings... Full of wit and wisdom, "The Autobiography of Paras P." is a tongue-in-cheek glimpse into the life of one man who honestly believes he is the last bastion of morality in Trinidad.
+object left	has	l 5847
+object left	has	l 2846
+object left	has	l bn_2930
+l 651	Title	Learning Macromedia Fireworks 8
+l 7554	Title	VAP GUIDE Learning How to Work at Home as Virtual Assistant made easy for Filipinos
+l 1073	Description	Phoolan Devi was born into a poor, low-caste family in Uttar Pradesh, living in a world that gave more respect to a stray dog than to a woman. At 11, she was married off and endured beatings, rapes and persecution. She survived being kidnapped by bandits and became one of them, learning how to shoot like a man. She also found love for the first time, but her lover was brutally murdered. Without his protection, she was paraded naked through villages and gang-raped; but she survived and for three years claimed retribution for herself and all low-caste women, before negotiating her own surrender. After 11 years in prison, she is now free to tell her own story.
+object left	has	l bn_2195
+l 1641	Description	It all began with a dream. A young woman saw a white tiger leap into her lap. It was both auspicious and unlucky -- her son, the fortune-teller said, would grow up with no brothers, and his father's health would be endangered by his birth. That son, however, would have a distinguished career, after going through many misfortunes and dangers.The dream was prophetic. The child was his mother's only male child and his father died of illness when the boy was only five. He grew up during the wartime and period of political turmoil in China, passing through many troubles, and he has had a very distinguished career. He is Yang Xianyi, renowned scholar, translator and interpreter of Chinese and Western literature. This delightful memoir of Yang Xianyi gives a candid and entertaining account of himself as a lighthearted and mischievous young man who immersed himself in the learning of European culture, ancient and modern, when he studied at Oxford in the 1930s. But it is also the illuminating self-portrait of a deeply patriotic intellectual living in a China under the throes of change, giving rare insight into the survival of a courageous, witty and principled individual during the harsh century of Chinese liberation.
+l bn_2836	Title	Learning Haskell Data Analysis
+object left	has	l 917
+object left	has	l 3505
+object left	has	l 4844
+object left	has	l 8211
+l 7739	Title	Learning Android programming using Android Studio 
+l 6376	Title	Programming for Engineers: A Foundational Approach to Learning C and Matlab
+l 5366	Title	Machine Learning and Data Mining for Computer Security: Methods and Applications 
+object left	has	l 1661
+object left	has	l 651
+l 1080	Title	Learning Networks: A Field Guide to Teaching and Learning On-Line
+l 6091	Title	Innovative Approaches for Learning and Knowledge Sharing: First European Conference on Technology Enhanced Learning, EC-TEL 2006, Crete, Greece, ... 
+l 2524	title	A First Course in Machine Learning  
+l 1617	title	Ontology Learning and Knowledge Discovery Using the Web: Challenges and Recent Advances  
+l 39	Title	How to Design Self-Directed and Distance Learning Programs: A Guide for Creators of Web-Based Training, Computer-Based Training, and Self-Study Materials
+object left	has	l 199
+object left	has	l 8325
+l 5336	Title	Learning Unity iOS Game Development
+object left	has	l 2221
+l 5890	Title	Smart Learning Objects for Smart Education in Computer Science: Theory, Methodology and Robot-Based Implementation
+object left	has	l 7739
+l 2718	Title	Talking to Siri: Learning the Language of Apple's Intelligent Assistant 
+object left	has	l 1514
+object left	has	l bn_2648
+object left	has	l 5342
+l 742	title	Learning WCF: A Hands-on Guide
+object left	has	l 2708
+object left	has	l 8401
+l 1060	Series	The John D. and Catherine T. MacArthur Foundation Series on Digital Media and Learning
+l 1491	Description	Bill Snyder in this autobiographical journey through the heavens recounts his struggles with open heart surgery, learning disabilities and how he has triumphed over these trials.
+l 200	Description	(Book). By age 16, Pat Martino was already working as a member of R&B star Lloyd Price's touring musical revue. By age 18, Martino moved to Harlem, where he quickly earned a reputation as a hard-bopping six-stringer with formidable chops through a series of apprenticeships with the likes of honking tenor saxophonist Willis "Gaitor Tail" Jackson and Hammond B-3 organ master Jack McDuff. Martino made his auspicious debut as a leader at age 22 with 1967's El Hombre on Prestige and followed with a string of potent recordings for the label that further established him as one of the most distinctive guitar voices on the jazz scene. Then, at the peak of his powers, the bottom fell out. In 1980, he underwent surgery as the result of a nearly fatal brain aneurysm. The surgery left him without any memory of the guitar or his musical career. From that point, Martino undertook the long process of recovery, eventually learning how to play the guitar again; but more important, learning to transcend the instrument itself and live his life completely in the moment. More than just the remarkable story of one of the most original and profoundly influential guitarists in jazz history, this extraordinarily revealing autobiography is also a survival manual, of sorts, in overcoming incredible adversity and learning to live in the here and now.
+l 8308	Title	Ruby: Crash Course - The Ultimate Beginner's Course to Learning Ruby Programming in Under 12 Hours
+l 2839	Title	Network Science, A Decade Later: The Internet and Classroom Learning
+l 8327	Title	IOS Programming For Beginners: The Simple Guide to Learning IOS Programming Fast!
+l 8324	Title	Android Programming For Beginners: The Simple Guide to Learning Android Programming Fast!
+l bn_638	Title	Learning SQL on SQL Server 2005
+object left	has	l bn_624
+l 4844	Title	Working at a Small-to-Medium Business or ISP, CCNA Discovery Learning Guide
+l 2193	title	Learning and Adaption in Multi-Agent Systems: First International Workshop, LAMAS 2005, Utrecht, The Netherlands, July 25, 2005, Revised Selected ... / Lecture Notes in Artificial Intelligence)
+object left	has	l 5986
+object left	has	l bn_880
+l 4372	Title	Advanced Analytics with Spark: Patterns for Learning from Data at Scale
+object left	has	l 1889
+l 2474	title	Data Mining: Practical Machine Learning Tools and Techniques 3th   edition Text Only
+object left	has	l 2839
+l 3729	Description	Ely Green was born in Sewanee, Tennessee, in 1893. His father was a member of the white gentry, the son of a former Confederate officer. His mother was a housemaid, the daughter of a former slave. In this small Episcopal community--home to the University of the South--Ely lived his early childhood oblivious to the implications of his illegitimacy and his parentage. He was nearly nine years old before he realized that being different from his white playmates was of any real significance.An incident at a local drugstore marked the beginning of what would be a painful rite of passage from an idyllic childhood through a tormented adolescence as Ely struggled to understand why he could not wholly belong to either his father's world or his mother's. "I was having a struggle within," he writes, ". . . learning to hate white people after I had been taught that they were all God's children and we are to love everybody." At age eighteen, still warring to reconcile one part of himself with the other, he fled the mountains of Tennessee--and a brewing lynch mob--for the plains of Texas and a new beginning. Straightforwardly recounting his early life, rising above bitterness and pain, Ely Green gives his readers an astoundingly honest and poignant portrait of a young man trying to come to terms with race relations in the early twentieth-century South.
+l 2898	Description	Those interested in the development of scientific theory and in the nature of academic life will appreciate this intellectual autobiography written by one of America's leading sociologists. Following his family tradition (The Education of Henry Adams was written by his great-uncle), George Caspar Homans describes how his ideas about the proper nature of theory in social science, both in form and content, have developed over time. The chief interest of the book lies in the description of this process. Homans' career has spanned many of the key periods of development in social research, and his own work has been central to the process. He was the first major sociologist to outline the sociological implications of psychologists' work on learning or behavior theory. His contributions to modern sociology have had a major impact on the study of small groups, the problem of theory and methods of theory construction, and the study of basic characteristics of social behavior. He is regarded as the father of social exchange theory. Homans considers academic and intellectual as well as nonacademic influences on his development: personalities of highly idiosyncratic individuals against whose views of culturalism, functionalism, and structuralism he reacted, discussions with colleagues, reading, as well as his ancestry, his childhood in Boston, his literary education and later social-life in Boston, and his experiences as a sea captain in the Navy in World War II. This is an absorbing book, both an autobiography and a history of the development of the social sciences in the post World War II era.
+object left	has	l bn_1029
+object left	has	l 2197
+l 5832	Title	Intelligent Data Engineering and Automated Learning -- IDEAL 2014: 15th International Conference, Salamanca, Spain, September 10-12, 2014, Proceedings ... Applications, incl. Internet/Web, and HCI)
+l 56	Description	(Berklee Press). Winner "Best Book of the Year" 2014 award from the Jazz Journalists Association. In Learning to Listen, Gary Burton shares his 50 years of experiences at the top of the jazz scene. A seven-time Grammy Award-winner, Burton made his first recordings at age 17, has toured and recorded with a who's who of famous jazz names, and is one of only a few openly gay musicians in jazz. Burton is a true innovator, both as a performer and an educator. His autobiography is one of the most personal and insightful jazz books ever written.
+object left	has	l 5319
+l 4050	Title	New Perspectives on Affect and Learning Technologies 
+object left	has	l bn_1228
+l bn_1849	Title	Machine Learning in Python: Essential Techniques for Predictive Analysis
+object left	has	l 326
+l bn_624	Title	Data Mining: Practical Machine Learning Tools and Techniques / Edition 3
+object left	has	l 2474
+l 5328	Title	Learning LEGO Mindstorms EV3
+l 1661	Description	A Little Learning The author's childhood was warm, bright and serene. The Hampstead and Lancing schooldays which followed were sometimes agreeable, but often not. His life at Oxford - which he evokes in Brideshead Revisited - was essentially a catalogue of friendship. This title presents a portrait of his recollection of those hedonistic days. Full description
+l 5962	Title	Advanced Lectures on Machine Learning: Machine Learning Summer School 2002, Canberra, Australia, February 11-22, 2002, Revised Lectures 
+object left	has	l BN1912
+object left	has	l 1531
+object left	has	l 8308
+l 4130	Title	Learning Spark: Lightning-Fast Big Data Analysis
+object left	has	l 1309
+l 2083	title	Machine Learning and Data Mining for Computer Security: Methods and Applications  
+object left	has	l 2786
+l 2686	title	Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics: 11th European Conference, EvoBIO 2013, Vienna, Austria, April 3-5, 2013, ... Computer Science and General Issues)
+object left	has	l 4262
+l 5591	Title	Moodle E-Learning Course Development: A complete guide to successful learning using Moodle
+object left	has	l bn_1269
+object left	has	l 6975
+object left	has	l 8419
+object left	has	l 4407
+l 4229	Series	Computer-Supported Collaborative Learning Series (Book 15)
+object left	has	l 2686
+object left	has	l 427
+object left	has	l 8294
+object left	has	l bn_683
+object left	has	l 1563
+l bn_683	Title	Learning to Use dBASE IV Version 1.1
+object left	has	l 116
+object left	has	l 3629
+object left	has	l 8327
+l 2239	Title	Microsoft® Windows® Scripting Self-Paced Learning Guide
+object left	has	l 742
+object left	has	l BN2578
+l 8340	Title	HTML: Learn HTML The Smart Way! HTML for Beginners Guide to: Learning HTML, HTML & CSS, & Web Design 
+l 1992	Description	Alone after his mother’s death, homeless in a Minnesota winter, young Gordon struggled to stay in school, working at menial jobs and riding streetcars all night to escape the cold. Refusing to succumb to despair, he instead transformed his anger at poverty and racism into a creative force and went on to break down one barrier after another. He was the first black photographer at Vogue and Life, and the first black screenwriter and director in Hollywood, at the helm of such projects as the award-winning Shaft . And his novel, The Learning Tree, has sold more than a quarter of a million copies. Spanning the major events of five decades, Voices in the Mirror takes readers from Minnesota and Washington, D.C., to the glamour of Paris and the ghettos of Rio and Harlem. His intimate portrayals of Ingrid Bergman and Roberto Rossellini; of the Muslim and African American icons Malcolm X, Elijah Muhammad and Muhammad Ali; of the young militants of the civil rights and black power movements; and of the tragic experiences of the less famous, like the Brazilian youngster Flavio, combine to form an unforgettable story. Gordon Parks’s life is a metaphor for the courageous vision and extraordinary resilience of the African American community, while also serving as a testament to the spirit and generosity that are its hallmarks.
+object left	has	l 6470
+object left	has	l 4196
+object left	has	l 2127
+object left	has	l bn_1527
+l 5339	Title	Learning Puppet for Windows Server
+l 7774	Title	Python Programming In A Day 2nd Edition: Beginners Power Guide To Learning Python Programming From Scratch 
+object left	has	l 2190
+l 8325	Title	Computer Hacking: The Crash Course Guide to Learning Computer Hacking Fast & How to Hack for Beginners
+object left	has	l 2349
+object left	has	l 1772
+l 2826	title	Learning Classifier Systems: 11th International Workshop, IWLCS 2008, Atlanta, GA, USA, July 13, 2008, and 12th International Workshop, IWLCS 2009, ... / Lecture Notes in Artificial Intelligence)
+l bn_2276	Title	Learning Big Data with Amazon Elastic MapReduce
+l 5172	Title	Cases on Online and Blended Learning Technologies in Higher Education: Concepts and Practices
+l 5144	Title	Learning Objects for Instruction: Design and Evaluation
+l 4262	Title	Learning C# Programming with Unity 3D
+object left	has	l 3361
+l bn_880	Title	Machine Learning and Data Mining for Computer Security: Methods and Applications / Edition 1
+object left	has	l bn_1861
+object left	has	l 898
+object left	has	l 8082
+l 1309	title	Machine Learning and Knowledge Discovery in Databases: European Conference, Antwerp, Belgium, September 15-19, 2008, Proceedings, Part II  
+l bn_1775	Title	Learning and Modeling with Probabilistic Conditional Logic
+l 8401	Title	Html: Crash Course - The Ultimate Beginner's Course to Learning Html & CSS Programming in Under 12 Hours
+object left	has	l 1992
+l bn_1351	Title	Learning SAS by Example: A Programmer&#039;s Guide / Edition 1
+object left	has	l 1421
+l 3175	authors	Inc., Kogent Learning Solutions;
+object left	has	l 901
+object left	has	l bn_1256
+object left	has	l 1080
+l 320	title	The Design and Management of Effective Distance Learning Programs
+l bn_1163	Publisher	Cengage Delmar Learning
+object left	has	l 8179
+object left	has	l 8249
+l 2695	title	Introduction to Statistical Relational Learning  
+l 1775	Title	Learning and Practicing Econometrics, Shazam Handbook
+object left	has	l 1955
+l 6263	Title	Learning Spaces: Interdisciplinary Applied Mathematics
+l bn_1354	Author	Logical Operations,  Pc Learning Labs
+l 2844	Title	Learning Together Online: Research on Asynchronous Learning Networks
+l 3250	title	Data Mining: Practical Machine Learning Tools and Techniques, Third Edition   3rd   Edition by Witten, Ian H., Frank, Eibe, Hall, Mark A. published by Morgan Kaufmann  
+object left	has	l 3695
+object left	has	l 4590
+l 8326	Title	JAVA Programming for Beginners: The Simple Guide to Learning JAVA Programming fast!
+l 4290	Title	Learning in Metaverses: Co-Existing in Real Virtuality
+object left	has	l BN0754
+l 647	Title	Learning Computer Applications: Projects and Exercises 
+l 5220	Title	Serious Game Design and Development: Technologies for Training and Learning 
+l 634	title	Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics: 10th European Conference, EvoBIO 2012, M��_��_laga, Spain, April 11-13, 2012, ... Computer Science and General Issues)
+object left	has	l bn_2386
+object left	has	l 647
+object left	has	l 5907
+l 4914	Title	SharePoint 2007 User's Guide: Learning Microsoft's Collaboration and Productivity Platform
+l 3505	title	Data Mining and Machine Learning in Cybersecurity
+object left	has	l 3579
+l 6289	Title	Logical and Relational Learning 
+l 7335	Title	Learning Autodesk 3ds Max 2014 Essentials - Revealed!
+l 8419	Title	Learning C as a Language
+object left	has	l bn_2177
+l 5517	Title	Networked Learning
+l bn_1292	Title	Machine Learning and Data Mining in Pattern Recognition: 5th International Conference, MLDM 2007, Leipzig, Germany, July 18-20, 2007, Proceedings / Edition 1
+object left	has	l bn_1721
+object left	has	l 1073
+object left	has	l 5220
+object left	has	l bn_638
+object left	has	l 6206
+object left	has	l 4037
+l bn_1749	Publisher	CENGAGE Learning
+l 4011	Title	Introduction to Computer Graphics: A Practical Learning Approach 
+l 2324	Title	Autobiography of an Ex-white Man: Learning a New Master Narrative for America
+l 6975	Title	Learning Oracle 11g: A PL/SQL Approach
+l bn_2572	Title	Databases with Access: Learning Made Simple
+l 8294	Title	Python: The Definitive Guide to Learning Python Programming for Beginners 
+object left	has	l bn_2250
+l 1531	title	Data Mining with R: Learning with Case Studies��_��_��_    
+object left	has	l 8380
+object left	has	l 6412
+object left	has	l 4081
+object left	has	l 1278
+object left	has	l bn_1749
+object left	has	l 7554
+l bn_2250	Title	PC Learning Labs Teaches Visual Fox Pro 3.0
+l 2190	title	Machine Learning Forensics for Law Enforcement, Security, and Intelligence
+object left	has	l 2817

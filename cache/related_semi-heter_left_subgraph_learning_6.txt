@@ -1,0 +1,31 @@
+l 587	Description	The fascinating autobiography of Marius Barnard, who performed the world s first human heart transplant with his brother Chris. He was also an MP for the Progressive Federal Party, he worked to improve cardiac surgery standards behind the Iron Curtain and globally, and he played a leading role in the creation of critical illness insurance his invention, and one that has played a significant part in creating protection insurance policies with local and international companies to the direct benefit of the sick and ailing.From his humble beginnings in the Karoo town of Beaufort West to his position as one of the world s leading cardiac surgeons, this book is a fascinating account of his life and work, and his relationships with his brother, his colleagues and his adversaries. With candor, authenticity and charm it brings to life the spellbinding successes and formidable challenges of this international medical icon and gives new and startling insights into the first human heart transplant.
+l BN1354	Author	Pat Conroy
+l 8106	Title	A Joosr Guide to... The Innovators by Walter Isaacson: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution
+l 5880	Author	Andreas Holzinger# Carsten Röcker# Andreas Holzinger# Martina Ziefle# Carsten Röcker
+object left	has	l 2711
+l 4679	Author	Jessica Litman
+l bn_96	Author	Paul Wilton,  John Colby
+l 1522	Title	Rise of the Robots: Technology and the Threat of a Jobless Future
+object left	has	l 1366
+l bn_694	Title	Delphi COM Programming
+l 1729	Title	The History of Neuroscience in Autobiography:
+l BN0614	Title	Shadow Kiss (Vampire Academy Series #3)
+object left	has	l 604
+l 174	Title	CompTIA Security+ Certification Study Guide 
+object left	has	l 7183
+l 906	Description	This is not an autobiography in the ordinary sense of the word, as it contains no history of the events of Richard Jefferies' life. It is not concerned with his birth or marriage, his actions or fortunes but is an outpouring of his soul. Like many others, Jefferies found himself at odds with the world. He saw the beauty of the land, the grandeur of the sea, the interest of life - above all of human life - but he was not satisfied. He longed for more beauty, a fuller grandeur, a deeper interest. This feeling completely mastered him, and in this book, first published in 1883, he poured out with what strength he possessed the intensity of his longing.
+l 7393	Title	Five Reasons Why I Love My 13-inch Retina Macbook Pro
+l 512	Description	Gareth Edwards is the most famous player ever known to the game. He won 53 consecutive caps for Wales between 1967 and 1978, scored 20 international tries and represented the British Lions on three tours. He remains a household name and is universally respected. In his autobiography he speaks frankly about the changes rugby has undergone over recent years with the arrival of professionalism, and compares the rugby world of his time with that of today. Offering fascinating anecdotes about the characters and events in the game and talking about his glittering career, this is the autobiography of a rugby superstar.
+l 7921	Title	Regular Expressions: For beginners and advanced level programmers.
+l bn_2056	Author	Daniel I. Joshi
+l 7157	Title	How to Start a Successful Blog in One Hour 
+l bn_2546	Author	Paolo Atzeni,  Valeria De Antonellis,  Carol Batini
+l bn_2264	Author	Albert L. Peabody,  Richard H. Seabrook
+object left	has	l 3975
+l 2476	publisher	Hungry Minds Inc
+object left	has	l 5567
+l 1595	Title	PDF Forms Using Acrobat and LiveCycle Designer Bible
+object left	has	l 2155
+object left	has	l 7213
+l 5698	Title	Successful Instrumentation and Control Systems Design
+l 5681	Title	Is My Cell Phone Bugged?: Everything You Need to Know to Keep Your Mobile Conversations Private

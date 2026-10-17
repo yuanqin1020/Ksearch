@@ -1,0 +1,35 @@
+object right	has	r 5112
+r miss_congeniality	Description	Golden Globe-nominee Sandra Bullock ('Miss Congeniality' 1 & 2, 'Crash') stars in this comedy about an FBI agent who goes undercover as a beauty contestant to thwart the efforts of a terrorist threatening to blow up the Miss USA Pageant. Co-starring Academy Award and Golden Globe-winner and Emmy-nominee Michael Caine ('Batman Begins' 'The Cider House Rules'), Academy Award-nominee and Emmy and Golden Globe-winner Candice Bergen (TV's 'Boston Legal,' 'The In-Laws'), Emmy and Golden Globe winner,William Shatner (TV's 'Boston Legal,' 'Showtime') and Emmy-nominee Benjamin Bratt ('Catwoman,' TV's 'Law & Order').
+object right	has	r miss_congeniality
+r b-2600	Summary	When narcotics detective Eugene "Mack" McCanick (David Morse) discovers that Simon Weeks (Cory Monteith) has been released from prison he instigates a brutal manhunt without permission from the Chief of Police (Ciaran Hinds). The frenzy of paranoia and violence that follows pushes Mack and his partner to the edge of the law. The closer Mack gets to his prey the closer he gets to a secret from his past - one that only Weeks can expose. (c) Well Go USA
+r holy_man_the_usa_vs_douglas_white	Name	Holy Man: The USA vs Douglas White
+object right	has	r dangerous_liaisons_2012
+r b-2720	Summary	don't even wanna know.(c) Well Go USA
+object right	has	r cavemen_2013
+object right	has	r b-2600
+object right	has	r 293
+object right	has	r new_world_2013
+object right	has	r b-1864
+r new_world_2013	Description	SYNOPSIS: The head of the Goldmoon crime syndicate is dead, leaving his top two lieutenants. Seizing the opportunity, the police launch an operation called 'New World,' with the perfect weapon. The boss' right hand man, Ja-sung (LEE Jung-jae, THE THIEVES), has been a deep-cover operative for 8 years, closely watched by handler Police chief Kang (CHOI Min-sik, OLDBOY). With a baby on the way, and living in mortal fear of being exposed as a mole, Ja-sung is torn between his duty and honor as a,cop, and the fiercely loyal gang members who will follow him to hell and back. (c) Well Go USA
+r 293	reviews	Perfect for USA Network's Up All Night.
+r 6213	reviews	McFarland, USA is a modern anomaly -- a Kevin Costner sports movie that's genuinely rousing.
+object right	has	r 4766
+r the_rider_and_the_wolf	Description	The is a feature documentary about the life and mysterious disappearance of Mountain Bike Hall of Fame cyclist Mike Rust. He helped form the sport of mountain biking in the USA with the stoke and technical innovations he put into action in the mountain towns of Crested Butte and Salida. He went missing without a trace in 2009 in remote part of Colorado. The mystery remains.
+object right	has	r armageddon
+r armageddon	Description	Michael Bay (The Rock) directed this science fiction action thriller in the When Worlds Collide tradition. After astronomy students discover a comet-asteroid collision, an asteroid fragment 'the size of the Super Dome' threatens. It's destroyed by a secret USA defense in space, but a large chunk veers off toward Singapore. With another asteroid 'the size of Texas' en route, a plan is devised to send oil drillers to land on the asteroid and drop a nuclear device down a 1000-foot shaft, a scheme,calculated to crack the asteroid into two halves, saving Earth. NASA begins a crash program to train beer-besotted oil roughnecks for the mission. During a stopover to refuel at the Mir Station, the space station is accidentally destroyed, so a Russian cosmonaut also joins the team. Produced by Bay, Jerry Bruckheimer (Con Air), and Gale Anne Hurd (The Relic, The Abyss). ~ Bhob Stewart, Rovi
+r b-1864	Title	Dance Party USA
+object right	has	r the_lookalike
+object right	has	r chris_spencers_minority_report
+object right	has	r the_rider_and_the_wolf
+r cavemen_2013	Description	Cavemen follows LA playboy Dean (Skylar Astin) who is fed up with one-night-stands and empty relationships and realizes that he wants something more out of life than just a party. With a little inspiration from his nine-year-old nephew and his best friend Tess (Camilla Belle), Dean decides to try his hand at finding true love for the first time - which proves to be much more difficult than he thought in modern-day Los Angeles. (c) Well Go USA
+r chris_spencers_minority_report	Description	Chris Spencer brings together a multicultural taste of the USA finding the funniest White, Brown and Yellow comics in a snapshot of America today starring: Nema Williams, Flo Hernandez and Eliot Chang.
+r 5112	movie_name	USA Ninja
+object right	has	r snow_girl_and_the_dark_crystal
+object right	has	r 6213
+r 4766	movie_name	Death Street USA
+object right	has	r holy_man_the_usa_vs_douglas_white
+r 6213	title	McFarland USA
+r dangerous_liaisons_2012	Description	A Chinese adaptation of the French novel Les Liaisons Dangereuses begins with aging socialite Mo Jieyu (Cecilia Cheung) who finds herself circling ex-boyfriend Xie Yifan (Jang Dong-kun). Mo, the rich and charming widow with a taste for pleasures, still has eyes for famous womanizer Xie, who secretly burns with love for her. And yet, in his luxurious life, Xie's new interest lies in chaste humanitarian Du Fenyu (Ziyi Zhang), who has captured his attention and earned his desire for conquest. Mo,lures Xie into a treacherous, dangerous game of hearts: win, bed, and leave Du, proving his mettle as a rogue and impossible catch. But can Xie take the honor of such a woman, without losing his own heart, as well? (c) Well Go USA
+object right	has	r b-2720
+r the_lookalike	Description	Drug lord William Spinks has a curious obsession with Sadie Hill, and uses family friends Bobby and Frank (John Corbett and Jerry O'Connell) to get to her. But when Sadie's death jeopardizes a major deal, Bobby and Frank set out to find a replacement - a lookalike (Gillian Jacobs) - to fool Spinks. The shady plan propels an ex-basketball champion, a deaf beauty, an addict, and an aspiring actress into an unlikely romance and a desperate quest to start over.(C) Well Go USA
+r snow_girl_and_the_dark_crystal	Description	Directed by Academy Award Winner, Peter Pau, Snow Girl and the Dark Crystal is a fantasy adventure about the legendary hero Zhong Kui, a fabled warrior with mysterious powers who is forced to concur the realms of Heaven and Hell to save his people and the woman he loves. Starring: Li Bingbing and Kun Chen (C) Well Go USA

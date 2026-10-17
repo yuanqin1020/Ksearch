@@ -1,0 +1,240 @@
+l 1021	name	Foerster Student Services Center
+l 926	name	Options Center
+table data/geo-heter/left	has	l 28
+l 2225	name	Jewish Community Center
+table data/geo-heter/left	has	l 1999
+l 1453	name	Dormont Municipal Center
+table data/geo-heter/left	has	l 1662
+l 398	name	Greentree Road Shopping Center
+l 1969	name	rlington Recreation Center
+table data/geo-heter/left	has	l 2436
+table data/geo-heter/left	has	l 1090
+table data/geo-heter/left	has	l 2374
+l 336	name	Pittsburgh Technology Center
+table data/geo-heter/left	has	l 777
+l 286	name	Four Gateway Center
+table data/geo-heter/left	has	l 1556
+l 240	name	Forbes Allies Center
+table data/geo-heter/left	has	l 171
+table data/geo-heter/left	has	l 1616
+l 392	name	UPMC Shadyside Family Health Center
+l 1972	name	Rankin Christian Center
+table data/geo-heter/left	has	l 1724
+l 395	name	Magee Community Recreation Center
+table data/geo-heter/left	has	l 1314
+l 617	name	BNY Mellon Center
+table data/geo-heter/left	has	l 2152
+l 119	name	wrenceville Shopping Center
+l 1986	name	PNC Firstside Center
+table data/geo-heter/left	has	l 730
+l 1999	name	Heartland Health Care Center
+table data/geo-heter/left	has	l 1419
+table data/geo-heter/left	has	l 926
+l 1774	name	Kenny's Nail Center
+table data/geo-heter/left	has	l 326
+l 837	name	ubavitch Center
+l 1065	name	Bernie's Photo Center
+l 728	name	K&L Gates Center
+l 1343	name	Wee Care Childrens Center
+table data/geo-heter/left	has	l 1339
+table data/geo-heter/left	has	l 1244
+l 326	name	Benedum Center
+l 1175	name	imal Care Center
+l 171	name	Pittsburgh Marriott City Center
+l 68	name	University Center
+l 2193	name	Gardner Steel Conference Center
+table data/geo-heter/left	has	l 119
+l 46	name	llegheny General Hospital Center for Children
+l 1546	name	FedEx Office Print and Ship Center
+l 1623	name	Pittsburgh Gifted Center Library
+table data/geo-heter/left	has	l 2369
+l 648	name	Parkway Center
+table data/geo-heter/left	has	l 1484
+l 1556	name	Two Chatham Center
+l 33	name	One Gateway Center
+table data/geo-heter/left	has	l 1938
+l 1422	name	Homecraft Building Center
+l 2142	name	Saint Elizabeth Ann Seton Parish Administratve Center
+l 777	name	Islamic Center of Pittsburgh
+l 323	name	2 Allegheny Center
+table data/geo-heter/left	has	l 1546
+table data/geo-heter/left	has	l 1549
+table data/geo-heter/left	has	l 2058
+l 1054	name	Quality Inn University Center
+l 749	name	Gateway Center Post Office
+table data/geo-heter/left	has	l 1446
+l 1938	name	isual Arts Center
+l 2152	name	K. Leroy Irvis Science Center
+l 1197	name	The Book Center
+l 2265	name	Waterfront Power Center
+table data/geo-heter/left	has	l 1220
+table data/geo-heter/left	has	l 242
+l 1662	name	Newman Chiropractic Center
+table data/geo-heter/left	has	l 2154
+l 496	name	UCP Community Service Center
+l 1244	name	Sunny Days Child Care and Learning Center
+l 801	name	Wyndham Pittsburgh University Center
+table data/geo-heter/left	has	l 687
+table data/geo-heter/left	has	l 1553
+table data/geo-heter/left	has	l 564
+table data/geo-heter/left	has	l 2265
+l 1007	name	wrenceville's Smile Center
+l 242	name	Center Point Convenience Store
+table data/geo-heter/left	has	l 108
+l 255	name	llegheny Center Alliance Church
+l 753	name	Childrens Center of Pittsburgh
+table data/geo-heter/left	has	l 1969
+table data/geo-heter/left	has	l 2010
+table data/geo-heter/left	has	l 1826
+l 672	name	Mercy Behavioral Health Center Reedsdale Street
+table data/geo-heter/left	has	l 2082
+l 730	name	John Heinz Pittsburgh Regional History Center
+l 2436	name	Space Research Coordination Center
+table data/geo-heter/left	has	l 924
+table data/geo-heter/left	has	l 186
+table data/geo-heter/left	has	l 1175
+table data/geo-heter/left	has	l 255
+table data/geo-heter/left	has	l 2067
+l 2327	name	Schenley Park Caf and Visitor Center
+l 1314	name	Whales Tale Lawrenceville Center
+l 147	name	Hampton Inn Pittsburgh University/Medical Center
+l 2374	name	Waterfront Towne Center
+l 653	name	Shannon Auto Service Center
+table data/geo-heter/left	has	l 46
+table data/geo-heter/left	has	l 454
+table data/geo-heter/left	has	l 431
+l 1687	name	incoln Center
+table data/geo-heter/left	has	l 395
+l 1809	name	Pittsburgh Cycle Center
+table data/geo-heter/left	has	l 249
+l 1135	name	Power Center
+l 1339	name	Green Tree Nature Center
+l 1419	name	Carlow Interfaith Center
+table data/geo-heter/left	has	l 274
+table data/geo-heter/left	has	l 2193
+table data/geo-heter/left	has	l 1751
+l 2003	name	Hillel Jewish University Center
+table data/geo-heter/left	has	l 240
+l 1751	name	The Medical Center East
+table data/geo-heter/left	has	l 1774
+l 2010	name	Butler St at Center St
+table data/geo-heter/left	has	l 542
+table data/geo-heter/left	has	l 1364
+table data/geo-heter/left	has	l 749
+table data/geo-heter/left	has	l 336
+table data/geo-heter/left	has	l 1422
+table data/geo-heter/left	has	l 519
+l 1919	name	Braddock Hills Shopping Center
+l 811	name	Unity Center of Pittsburgh
+l 1484	name	Jewish Community Center Nursery and Kindergarten
+l 2058	name	Pioneer Education Center
+l 1525	name	Edgewood Towne Center
+table data/geo-heter/left	has	l 2327
+table data/geo-heter/left	has	l 33
+l 1058	name	Hazelwood Senior Center
+table data/geo-heter/left	has	l 1343
+l 1616	name	PNC Center
+table data/geo-heter/left	has	l 2003
+table data/geo-heter/left	has	l 1967
+table data/geo-heter/left	has	l 648
+l 490	name	The Vision Center
+l 1271	name	Public Safety Center
+table data/geo-heter/left	has	l 1525
+l 1826	name	One Oxford Center
+table data/geo-heter/left	has	l 728
+l 1405	name	Mt. Lebanon Recreation Center
+table data/geo-heter/left	has	l 2142
+l 546	name	University Technology Development Center
+table data/geo-heter/left	has	l 748
+l 748	name	Mellon Park Tennis Center
+table data/geo-heter/left	has	l 1658
+table data/geo-heter/left	has	l 1205
+l 569	name	Sawyer School Learning Resources Center
+l 1225	name	NRG Energy Center Pittsburgh
+l 254	name	Mt. Lebanon Swim Center
+table data/geo-heter/left	has	l 1986
+l 2369	name	Elizabeth Seton Childrens Center
+table data/geo-heter/left	has	l 1271
+table data/geo-heter/left	has	l 1405
+table data/geo-heter/left	has	l 688
+table data/geo-heter/left	has	l 1225
+table data/geo-heter/left	has	l 323
+l 382	name	llegheny West Center
+l 688	name	Grow Pittsburgh Garden Resource Center
+l 564	name	Hillman Cancer Center
+table data/geo-heter/left	has	l 569
+table data/geo-heter/left	has	l 2333
+table data/geo-heter/left	has	l 68
+l 1967	name	Shady Hill Center
+table data/geo-heter/left	has	l 1687
+table data/geo-heter/left	has	l 328
+l 1712	name	South Hills Art Center
+l 1553	name	Genesis Center
+l 687	name	University Pittsburgh Childhood Development Center
+table data/geo-heter/left	has	l 382
+l 1169	name	Frick Environmental Center
+table data/geo-heter/left	has	l 392
+l 186	name	Warrington Recreation Center
+l 108	name	Carnegie Science Center
+table data/geo-heter/left	has	l 1957
+table data/geo-heter/left	has	l 753
+l 542	name	Three Gateway Center
+l 1205	name	Waterfront Drive at Recreation Center
+l 100	name	Wilkins School Community Center
+table data/geo-heter/left	has	l 490
+table data/geo-heter/left	has	l 653
+l 454	name	Sto-Rox Neighborhood Family Health Center
+l 328	name	utheran University Center
+l 1364	name	Bellevue Chiropractic Center
+table data/geo-heter/left	has	l 398
+table data/geo-heter/left	has	l 1021
+table data/geo-heter/left	has	l 1809
+table data/geo-heter/left	has	l 1185
+table data/geo-heter/left	has	l 672
+l 1519	name	Posner Center
+table data/geo-heter/left	has	l 1169
+table data/geo-heter/left	has	l 1519
+l 1955	name	O'Hara Student Center
+l 2067	name	City of Pittsburgh River Safety Center
+table data/geo-heter/left	has	l 617
+l 1833	name	gape Learning Center
+l 2333	name	PNC Investor Center
+l 1724	name	Renaissance Center
+table data/geo-heter/left	has	l 286
+table data/geo-heter/left	has	l 1197
+table data/geo-heter/left	has	l 1623
+table data/geo-heter/left	has	l 1058
+l 28	name	Pittsburgh Gifted Center
+table data/geo-heter/left	has	l 837
+l 2082	name	rt and Design Center
+l 206	name	Scott Towne Center
+table data/geo-heter/left	has	l 1007
+l 2154	name	Bible Center Church of God In Christ
+table data/geo-heter/left	has	l 1955
+table data/geo-heter/left	has	l 206
+table data/geo-heter/left	has	l 496
+l 274	name	Cheveron Science Center
+l 519	name	Pittsburgh Center for the Arts
+table data/geo-heter/left	has	l 100
+table data/geo-heter/left	has	l 1135
+table data/geo-heter/left	has	l 801
+table data/geo-heter/left	has	l 1972
+l 757	name	Gateway Center Park
+l 1957	name	Eastminster Child Care Center
+table data/geo-heter/left	has	l 811
+table data/geo-heter/left	has	l 1054
+l 1549	name	Bradley Center at Mount Lebanon
+table data/geo-heter/left	has	l 1453
+table data/geo-heter/left	has	l 1065
+l 924	name	Two North Shore Center
+table data/geo-heter/left	has	l 757
+table data/geo-heter/left	has	l 1833
+l 431	name	One North Shore Center
+l 1220	name	Cost Sports Center
+table data/geo-heter/left	has	l 1712
+l 1185	name	Browns Hill Center
+l 249	name	Two Gateway Center
+table data/geo-heter/left	has	l 546
+table data/geo-heter/left	has	l 254
+table data/geo-heter/left	has	l 147
+l 1090	name	National Robotics Engineering Center

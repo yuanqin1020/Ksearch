@@ -1,0 +1,154 @@
+l BN1895	Author	Nancy Holder
+object left	has	l 6750
+object left	has	l 1250
+object left	has	l BN0803
+l 2223	Description	This is the annotated edition of novelist/journalist Rebecca Harding Davis s 1904 autobiography, "Bits of Gossip," and a previously unpublished family history written for her children. The memoirs are not traditional autobiography; rather, they are Davis's perspective on the extraordinary cultural changes that occurred during her lifetime and of the remarkable--and sometimes scandalous--people who shaped the events. She provides intimate portraits of the famous people she knew, including Emerson, Hawthorne, Louisa May Alcott, Ann Stephens, Oliver Wendell Holmes, and Horace Greeley. Equally important are Davis's commentaries on the political activists of the Civil War era, from Abraham Lincoln to Booker T. Washington, from the "daughters of the Southland" to Lucretia Mott, from Henry Ward Beecher to William Still.
+l 1805	Author	Nancy B. Stern
+object left	has	l 3514
+l 6750	Author	ThoughtWorks Technology Advisory Board# Neal Ford# Pramod Sadalage# Neal Ford# Nick Hines# Pramod Sadalage# Mike Mason# Nick Hines# Martin Fowler# Mike Mason# Rebecca Parsons# Martin Fowler
+l 2064	Author	Nancy Duarte
+object left	has	l 1065
+l 1237	authors	Rebecca Bond;Kevin Yeung-Kuen See;Carmen Ka Man Wong;
+l 574	Description	'I was never a great amorist, ' wrote H. G. Wells in his Experiment in Autobiography in 1934, 'though I have loved several people very deeply.' H. G. Wells composed his most candid volume of autobiography, H. G. Wells in Love, secretly, knowing it would never be published in his own lifetime. It is a great writer's true confession of the loves of his life, beginning in the 1930s when Wells was at the summit of fame having published The Invisible Man, Kipps, and The War of the Worlds. Though he had already written his published autobiography (the two volumes of Experiment in Autobiography are also available as Faber Finds), he saved his most private reflections for this, detailing his engagement in a series of romantic affairs, including his famous liason with feminist author Rebecca West, twenty-six years his junior, and his second wife, Amy Catherine Robbins. This volume completes and complements the published volumes and offers a unique insight into the life of one of the best-loved of British writers.
+object left	has	l BN0462
+l 1838	SecondAuthor	Nancy Mitford
+object left	has	l 1537
+l BN0462	Author	Rebecca Donovan
+object left	has	l 715
+object left	has	l 4507
+l 2578	Author	Roger Arrick# Nancy Stevenson
+l 1838	Description	Nancy Mitford was witty, intelligent, often acerbic, a great tease and an acute observer of upper-class British idiosyncrasies. With the publication of "The Pursuit of Love" and "Love in a Cold Climate" (advised by Evelyn Waugh), she became a huge bestselling author and has remained a household name ever since. A few years before she died, she had started to collect material and letters to use for an autobiography. Her devastating illness prevented her from writing this memoir, but in 1974 Harold Acton, her close friend, completed her project on the basis of what she had collected in a work that is a witty tribute to her larger-than-life personality.
+l 1720	Author	James E. Hunton# Stephanie M. Bryant# Nancy A. Bagranoff# Stephanie M. Bryant
+object left	has	l 473
+object left	has	l 2223
+object left	has	l 2064
+l 942	authors	Rebecca M. Riordan;
+l 1451	SecondAuthor	Nancy Price Graff
+l 6603	Author	Rebecca M. Riordan
+object left	has	l 6603
+l BN2518	Author	Nancy Werlin
+l BN0899	Author	Rebecca Elliott Ph.D.
+l 435	Description	From pony to airplane, from medicine dance to Christian worship, Mountain Wolf Woman, Sister of Crashing Thunder is the life story of a Winnebago woman, told in her own words to her adopted kinswoman, Nancy Lurie. This retelling of more than seventy-five years of Native American life is both a candid and compelling account of how one woman lived through a period of cultural crisis. Mountain Wolf Woman tells of her childhood in Wisconsin, her brief stay at a mission school, her marriage to "Bad Soldier," and her religious experiences with peyote. Her struggle to maintain her family against many hardships---odds that would have defeated a less vigorous and self-confident person---underscores her perseverance and tenacity. Whether she is describing her wanderings as a child or her misfortunes later in life, Mountain Wolf Woman sets forth her views in honest and perceptive terms, adding all the more power to her narrative. This book is a valuable companion to the story of Mountain Wolf Woman's brother, immortalized by Paul Radin in Crashing Thunder , a classic of anthropological literature. It will also be of interest to those interested in ethnographic records, the role of women in native cultures, and Midwestern Native Americans, in general. " . . . a superb human document." --- Chicago Sun-Times " . . . one of those rare books . . . ." --- Saturday Review ". . . a notable contribution to the literature of culture change and culture and personality." --- American Anthropologist Nancy O. Lurie has written extensively on Native American culture over her long career. She is now retired from her former position as head curator of anthropology, Milwaukee Public Museum.
+l 1111	Author	Paul Benedetti# Nancy DeHart# Paul Benedetti
+l BN0133	Author	Nancy Farmer
+l 1190	Author	Samuel C. McQuade III# James P. Colt# Samuel C. McQuade III# Nancy Meyer# James P. Colt
+l 2206	Description	Often, and happiest, acting with her adored husband of 50 years, Michael Denison, Dulcie Gray has been seen in roles as varied as Candida and Miss Marple, Mrs Candour and the White Queen in "Alice Through the Looking Glass". Her childhood, divided between the Malaya of Maugham's short stories and a succession of English boarding schools, equipped her to be adaptable and, after running away from home to be a school teacher in the jungle, she came to England on a visit which became permanent. Her acting career, which began almost by accident on the outbreak of World War II has embraced the West End stage as well as many provincial and overseas tours, filming with James Mason and Jack Hawkins, and innumerable radio and television appearances. She was in the BBC's first radio soap opera, "Front Line Family", designed to boost wartime morale, and most recently features as Kate Harvey in six series of "Howards Way" on television. Dulcie Gray writes of the friendships she and Michael Denison have shared with Noel Coward, J.B.Priestley, Rebecca West and Laurence Olivier, of being directed by John Gielgud and Peter Hall, of the sheer fun of acting with Margaret Lockwood and Hermione Baddeley, or sharing a provincial dressing room with Evelyn Laye.
+l 473	authors	Rebecca M. Riordan;Rebecca Riordan;
+l 674	Author	Larry E. Long# Nancy Long# Larry Long# Larry E.  Introduction to Computers and Information Systems Long# Larry Long
+object left	has	l 2701
+l 1799	authors	Nancy Conner;
+l 8034	Author	Rebecca Dwight
+l 3491	FirstAuthor	Rebecca Walker
+object left	has	l 1475
+object left	has	l 3491
+l 779	Author	Robert T. Grauer# Mary Anne Poatsy# Cynthia Krebs# Mary Anne Poatsy# Lynn Hogan# Cynthia Krebs# Rebecca Lawson# Lynn Hogan
+l bn_2425	Author	Shelley Gaskin,  Carolyn McLellan,  Nancy Graviett
+l 2701	Author	Eric Butow# Rebecca Bollwitt
+object left	has	l 8034
+l 4509	Author	Nancy J. Yeager# Robert E. McGrath
+object left	has	l 1542
+l 1542	FirstAuthor	Rebecca Olien
+l 713	Author	Shelley Gaskin# Nancy Graviett# Shelley Gaskin# Catherine Laberta# Nancy Graviett# Robert Ferrett# Catherine Laberta# Alicia Vargas# Robert Ferrett# Carolyn McLellan# Alicia Vargas
+l 1154	Author	Rebecca Lemov
+object left	has	l BN0899
+object left	has	l 1720
+object left	has	l 4257
+l 1065	Description	Rebecca Nachman is a Rabbi without a synagogue. Having resigned from her dwindling congregation, she now works as a college counselor at a small Vermont college advising students about private matters and offering the "Jewish perspective" on issues raised at faculty dinner parties. Deeply lonely and on the edge of losing her faith, she comes into possession of a Torah, the last relic of Czechowa, a village of Polish Jews who were exterminated by the Nazis. With the Torah, the unquiet spirits of the village dead begin to visit Rebecca. On one visit they leave a manuscript written in Hebrew and titled My Life, an autobiography by God who, like any eager author, is seeking a sympathetic reader. No one has ever finished reading the manuscript, including Thomas Aquinas, Martin Luther, Maimonides, and Augustine. God thinks Rebecca will. Rebecca's life is further complicated when one of her advisees-a troubled young woman who seemed on the verge of confessing something-is found murdered. As the college struggles to comprehend the tragedy and a police investigation is launched, Rebecca begins reading, and so comes to confront the central challenge to her faith in His most troubling and unlikely incarnation. Julius Lester's first adult novel in more than a decade, The Autobiography of God marks the return of an utterly original and provocative voice in American letters, addressing religion with wicked humor and profound reverence.
+object left	has	l 713
+object left	has	l 5682
+object left	has	l 2342
+l 3671	SecondAuthor	Nancy Richardson Fischer
+l 7598	Author	Nancy L. Hendrickson
+l BN2829	Author	Rebecca Phillips
+l 3093	authors	Nancy D. Griffeth;
+l 2486	Author	Nancy Moore
+object left	has	l 7290
+object left	has	l 7049
+object left	has	l 683
+object left	has	l BN2896
+l 7290	Author	Nancy Frey# Doug Fisher# Alex Gonzalez# Doug Fisher
+l 4257	Author	Rebecca Herold# Christine Hertzog
+object left	has	l 2032
+object left	has	l 1111
+object left	has	l BN2829
+l 3593	Description	Tor Classics are affordably-priced editions designed to attract the young reader. Original dynamic cover art enthusiastically represents the excitement of each story. Appropriate "reader friendly" type sizes have been chosen for each title--offering clear, accurate, and readable text. All editions are complete and unabridged, and feature Introductions and Afterwords. This edition of Black Beauty includes a Foreword, Biographical Note, and Afterword by Nancy Springer.
+l 1898	ThirdAuthor	Nancy Scott
+object left	has	l 7856
+object left	has	l 3671
+object left	has	l bn_171
+l BN0803	Author	Nancy Garden
+object left	has	l 8464
+object left	has	l bn_1341
+l 6851	Author	Nancy Drove
+l 4229	Author	Daniel D. Suthers# Kristine Lund# Daniel D. Suthers# Carolyn Penstein Rosé# Kristine Lund# Chris Teplovs# Carolyn Penstein Rosé# Nancy Law# Chris Teplovs
+object left	has	l 1898
+l 569	Description	The Gestapo called her the White Mouse. Nancy Wake, an Australian who became one of the most highly decorated women of World War II, here tells her own story. After living and working in Paris in the 1930's, Nancy married a wealthy Frenchman and settled in Marseilles. Her idyllic new life was ended by World War II and her work with an escape-route network for Allied soldiers. Eventually Nancy had to escape from France herself to avoid capture by the Gestapo. In London she trained with the Special Operations Executive as a secret agent and saboteur before parachuting back into France. Nancy became a leading figure in the Maquis of the Auvergne district in charge of finance and obtaining arms, and heping to forge the Maquis into a superb fighting force.
+object left	has	l 1799
+l 435	FirstAuthor	Nancy Oestreich Lurie
+object left	has	l 898
+object left	has	l 2578
+object left	has	l bn_534
+l bn_1341	Author	Nancy A. Lynch,  Michael Merritt,  William E. Weihl,  Alan Fekete
+l 1838	Title	Nancy Mitford The Autobiography Edited From Nancy Mitford's Letters
+object left	has	l 1838
+l bn_1118	Author	Nancy Conner
+object left	has	l 710
+object left	has	l 4229
+l 1542	Description	Teacher and author Rebecca Olien makes writing accessible and enjoyable for young writers by offering a variety of writing prompts to spur creativity and help writers develop valuable written communication skills. Writing experiences are interwoven with other forms of artistic expression, including theatre, puppetry, and photography, as well as music, drawing, and crafts.
+object left	has	l 574
+object left	has	l 7193
+object left	has	l BN0133
+l 2576	authors	Nancy Conner;Matthew MacDonald;
+l 726	Author	Nancy M. Wilkinson
+object left	has	l 4509
+l 4507	Author	Nancy A. Lynch
+object left	has	l 726
+object left	has	l 3593
+object left	has	l BN1714
+l 272	Author	Eric Daeuber# Dan Newland# Nancy Maragioglio
+object left	has	l 1719
+l 8464	Author	Rebecca Stone
+object left	has	l 1805
+object left	has	l 6851
+object left	has	l 777
+l BN2896	Author	Nancy Springer
+l 2032	FirstAuthor	Rebecca Alston
+l 715	Author	Shelley Gaskin# Nancy Graviett# Shelley Gaskin# Donna Madsen# Nancy Graviett# Toni Marucco# Donna Madsen# Alan Evans# Toni Marucco# Kendall Martin# Alan Evans# Mary Anne Poatsy# Kendall Martin
+object left	has	l 610
+object left	has	l BN2518
+l 683	Author	Shelley Gaskin# Nancy Graviett# Alicia Vargas# Nancy Graviett
+l 3514	Description	Ronald Reagan ’s autobiography is a work of major historical importance. Here, in his own words, is the story of his life—public and private—told in a book both frank and compellingly readable. Few presidents have accomplished more, or been so effective in changing the direction of government in ways that are both fundamental and lasting, than Ronald Reagan. Certainly no president has more dramatically raised the American spirit, or done so much to restore national strength and self-confidence. Here, then, is a truly American success story—a great and inspiring one. From modest beginnings as the son of a shoe salesman in Tampico, Illinois, Ronald Reagan achieved first a distinguished career in Hollywood and then, as governor of California and as president of the most powerful nation in the world, a career of public service unique in our history. Ronald Reagan’s account of that rise is told here with all the uncompromising candor, modesty, and wit that made him perhaps the most able communicator ever to occupy the White House, and also with the sense of drama of a gifted natural storyteller. He tells us, with warmth and pride, of his early years and of the elements that made him, in later life, a leader of such stubborn integrity, courage, and clear-minded optimism. Reading the account of this childhood, we understand how his parents, struggling to make ends meet despite family problems and the rigors of the Depression, shaped his belief in the virtues of American life—the need to help others, the desire to get ahead and to get things done, the deep trust in the basic goodness, values, and sense of justice of the American people—virtues that few presidents have expressed more eloquently than Ronald Reagan. With absolute authority and a keen eye for the details and the anecdotes that humanize history, Ronald Reagan takes the reader behind the scenes of his extraordinary career, from his first political experiences as president of the Screen Actors Guild (including his first meeting with a beautiful young actress who was later to become Nancy Reagan) to such high points of his presidency as the November 1985 Geneva meeting with Mikhail Gorbachev, during which Reagan invited the Soviet leader outside for a breath of fresh air and then took him off for a walk and a man-to-man chat, without aides, that set the course for arms reduction and charted the end of the Cold War. Here he reveals what went on behind his decision to enter politics and run for the governorship of California, the speech nominating Barry Goldwater that first made Reagan a national political figure, his race for the presidency, his relations with the members of his own cabinet, and his frustrations with Congress. He gives us the details of the great themes and dramatic crises of his eight years in office, from Lebanon to Grenada, from the struggle to achieve arms control to tax reform, from Iran-Contra to the visits abroad that did so much to reestablish the United States in the eyes of the world as a friendly and peaceful power. His narrative is full of insights, from the unseen dangers of Gorbachev’s first visit to the United States to Reagan’s own personal correspondence with major foreign leaders, as well as his innermost feelings about life in the White House, the assassination attempt, his family—and the enduring love between himself and Mrs. Reagan. An American Life is a warm, richly detailed, and deeply human book, a brilliant self-portrait, a significant work of history.
+object left	has	l 1451
+object left	has	l 2174
+l 2223	Title	Rebecca Harding Davis: Writing Cultural Autobiography
+object left	has	l 1190
+l 569	FirstAuthor	Nancy Wake
+object left	has	l 2486
+l 3247	Author	Nancy C. Muir
+object left	has	l 435
+object left	has	l 2576
+l 1250	Author	Rebecca Tapley
+object left	has	l 674
+l bn_534	Author	Shelley Gaskin,  Nancy Graviett
+object left	has	l 1237
+l 8143	Author	Rebecca Dwight# Clara Stevens# Rebecca Dwight
+object left	has	l 1154
+object left	has	l 3003
+l 7193	Author	Rebecca E. Skinner
+l 710	Author	Shelley Gaskin# Nancy Graviett# Debra Geoghan
+l 1475	Author	Chris Davies# Rebecca Eynon
+object left	has	l 8143
+object left	has	l 3093
+l 5682	Author	Eric E. Otenyo# Nancy S. Lind# Eric E. Otenyo
+object left	has	l 2076
+l 898	Author	Nancy G. Leveson
+object left	has	l bn_2367
+object left	has	l 272
+l 7856	Author	Ryan Hamner# Nancy Goodlett# Ryan Hamner
+l 3003	Description	This is the first collection of essays to focus exclusively on the contribution of American women to the writing of autobiography. The Authors trace traditions of women's life-writing through three and a half centuries, from the narratives of Puritan women to contemporary multicultural literature. Contributors to the volume are major scholars in their fields: Sidonie Smith, Catharine Stimpson, Ann Gordon, Mary Mason, Nancy Walker, Kathleen Sands, Arlyn Diamond, and others whose essays all appear here for the first time. Reflecting recent theoretical approaches to autobiography, these essays draw upon work in literature, history, American studies, and religion, and treat both canonical writers of autobiography—Harriet Jacobs, Elizabeth Cady Stanton, Gertrude Stein, Mary McCarthy, Maxine Hong Kingston, and others—as well as lesser known and unknown writers. Through these lives we glimpse the wider worlds of which they were a part, including the abolition and suffrage movements, western frontier life, and the struggle for civil rights in the twentieth century. In her introduction, Margo Culley traces the dominant tradition of American women's autobiography back to the Puritan practice of "reading the self." Writing as women and expecting to be judged as such, authors from all periods exhibit ambivalence about the first person singular, yet give themselves "permission" to write in the hope that their stories will be useful to others, particularly other women. Such purpose allows these writers to indulge all the pleasures of autobiography—pleasures of language and imagination, of narrative, of reminiscence, and even egotism. Together these essays explore gender and genre as culturally inscribed, the construction of self within language systems, the nature of female subjectivity, and the shaping forces of memory and narrative as writers engage in the making of meaning and the making of history. Grounded in the multicultural reality that is America, these essays celebrate women's lives, women's autobiographical writing (including criticism), and the fea(s)ts of reading women's writing.
+l 1719	Author	Cliff Figallo# Nancy Rhine
+l bn_171	Author	Rebecca M. Riordan,  Rebecca Riordan
+object left	has	l 569
+object left	has	l 779
+l 2342	Author	Joli Ballew# Nancy Muir
+l 777	Author	Larry Long# Nancy Long

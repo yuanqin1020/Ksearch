@@ -1,0 +1,690 @@
+r 5193	title	Mac OS X 10.5 Leopard [Peachpit Learning Series]
+object right	has	r 5475
+object right	has	r B1719
+object right	has	r 6851
+r B1949	title	Learning SQL: A Step-by-Step Guide Using Access
+r 1744	title	Intelligent Data Engineering and Automated Learning - IDEAL 2000. Data Mining, Financial Engineering, and Intelligent Agents: Second International Conference Shatin, N.T., Hong Kong, China, December 13-15, 2000. Proceedings
+r B262	title	Learning Hadoop 2
+object right	has	r B2899
+r B1893	title	Machine Learning and Data Mining in Pattern Recognition: 4th International Conference, MLDM 2005, Leipzig, Germany, July 9-11, 2005, Proceedings (Lecture Notes in Computer Science)
+r 4298	title	Machine Learning for Hackers
+r 3169	Series	The John D. and Catherine T. MacArthur Foundation Reports on Digital Media and Learning
+r 5706	title	Learning Core Data for iOS: A Hands-On Guide to Building Core Data Applications
+object right	has	r 6107
+object right	has	r 1885
+r 877	publisher	CENGAGE Learning
+r 7693	Publisher	Learning Life eBooks
+object right	has	r 7712
+object right	has	r 1429
+r 9409	title	Learning XNA 4.0: Game Development for the PC, Xbox 360, and Windows Phone 7
+r 5350	title	Learning video transfer: How to learn video transfer
+object right	has	r 1357
+object right	has	r 198
+r 2434	title	Blender Foundations: The Essential Guide to Learning Blender 2.6
+r B2783	title	Beginning SAS Programming: a true beginner's guide for learning SAS
+object right	has	r 387
+object right	has	r 2641
+object right	has	r 1904
+object right	has	r B1041
+r 1172	title	Pattern Recognition and Machine Learning / Edition 1
+r 5404	title	SAP HR TIME MANAGEMENT: TECHNICAL REFERENCE AND LEARNING GUIDE
+r 1192	title	DB2 Developer's Guide: A Solutions-Oriented Approach to Learning the Foundation and Capabilities of DB2 for z/OS
+object right	has	r 9753
+r 6706	title	Learning Adobe Connect 9
+r 8669	title	Online Education And Adult Learning
+object right	has	r B1933
+r 658	title	Implementing Cisco IP Routing (ROUTE) Foundation Learning Guide: (CCNP ROUTE 300-101)
+r B1929	title	Learning C# 3.0
+object right	has	r 5402
+object right	has	r B1949
+r 563	title	Living and Learning with New Media: Summary of Findings from the Digital Youth Project
+object right	has	r 2054
+object right	has	r 9136
+r 6054	title	Learning iOS Design: A Hands-On Guide for Programmers and Designers / Edition 1
+object right	has	r B1771
+object right	has	r 1563
+r 7784	title	Learning Object-Oriented Programming
+r 8271	title	Beginners Guide To Learning Chinese
+r 1563	title	Learning OpenCV: Computer Vision with the OpenCV Library
+object right	has	r 7912
+object right	has	r 591
+r 9385	title	Learning C# 2005, 2E
+r 9136	title	Learning Kendo UI Web Development
+object right	has	r B2224
+object right	has	r 1746
+r 9584	title	Building Machine Learning Systems with Python
+object right	has	r 5082
+object right	has	r 861
+object right	has	r 432
+r 4801	title	Learning AV Foundation: A Hands-on Guide to Mastering the AV Foundation Framework
+object right	has	r 3998
+r 6505	title	Troubleshooting and Maintaining Cisco IP Networks (TSHOOT) Foundation Learning Guide: (CCNP TSHOOT 300-135)
+r 4867	title	Learning iOS 8 Game Development Using Swift
+object right	has	r B1939
+r B376	title	Data Analysis, Machine Learning and Knowledge Discovery (Studies in Classification, Data Analysis, and Knowledge Organization)
+r 5914	Series	Adaptive Computation and Machine Learning series
+r B1859	title	Powering Up: Learning to Teach Well with Technology
+object right	has	r 9385
+r 1082	publisher	Jones & Barlett Learning
+object right	has	r 9408
+object right	has	r 1524
+r B2613	title	Learning PHP 5
+r 6149	title	Learning Cocoa with Objective-C: Developing for the Mac and iOS App Stores
+object right	has	r 6402
+object right	has	r 4443
+r 2051	publisher	Mercury Learning and Information
+object right	has	r 9459
+object right	has	r 678
+object right	has	r 4166
+object right	has	r 6706
+r 768	title	Data Mining with R: Learning with Case Studies
+r HC2121	title	5th Grade Super Math Success(Sylvan Learning Math Workbooks)
+r B1499	title	Machine Learning with Spark - Tackle Big Data with Powerful Spark Machine Learning Algorithms
+r 259	title	Learning to Fly: The Autobiography
+object right	has	r 1251
+r 1887	title	Learning Guide to Access for Windows 95
+object right	has	r 1194
+object right	has	r B550
+object right	has	r B2438
+r B2584	publisher	 Mercury Learning & Information (December 15, 2011)
+object right	has	r 4141
+r 1785	title	CCNP Routing and Switching Foundation Learning Guide Library: (ROUTE 300-101, SWITCH 300-115, TSHOOT 300-135)
+r 4052	title	Easy Steps Learning Series: Easy Steps to Excel 2010
+object right	has	r B1961
+r 9753	title	Haskell School of Expression: Learning Functional Programming Through Multimedia
+object right	has	r B2439
+r 3126	title	Machine Learning / Edition 1
+r 1889	title	Learning Microsoft Office Publisher 2010, Student Edition
+r 5302	authors	Glen Durdik# MSL Made Simple Learning
+object right	has	r 218
+r 8731	title	Learning Robotics Using Python
+object right	has	r 1346
+object right	has	r B2498
+r 2054	publisher	Mercury Learning & Information
+r 9651	title	Learning XSLT
+r 2428	series	Sideris Learning Series
+object right	has	r 2964
+r B983	title	Learning to Use Wordperfect 5.0/5.1, Lotus 1-2-3 Release 2.2, and dBASE IV (Shelly Cashman Series)
+object right	has	r 2221
+r 5402	title	Learning PHP and MySQL
+r 1749	title	Intelligent Data Engineering and Automated Learning -- IDEAL 2012: 13th International Conference, Natal, Brazil, August 29-31, 2012, Proceedings
+r 1886	title	Learning Classifier Systems: 11th International Workshop, IWLCS 2008, Atlanta, GA, USA, July 13, 2008, and 12th International Workshop, IWLCS 2009, Montreal, QC, Canada, July 9, 2009, Revised Selected Papers
+object right	has	r 6866
+r 6029	title	Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies
+object right	has	r 906
+r B2899	title	Learning to Use Wordperfect, Lotus 1-2-3, and dBASE III Plus (Shelly and Cashman Series)
+r 8562	Series	Learning
+r 8117	title	Learning Cypher
+r 2987	title	Learning Java
+r 7265	title	Bayesian Reasoning and Machine Learning
+object right	has	r 6054
+object right	has	r 7474
+r 9476	Series	Guide to Learning Python
+object right	has	r 2732
+r 2729	title	Bioinformatics: The Machine Learning Approach / Edition 2
+object right	has	r B1754
+r 7101	title	Linux: Learning the Essentials
+r 9489	title	Viruses Protection: An Introductory Guide for Learning About Antivirus Protection, Best Software, Cheap, Tools,Free Services, Top 10 And Much More!
+r 9324	title	The Peep Diaries: How We're Learning to Love Watching Ourselves and Our Neighbors
+object right	has	r B2690
+object right	has	r 1110
+r B1939	title	Machine Learning in Medicine - Cookbook Three (SpringerBriefs in Statistics)
+object right	has	r 8325
+object right	has	r 3936
+r 2964	title	Learning AngularJS
+r 9976	title	Learning Nessus for Penetration Testing
+r 432	title	Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5
+object right	has	r B2145
+r 2049	title	Learning the UNIX Operating System: A Concise Guide for the New User
+r B2438	title	Learning to Use WordPerfect 5.0/5.1, Lotus 1-2-3 and Database III Plus
+object right	has	r 519
+r 1888	title	Learning IPython for Interactive Computing and Data Visualization
+r 1008	title	Learning SQL
+r 1481	title	Foundations of Rule Learning
+r 2378	title	Learning Swift Programming
+object right	has	r B1499
+r 697	publisher	National Learning Corporation
+object right	has	r 3859
+r B2255	publisher	 Cengage Learning EMEA; 1 edition (February 1, 2008)
+r 7058	title	Learning Sql Server 2008 Reporting Services
+object right	has	r 6487
+object right	has	r 1785
+object right	has	r B2668
+object right	has	r B1098
+object right	has	r 6545
+object right	has	r B1124
+object right	has	r B544
+r 5461	title	Learning Spanish
+r 4141	title	Networking for Home and Small Businesses: CCNA Discovery Learning Guide / Edition 1
+object right	has	r 9489
+r 427	title	The Future of Learning Institutions in a Digital Age
+r 4393	authors	Inc.# Kogent Learning Solutions
+r 4889	title	Mathematics Education for a New Era: Video Games as a Medium for Learning
+object right	has	r 2619
+object right	has	r 1007
+r B926	title	Learning Python Design Patterns
+r 9459	title	Windows 8 Apps Programming Genius: 7 Easy Steps To Master Windows 8 Apps In 30 Days: Learning How to Use Windows 8 Efficiently
+object right	has	r 8562
+object right	has	r 4934
+object right	has	r 2464
+object right	has	r B1060
+object right	has	r 9571
+object right	has	r 8839
+object right	has	r 7101
+object right	has	r 1748
+r 3998	title	Interconnecting Cisco Network Devices, Part 1 (ICND1) Foundation Learning Guide
+object right	has	r 6711
+object right	has	r 3548
+r B1729	title	Advances in Learning Classifier Systems
+r B241	title	Machine Learning and Data Mining
+object right	has	r 1892
+object right	has	r 1386
+object right	has	r 1886
+object right	has	r 5691
+r B2439	publisher	 Mercury Learning & Information; Pap/Cdr edition (April 29, 2015)
+object right	has	r 6079
+r 1939	title	Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2014, Nancy, France, September 15-19, 2014. Proceedings, Part I
+r 3468	title	Linux For Beginners: An Introductory Guide for Learning About Linux, Servers, Checklist, Basics, Tutorial, Tips And More!
+object right	has	r 5404
+object right	has	r 1749
+object right	has	r 8117
+r 8075	title	Learning Scipy for Numerical and Scientific Computing
+r 4263	title	Learning Adobe Muse
+r 198	title	Learning Python
+r 2366	title	Ontology Learning for the Semantic Web
+r 6649	title	SharePoint 2010 User's Guide: Learning Microsoft's Business Collaboration Platform
+r 1995	Series	Learning Punch Software (R)
+r B550	publisher	 Cengage Learning EMEA (May 17, 2010)
+object right	has	r 7326
+r 2641	title	Principles and Theory for Data Mining and Machine Learning
+r 4157	title	Neural Networks and Learning Machines / Edition 3
+r 7020	title	Learning Autodesk Inventor 2014
+r B188	title	Short Course: Microsoft Access 97 (Short Course Learning Series)
+object right	has	r 5788
+r 7094	title	Learning R in 120 Minutes
+object right	has	r 697
+r 1904	title	OpenGL Programming Guide: The Official Guide to Learning OpenGL, Version 4.3 / Edition 8
+r 5534	title	Learning Concurrent Programming in Scala
+object right	has	r 1172
+object right	has	r 7539
+r B1719	title	Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations (The Morgan Kaufmann Series in Data Management Systems)
+object right	has	r 8944
+object right	has	r 9816
+object right	has	r 5338
+object right	has	r 5193
+r 9001	Series	Open and Flexible Learning Ser.
+r 6866	title	Pattern Recognition & Machine Learning
+r B1124	title	Advances in Machine Learning and Data Analysis (Lecture Notes in Electrical Engineering)
+object right	has	r 5538
+object right	has	r 9476
+r 2732	title	21 Top Methods To Earn Quick Money: Your Best Guide In Learning The Secrets Of How To Raise Money Fast For Generating Quick Money Making Ideas As Successful Ways To Get Rich And Make Money Today
+object right	has	r 1658
+r 1800	title	Learning SPARQL
+object right	has	r B2112
+object right	has	r 5981
+object right	has	r B1236
+object right	has	r B1224
+r 4755	title	Learning iOS Programming: From Xcode to App Store
+object right	has	r 2296
+r 5475	title	Learning AngularJS for .NET Developers
+object right	has	r 8055
+object right	has	r B2613
+r 2464	title	Learning & Applying SolidWorks 2013-2014
+r B2610	title	Learning Highcharts 4
+r 8325	title	Learning LEGO MINDSTORMS EV3
+object right	has	r 4298
+r 6851	Publisher	CompTIA Learning
+r 2844	title	Foundations of Machine Learning
+r 6545	title	Problem-Based Learning for Math & Science: Integrating Inquiry and the Internet / Edition 2
+object right	has	r 5366
+object right	has	r 1937
+r 1270	title	Learning from First Responders: When Your Systems Have to Work
+r B1498	publisher	 Cengage Learning (May 1, 2011)
+r B1692	publisher	 Cengage Learning EMEA; 3 edition (April 16, 2008)
+object right	has	r 557
+r 6378	title	Learning GNU Emacs (3rd Edition)
+object right	has	r B1040
+r 9732	title	Learning Selenium Testing Tools with Python
+object right	has	r 2549
+object right	has	r 1744
+object right	has	r B1472
+object right	has	r 584
+r 4979	title	Craigslist How to Advertise: An Introductory Guide for Learning About Advertise Website, Advertising Techniques, Craiglist.com, Craigslist Marketing and Craigslist Community
+object right	has	r 1008
+object right	has	r B1816
+r 6957	title	Learning JavaScript Data Structures and Algorithms
+object right	has	r B2674
+object right	has	r 4867
+r 3936	title	Learning The Korn Shell
+r 6141	title	Learning XML, 2nd Edition
+r 2641	title	Make Money Blogging: An Introductory Guide for Learning About Blogging Software, Free Blogs, Blogging for Creatives, Blogging Profits and Blogging Cash Formula
+object right	has	r B2179
+object right	has	r 3112
+r 2221	title	Learning Articulate Storyline
+object right	has	r 768
+object right	has	r 1894
+r 678	title	Data Analysis, Machine Learning and Applications: Proceedings of the 31st Annual Conference of the Gesellschaft f�_r Klassifikation e.V., Albert-Ludwigs-Universit�_t Freiburg, March 7-9, 2007
+r HC2121	authors	Sylvan Learning
+r 906	title	Advanced Analytics with Spark: Patterns for Learning from Data at Scale
+r 2650	title	Victor Norman: A Life In Music - A Lifetime Of Learning  (An Autobiography)
+object right	has	r 151
+r 1937	title	Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2010, Barcelona, Spain, September 20-24, 2010. Proceedings, Part I
+object right	has	r B2742
+r 8768	title	Learning QGIS - Second Edition
+r 1893	title	Learning SQL Server Reporting Services 2012
+object right	has	r B1859
+object right	has	r B1793
+object right	has	r 1270
+r 6079	title	Learning jQuery: A Hands-on Guide to Building Rich Interactive Web Front Ends / Edition 1
+object right	has	r 1128
+r B2859	title	Learning Spark: Lightning-Fast Big Data Analysis
+r B1754	publisher	 Jones & Bartlett Learning (July 6, 2004)
+object right	has	r 1884
+r 7964	title	E-Books for Adult Learning
+r 7151	title	Learning in Real Time: Synchronous Teaching and Learning Online / Edition 1
+object right	has	r 2017
+object right	has	r 3519
+object right	has	r 1875
+r 4934	title	Social Media for Trainers: Techniques for Enhancing and Extending Learning / Edition 1
+object right	has	r 2729
+r 1346	title	Learning Perl
+r 3112	Series	Learning Series
+object right	has	r 4263
+r B2971	publisher	 Jones & Bartlett Learning (July 31, 2007)
+r 6703	title	Interconnecting Cisco Network Devices, Part 2 (ICND2) Foundation Learning Guide
+r B1871	title	Machine Learning in Python: Essential Techniques for Predictive Analysis
+r B2224	publisher	 Cengage Learning Business Press; 2 edition (April 25, 2002)
+r 5691	title	Learning Adobe Photoshop: A Quick Guide To Understanding Adobe Photoshop, Tutorials For Beginners, Trial, Training, Techniques, Tool Shapes And More!
+r 640	publisher	Cengage Learning
+r 8839	title	Learning C by Example
+object right	has	r 5500
+object right	has	r B983
+r 9476	title	Guide to: Learning Python Decorators
+r B2498	title	SQL Database Programming: The Ultimate Guide to Learning SQL Database Programming Fast!
+object right	has	r B1838
+r 5981	title	Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages
+object right	has	r 3478
+r 7434	title	Learning D3.js Mapping
+object right	has	r B262
+object right	has	r B1498
+object right	has	r B2030
+object right	has	r 1539
+object right	has	r 9893
+object right	has	r 1475
+object right	has	r 123
+r B1961	publisher	 Cengage Learning PTR; 1 edition (November 30, 2005)
+object right	has	r B1729
+r B1981	publisher	 Mercury Learning & Information (June 30, 2016)
+object right	has	r B637
+object right	has	r 9584
+r 519	title	Picture Yourself Learning Corel PaintShop Pro X7
+r 1746	title	Intelligent Data Engineering and Automated Learning - IDEAL 2007: 8th International Conference, Birmingham, UK, December 16-19, 2007, Proceedings
+object right	has	r 9409
+r 5788	title	Learning Unity Android Game Development
+r 2532	title	Learning by Doing: A Comprehensive Guide to Simulations, Computer Games, and Pedagogy in e-Learning and Other Educational Experiences / Edition 1
+r 2172	title	SharePoint 2013 User's Guide: Learning Microsoft's Business Collaboration Platform
+object right	has	r 1731
+r 5538	authors	PawPrints Learning Technologies
+object right	has	r 4878
+object right	has	r 5263
+object right	has	r 1307
+r 1885	title	Learning Cassandra for Administrators
+r 151	title	The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
+object right	has	r 7020
+object right	has	r 970
+r B1933	title	Understanding DB2 (paperback): Learning Visually with Examples (2nd Edition) (IBM Press)
+object right	has	r 320
+object right	has	r B1625
+r 4792	title	Learning SolidWorks 2014
+r B223	title	Learning NumPy Array
+object right	has	r 5961
+object right	has	r 6029
+r 2078	publisher	Jones & Bartlett Learning
+r 2574	title	Learning Apache Cassandra
+r 1030	publisher	CENGAGE Learning Custom Publishing
+object right	has	r 6127
+object right	has	r 2378
+object right	has	r 9720
+r 557	title	Learning to Listen: The Jazz Journey of Gary Burton
+object right	has	r 7094
+r 6703	Series	Foundation Learning Guides Series
+r 5873	Series	Jossey-Bass Guides to Online Teaching and Learning Series
+r 591	title	Learning Agile: Understanding Scrum, XP, Lean, and Kanban
+object right	has	r 3468
+r 9001	title	Online Education Using Learning Objects / Edition 1
+object right	has	r 7041
+object right	has	r 7293
+r 5366	title	Learning iPad Programming: A Hands-On Guide to Building iPad Apps / Edition 2
+r 9953	title	Learning Karaf Cellar
+r 8788	title	Machine Learning with Spark
+object right	has	r B516
+r B379	title	Learning Real Time processing with Spark Streaming
+object right	has	r 8543
+object right	has	r 1895
+object right	has	r 4622
+r B1838	title	Learning Dos, Wordperfect 4.2, Lotus 1-2-3/Twin, and dBASE III Plus
+object right	has	r 6649
+r 3519	title	Learning Unity 2D Game Development by Example
+r B2742	title	Learning Cloudera Impala
+r 3548	title	Metasophy Learning to Die-Dying to Learn: Pilgrims Autobiography and Testimony
+object right	has	r 1938
+r B2112	publisher	 Cengage Learning PTR; 1 edition (October 28, 2011)
+r 7728	title	Learning Three.js - the JavaScript 3D Library for WebGL - Second Edition
+r 4160	title	Dr Beat : An Introductory Guide for Learning About Metronomes, Free Metronomes, Online Metronomes, Metronomes and Tuners, Metronomes For guitars and For Drums
+r B2179	title	Learning to Use Windows Applications (Shelly Cashman Series)
+r B2674	title	Social Learning Systems and Communities of Practice
+r B516	title	Real-World Machine Learning
+r 5960	title	Learning Web App Development
+r 6127	title	Learning iOS Game Programming: A Hands-On Guide to Building Your First iPhone Game
+r 1895	title	Learning to Use Windows Applications: Paradox 4.5 for Windows
+r 2669	title	Learning SciPy for Numerical and Scientific Computing - Second Edition
+object right	has	r 2172
+r 1890	title	Learning MySQL
+r B1821	title	Learning SQL: A Step-By-Step Guide Using Oracle
+object right	has	r 5239
+r 6487	Series	The John D. and Catherine T. MacArthur Foundation Series on Digital Media and Learning
+object right	has	r 7434
+r 986	title	Data Mining: Practical Machine Learning Tools and Techniques / Edition 3
+r 1938	title	Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2012, Bristol, UK, September 24-28, 2012. Proceedings, Part II
+r B1686	title	Logical and Relational Learning (Cognitive Technologies)
+object right	has	r 7964
+r 18	title	App Storm: Best Kindle Fire Apps, a Torrent of Games, Tools, and Learning Applications, Free and Paid, for Young and Old
+object right	has	r 9651
+object right	has	r B1111
+object right	has	r 18
+object right	has	r 4160
+object right	has	r 5633
+object right	has	r 2914
+r B2100	title	Visual Saliency Computation: A Machine Learning Perspective (Lecture Notes in Computer Science)
+r 8543	title	Learning Jquery, Third Edition
+r 2156	title	Learning the bash Shell: Unix Shell Programming
+object right	has	r 2049
+object right	has	r 2366
+r 9448	title	R Machine Learning Essentials
+r B1136	title	Learning Microsoft Office Professional Version: Word, Excel, PowerPoint, Access
+object right	has	r B1001
+object right	has	r 2755
+r B637	title	Learning Pandas - Python Data Discovery and Analysis Made Easy
+r 7133	title	Learning Solidworks 2015: Modeling, Assembly and Analysis
+r B1771	title	Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics: 10th European Conference, EvoBIO 2012, Málaga, Spain, April 11-13, 2012, Proceedings (Lecture Notes in Computer Science)
+object right	has	r 877
+object right	has	r 988
+object right	has	r 6357
+object right	has	r 2156
+object right	has	r B625
+object right	has	r B1686
+r 2619	publisher	BCS Learning and Development Ltd
+r 91	series	Visual Learning Guides
+object right	has	r 4979
+object right	has	r 5737
+r 1891	title	Learning Neo4j Graph Databases
+r B922	title	Building Intelligent Systems: Utilizing Computer Vision, Data Mining, and Machine Learning
+r 5220	title	Learning Mastercam Mill Step by Step: Book and CD
+object right	has	r 9324
+r B2488	title	21st Century Learning for 21st Century Skills: 7th European Conference on Technology Enhanced Learning, EC-TEL 2012, Saarbrücken, Germany, September ... (Lecture Notes in Computer Science)
+r 3949	title	Learning Autodesk Inventor 2015
+object right	has	r B2666
+object right	has	r B2971
+object right	has	r B2610
+object right	has	r B2488
+object right	has	r 8271
+r B534	title	Learning Technology for Education in Cloud: 4th International Workshop, LTEC 2015, Maribor, Slovenia, August 24-28, 2015, Proceedings (Communications in Computer and Information Science)
+object right	has	r 658
+object right	has	r 9953
+r 4166	title	Digital Photography 101: The Best Book Guide On How To Take Professional Pictures With Essential Photography Tips On How To Choose A Camera, Learning Photography Basics, Knowing Digital Photography, Photo Manipulation, Digital Scrapbooking, How To Be A
+object right	has	r 4801
+object right	has	r 5534
+r 3112	title	Learning the vi and Vim Editors
+object right	has	r 5803
+r 7293	title	Learning Android Forensics
+r 5961	title	Learning Android Application Programming: A Hands-On Guide to Building Android Applications / Edition 1
+object right	has	r 7151
+r 6554	title	Learning libGDX Game Development
+object right	has	r 1126
+object right	has	r 6141
+object right	has	r B593
+object right	has	r 1030
+r 4158	title	Learning Tableau
+r B2650	title	Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites
+object right	has	r 2532
+object right	has	r B2100
+r 5633	title	Implementing Cisco IOS Network Security (IINS 640-554) Foundation Learning Guide
+r 1731	series	Solid Quality Learning Ser.
+object right	has	r 5461
+object right	has	r 2446
+object right	has	r 7784
+object right	has	r 3126
+r 8952	title	Learning JavaScript Design Patterns
+r 5082	title	Learning jQuery Fourth Edition
+object right	has	r 9732
+object right	has	r 5045
+r B1236	publisher	 Pearson learning solutions; Fifth edition (2008)
+r 9408	title	Learning Programming Using Visual Basic for Applications
+r B544	title	Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics
+object right	has	r 1995
+r 5338	title	Learning Perl Objects, References, and Modules
+r 237	title	Advances in Web Based Learning - ICWL 2009: 8th International Conference, Aachen, Germany, August 19-21, 2009, Proceedings
+r 6487	title	The Ecology of Games: Connecting Youth, Games, and Learning
+object right	has	r 8593
+object right	has	r 5140
+r B1040	title	Learning Apache Mahout
+object right	has	r 880
+object right	has	r B2161
+object right	has	r 4052
+object right	has	r 6703
+object right	has	r 427
+r 9390	title	Learning ArcGIS Geodatabases
+object right	has	r 9774
+r 4716	title	Professional Penetration Testing: Creating and Learning in a Hacking Lab / Edition 2
+r 1475	title	Learning Python with Raspberry Pi
+r B2690	title	Learning Haskell Data Analysis
+r 1875	title	Learning R
+object right	has	r 1552
+r 7912	title	Learning WatchKit Programming: A Hands-On Guide to Creating Apple Watch Applications
+r 3038	title	More Agile Testing: Learning Journeys for the Whole Team
+object right	has	r 5220
+r 5429	Series	Fluent Learning Series
+object right	has	r 4157
+r B815	title	Learning to Love Data Science
+object right	has	r B2255
+object right	has	r 237
+r 4991	title	Computer Programming 101: The Beginner's Starting Guide - Programming will help you understand computers. After writing a few simple programs your confidence level will increase. Learning basic programming will show you whether you like programming.
+r 1194	title	Picture Yourself Learning Corel PaintShop Pro X6
+r 1884	title	Learning Unix for OS X Mountain Lion: Using Unix and Linux Tools at the Command Line
+r 1128	title	Learning to Program
+object right	has	r 9390
+r B1816	publisher	 Thomson Learning (April 1991)
+r 955	publisher	Cengage Learning EMEA Higher Education
+object right	has	r 2574
+r 1940	title	Machine Learning in Cyber Trust: Security, Privacy, and Reliability
+object right	has	r 4716
+r B1098	title	Learning Windows 95 Office
+r 3859	title	Learning MySQL and MariaDB: Heading in the Right Direction with MySQL and MariaDB
+object right	has	r 1800
+object right	has	r 8075
+r B2161	title	Learning to Use dBASE III Plus (Miscellaneous/Catalogs)
+object right	has	r 2437
+r 9816	title	Learning PowerCLI
+r 9774	title	Learning Selenium Testing Tools - Third Edition
+object right	has	r B2767
+object right	has	r 2669
+r 1747	title	Intelligent Data Engineering and Automated Learning - IDEAL 2008: 9th International Conference Daejeon, South Korea, November 2-5, 2008, Proceedings
+r B2668	title	Machine Learning and Data Science: An Introduction to Statistical Learning Methods with R
+r 5737	title	The Theory and Practice of Online Learning / Edition 2
+object right	has	r 2650
+r 970	title	Learning Blender: A Hands-On Guide to Creating 3D Animated Characters
+object right	has	r 8788
+r HC2121	Publisher	Sylvan Learning Publishing
+object right	has	r B188
+r 5045	title	Scala for Machine Learning
+object right	has	r 1939
+object right	has	r 5501
+object right	has	r 7133
+r 7712	title	The Chief Learning Officer
+object right	has	r 8952
+object right	has	r 982
+r B625	title	Learning and Intelligent Optimization: 6th International Conference, LION 6, Paris, France, January 16-20, 2012, Revised Selected Papers (Lecture ... Computer Science and General Issues)
+object right	has	r 7298
+r 218	title	Advances in Machine Learning and Data Analysis
+r 8944	title	Learning JavaScriptMVC
+r 9625	title	Introducing Routing and Switching in the Enterprise: CCNA Discovery Learning Guide (Companion Guide Series) (2 Volume Set) / Edition 1
+r B2714	title	Machine Learning: An Algorithmic Perspective (Chapman & Hall/Crc Machine Learning & Pattern Recognition)
+r 6357	title	Don't Bother Me Mom -- I'm Learning
+object right	has	r 9881
+object right	has	r B379
+r 6711	title	OS X Mountain Lion: Peachpit Learning Series
+object right	has	r B926
+r 8055	title	Learning C++ by Creating Games with UE4
+object right	has	r 2428
+r 9881	title	Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript
+r B1224	title	Microsoft Azure Machine Learning
+object right	has	r 7265
+r 5085	title	Learning Javascript
+r 4878	title	Learning ROS for Robotics Programming
+r 6402	authors	Inc.# Kogent Learning Solutions# Kogent Learning Solutions# Inc.
+r 8562	title	Learning CSS3 Animations & Transitions, Video-Enhanced Edition: A Hands-on Guide to Animating in CSS3 with Transforms, Transitions, Keyframe Animations, and JavaScript
+object right	has	r 1031
+object right	has	r B2714
+object right	has	r B534
+r 1745	title	Intelligent Data Engineering and Automated Learning - IDEAL 2004: 5th International Conference, Exeter, UK, August 25-27, 2004, Proceedings
+object right	has	r 5350
+object right	has	r 1870
+r 91	title	Access for Windows 95: The Visual Learning Guide
+r B2666	title	Learning Qlikview Data Visualization
+r 5239	title	Talking to Siri: Learning the Language of Apple's Intelligent Assistant
+r 7539	title	Learning UML 2.0
+object right	has	r 5873
+object right	has	r B1304
+object right	has	r 4889
+object right	has	r 9001
+object right	has	r 4158
+object right	has	r 1890
+object right	has	r 9446
+object right	has	r B815
+object right	has	r 1891
+object right	has	r B1821
+r 8593	title	Learning Java by Building Android Games
+r B1001	title	Learning Apache Kafka, Second Edition
+object right	has	r 1747
+object right	has	r 4393
+object right	has	r 8457
+object right	has	r 3038
+object right	has	r 5429
+object right	has	r 1888
+object right	has	r 8007
+object right	has	r 8669
+r 5263	title	Learning RStudio for R Statistical Computing
+object right	has	r 91
+r 1357	title	Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics: 8th European Conference, EvoBIO 2010, Istanbul, Turkey, April 7-9, 2010, Proceedings
+r 2446	title	Learning JavaScript: A Hands-On Guide to the Fundamentals of Modern JavaScript / Edition 1
+r 1524	title	Bloggers Boot Camp: Learning How to Build, Write, and Run a Successful Blog
+r 387	title	Programmer's Motivation for Beginners: Real Learning Stories & Tips
+object right	has	r 1940
+r 988	title	What Video Games Have to Teach Us about Learning and Literacy. Second Edition: Revised and Updated Edition
+r 1539	title	Implementing Cisco IP Switched Networks (SWITCH) Foundation Learning Guide: (CCNP SWITCH 300-115)
+r 1386	title	Learning Pixelmator
+object right	has	r 4897
+object right	has	r 6149
+object right	has	r 5302
+r 2017	title	Learning scikit-learn: Machine Learning in Python
+r B1472	title	dBase III Plus: Educational Version (Software Learning Series)
+object right	has	r 812
+r B2420	title	Learning Ceph
+r 2914	authors	 Kogent Learning Solutions
+object right	has	r 9448
+r 2755	title	Learning RSLogix 5000 Programming
+object right	has	r 5085
+object right	has	r 6554
+object right	has	r 7728
+r B1625	title	Aprende SQL/ Learning SQL (Spanish Edition)
+r 1815	title	Building Online Learning Communities: Effective Strategies for the Virtual Classroom / Edition 2
+r 9446	title	Learning Software Testing with Test Studio
+object right	has	r 4792
+r 9720	title	Blogging For Beginners: An Introductory Guide for Learning About Bloggings, How To Create, Beginners Guide, Best Software, How To Make Money, Importance Of Designs, Video, Audio And More!
+object right	has	r B1692
+object right	has	r 1887
+r 2008	title	Autobiography of the Rev. Samuel H. Turner, D.D., late professor of Biblical learning and the interpretation of scripture, in the General Theological Seminary of the Protestant Episcopal Church in the United States ..
+object right	has	r 2008
+object right	has	r 8768
+object right	has	r B376
+object right	has	r 1745
+object right	has	r 5706
+r 5501	title	Learning Nagios 4
+r B1041	title	Learning Big Data with Amazon Elastic MapReduce
+r 9028	authors	Martin Trautschold# Gary Mazo# MSL Made Simple Learning
+r 1995	title	Learning Punch Software (R): Mini - Tutorials
+r B2030	title	Exploring Everyday Things with R and Ruby: Learning About Everyday Things
+r B1304	title	Access for Windows 95: The Visual Learning Guide (Visual Learning Guides)
+r 2437	title	Pragmatic Thinking and Learning (Pragmatic Programmers Series) / Edition 1
+r 7298	title	Predictive Analytics with Microsoft Azure Machine Learning 2nd Edition
+r 982	title	Learning Responsive Web Design: A Beginner's Guide
+object right	has	r 259
+object right	has	r B1667
+r 320	title	Efficient Learning Machines: Theories, Concepts, and Applications for Engineers and System Designers
+r 5803	title	Using the Internet for Active Teaching and Learning / Edition 1
+r 1870	title	Learning 2D Game Development with Unity: A Hands-On Guide to Game Creation
+object right	has	r 6505
+r 4622	title	Implementing Cisco Unified Communications Voice over IP and QoS (Cvoice) Foundation Learning Guide: (CCNP Voice CVoice 642-437)
+r 4897	title	Learning Anime Studio
+r 1748	title	Intelligent Data Engineering and Automated Learning - IDEAL 2009: 10th International Conference, Burgos, Spain, September 23-26, 2009, Proceedings
+object right	has	r 4755
+r 4443	title	Learning to Program Using Python
+object right	has	r 1893
+object right	has	r HC2121
+r 697	authors	National Learning Corporation (Editor)
+r 584	authors	 National Learning Corporation (Editor)
+object right	has	r 1889
+r 2549	title	Learning HTML5 Game Programming: Build Online Games with Canvas, SVG, and WebGL
+object right	has	r B2783
+r B593	title	Machine Learning in Action
+object right	has	r 2987
+object right	has	r 2434
+r 1894	title	Learning to Use Microcomputer Applications: dBASE 5 for DOS
+object right	has	r 4991
+object right	has	r 1481
+r B2767	title	Learning Classifier Systems: From Foundations to Applications (Lecture Notes in Computer Science / Lecture Notes in Artificial Intelligence)
+r 1429	title	In the Mind's Eye: Visual Thinkers, Gifted People with Dyslexia and Other Learning Difficulties, Computer Images and the Ironies of Creativity / Edition 1
+r 6107	title	Teaching with the Tools Kids Really Use: Learning with Web and Mobile Technologies
+r 8457	title	Learning French
+r B2278	title	Learning Oracle PL/SQL
+r 7227	Publisher	PHI Learning
+object right	has	r B1981
+object right	has	r 986
+object right	has	r 8731
+object right	has	r 6957
+r 1892	title	Learning SQL on SQL Server 2005
+object right	has	r 563
+r B1111	title	Machine Learning and Data Mining for Computer Security: Methods and Applications (Advanced Information and Knowledge Processing)
+r 1251	publisher	Gale Cengage Learning
+r 861	title	Learning to Program with Alice (w/ CD ROM) / Edition 3
+r 8007	title	Learning to Fly: Practical Lessons from Some of the World's Leading Knowledge Companies / Edition 2
+r B1060	title	Learning PHP & MySQL: Step-by-Step Guide to Creating Database-Driven Web Sites
+r 3378	Publisher	Cengage Learning PTR
+object right	has	r B1136
+r 5500	authors	Abbott Katz# MSL Made Simple Learning
+object right	has	r 6378
+object right	has	r 9028
+object right	has	r 6235
+object right	has	r B2278
+object right	has	r B922
+r B1793	title	Learning PHP, MySQL, and JavaScript: A Step-By-Step Guide to Creating Dynamic Websites (Animal Guide)
+object right	has	r 2844
+r 9893	title	Learning Hadoop
+r B2145	title	Intelligent Data Engineering and Automated Learning -- IDEAL 2014: 15th International Conference, Salamanca, Spain, September 10-12, 2014, Proceedings ... Applications, incl. Internet/Web, and HCI)
+object right	has	r 2391
+r 7326	title	Curriculum Webs: Weaving the Web into Teaching and Learning / Edition 2
+r 6711	Series	Peachpit Learning Series
+object right	has	r B241
+object right	has	r 9625
+object right	has	r 7058
+object right	has	r B1893
+r 7474	title	Learning Adobe Edge
+object right	has	r 1082
+object right	has	r B2584
+r 2296	title	Learning Perl Student Workbook
+r B1667	publisher	 Mercury Learning & Information; Paperback w/ CD edition (March 27, 2014)
+object right	has	r 5960
+r 7041	title	Learning Microsoft Windows Server 2012 Dynamic Access Control
+object right	has	r B223
+object right	has	r 1815
+object right	has	r 3949

@@ -1,0 +1,1534 @@
+l 495	address	470 green st. san francisco
+l 78	title	buckhead diner
+l 200	title	ct
+l 222	address	120 w. 51st st. new york
+l 267	title	i trulli
+table data/rel-heter/left	has	l 48
+table data/rel-heter/left	has	l 480
+table data/rel-heter/left	has	l 403
+table data/rel-heter/left	has	l 120
+l 209	title	caffe dell \  artista
+l 417	address	1144 crescent ave. atlanta
+table data/rel-heter/left	has	l 132
+table data/rel-heter/left	has	l 227
+table data/rel-heter/left	has	l 190
+l 61	title	sign of the dove
+l 143	title	jack sprat \ s grill
+table data/rel-heter/left	has	l 74
+l 348	address	58 w. 65th st. new york
+l 286	address	106 e. 57th st. new york
+l 254	title	fujiyama mama
+l 105	address	816 folsom st. san francisco
+l 93	address	41 14th st. atlanta
+l 172	title	trader vic \ s
+l 166	title	sofi
+l 19	title	rex il ristorante
+l 137	address	1121 s. western ave. los angeles
+l 128	title	chan dara
+l 229	title	diva
+l 185	title	arizona
+l 462	address	2317 chestnut st. san francisco
+l 517	address	3300 geary blvd. san francisco
+l 179	title	aja
+l 390	address	50 hurt plaza atlanta
+l 82	title	hedgerose heights inn
+l 218	title	cendrillon asian grill & marimba bar
+l 268	address	125 mulberry st. between canal and hester sts . new york
+table data/rel-heter/left	has	l 520
+l 485	address	615 sacramento st. san francisco
+l 318	address	142 w. 44th st. new york
+l 490	title	l \  osteria del forno
+l 428	title	binion \ s coffee shop
+l 464	address	1600 powell st. san francisco
+l 158	title	pinot hollywood
+table data/rel-heter/left	has	l 438
+l 223	title	coco pazzo
+table data/rel-heter/left	has	l 339
+l 66	address	152 w. 44th st. new york
+table data/rel-heter/left	has	l 300
+table data/rel-heter/left	has	l 257
+l 411	title	pleasant peasant
+table data/rel-heter/left	has	l 40
+table data/rel-heter/left	has	l 447
+l 153	address	601 s. figueroa st. los angeles
+table data/rel-heter/left	has	l 86
+l 58	title	second avenue deli
+l 439	address	2411 w. sahara ave. las vegas
+l 242	title	film center cafe
+l 274	address	15 w. 44th st. new york
+l 233	title	el teddy \ s
+l 326	title	pen & pencil
+l 500	title	one market
+l 86	address	224 ponce de leon ave. atlanta
+l 131	title	dive !
+table data/rel-heter/left	has	l 313
+table data/rel-heter/left	has	l 476
+l 529	address	1220 9th ave. san francisco
+table data/rel-heter/left	has	l 352
+l 510	address	1702 post st. san francisco
+table data/rel-heter/left	has	l 399
+table data/rel-heter/left	has	l 528
+l 336	title	roettelle a. g
+table data/rel-heter/left	has	l 109
+l 10	title	restaurant katsu
+l 383	title	atlanta fish market
+l 344	address	423 amsterdam ave. between 80th and 81st sts . new york
+table data/rel-heter/left	has	l 365
+l 211	title	caffe reggio
+table data/rel-heter/left	has	l 210
+table data/rel-heter/left	has	l 187
+table data/rel-heter/left	has	l 377
+l 23	title	21 club
+l 141	title	harry \ s bar & american grill
+l 243	title	fiorello \ s roman cafe
+table data/rel-heter/left	has	l 378
+table data/rel-heter/left	has	l 440
+l 296	title	lola
+l 531	title	zarzuela
+l 489	address	2 new montgomery st. at market st. san francisco
+l 518	address	601 hayes st. san francisco
+l 146	title	joss
+l 449	title	the bacchanal
+l 498	title	moose \ s
+table data/rel-heter/left	has	l 47
+l 107	title	mifune japan center kintetsu building
+l 448	title	ralph \ s diner
+l 236	title	ernie \ s
+table data/rel-heter/left	has	l 51
+l 278	address	227 e. 67th st. new york
+table data/rel-heter/left	has	l 425
+table data/rel-heter/left	has	l 0
+table data/rel-heter/left	has	l 325
+table data/rel-heter/left	has	l 205
+table data/rel-heter/left	has	l 302
+l 275	title	jimmy sung \ s
+l 314	address	28 1/2 bowery at bayard st. new york
+table data/rel-heter/left	has	l 263
+table data/rel-heter/left	has	l 380
+l 344	title	sarabeth \ s kitchen
+l 184	address	222 e. 58th st. between 2nd and 3rd aves . new york
+l 405	title	luna si
+table data/rel-heter/left	has	l 311
+l 243	address	1900 broadway between 63rd and 64th sts . new york
+l 389	title	cassis
+l 303	title	marichu
+l 397	address	6359 jimmy carter blvd. . at buford hwy . norcross atlanta
+l 414	address	25 irby ave. atlanta
+l 166	address	3rd st. los angeles
+l 102	address	22 hawthorne st. san francisco
+l 502	title	pacific pan pacific hotel
+table data/rel-heter/left	has	l 209
+table data/rel-heter/left	has	l 28
+table data/rel-heter/left	has	l 230
+l 16	address	5955 melrose ave. los angeles
+l 436	title	center stage plaza hotel
+l 522	address	3148 geary blvd. san francisco
+l 503	address	640 sacramento st. san francisco
+l 176	title	9 jones street
+l 266	title	hudson river club
+l 204	address	200 w. 70th st. new york
+l 5	address	2709 main st. santa monica
+l 414	title	rib ranch
+table data/rel-heter/left	has	l 234
+l 353	title	stingray
+l 131	address	10250 santa monica blvd. los angeles
+l 140	address	8600 beverly blvd. los angeles
+table data/rel-heter/left	has	l 235
+l 206	title	cafe centro
+table data/rel-heter/left	has	l 308
+table data/rel-heter/left	has	l 110
+l 237	address	1288 1st ave. at 69th st. new york
+l 162	address	3rd st. promenade santa monica
+l 22	title	yujean kang \ s gourmet chinese cuisine
+table data/rel-heter/left	has	l 504
+l 63	title	tavern on the green
+table data/rel-heter/left	has	l 238
+table data/rel-heter/left	has	l 494
+l 90	title	dining room ritz-carlton buckhead
+table data/rel-heter/left	has	l 221
+l 428	address	128 fremont st. las vegas
+table data/rel-heter/left	has	l 358
+l 471	title	garden court
+l 501	address	1915 fillmore st. san francisco
+table data/rel-heter/left	has	l 183
+l 475	address	4 embarcadero center san francisco
+l 148	title	le dome
+table data/rel-heter/left	has	l 88
+l 337	title	rosa mexicano
+table data/rel-heter/left	has	l 44
+l 471	address	market and new montgomery sts . san francisco
+l 83	address	595 piedmont ave. rio shopping mall atlanta
+l 53	address	35 w. 64th st. new york
+table data/rel-heter/left	has	l 470
+l 25	address	34 e. 61st st. new york
+l 335	title	republic
+table data/rel-heter/left	has	l 466
+l 402	title	la grotta at ravinia dunwoody rd.
+l 460	title	buca giovanni
+l 378	title	zoe
+l 391	title	coco loco
+l 8	address	23725 w. malibu rd. malibu
+l 485	title	jack \ s
+table data/rel-heter/left	has	l 102
+l 436	address	1 main st. las vegas
+table data/rel-heter/left	has	l 76
+l 442	title	lillie langtry \ s
+l 311	address	551 5th ave. at 45th st. new york
+l 34	address	99 e. 52nd st. new york
+l 330	address	371 w. 46th st. off 9th ave. new york
+l 347	title	seventh regiment mess and bar
+l 225	title	corrado cafe
+table data/rel-heter/left	has	l 350
+table data/rel-heter/left	has	l 341
+l 362	address	900 7th ave. between 56th and 57th sts . new york
+l 304	title	marquet patisserie
+l 439	title	feast
+table data/rel-heter/left	has	l 170
+l 433	title	cafe roma
+table data/rel-heter/left	has	l 328
+l 333	title	rain
+l 409	address	247 buckhead ave. east village sq. atlanta
+l 124	address	207 s. beverly dr. los angeles
+l 509	address	1 tillman pl . san francisco
+l 124	title	california pizza kitchen
+l 69	address	3000 w. paradise rd. las vegas
+l 425	title	bamboo garden
+table data/rel-heter/left	has	l 53
+l 260	title	golden unicorn
+table data/rel-heter/left	has	l 186
+l 107	address	1737 post st. san francisco
+table data/rel-heter/left	has	l 37
+l 493	address	607 front st. san francisco
+l 248	title	flowers
+l 435	title	carnival world
+table data/rel-heter/left	has	l 157
+l 121	address	346 s. la brea ave. los angeles
+table data/rel-heter/left	has	l 34
+l 133	title	drai \ s
+table data/rel-heter/left	has	l 185
+l 67	title	chin \ s
+table data/rel-heter/left	has	l 128
+l 521	title	thepin
+l 288	title	le gamin
+table data/rel-heter/left	has	l 49
+table data/rel-heter/left	has	l 182
+l 476	address	2100 van ness ave. san francisco
+l 282	address	4 w. 49th st. new york
+l 271	title	internet cafe
+l 7	address	8358 sunset blvd. west hollywood
+table data/rel-heter/left	has	l 122
+table data/rel-heter/left	has	l 43
+l 75	address	3125 piedmont rd. . near peachtree rd. atlanta
+l 226	title	cupcake cafe
+l 214	address	7 w. 20th st. new york
+l 458	address	56 gold st. san francisco
+table data/rel-heter/left	has	l 212
+l 101	title	fringale
+l 199	address	103 waverly pl . near washington sq. new york
+l 175	address	20 mott st. between bowery and pell st. new york
+l 496	title	mccormick & kuleto \ s
+l 418	address	2345 cheshire bridge rd. atlanta
+l 469	address	161 sutter st. san francisco
+table data/rel-heter/left	has	l 105
+l 354	address	76 mott st. at canal st. new york
+table data/rel-heter/left	has	l 168
+table data/rel-heter/left	has	l 175
+table data/rel-heter/left	has	l 252
+l 453	title	2223
+l 52	title	petrossian
+l 145	title	jimmy \ s
+table data/rel-heter/left	has	l 432
+table data/rel-heter/left	has	l 448
+table data/rel-heter/left	has	l 279
+l 413	address	870 n. highland ave. atlanta
+l 489	title	kyo-ya . sheraton palace hotel
+l 33	address	243 e. 58th st. new york
+l 437	title	circus circus
+table data/rel-heter/left	has	l 248
+table data/rel-heter/left	has	l 14
+l 390	title	city grill
+l 67	address	3200 las vegas blvd. s las vegas
+l 282	title	la reserve
+table data/rel-heter/left	has	l 46
+l 451	address	6182 w. flamingo rd. las vegas
+l 400	address	2285 peachtree rd. . peachtree battle condominium atlanta
+table data/rel-heter/left	has	l 375
+l 33	title	felidia
+l 409	title	nickiemoto \ s : a sushi bar
+l 145	address	201 moreno dr. los angeles
+table data/rel-heter/left	has	l 284
+l 350	address	1022 madison ave. near 79th st. new york
+l 331	title	popover cafe
+table data/rel-heter/left	has	l 427
+l 285	address	211 w. broadway at franklin st. new york
+l 481	address	2332 clement st. san francisco
+table data/rel-heter/left	has	l 66
+l 118	title	bistro garden
+table data/rel-heter/left	has	l 320
+l 202	address	160 central park s new york
+table data/rel-heter/left	has	l 184
+l 415	title	sa tsu ki
+l 70	title	palace court
+l 60	title	shun lee west
+l 144	address	439 n. beverly drive los angeles
+l 445	address	5111 w. boulder hwy . las vegas
+table data/rel-heter/left	has	l 194
+table data/rel-heter/left	has	l 490
+l 237	title	evergreen cafe
+l 456	address	2030 union st. san francisco
+table data/rel-heter/left	has	l 145
+table data/rel-heter/left	has	l 260
+table data/rel-heter/left	has	l 169
+l 176	address	9 jones st. new york
+l 182	address	1 united nations plaza at 44th st. new york
+l 153	title	nicola
+table data/rel-heter/left	has	l 242
+table data/rel-heter/left	has	l 29
+table data/rel-heter/left	has	l 101
+l 308	address	120 w. 23rd st. new york
+l 417	title	south city kitchen
+l 268	title	il cortile
+table data/rel-heter/left	has	l 351
+l 239	address	340 w. broadway at grand st. new york
+l 259	title	global
+l 347	address	643 park ave. at 66th st. new york
+l 454	address	1722 sacramento st. san francisco
+l 354	title	sweet \  n \  tart cafe
+l 45	address	57 w. 58th st. new york
+l 209	address	46 greenwich ave. new york
+l 306	address	1030 3rd ave. at 61st st. new york
+l 178	address	322 e. 14 st. between 1st and 2nd aves . new york
+l 171	address	3835 cross creek rd. los angeles
+table data/rel-heter/left	has	l 429
+table data/rel-heter/left	has	l 23
+l 185	address	206 206 e. 60th st. new york
+table data/rel-heter/left	has	l 312
+l 206	address	200 park ave. between 45th st. and vanderbilt ave. new york
+l 112	address	23 e. 22nd st. new york
+table data/rel-heter/left	has	l 131
+table data/rel-heter/left	has	l 180
+table data/rel-heter/left	has	l 22
+l 219	address	72 macdougal st. between w. houston and bleecker sts . new york
+l 133	address	730 n. la cienega blvd. los angeles
+l 363	title	triangolo
+l 531	address	2000 hyde st. san francisco
+table data/rel-heter/left	has	l 445
+table data/rel-heter/left	has	l 69
+l 355	title	t salon
+l 309	address	60 e. 54th st. new york
+l 94	title	alain rondelli
+table data/rel-heter/left	has	l 56
+l 97	title	cafe claude
+table data/rel-heter/left	has	l 383
+l 293	title	le select
+table data/rel-heter/left	has	l 497
+table data/rel-heter/left	has	l 333
+l 367	address	386 3rd ave. between 27th and 28th sts . new york
+table data/rel-heter/left	has	l 12
+table data/rel-heter/left	has	l 286
+l 506	address	1944 union st. san francisco
+l 279	address	1191 1st ave. between 64th and 65th sts . new york
+l 9	title	grill on the alley
+l 522	title	ton kiang
+l 123	title	cafe pinot
+l 130	title	dining room
+l 246	address	73 w. 71st st. new york
+table data/rel-heter/left	has	l 422
+l 40	title	la cote basque
+table data/rel-heter/left	has	l 135
+table data/rel-heter/left	has	l 223
+l 240	address	29 e. 65th st. new york
+l 259	address	33 93 2nd ave. between 5th and 6th sts . new york
+table data/rel-heter/left	has	l 379
+l 532	title	zuni cafe & grill
+l 123	address	700 w. fifth st. los angeles
+l 193	title	boca chica
+l 468	address	732 broadway san francisco
+table data/rel-heter/left	has	l 201
+l 256	address	228 w. 52nd st. new york
+l 448	address	3000 las vegas blvd. s las vegas
+l 472	title	gaylord \ s
+l 494	title	manora
+l 460	address	800 greenwich st. san francisco
+l 342	address	18 e. 54th st. new york
+l 463	address	625 polk st. san francisco
+table data/rel-heter/left	has	l 188
+l 194	title	boonthai
+table data/rel-heter/left	has	l 478
+l 387	title	cafe renaissance
+table data/rel-heter/left	has	l 99
+table data/rel-heter/left	has	l 108
+l 357	title	tapika
+l 41	title	le bernardin
+table data/rel-heter/left	has	l 163
+l 201	title	cafe bianco
+l 135	title	eclipse
+l 475	title	harbor village
+table data/rel-heter/left	has	l 19
+table data/rel-heter/left	has	l 148
+table data/rel-heter/left	has	l 231
+table data/rel-heter/left	has	l 382
+table data/rel-heter/left	has	l 58
+l 229	address	341 w. broadway near grand st. new york
+l 513	address	4 san francisco
+l 88	title	pano \ s and paul \ s
+l 352	address	834 7th ave. between 53rd and 54th sts . new york
+l 242	address	635 9th ave. between 44th and 45th sts . new york
+l 461	title	cafe adriano
+l 248	address	21 west 17th st. between 5th and 6th aves . new york
+table data/rel-heter/left	has	l 522
+l 381	address	3195 roswell rd. atlanta
+l 320	address	138 lafayette st. between canal and howard sts . new york
+l 387	address	7050 jimmy carter blvd. . norcross atlanta
+table data/rel-heter/left	has	l 151
+l 59	address	11 e. 53rd st. new york
+table data/rel-heter/left	has	l 301
+table data/rel-heter/left	has	l 512
+table data/rel-heter/left	has	l 453
+table data/rel-heter/left	has	l 171
+table data/rel-heter/left	has	l 272
+l 300	address	800 9th ave. at 53rd st. new york
+table data/rel-heter/left	has	l 332
+l 51	title	park avenue cafe
+l 262	title	halcyon
+l 56	title	river cafe
+l 435	address	3700 w. flamingo rd. las vegas
+l 404	title	lowcountry barbecue
+table data/rel-heter/left	has	l 21
+l 299	title	main street
+l 62	address	201 e. 49th st. new york
+l 48	title	mi cocina
+table data/rel-heter/left	has	l 154
+l 520	address	3235 sacramento st. san francisco
+table data/rel-heter/left	has	l 13
+l 474	title	greens
+l 170	title	tommy tang \ s
+table data/rel-heter/left	has	l 409
+table data/rel-heter/left	has	l 26
+l 402	address	holiday inn/crowne plaza at ravinia dunwoody atlanta
+l 480	title	hong kong flower lounge
+l 499	address	3131 webster st. san francisco
+table data/rel-heter/left	has	l 104
+table data/rel-heter/left	has	l 516
+l 292	address	405 e. 52nd st. new york
+l 276	address	326 w. 46th st. new york
+l 452	title	yolie \ s
+l 377	address	34 union sq. e at 16th st. new york
+l 521	address	298 gough st. san francisco
+l 254	address	467 columbus ave. between 82nd and 83rd sts . new york
+l 478	title	hayes street grill
+l 307	address	46 e. 29th st. new york
+table data/rel-heter/left	has	l 215
+l 164	title	roscoe \ s house of chicken \  n \  waffles
+l 108	address	3201 fillmore st. san francisco
+l 53	title	picholine
+l 99	address	804 northpoint san francisco
+l 264	title	hi-life restaurant and lounge
+l 478	address	320 hayes st. san francisco
+table data/rel-heter/left	has	l 460
+table data/rel-heter/left	has	l 18
+table data/rel-heter/left	has	l 65
+table data/rel-heter/left	has	l 298
+table data/rel-heter/left	has	l 172
+l 391	address	40 buckhead crossing mall on the sidney marcus blvd. atlanta
+table data/rel-heter/left	has	l 189
+l 91	title	restaurant ritz-carlton atlanta
+table data/rel-heter/left	has	l 280
+table data/rel-heter/left	has	l 329
+l 299	address	446 columbus ave. between 81st and 82nd sts . new york
+l 250	address	54 pearl st. at broad st. new york
+l 294	title	les halles
+l 165	address	3110 main st. los angeles
+table data/rel-heter/left	has	l 521
+l 332	address	28 e. 63rd st. new york
+l 19	address	617 s. olive st. los angeles
+l 380	address	783 martin luther king jr. dr. atlanta
+table data/rel-heter/left	has	l 232
+l 154	address	1401 ocean ave. santa monica
+l 498	address	1652 stockton st. san francisco
+table data/rel-heter/left	has	l 338
+l 84	address	1397 n. highland ave. atlanta
+l 338	address	148 w. 51st st. new york
+l 287	address	149 e. 57th st. new york
+table data/rel-heter/left	has	l 393
+table data/rel-heter/left	has	l 119
+l 170	address	7313 melrose ave. los angeles
+l 55	address	30 rockefeller plaza new york
+l 355	address	143 mercer st. at prince st. new york
+table data/rel-heter/left	has	l 83
+table data/rel-heter/left	has	l 373
+l 483	title	il fornaio levi \ s plaza
+table data/rel-heter/left	has	l 400
+l 452	address	3900 paradise rd. las vegas
+l 5	title	chinois on main
+l 374	address	500 e. 30th st. new york
+l 304	address	15 e. 12th st. between 5th ave. and university pl . new york
+table data/rel-heter/left	has	l 45
+l 100	address	777 sutter st. san francisco
+table data/rel-heter/left	has	l 127
+table data/rel-heter/left	has	l 418
+l 134	title	dynasty room
+table data/rel-heter/left	has	l 271
+l 395	address	1811 piedmont ave. near cheshire bridge rd. atlanta
+l 158	address	1448 n. gower st. los angeles
+l 240	title	ferrier
+l 13	title	locanda veneta
+table data/rel-heter/left	has	l 10
+table data/rel-heter/left	has	l 363
+l 26	title	cafe lalo
+l 376	address	174 1st ave. between 10th and 11th sts . new york
+table data/rel-heter/left	has	l 397
+table data/rel-heter/left	has	l 475
+l 346	address	3 225 e. 60th st. new york
+table data/rel-heter/left	has	l 38
+table data/rel-heter/left	has	l 488
+table data/rel-heter/left	has	l 63
+l 289	address	25 cleveland pl . near spring st. new york
+l 122	title	ca \  del sol
+l 37	title	island spice
+l 159	address	14928 ventura blvd. sherman oaks
+table data/rel-heter/left	has	l 319
+l 122	address	4100 cahuenga blvd. los angeles
+table data/rel-heter/left	has	l 442
+l 149	title	louise \ s trattoria
+l 473	title	grand cafe hotel monaco
+l 234	address	1325 5th ave. at 111th st. new york
+l 91	address	181 peachtree st. atlanta
+l 361	title	the savannah club
+table data/rel-heter/left	has	l 344
+table data/rel-heter/left	has	l 96
+table data/rel-heter/left	has	l 317
+l 367	title	turkish kitchen
+table data/rel-heter/left	has	l 16
+l 437	address	2880 las vegas blvd. s las vegas
+l 79	address	1529 piedmont ave. atlanta
+table data/rel-heter/left	has	l 283
+table data/rel-heter/left	has	l 85
+l 359	title	terrace
+table data/rel-heter/left	has	l 294
+l 42	title	les celebrites
+l 383	address	265 pharr rd. atlanta
+table data/rel-heter/left	has	l 204
+l 345	address	19 w. 49th st. new york
+l 293	address	507 columbus ave. between 84th and 85th sts . new york
+l 399	address	192 peachtree center ave. at international blvd. atlanta
+table data/rel-heter/left	has	l 129
+table data/rel-heter/left	has	l 174
+l 351	address	62 spring st. at lafayette st. new york
+l 277	address	152 w. 52nd st. new york
+l 492	title	le soleil
+l 101	address	570 4th st. san francisco
+table data/rel-heter/left	has	l 52
+l 36	address	42 e. 20th st. between park ave. s and broadway new york
+table data/rel-heter/left	has	l 525
+l 329	address	140 w. 57th st. new york
+table data/rel-heter/left	has	l 247
+table data/rel-heter/left	has	l 353
+table data/rel-heter/left	has	l 469
+l 95	title	aqua
+table data/rel-heter/left	has	l 524
+l 363	address	345 e. 83rd st. new york
+l 169	title	the mandarin
+l 308	title	milan cafe and coffee bar
+l 397	title	holt bros. bar-b-q
+table data/rel-heter/left	has	l 107
+l 195	title	bouterin
+l 480	address	5322 geary blvd. san francisco
+l 432	title	cafe michelle
+l 111	address	532 columbus ave. san francisco
+table data/rel-heter/left	has	l 437
+table data/rel-heter/left	has	l 237
+l 167	address	8020 beverly blvd. los angeles
+l 313	title	new york kom tang soot bul house
+l 106	address	648 bush st. san francisco
+table data/rel-heter/left	has	l 199
+l 130	address	9500 wilshire blvd. los angeles
+l 30	title	chanterelle
+table data/rel-heter/left	has	l 4
+table data/rel-heter/left	has	l 384
+l 266	address	4 world financial center new york
+l 76	address	3130 piedmont road atlanta
+l 487	address	600 5th ave. san francisco
+l 110	address	600 stockton st. san francisco
+l 396	address	923 peachtree st. at 8th st. atlanta
+table data/rel-heter/left	has	l 267
+l 3	address	14016 ventura blvd. sherman oaks
+l 352	title	stage deli
+l 291	title	le marais
+table data/rel-heter/left	has	l 417
+l 349	title	shaan
+table data/rel-heter/left	has	l 362
+table data/rel-heter/left	has	l 112
+l 194	address	1393a 2nd ave. between 72nd and 73rd sts . new york
+table data/rel-heter/left	has	l 95
+table data/rel-heter/left	has	l 72
+table data/rel-heter/left	has	l 90
+l 373	title	vong
+table data/rel-heter/left	has	l 269
+table data/rel-heter/left	has	l 228
+table data/rel-heter/left	has	l 197
+table data/rel-heter/left	has	l 207
+l 39	address	33 w. 55th st. new york
+l 482	title	hyde street bistro
+table data/rel-heter/left	has	l 324
+l 459	address	598 fourth st. san francisco
+table data/rel-heter/left	has	l 80
+table data/rel-heter/left	has	l 124
+table data/rel-heter/left	has	l 75
+table data/rel-heter/left	has	l 20
+table data/rel-heter/left	has	l 357
+table data/rel-heter/left	has	l 149
+l 227	address	164 mulberry st. between grand and broome sts . new york
+l 214	title	caffe bondi ristorante
+l 291	address	150 w. 46th st. new york
+l 365	address	154 e. 79th st. between lexington and 3rd aves . new york
+table data/rel-heter/left	has	l 295
+l 255	address	685 amsterdam ave. at 93rd st. new york
+l 379	address	163 ponce de leon ave. atlanta
+table data/rel-heter/left	has	l 100
+l 273	title	jean lafitte
+table data/rel-heter/left	has	l 388
+l 382	address	3109 piedmont rd. . just south of peachtree rd. atlanta
+l 374	title	water club
+l 201	address	1486 2nd ave. between 77th and 78th sts . new york
+l 7	title	fenix
+l 279	title	l \  auberge
+l 269	address	492 broome st. near w. broadway new york
+l 419	address	3384 shallowford rd. . chamblee atlanta
+l 295	address	51 w. 64th st. new york
+table data/rel-heter/left	has	l 166
+l 80	title	delectables
+l 484	title	izzy \ s steak & chop house
+l 98	title	campton place
+l 28	title	carmine \ s
+l 523	address	600 montgomery st. san francisco
+l 384	title	beesley \ s of buckhead
+table data/rel-heter/left	has	l 265
+l 113	address	251 e. 53rd st. new york
+l 265	title	home
+l 29	title	carnegie deli
+l 156	title	pacific dining car
+l 129	title	clearwater cafe
+table data/rel-heter/left	has	l 498
+l 440	title	golden nugget hotel
+l 152	address	414 n. beverly dr. los angeles
+table data/rel-heter/left	has	l 372
+table data/rel-heter/left	has	l 354
+table data/rel-heter/left	has	l 165
+l 233	address	219 w. broadway between franklin and white sts . new york
+table data/rel-heter/left	has	l 307
+l 15	title	the palm
+l 261	title	grand ticino
+l 318	title	osteria al droge
+table data/rel-heter/left	has	l 532
+table data/rel-heter/left	has	l 327
+l 310	title	montien
+l 375	address	63rd street steakhouse 44 w. 63rd st. new york
+l 68	address	3799 las vegas blvd. s las vegas
+l 331	address	551 amsterdam ave. between 86th and 87th sts . new york
+l 398	title	horseradish grill
+l 64	title	uncle nick \ s
+l 187	title	au mandarin
+l 340	title	sal anthony \ s
+table data/rel-heter/left	has	l 371
+l 343	address	1000 madison ave. between 77th and 78th sts . new york
+table data/rel-heter/left	has	l 251
+l 322	address	1065 1st ave. at 58th st. new york
+table data/rel-heter/left	has	l 198
+l 31	address	20 e. 76th st. new york
+l 54	address	95 ave. a at 6th st. new york
+l 62	title	smith & wollensky
+l 502	address	500 post st. san francisco
+table data/rel-heter/left	has	l 514
+l 47	address	102 5th ave. between 15th and 16th sts . new york
+l 159	title	posto
+l 288	address	50 macdougal st. between houston and prince sts . new york
+table data/rel-heter/left	has	l 436
+l 269	title	inca grill
+table data/rel-heter/left	has	l 410
+l 461	address	3347 fillmore st. san francisco
+l 119	address	4th st. los angeles
+table data/rel-heter/left	has	l 67
+l 447	address	400 e. sahara ave. las vegas
+l 361	address	2420 broadway at 89th st. new york
+l 180	address	304 e. 48th st. new york
+l 139	address	4 fish 17300 pacific coast hwy . at sunset blvd. pacific palisades
+table data/rel-heter/left	has	l 346
+l 116	title	barney greengrass
+table data/rel-heter/left	has	l 167
+table data/rel-heter/left	has	l 25
+l 113	title	il nido
+table data/rel-heter/left	has	l 408
+l 312	title	motown cafe
+table data/rel-heter/left	has	l 282
+l 231	address	633 3rd ave. at 40th st. new york
+l 57	address	240 central park s new york
+l 47	title	mesa grill
+table data/rel-heter/left	has	l 216
+l 444	address	3120 las vegas blvd. s las vegas
+table data/rel-heter/left	has	l 213
+table data/rel-heter/left	has	l 394
+l 232	address	157 duane st. between w. broadway and hudson st. new york
+l 210	title	caffe lure
+table data/rel-heter/left	has	l 385
+l 364	address	375 greenwich st. near franklin st. new york
+table data/rel-heter/left	has	l 288
+l 245	title	first
+l 457	address	155 steuart st. san francisco
+l 416	address	6050 peachtree pkwy . norcross atlanta
+l 297	address	59 grand st. between wooster st. and w. broadway new york
+table data/rel-heter/left	has	l 273
+table data/rel-heter/left	has	l 463
+table data/rel-heter/left	has	l 509
+table data/rel-heter/left	has	l 404
+l 205	address	2 e. 61st st. new york
+table data/rel-heter/left	has	l 68
+l 8	title	granita
+l 351	title	spring street natural restaurant & bar
+l 95	address	252 california st. san francisco
+l 71	address	200 e. fremont st. las vegas
+l 44	address	249 e. 50th st. new york
+l 17	address	1001 n. alameda st. los angeles
+table data/rel-heter/left	has	l 287
+l 210	address	169 sullivan st. between houston and bleecker sts . new york
+table data/rel-heter/left	has	l 485
+table data/rel-heter/left	has	l 402
+l 357	address	950 8th ave. at 56th st. new york
+l 230	address	181 w. 10th st. new york
+l 152	title	nate \  n \  al \ s
+table data/rel-heter/left	has	l 35
+l 212	title	caffe roma
+table data/rel-heter/left	has	l 6
+l 370	address	54 irving pl . at 17th st. new york
+l 407	title	mckinnon \ s louisiane
+l 151	address	8764 melrose ave. los angeles
+l 277	title	judson grill
+table data/rel-heter/left	has	l 93
+l 40	address	60 w. 55th st. between 5th and 6th ave. new york
+l 182	title	ambassador grill
+l 481	title	hong kong villa
+l 162	title	remi
+l 286	title	le chantilly
+l 309	title	monkey bar
+l 184	title	anche vivolo
+l 350	title	sofia fabulous pizza
+l 38	address	160 e. 64th st. new york
+l 191	title	big cup
+table data/rel-heter/left	has	l 293
+table data/rel-heter/left	has	l 89
+table data/rel-heter/left	has	l 297
+l 215	title	capsouto freres
+l 423	title	antonio \ s
+l 519	address	240 california st. san francisco
+l 499	title	north india
+l 505	address	1015 battery st. san francisco
+l 200	address	111 e. 22nd st. between park ave. s and lexington ave. new york
+l 148	address	8720 sunset blvd. los angeles
+l 125	address	419 n. fairfax ave. los angeles
+l 157	address	10001 riverside dr. toluca lake
+l 504	title	pane e vino
+table data/rel-heter/left	has	l 368
+table data/rel-heter/left	has	l 501
+l 163	address	111 s. san pedro st. los angeles
+table data/rel-heter/left	has	l 491
+l 220	title	chiam
+l 369	title	veniero \ s pasticceria
+l 519	title	tadich grill
+l 118	address	176 n. canon dr. los angeles
+l 362	title	trattoria dell \  arte
+l 228	address	121 prince st. new york
+l 516	title	stoyanof \ s cafe
+table data/rel-heter/left	has	l 499
+l 270	address	430 lafayette st. between 4th st. and astor pl . new york
+l 36	title	gramercy tavern
+l 424	address	3645 las vegas blvd. s las vegas
+l 411	address	555 peachtree st. at linden ave. atlanta
+table data/rel-heter/left	has	l 203
+l 150	title	mon kee seafood restaurant
+l 147	address	8783 beverly blvd. los angeles
+table data/rel-heter/left	has	l 244
+l 303	address	342 e. 46th st. between 1st and 2nd aves . new york
+l 57	title	san domenico
+l 275	address	219 e. 44th st. between 2nd and 3rd aves . new york
+l 60	address	43 w. 65th st. new york
+l 32	title	dawat
+l 358	address	103 1st ave. between 6th and 7th sts . new york
+l 94	address	126 clement st. san francisco
+l 220	address	160 e. 48th st. new york
+table data/rel-heter/left	has	l 92
+l 532	address	1658 market st. san francisco
+table data/rel-heter/left	has	l 421
+table data/rel-heter/left	has	l 481
+table data/rel-heter/left	has	l 299
+l 410	address	1829 peachtree rd. atlanta
+l 46	address	405 e. 58th st. new york
+l 482	address	1521 hyde st. san francisco
+table data/rel-heter/left	has	l 459
+l 325	address	301 park ave. between 49th and 50th sts . new york
+l 90	address	3434 peachtree rd. atlanta
+table data/rel-heter/left	has	l 152
+table data/rel-heter/left	has	l 118
+l 92	title	toulouse
+table data/rel-heter/left	has	l 471
+l 476	title	harris \
+table data/rel-heter/left	has	l 254
+table data/rel-heter/left	has	l 304
+table data/rel-heter/left	has	l 285
+l 251	title	french roast
+table data/rel-heter/left	has	l 196
+l 488	title	kuleto \ s
+l 450	title	venetian
+l 117	address	26025 pacific coast hwy . malibu
+table data/rel-heter/left	has	l 226
+l 12	title	le chardonnay
+table data/rel-heter/left	has	l 55
+l 345	title	sea grill
+l 335	address	37a union sq. w between 16th and 17th sts . new york
+l 219	title	chez jacqueline
+l 203	address	69 w. 71st st. new york
+l 337	address	1063 1st ave. at 58th st. new york
+l 311	title	morton \ s
+l 50	title	oceana
+table data/rel-heter/left	has	l 518
+l 353	address	428 amsterdam ave. between 80th and 81st sts . new york
+l 102	title	hawthorne lane
+table data/rel-heter/left	has	l 103
+l 74	address	2355 peachtree rd. . peachtree battle shopping center atlanta
+l 73	title	tillerman
+l 342	title	san pietro
+table data/rel-heter/left	has	l 106
+table data/rel-heter/left	has	l 426
+l 171	title	tra di noi
+l 112	title	bolo
+l 173	address	1930 north hillhurst ave. los feliz
+l 442	address	129 e. fremont st. las vegas
+l 155	address	11705 national blvd. los angeles
+l 65	address	21 e. 16th st. new york
+l 520	title	the heights
+l 477	title	harry denton \ s
+l 484	address	3345 steiner st. san francisco
+table data/rel-heter/left	has	l 316
+table data/rel-heter/left	has	l 343
+l 35	address	12 e. 12th st. new york
+l 195	address	420 e. 59th st. off 1st ave. new york
+table data/rel-heter/left	has	l 179
+l 69	title	le montrachet
+table data/rel-heter/left	has	l 211
+table data/rel-heter/left	has	l 261
+l 205	title	cafe pierre
+l 393	title	dante \ s down the hatch buckhead
+l 172	address	9876 wilshire blvd. los angeles
+l 492	address	133 clement st. san francisco
+l 486	address	5116 geary blvd. san francisco
+l 20	address	1114 horn ave. los angeles
+l 429	title	bistro
+l 381	title	annie \ s thai castle
+l 486	title	kabuto sushi
+l 143	address	10668 w. pico blvd. los angeles
+table data/rel-heter/left	has	l 505
+l 300	title	mangia e bevi
+l 189	address	321 w. 46th st. new york
+l 369	address	342 e. 11th st. near 1st ave. new york
+table data/rel-heter/left	has	l 159
+table data/rel-heter/left	has	l 133
+table data/rel-heter/left	has	l 146
+table data/rel-heter/left	has	l 305
+table data/rel-heter/left	has	l 396
+l 321	title	palio
+l 328	address	1423 2nd ave. between 74th and 75th sts . new york
+l 385	address	3500 peachtree rd. . phipps plaza atlanta
+table data/rel-heter/left	has	l 91
+l 305	address	160 mercer st. between houston and prince sts . new york
+table data/rel-heter/left	has	l 181
+table data/rel-heter/left	has	l 195
+l 135	address	8800 melrose ave. los angeles
+l 216	address	860 2nd ave. at 46th st. new york
+l 228	title	dean & deluca
+l 366	title	tse yang
+l 388	title	camille \ s
+table data/rel-heter/left	has	l 111
+l 360	title	the coffee pot
+table data/rel-heter/left	has	l 455
+l 81	address	2290 peachtree rd. . peachtree square shopping center atlanta
+table data/rel-heter/left	has	l 495
+l 329	title	planet hollywood
+l 4	address	624 s. la brea ave. los angeles
+l 432	address	1350 e. flamingo rd. las vegas
+table data/rel-heter/left	has	l 503
+l 469	title	faz
+table data/rel-heter/left	has	l 276
+l 139	title	gladstone \ s
+l 470	address	1300 battery st. san francisco
+table data/rel-heter/left	has	l 390
+l 325	title	peacock alley
+l 132	address	2628 wilshire blvd. santa monica
+l 368	address	222 w. 79th st. new york
+l 396	title	french quarter food shop
+table data/rel-heter/left	has	l 336
+l 447	title	pamplemousse
+table data/rel-heter/left	has	l 117
+table data/rel-heter/left	has	l 60
+l 26	address	201 w. 83rd st. new york
+table data/rel-heter/left	has	l 250
+table data/rel-heter/left	has	l 36
+table data/rel-heter/left	has	l 42
+table data/rel-heter/left	has	l 218
+table data/rel-heter/left	has	l 162
+l 399	title	hsu \ s gourmet
+l 98	address	340 stockton st. san francisco
+l 208	address	81 macdougal st. between houston and bleeker sts . new york
+table data/rel-heter/left	has	l 178
+table data/rel-heter/left	has	l 71
+l 290	address	168 w. 18th st. new york
+l 526	address	2257 chestnut st. san francisco
+l 217	address	150 wooster st. between houston and prince sts . new york
+l 312	address	104 w. 57th st. near 6th ave. new york
+table data/rel-heter/left	has	l 411
+l 114	address	145 w. 53rd st. new york
+l 134	address	930 hilgard ave. los angeles
+table data/rel-heter/left	has	l 419
+l 117	title	beaurivage
+table data/rel-heter/left	has	l 414
+table data/rel-heter/left	has	l 506
+l 149	address	4500 los feliz blvd. los angeles
+table data/rel-heter/left	has	l 430
+table data/rel-heter/left	has	l 39
+l 441	title	golden steer
+l 252	title	french roast cafe
+l 526	title	world wrapps
+l 524	title	vivande porta via
+l 466	address	4th and howard sts . san francisco
+table data/rel-heter/left	has	l 519
+l 146	address	9255 sunset blvd. los angeles
+l 35	title	gotham bar & grill
+table data/rel-heter/left	has	l 405
+l 104	address	2316 polk st. san francisco
+table data/rel-heter/left	has	l 5
+table data/rel-heter/left	has	l 420
+l 21	address	3115 pico blvd. santa monica
+l 38	title	jo jo
+table data/rel-heter/left	has	l 364
+table data/rel-heter/left	has	l 206
+l 263	address	221 w. 57th st. new york
+l 193	address	13 1st ave. near 1st st. new york
+l 43	title	lespinasse
+table data/rel-heter/left	has	l 8
+table data/rel-heter/left	has	l 64
+table data/rel-heter/left	has	l 173
+table data/rel-heter/left	has	l 323
+l 405	address	1931 peachtree rd. atlanta
+l 394	title	dante \ s down the hatch
+l 278	title	l \  absinthe
+l 376	title	xunta
+table data/rel-heter/left	has	l 510
+l 238	address	39 desbrosses st. near west st. new york
+l 79	title	ciboulette
+table data/rel-heter/left	has	l 367
+l 446	address	3400 las vegas blvd. s las vegas
+l 513	title	splendido embarcadero
+l 401	title	kamogawa
+table data/rel-heter/left	has	l 32
+l 173	title	vida
+table data/rel-heter/left	has	l 249
+table data/rel-heter/left	has	l 121
+l 256	title	gallagher \ s
+l 239	title	felix
+l 415	address	3043 buford hwy . atlanta
+table data/rel-heter/left	has	l 236
+table data/rel-heter/left	has	l 359
+l 490	address	519 columbus ave. san francisco
+l 356	address	65 w. 55th st. new york
+l 71	title	second street grille
+l 59	title	seryna
+l 0	title	arnie morton \ s of chicago
+table data/rel-heter/left	has	l 270
+l 183	title	american place
+table data/rel-heter/left	has	l 423
+l 92	address	b peachtree rd. atlanta
+l 109	title	postrio
+l 197	address	240 e. 58th st. new york
+l 503	title	palio d \  asti
+l 434	address	3333 s. maryland pkwy . las vegas
+table data/rel-heter/left	has	l 303
+l 83	title	heera of india
+table data/rel-heter/left	has	l 330
+l 213	address	32 jones st. at bleecker st. new york
+l 371	title	victor \ s cafe
+table data/rel-heter/left	has	l 142
+l 204	title	cafe luxembourg
+table data/rel-heter/left	has	l 454
+table data/rel-heter/left	has	l 278
+l 55	title	rainbow room
+l 226	address	522 9th ave. at 39th st. new york
+l 379	title	abbey
+l 155	title	orleans
+table data/rel-heter/left	has	l 24
+l 430	address	4111 boulder hwy . las vegas
+l 420	title	sundown cafe
+l 477	address	161 steuart st. san francisco
+l 207	title	cafe fes
+l 187	address	200-250 vesey st. world financial center new york
+l 529	title	yaya cuisine
+table data/rel-heter/left	has	l 451
+table data/rel-heter/left	has	l 413
+table data/rel-heter/left	has	l 462
+l 378	address	90 prince st. between broadway and mercer st. new york
+l 72	title	steak house
+l 177	address	700 5th ave. at 55th st. new york
+l 168	title	tavola calda
+l 236	address	2150 broadway between 75th and 76th sts . new york
+l 144	title	jackson \ s farm
+table data/rel-heter/left	has	l 240
+table data/rel-heter/left	has	l 474
+table data/rel-heter/left	has	l 458
+table data/rel-heter/left	has	l 464
+l 462	title	cafe marimba
+table data/rel-heter/left	has	l 515
+table data/rel-heter/left	has	l 452
+table data/rel-heter/left	has	l 360
+l 281	title	l \  udo
+l 103	title	khan toke thai house
+l 2	address	701 stone canyon rd. bel air
+l 465	address	1772 market st. san francisco
+l 161	title	rj \ s the rib joint
+table data/rel-heter/left	has	l 224
+table data/rel-heter/left	has	l 143
+table data/rel-heter/left	has	l 208
+l 465	title	carta
+table data/rel-heter/left	has	l 139
+l 137	title	el cholo
+table data/rel-heter/left	has	l 484
+table data/rel-heter/left	has	l 433
+l 129	address	168 w. colorado blvd. los angeles
+l 302	title	manila garden
+l 257	address	15 fulton st. new york
+l 270	title	indochine
+l 319	address	68 e. 56th st. new york
+table data/rel-heter/left	has	l 467
+l 285	title	layla
+table data/rel-heter/left	has	l 11
+l 450	address	3713 w. sahara ave. las vegas
+l 141	address	2020 ave. of the stars los angeles
+table data/rel-heter/left	has	l 473
+l 96	address	1 mission st. san francisco
+l 186	title	arturo \ s
+table data/rel-heter/left	has	l 193
+l 508	title	rubicon
+table data/rel-heter/left	has	l 31
+l 196	title	brothers bar-b-q
+l 191	address	228 8th ave. between 21st and 22nd sts . new york
+l 525	address	670 golden gate ave. san francisco
+l 115	address	2930 beverly glen circle los angeles
+l 511	title	scala \ s bistro
+table data/rel-heter/left	has	l 465
+table data/rel-heter/left	has	l 391
+l 132	title	drago
+l 87	address	255 courtland st. at harris st. atlanta
+l 343	title	sant ambroeus
+table data/rel-heter/left	has	l 461
+l 263	title	hard rock cafe
+l 295	title	lincoln tavern
+l 330	title	pomaire
+l 108	title	plumpjack cafe
+l 372	title	vince & eddie \ s
+l 224	address	53rd sts . new york
+l 467	title	cypress club
+l 359	address	400 w. 119th st. between amsterdam and morningside aves . new york
+table data/rel-heter/left	has	l 334
+l 404	address	6301 roswell rd. . sandy springs plaza sandy springs atlanta
+l 423	address	3700 w. flamingo las vegas
+l 150	address	679 n. spring st. los angeles
+table data/rel-heter/left	has	l 508
+table data/rel-heter/left	has	l 369
+l 61	address	1110 3rd ave. at 65th st. new york
+table data/rel-heter/left	has	l 153
+l 231	title	docks
+table data/rel-heter/left	has	l 277
+l 31	title	daniel
+l 393	address	3380 peachtree rd. atlanta
+l 528	address	427 battery st. san francisco
+l 198	title	bryant park grill roof restaurant and bp cafe
+l 106	title	masa \ s
+l 100	title	fleur de lys
+table data/rel-heter/left	has	l 62
+l 24	address	13 w. 54th st. new york
+l 103	address	5937 geary blvd. san francisco
+l 20	title	spago
+table data/rel-heter/left	has	l 79
+table data/rel-heter/left	has	l 116
+l 443	address	1510 e. flamingo rd. las vegas
+l 470	title	fog city diner
+l 457	title	bistro roti
+table data/rel-heter/left	has	l 30
+table data/rel-heter/left	has	l 2
+l 85	address	2637 peachtree rd. . peachtree house condominium atlanta
+l 119	title	border grill
+l 366	address	34 e. 51st st. new york
+l 403	title	little szechuan
+l 34	title	four seasons grill room
+l 16	title	patina
+l 504	address	3011 steiner st. san francisco
+l 258	title	girafe
+table data/rel-heter/left	has	l 256
+l 373	address	200 e. 54th st. new york
+table data/rel-heter/left	has	l 486
+l 445	title	mary \ s diner
+table data/rel-heter/left	has	l 73
+l 377	title	zen palate
+l 334	title	red tulip
+l 136	address	134 n. la cienega los angeles
+table data/rel-heter/left	has	l 191
+l 41	address	155 w. 51st st. new york
+l 180	title	alamo
+table data/rel-heter/left	has	l 529
+l 400	title	imperial fez
+l 317	address	322 w. 46th st. new york
+l 188	title	bar anise
+l 251	address	458 6th ave. at 11th st. new york
+l 479	title	helmand
+table data/rel-heter/left	has	l 130
+l 77	title	brasserie le coze
+table data/rel-heter/left	has	l 292
+l 87	title	nikolai \ s roof
+table data/rel-heter/left	has	l 115
+table data/rel-heter/left	has	l 161
+table data/rel-heter/left	has	l 443
+l 280	address	310 w. 4th st. between w. 12th and bank sts . new york
+l 18	address	12969 ventura blvd. los angeles
+l 301	address	1161 1st ave. between 63rd and 64th sts . new york
+l 516	address	1240 9th ave. san francisco
+l 431	title	bugsy \ s diner
+l 22	address	67 n. raymond ave. los angeles
+table data/rel-heter/left	has	l 348
+l 32	address	210 e. 58th st. new york
+l 241	title	fifty seven fifty seven
+table data/rel-heter/left	has	l 7
+l 438	title	em press court
+l 281	address	432 lafayette st. near astor pl . new york
+table data/rel-heter/left	has	l 361
+table data/rel-heter/left	has	l 527
+l 127	address	656 n. virgil ave. los angeles
+table data/rel-heter/left	has	l 255
+l 507	address	631 b kearny st. san francisco
+table data/rel-heter/left	has	l 398
+l 178	title	agrotikon
+table data/rel-heter/left	has	l 77
+l 97	address	7 claude la . san francisco
+l 218	address	45 mercer st. between broome and grand sts . new york
+table data/rel-heter/left	has	l 217
+l 494	address	3226 mission st. san francisco
+l 169	address	430 n. camden dr. los angeles
+l 474	address	bldg. a fort mason san francisco
+l 136	title	ed debevic \ s
+table data/rel-heter/left	has	l 245
+l 88	address	1232 w. paces ferry rd. atlanta
+l 85	title	la grotta
+l 50	address	55 e. 54th st. new york
+l 425	address	4850 flamingo rd. las vegas
+table data/rel-heter/left	has	l 482
+l 314	title	new york noodletown
+l 260	address	18 e. broadway at catherine st. new york
+table data/rel-heter/left	has	l 296
+l 186	address	106 w. houston st. off thompson st. new york
+l 43	address	2 e. 55th st. new york
+l 280	title	l \  auberge du midi
+table data/rel-heter/left	has	l 374
+l 276	title	joe allen
+table data/rel-heter/left	has	l 239
+l 496	address	ghirardelli sq. san francisco
+l 15	address	9001 santa monica blvd. los angeles
+l 530	address	1611 post st. san francisco
+l 9	address	9560 dayton way los angeles
+table data/rel-heter/left	has	l 61
+table data/rel-heter/left	has	l 349
+table data/rel-heter/left	has	l 435
+l 261	address	228 thompson st. between w. 3rd and bleecker sts . new york
+l 245	address	87 1st ave. between 5th and 6th sts . new york
+l 340	address	55 irving pl . new york
+l 181	address	311 w. 17th st. new york
+table data/rel-heter/left	has	l 225
+table data/rel-heter/left	has	l 314
+l 78	address	3073 piedmont road atlanta
+table data/rel-heter/left	has	l 140
+table data/rel-heter/left	has	l 502
+l 73	address	2245 e. flamingo rd. las vegas
+l 408	address	park place across from perimeter mall dunwoody atlanta
+table data/rel-heter/left	has	l 370
+table data/rel-heter/left	has	l 50
+l 77	address	3393 peachtree rd. . lenox square mall near neiman marcus atlanta
+l 332	title	post house
+l 142	address	301 n. beverly dr. los angeles
+l 253	address	402 w. 43rd st. off 9th ave. new york
+l 222	title	cite
+l 104	title	la folie
+table data/rel-heter/left	has	l 123
+l 196	address	225 varick st. at clarkston st. new york
+l 1	address	12224 ventura blvd. studio city
+l 76	title	bone \ s
+table data/rel-heter/left	has	l 356
+l 394	address	underground underground mall underground atlanta atlanta
+l 27	title	cafe des artistes
+l 527	address	101 spear st. san francisco
+l 386	address	1100 peachtree st. atlanta
+table data/rel-heter/left	has	l 434
+table data/rel-heter/left	has	l 326
+l 63	address	in central park at 67th st. new york
+l 230	title	dix et sept
+l 252	address	2340 broadway at 85th st. new york
+l 203	title	cafe la fortuna
+table data/rel-heter/left	has	l 489
+table data/rel-heter/left	has	l 424
+table data/rel-heter/left	has	l 479
+l 272	address	13 w. 46th st. new york
+l 212	address	385 broome st. at mulberry new york
+l 44	title	lutece
+table data/rel-heter/left	has	l 136
+l 333	address	100 w. 82nd st. new york
+l 247	address	348 e. 62nd st. new york
+l 306	title	matthew \ s
+l 68	title	coyote cafe
+l 241	address	57 e. 57th st. new york
+table data/rel-heter/left	has	l 87
+table data/rel-heter/left	has	l 483
+l 116	address	9570 wilshire blvd. beverly hills
+l 23	address	21 w. 52nd st. new york
+l 313	address	32 w. 32nd st. new york
+l 441	address	308 w. sahara ave. las vegas
+l 264	address	1340 1st ave. at 72nd st. new york
+l 183	address	2 park ave. at 32nd st. new york
+l 168	address	7371 melrose ave. los angeles
+table data/rel-heter/left	has	l 281
+l 479	address	430 broadway san francisco
+table data/rel-heter/left	has	l 355
+table data/rel-heter/left	has	l 387
+table data/rel-heter/left	has	l 27
+table data/rel-heter/left	has	l 147
+table data/rel-heter/left	has	l 59
+table data/rel-heter/left	has	l 15
+table data/rel-heter/left	has	l 200
+table data/rel-heter/left	has	l 431
+l 517	title	straits cafe
+l 384	address	260 e. paces ferry road atlanta
+table data/rel-heter/left	has	l 310
+l 508	address	558 sacramento st. san francisco
+table data/rel-heter/left	has	l 202
+l 488	address	221 powell st. san francisco
+l 29	address	854 7th ave. between 54th and 55th sts . new york
+table data/rel-heter/left	has	l 54
+l 514	title	stars
+table data/rel-heter/left	has	l 446
+l 174	address	60 n. venice blvd. los angeles
+l 208	title	caffe dante
+l 380	title	aleck \ s barbecue heaven
+l 267	address	122 e. 27th st. between lexington and park aves . new york
+l 37	address	402 w. 44th st. new york
+l 0	address	435 s. la cienega blv . los angeles
+l 392	title	colonnade restaurant
+table data/rel-heter/left	has	l 3
+l 458	title	bix
+l 290	title	le madri
+l 530	title	yoyo tsumami bistro
+l 51	address	100 e. 63rd st. new york
+l 316	title	odeon
+l 443	title	mandarin court
+table data/rel-heter/left	has	l 192
+l 163	title	restaurant horikawa
+table data/rel-heter/left	has	l 321
+table data/rel-heter/left	has	l 315
+table data/rel-heter/left	has	l 243
+l 127	title	cha cha cha
+l 27	address	1 w. 67th st. new york
+table data/rel-heter/left	has	l 259
+table data/rel-heter/left	has	l 158
+l 424	title	bally \ s big kitchen
+l 426	address	4041 audrie st. at flamingo rd. las vegas
+table data/rel-heter/left	has	l 94
+table data/rel-heter/left	has	l 229
+l 298	title	mad fish
+l 525	title	vivande ristorante
+l 398	address	4320 powers ferry rd. atlanta
+l 515	title	stars cafe
+table data/rel-heter/left	has	l 531
+table data/rel-heter/left	has	l 137
+l 25	title	aureole
+l 6	title	citrus
+table data/rel-heter/left	has	l 150
+l 336	address	126 e. 7th st. between 1st ave. and ave. a new york
+l 249	address	6 w. 24th st. new york
+l 49	address	239 w. broadway between walker and white sts . new york
+l 416	title	sato sushi and thai
+l 154	title	ocean avenue
+l 273	address	68 w. 58th st. new york
+l 319	title	otabe
+l 444	title	margarita \ s mexican cantina
+l 431	address	3555 las vegas blvd. s las vegas
+l 315	address	2 w. 19th st. new york
+table data/rel-heter/left	has	l 1
+table data/rel-heter/left	has	l 395
+l 284	address	361 w. 46th st. new york
+l 527	title	wu kong
+l 65	title	union square cafe
+l 283	address	168 1st ave. between 10th and 11th sts . new york
+l 223	address	23 e. 74th st. new york
+l 371	address	52 236 w. 52nd st. new york
+table data/rel-heter/left	has	l 164
+l 225	address	1013 3rd ave. between 60th and 61st sts . new york
+table data/rel-heter/left	has	l 141
+l 265	address	20 cornelia st. between bleecker and w. 4th st. new york
+l 388	address	1186 n. highland ave. atlanta
+l 392	address	1879 cheshire bridge rd. atlanta
+table data/rel-heter/left	has	l 347
+l 6	address	6703 melrose ave. los angeles
+table data/rel-heter/left	has	l 345
+table data/rel-heter/left	has	l 511
+table data/rel-heter/left	has	l 415
+l 181	title	alley \ s end
+l 3	title	cafe bizou
+l 160	title	prego
+l 310	address	1134 1st ave. between 62nd and 63rd sts . new york
+table data/rel-heter/left	has	l 246
+table data/rel-heter/left	has	l 428
+table data/rel-heter/left	has	l 457
+l 491	title	le central
+table data/rel-heter/left	has	l 70
+l 327	title	penang soho
+table data/rel-heter/left	has	l 156
+table data/rel-heter/left	has	l 335
+table data/rel-heter/left	has	l 289
+l 207	address	246 w. 4th st. at charles st. new york
+table data/rel-heter/left	has	l 406
+l 338	title	ruth \ s chris
+l 497	title	millennium
+table data/rel-heter/left	has	l 78
+table data/rel-heter/left	has	l 340
+l 82	address	490 e. paces ferry rd. atlanta
+l 412	address	500 pharr rd. atlanta
+l 157	title	paty \ s
+l 403	address	c buford hwy . northwoods plaza doraville atlanta
+l 324	address	250 park ave. s at 20th st. new york
+l 523	title	vertigo
+l 408	title	mi spia dunwoody rd.
+l 249	title	follonico
+table data/rel-heter/left	has	l 309
+l 328	title	persepolis
+l 18	title	pinot bistro
+table data/rel-heter/left	has	l 9
+l 382	title	anthonys
+table data/rel-heter/left	has	l 97
+l 213	title	caffe vivaldi
+table data/rel-heter/left	has	l 41
+l 512	address	108 south park san francisco
+l 418	title	south of france
+l 255	title	gabriela \ s
+l 302	address	325 e. 14th st. between 1st and 2nd aves . new york
+l 483	address	1265 battery st. san francisco
+l 375	title	west
+table data/rel-heter/left	has	l 233
+l 341	address	157 chrystie st. at delancey st. new york
+table data/rel-heter/left	has	l 456
+l 109	address	545 post st. san francisco
+table data/rel-heter/left	has	l 113
+table data/rel-heter/left	has	l 472
+l 110	title	ritz-carlton restaurant and dining room
+l 320	title	pacifica
+l 217	title	casa la femme
+table data/rel-heter/left	has	l 407
+table data/rel-heter/left	has	l 450
+l 467	address	500 jackson st. san francisco
+l 190	address	123 w. 52nd st. new york
+l 365	title	trois jean
+l 165	title	schatzi on main
+table data/rel-heter/left	has	l 98
+table data/rel-heter/left	has	l 306
+l 349	address	57 w. 48th st. new york
+table data/rel-heter/left	has	l 392
+table data/rel-heter/left	has	l 160
+table data/rel-heter/left	has	l 222
+table data/rel-heter/left	has	l 337
+l 515	address	500 van ness ave. san francisco
+l 58	address	156 2nd ave. at 10th st. new york
+l 307	title	mavalli palace
+l 216	title	captain \ s table
+l 326	address	205 e. 45th st. new york
+l 64	address	747 9th ave. between 50th and 51st sts . new york
+table data/rel-heter/left	has	l 386
+l 138	title	gilliland \ s
+table data/rel-heter/left	has	l 517
+l 175	title	20 mott
+l 495	title	maykadeh
+l 296	address	30 west 22nd st. between 5th and 6th ave. new york
+table data/rel-heter/left	has	l 507
+l 321	address	151 w. 51st . st. new york
+l 224	title	columbus bakery
+l 235	address	6 e. 32nd st. new york
+l 246	title	fishin eddie
+l 316	address	145 w. broadway at thomas st. new york
+l 287	title	le colonial
+table data/rel-heter/left	has	l 416
+table data/rel-heter/left	has	l 266
+l 406	address	1402 n. highland ave. atlanta
+l 250	title	fraunces tavern
+l 360	address	350 9th ave. at 49th st. new york
+l 507	title	r & g lounge
+l 292	title	le perigord
+table data/rel-heter/left	has	l 253
+table data/rel-heter/left	has	l 291
+l 294	address	411 park ave. s between 28th and 29th sts . new york
+l 11	title	l \  orangerie
+table data/rel-heter/left	has	l 81
+l 198	address	25 w. 40th st. between 5th and 6th aves . new york
+l 372	address	70 w. 68th st. new york
+l 49	title	montrachet
+table data/rel-heter/left	has	l 500
+l 161	address	252 n. beverly dr. los angeles
+l 156	address	6th st. los angeles
+l 456	title	betelnut
+table data/rel-heter/left	has	l 412
+l 419	title	stringer \ s fish camp and oyster bar
+l 323	address	24 e. 81st st. new york
+table data/rel-heter/left	has	l 449
+l 28	address	2450 broadway between 90th and 91st sts . new york
+table data/rel-heter/left	has	l 138
+table data/rel-heter/left	has	l 513
+table data/rel-heter/left	has	l 444
+l 324	title	patria
+l 244	address	522 columbus ave. between 85th and 86th sts . new york
+l 11	address	903 n. la cienega blvd. los angeles
+table data/rel-heter/left	has	l 155
+l 258	address	208 e. 58th st. between 2nd and 3rd aves . new york
+l 395	title	fat matt \ s rib shack
+table data/rel-heter/left	has	l 17
+table data/rel-heter/left	has	l 468
+l 370	title	verbena
+table data/rel-heter/left	has	l 496
+l 430	title	broiler
+l 401	address	3300 peachtree rd. . grand hyatt atlanta
+table data/rel-heter/left	has	l 441
+l 84	title	indigo coastal grill
+table data/rel-heter/left	has	l 220
+l 81	title	georgia grille
+l 138	address	2424 main st. santa monica
+l 232	title	duane park cafe
+l 274	title	jewel of india
+l 56	address	1 water st. at the east river brooklyn
+table data/rel-heter/left	has	l 144
+l 89	title	cafe ritz-carlton buckhead
+table data/rel-heter/left	has	l 177
+l 80	address	1 margaret mitchell sq. atlanta
+l 197	title	bruno
+l 262	address	151 w. 54th st. in the rihga royal hotel new york
+l 142	title	il fornaio cucina italiana
+l 52	address	182 w. 58th st. new york
+table data/rel-heter/left	has	l 262
+table data/rel-heter/left	has	l 376
+table data/rel-heter/left	has	l 493
+l 271	address	82 e. 3rd st. between 1st and 2nd aves . new york
+l 514	address	150 redwood alley san francisco
+table data/rel-heter/left	has	l 322
+l 211	address	119 macdougal st. between 3rd and bleecker sts . new york
+l 14	address	129 n. la cienega blvd. beverly hills
+l 2	title	hotel bel-air
+l 301	title	manhattan cafe
+table data/rel-heter/left	has	l 268
+l 453	address	2223 market st. san francisco
+l 179	address	937 broadway at 22nd st. new york
+table data/rel-heter/left	has	l 264
+l 215	address	451 washington st. near watts st. new york
+l 422	address	3393 peachtree rd. atlanta
+l 247	title	fleur de jour
+table data/rel-heter/left	has	l 176
+table data/rel-heter/left	has	l 342
+l 17	title	philippe \ s the original
+l 455	address	243 o \  farrell st. san francisco
+table data/rel-heter/left	has	l 401
+table data/rel-heter/left	has	l 331
+table data/rel-heter/left	has	l 57
+l 192	title	billy \ s
+l 464	title	capp \ s corner
+l 10	address	1972 n. hillhurst ave. los angeles
+l 341	title	sammy \ s roumanian steak house
+table data/rel-heter/left	has	l 439
+l 221	title	china grill
+table data/rel-heter/left	has	l 381
+l 497	address	246 mcallister st. san francisco
+l 339	address	133 mulberry st. between hester and grand sts . new york
+l 449	address	3570 las vegas blvd. s las vegas
+table data/rel-heter/left	has	l 487
+l 235	title	em pire korea
+l 505	title	pastis
+l 334	address	439 e. 75th st. new york
+table data/rel-heter/left	has	l 290
+l 253	title	frico bar
+l 105	title	lulu
+l 289	title	le jardin
+l 512	title	south park cafe
+l 164	address	1514 n. gower st. los angeles
+l 413	title	r.j. \ s uptown kitchen & wine bar
+l 356	title	tang pavillion
+table data/rel-heter/left	has	l 125
+l 48	address	57 jane st. off hudson st. new york
+table data/rel-heter/left	has	l 274
+table data/rel-heter/left	has	l 134
+l 45	title	manhattan ocean club
+l 421	address	889 w. peachtree st. atlanta
+l 451	title	viva mercado \ s
+l 473	address	501 geary st. san francisco
+l 283	title	lanza restaurant
+table data/rel-heter/left	has	l 114
+l 99	title	chez michel
+l 407	address	3209 maple dr. atlanta
+l 493	title	macarthur park
+l 174	title	west beach cafe
+table data/rel-heter/left	has	l 530
+table data/rel-heter/left	has	l 241
+l 221	address	60 w. 53rd st. new york
+l 364	title	tribeca grill
+l 12	address	8284 melrose ave. los angeles
+l 463	title	california culinary academy
+table data/rel-heter/left	has	l 82
+table data/rel-heter/left	has	l 492
+table data/rel-heter/left	has	l 389
+l 66	title	virgil \ s
+table data/rel-heter/left	has	l 214
+table data/rel-heter/left	has	l 84
+l 327	address	109 spring st. between greene and mercer sts . new york
+l 426	title	battista \ s hole in the wall
+table data/rel-heter/left	has	l 33
+l 121	title	ca \  brea
+l 86	title	mary mac \ s tea room
+l 160	address	362 n. camden dr. los angeles
+table data/rel-heter/left	has	l 477
+table data/rel-heter/left	has	l 275
+l 506	title	perry \ s
+l 227	title	da nico
+l 358	title	teresa \ s
+l 421	title	taste of new orleans
+l 272	title	ipanema
+l 1	title	art \ s delicatessen
+l 30	address	2 harrison st. near hudson st. new york
+l 192	address	948 1st ave. between 52nd and 53rd sts . new york
+table data/rel-heter/left	has	l 126
+table data/rel-heter/left	has	l 318
+l 297	title	lucky strike
+l 202	title	cafe botanica
+l 190	title	ben benson \ s
+l 524	address	2125 fillmore st. san francisco
+l 420	address	2165 cheshire bridge rd. atlanta
+l 111	title	rose pistola
+l 177	title	adrienne
+l 298	address	2182 broadway between 77th and 78th sts . new york
+l 120	title	broadway deli
+l 500	address	1 market st. san francisco
+table data/rel-heter/left	has	l 366
+l 511	address	432 powell st. san francisco
+l 39	title	la caravelle
+l 528	title	yank sing
+table data/rel-heter/left	has	l 258
+l 317	title	orso
+table data/rel-heter/left	has	l 523
+l 188	address	1022 3rd ave. between 60th and 61st sts . new york
+l 128	address	310 n. larchmont blvd. los angeles
+table data/rel-heter/left	has	l 526
+table data/rel-heter/left	has	l 219
+l 234	title	em ily \ s
+l 491	address	453 bush st. san francisco

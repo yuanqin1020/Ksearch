@@ -1,0 +1,17 @@
+object right	has	r 1566
+r 3422	title	Creating my own Nemesis: The autobiography of the man who designed Alton Towers big rides, and brought the Theme Park to Britain
+r HC2204	title	Rucker Park Setup
+r 304	authors	National Park Service
+r 1530	title	Geographic Information Science: 5th International Conference, GIScience 2008, Park City, UT, USA, September 23-26, 2008, Proceedings
+object right	has	r 1530
+r HC0859	authors	Linda Sue Park
+r 304	title	Archiving Southwest Alaska?s National Park Bird Survey Data in the Avian Knowledge Network   Database: Project Overview
+r 1566	title	Grover Park George on Access: Unleash the Power of Access
+r 2466	authors	Eun Jung Park
+r 225	authors	 Seog Park (Editor)
+object right	has	r 304
+object right	has	r 3422
+object right	has	r 225
+object right	has	r 2466
+object right	has	r HC2204
+object right	has	r HC0024

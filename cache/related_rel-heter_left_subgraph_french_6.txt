@@ -1,0 +1,12 @@
+l 22	title	yujean kang \ s gourmet chinese cuisine
+table data/rel-heter/left	has	l 22
+l 396	title	french quarter food shop
+table data/rel-heter/left	has	l 418
+table data/rel-heter/left	has	l 396
+table data/rel-heter/left	has	l 367
+table data/rel-heter/left	has	l 252
+l 251	title	french roast
+l 252	title	french roast cafe
+l 418	title	south of france
+l 367	title	turkish kitchen
+table data/rel-heter/left	has	l 251
