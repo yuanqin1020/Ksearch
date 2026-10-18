@@ -59,7 +59,7 @@ Six datasets are obtained from four benchmarks. The detailed instructions for do
 ### Keyword search
 To perform keyword search with DistSea.
 ```
-python main.py [<args>] [-h | --help]
+python search.py [<args>] [-h | --help]
 ```
 e.g.
 ```
